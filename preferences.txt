@@ -1,0 +1,41 @@
+volume 0.24
+"window size" 1440 950
+zoom 130
+"scroll speed" 60
+"view zoom" 0
+"Automatic aiming" 1
+"Automatic firing" 1
+"Clickable radar display" 1
+"Damaged fighters retreat" 1
+"Draw background haze" 1
+"Escorts expend ammo" 0
+"Escorts use ammo frugally" 0
+"Hide unexplored map regions" 1
+"Highlight player's flagship" 1
+"Main zoom factor" 0
+"Rehire extra crew when lost" 1
+"Render motion blur" 1
+"Rotate flagship in HUD" 1
+"Show CPU / GPU load" 1
+"Show escort systems on map" 1
+"Show hyperspace flash" 1
+"Show mini-map" 1
+"Show planet labels" 1
+"Show status overlays" 1
+"Turrets focus fire" 1
+"View zoom factor" 0
+"Warning siren" 1
+fullscreen 1
+"help: bank" 1
+"help: dead" 1
+"help: disabled" 1
+"help: friendly disabled" 1
+"help: hiring" 1
+"help: jobs" 1
+"help: map" 1
+"help: multiple ships" 1
+"help: navigation" 1
+"help: outfitter" 1
+"help: stranded" 1
+"help: trading" 1
+maximized 0

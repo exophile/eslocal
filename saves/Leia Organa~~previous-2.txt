@@ -1,0 +1,7003 @@
+pilot Leia Organa
+date 2 8 3015
+system "Sepi Kai Wha?"
+planet "The Station of Dr. Rousseau"
+clearance
+"map coloring" -6
+"map zoom" 0
+"reputation with"
+	" Drak " -1000
+	" Kor Mereti " -1000
+	" Pirate " -1558.65
+	" Republic " 2
+	Alpha -1000
+	Author 1
+	"Bad Trip" -1000
+	Bounty -1266.7
+	"Bounty Hunter" -1034.1
+	Coalition 1
+	Deep -1000
+	"Deep Security" 98.5
+	Drak 1
+	"Free Worlds" 197
+	Hai 2594
+	"Hai (Unfettered)" -6126.4
+	Heliarch 1
+	Independent 10
+	"Indigenous Lifeform" 1
+	"Kor Efret" 1
+	"Kor Mereti" -1000
+	"Kor Sestor" -1000
+	Korath -11451
+	"Korath Nanobots" -1000
+	Merchant 1087.74
+	Militia 197
+	"Navy (Oathkeeper)" 147.75
+	"Navy Intelligence" 147.75
+	Neutral 98.5
+	Parrot 1
+	Pirate -6244.72
+	Pug 1
+	Quarg 1
+	Remnant 1
+	Republic 147.75
+	Syndicate 2670.1
+	"Syndicate (Extremist)" -1000
+	"Team Blue" -1000
+	"Team Red" -1000
+	"Test Dummy" -1000
+	Uninhabited 0
+	"Ursa Polaris" 147.75
+	Wanderer 1
+
+# What you own:
+ship Kraken
+	name "Massive Penis"
+	sprite ship/intergalactic
+	attributes
+		category "Heavy Warship"
+		cost 100000000
+		mass 500
+		bunks 350
+		"cargo space" 600
+		drag 10
+		"engine capacity" 250
+		"fuel capacity" 800
+		"gun ports" 7
+		"heat dissipation" 1.2
+		hull 18000
+		"outfit space" 3055
+		"required crew" 125
+		shields 80000
+		"turret mounts" 14
+		"weapon capacity" 1030
+	outfits
+		"Point Defense Turret" 4
+		"Quantum Key Stone"
+		`"Bufaer" Atomic Thruster`
+		"Quantum Keystone"
+		"Fuel Processor"
+		"Korath Repeater Rifle" 1000
+		"Engine Expansion" 7
+		"Capsule Bunk Room" 13
+		"Systems Core (Large)"
+		"Positron Collider" 4
+		"Infrared Turret" 2
+		"Storage Cell"
+		"Thrust Module" 100
+		"Heat Sink" 180
+		"Fracture Engine" 2
+		"Large Engine Frame"
+		"Warp Drive"
+		"Energy Cube" 1180
+		"Disruptor Cannon" 7
+	crew 350
+	fuel 1000
+	shields 80000
+	hull 18000
+	position -5964.2956 15193.145
+	engine -47.5 143.5 1
+	engine -2.5 171.5 1
+	engine 41.5 140.5 1
+	turret -57 -122 "Positron Collider"
+	turret 51 -120.5 "Positron Collider"
+	turret -64.5 -32 "Positron Collider"
+	turret 56 -34.5 "Positron Collider"
+	turret -5 -150 "Fracture Engine"
+	turret -6 138 "Fracture Engine"
+	turret -19.5 -166 "Point Defense Turret"
+	turret 8.5 -165.5 "Point Defense Turret"
+	turret 73 -58.5 "Point Defense Turret"
+	turret 73 -22 "Point Defense Turret"
+	turret -80 -18.5
+	turret -81.5 -54.5 "Infrared Turret"
+	turret -16 154.5 "Infrared Turret"
+	turret 8 155.5
+	gun -80 -128 "Disruptor Cannon"
+	gun -59.5 -144.5 "Disruptor Cannon"
+	gun -34 -162 "Disruptor Cannon"
+	gun -4.5 -180.5 "Disruptor Cannon"
+	gun 17.5 -167.5 "Disruptor Cannon"
+	gun 43 -150 "Disruptor Cannon"
+	gun 73.5 -128.5 "Disruptor Cannon"
+	fighter -44.5 -97.5
+	fighter 30.5 -99.5
+	fighter 28.5 -41
+	fighter -40.5 -43
+	explode "huge explosion" 20
+	explode "big explosion" 20
+	system "Sepi Kai Wha?"
+	planet "The Station of Dr. Rousseau"
+ship Bactrian
+	name "MASSIVE PUSSY"
+	sprite ship/bactrian
+	attributes
+		category "Heavy Warship"
+		cost 17600000
+		mass 940
+		bunks 245
+		"cargo space" 530
+		drag 16.1
+		"engine capacity" 180
+		"fuel capacity" 700
+		"gun ports" 4
+		"heat dissipation" 0.4
+		hull 8600
+		"outfit space" 740
+		"required crew" 70
+		shields 17500
+		"turret mounts" 6
+		"weapon capacity" 300
+	outfits
+		"A860 Atomic Thruster"
+		"Large Heat Shunt" 2
+		"Jump Drive"
+		"Triple Plasma Core"
+		"Systems Core (Medium)"
+		"Steering (Planetary Class)"
+		"" 10
+	crew 70
+	fuel 700
+	shields 17500
+	hull 8600
+	position -5962.4416 15194.611
+	engine -18 230 1
+	engine 18 230 1
+	gun -15 -226
+	gun 15 -226
+	gun -40 -133
+	gun -45 -128
+	turret -22 -148
+	turret 26 -80
+	turret -41 -20
+	turret 32 -7
+	turret 53 82
+	turret -37 186
+	fighter -38 -26
+	fighter 35 36
+	fighter -47 97
+	leak leak 30 50
+	leak flame 30 80
+	leak "big leak" 50 30
+	explode "small explosion" 25
+	explode "medium explosion" 35
+	explode "large explosion" 45
+	explode "huge explosion" 30
+	"final explode" "final explosion large" 1
+	system "Sepi Kai Wha?"
+	planet "The Station of Dr. Rousseau"
+groups 2
+ship Gascraft
+	name "VIBRATING EGG"
+	plural Gascraft
+	sprite ship/gascraft
+	attributes
+		category Transport
+		cost 530000
+		mass 80
+		bunks 10
+		"cargo space" 18
+		drag 1.7
+		"engine capacity" 34
+		"fuel capacity" 7000
+		gaslining 1
+		"heat dissipation" 0.9
+		hull 150000
+		"hull energy" 0.9
+		"hull repair rate" 1.2
+		"outfit space" 90
+		"required crew" 1
+		"shield energy" 0.4
+		"shield generation" 0.6
+		shields 800000
+	outfits
+		"Emergency Ramscoop"
+		"Crucible-Class Steering"
+		Hyperdrive
+		"Millennium Cell"
+		"Crucible-Class Thruster"
+		Supercapacitor
+	crew 1
+	fuel 7000
+	shields 800000
+	hull 150000
+	position 316.71072 -434.29148
+	engine 0 30 1
+	explode "tiny explosion" 8
+	explode "small explosion" 7
+	system Pantica
+	planet Aventine
+	parked
+ship Albatross
+	name CONSENTACLE
+	plural Albatrosses
+	sprite ship/albatross
+	attributes
+		category "Heavy Warship"
+		cost 20000000
+		mass 610
+		bunks 75
+		"cargo space" 124
+		drag 8.6
+		"engine capacity" 142
+		"fuel capacity" 600
+		"gun ports" 7
+		"heat dissipation" 0.6
+		hull 12600
+		"hull energy" 1.2
+		"hull repair rate" 1.5
+		"outfit space" 658
+		"required crew" 44
+		"shield energy" 4.6
+		"shield generation" 5.2
+		shields 34200
+		"turret mounts" 5
+		"weapon capacity" 236
+	outfits
+		"Inhibitor Cannon" 2
+		"Point Defense Turret"
+		"Epoch Cell"
+		"Crystal Capacitor"
+		"Quantum Key Stone"
+		"Forge-Class Thruster"
+		"Forge-Class Steering"
+		"Crucible-Class Steering"
+		Hyperdrive
+		"Thrasher Turret" 2
+		"Thermoelectric Cooler" 2
+		"Smelter-Class Thruster"
+		"Outfits Expansion" 2
+		"Large Heat Shunt" 2
+		"Triple Plasma Core"
+		"Small Heat Shunt"
+		"Korath Repeater Rifle" 100
+		"Engine Expansion"
+	crew 46
+	fuel 600
+	shields 34200
+	hull 12600
+	position 0 0
+	engine -28 155 0.8
+	engine 28 155 0.8
+	engine 0 184 0.9
+	gun 0 -190
+	gun -9 -177
+	gun 9 -177
+	gun -14 -162
+	gun 14 -162
+	gun -18 -144 "Inhibitor Cannon"
+	gun 18 -144 "Inhibitor Cannon"
+	turret -23 -34
+	turret 23 -34 "Thrasher Turret"
+	turret -74 62 "Thrasher Turret"
+	turret 74 62
+	turret 0 77 "Point Defense Turret"
+	explode "small explosion" 30
+	explode "medium explosion" 60
+	explode "large explosion" 40
+	explode "huge explosion" 10
+	"final explode" "final explosion large" 1
+	system Cinxia
+	planet Caelian
+	parked
+ship "Shield Beetle"
+	name "Butt Plug 1"
+	sprite "ship/hai shield beetle"
+	attributes
+		category "Heavy Warship"
+		cost 17900000
+		mass 650
+		bunks 95
+		"cargo space" 142
+		drag 8.8
+		"engine capacity" 150
+		"fuel capacity" 500
+		"gun ports" 8
+		"heat dissipation" 0.6
+		hull 9800
+		"outfit space" 798
+		"required crew" 47
+		shields 32000
+		"turret mounts" 4
+		"weapon capacity" 333
+	outfits
+		"Point Defense Turret"
+		"Quantum Key Stone"
+		"Large Heat Shunt" 2
+		`"Bufaer" Atomic Thruster`
+		`"Bufaer" Atomic Steering`
+		"Quantum Keystone"
+		"Triple Plasma Core"
+		"Systems Core (Medium)" 2
+		"Fuel Processor"
+		"Engine Expansion" 2
+		"Capsule Bunk Room"
+		"Mass Expansion" 5
+		"Phoenix Lance" 2
+		"Heat Sink" 27
+		"Warp Drive"
+		"Energy Cube" 40
+		"Disruptor Cannon" 2
+		"" 3
+	crew 47
+	fuel 700
+	shields 32000
+	hull 9800
+	position -5964.9477 15185.027
+	engine -44 133 1
+	engine 44 133 1
+	gun -22 -102
+	gun 22 -102 "Phoenix Lance"
+	gun -34 -68 "Disruptor Cannon"
+	gun 34 -68 "Disruptor Cannon"
+	gun -49 -38 "Phoenix Lance"
+	gun 49 -38
+	gun -61 -14
+	gun 61 -14
+	turret -39 48
+	turret 39 48 "Point Defense Turret"
+	turret -57 75
+	turret 57 75
+	explode "tiny explosion" 50
+	explode "small explosion" 50
+	explode "medium explosion" 50
+	explode "large explosion" 50
+	explode "huge explosion" 20
+	"final explode" "final explosion large" 1
+	system "Sepi Kai Wha?"
+	planet "The Station of Dr. Rousseau"
+groups 2
+ship "Shield Beetle"
+	name "Butt Plug 2"
+	sprite "ship/hai shield beetle"
+	attributes
+		category "Heavy Warship"
+		cost 17900000
+		mass 650
+		bunks 95
+		"cargo space" 142
+		drag 8.8
+		"engine capacity" 150
+		"fuel capacity" 500
+		"gun ports" 8
+		"heat dissipation" 0.6
+		hull 9800
+		"outfit space" 798
+		"required crew" 47
+		shields 32000
+		"turret mounts" 4
+		"weapon capacity" 333
+	outfits
+		"Point Defense Turret"
+		"Quantum Key Stone"
+		"Large Heat Shunt" 2
+		`"Bufaer" Atomic Thruster`
+		`"Bufaer" Atomic Steering`
+		"Quantum Keystone"
+		"Triple Plasma Core"
+		"Systems Core (Medium)" 2
+		"Fuel Processor"
+		"Engine Expansion" 2
+		"Capsule Bunk Room"
+		"Mass Expansion" 5
+		"Phoenix Lance" 2
+		"Heat Sink" 27
+		"Warp Drive"
+		"Energy Cube" 40
+		"Disruptor Cannon" 2
+		"" 3
+	crew 47
+	fuel 700
+	shields 32000
+	hull 9800
+	position -5974.7255 15213.712
+	engine -44 133 1
+	engine 44 133 1
+	gun -22 -102
+	gun 22 -102 "Phoenix Lance"
+	gun -34 -68 "Disruptor Cannon"
+	gun 34 -68 "Disruptor Cannon"
+	gun -49 -38 "Phoenix Lance"
+	gun 49 -38
+	gun -61 -14
+	gun 61 -14
+	turret -39 48
+	turret 39 48 "Point Defense Turret"
+	turret -57 75
+	turret 57 75
+	explode "tiny explosion" 50
+	explode "small explosion" 50
+	explode "medium explosion" 50
+	explode "large explosion" 50
+	explode "huge explosion" 20
+	"final explode" "final explosion large" 1
+	system "Sepi Kai Wha?"
+	planet "The Station of Dr. Rousseau"
+groups 2
+ship "Shield Beetle"
+	name "Butt Plug 3"
+	sprite "ship/hai shield beetle"
+	attributes
+		category "Heavy Warship"
+		cost 17900000
+		mass 650
+		bunks 95
+		"cargo space" 142
+		drag 8.8
+		"engine capacity" 150
+		"fuel capacity" 500
+		"gun ports" 8
+		"heat dissipation" 0.6
+		hull 9800
+		"outfit space" 798
+		"required crew" 47
+		shields 32000
+		"turret mounts" 4
+		"weapon capacity" 333
+	outfits
+		"Point Defense Turret"
+		"Quantum Key Stone"
+		"Large Heat Shunt" 2
+		`"Bufaer" Atomic Thruster`
+		`"Bufaer" Atomic Steering`
+		"Quantum Keystone"
+		"Triple Plasma Core"
+		"Systems Core (Medium)" 2
+		"Fuel Processor"
+		"Engine Expansion" 2
+		"Capsule Bunk Room"
+		"Mass Expansion" 5
+		"Phoenix Lance" 2
+		"Heat Sink" 27
+		"Warp Drive"
+		"Energy Cube" 40
+		"Disruptor Cannon" 2
+		"" 3
+	crew 47
+	fuel 700
+	shields 32000
+	hull 9800
+	position -5946.7889 15188.192
+	engine -44 133 1
+	engine 44 133 1
+	gun -22 -102
+	gun 22 -102 "Phoenix Lance"
+	gun -34 -68 "Disruptor Cannon"
+	gun 34 -68 "Disruptor Cannon"
+	gun -49 -38 "Phoenix Lance"
+	gun 49 -38
+	gun -61 -14
+	gun 61 -14
+	turret -39 48
+	turret 39 48 "Point Defense Turret"
+	turret -57 75
+	turret 57 75
+	explode "tiny explosion" 50
+	explode "small explosion" 50
+	explode "medium explosion" 50
+	explode "large explosion" 50
+	explode "huge explosion" 20
+	"final explode" "final explosion large" 1
+	system "Sepi Kai Wha?"
+	planet "The Station of Dr. Rousseau"
+groups 2
+ship "Shield Beetle"
+	name "Butt Plug 4"
+	sprite "ship/hai shield beetle"
+	attributes
+		category "Heavy Warship"
+		cost 17900000
+		mass 650
+		bunks 95
+		"cargo space" 142
+		drag 8.8
+		"engine capacity" 150
+		"fuel capacity" 500
+		"gun ports" 8
+		"heat dissipation" 0.6
+		hull 9800
+		"outfit space" 798
+		"required crew" 47
+		shields 32000
+		"turret mounts" 4
+		"weapon capacity" 333
+	outfits
+		"Point Defense Turret"
+		"Quantum Key Stone"
+		"Large Heat Shunt" 2
+		`"Bufaer" Atomic Thruster`
+		`"Bufaer" Atomic Steering`
+		"Quantum Keystone"
+		"Triple Plasma Core"
+		"Systems Core (Medium)" 2
+		"Fuel Processor"
+		"Engine Expansion" 2
+		"Capsule Bunk Room"
+		"Mass Expansion" 5
+		"Phoenix Lance" 2
+		"Heat Sink" 27
+		"Warp Drive"
+		"Energy Cube" 40
+		"Disruptor Cannon" 2
+		"" 3
+	crew 47
+	fuel 700
+	shields 32000
+	hull 9800
+	position -5972.3277 15175.453
+	engine -44 133 1
+	engine 44 133 1
+	gun -22 -102
+	gun 22 -102 "Phoenix Lance"
+	gun -34 -68 "Disruptor Cannon"
+	gun 34 -68 "Disruptor Cannon"
+	gun -49 -38 "Phoenix Lance"
+	gun 49 -38
+	gun -61 -14
+	gun 61 -14
+	turret -39 48
+	turret 39 48 "Point Defense Turret"
+	turret -57 75
+	turret 57 75
+	explode "tiny explosion" 50
+	explode "small explosion" 50
+	explode "medium explosion" 50
+	explode "large explosion" 50
+	explode "huge explosion" 20
+	"final explode" "final explosion large" 1
+	system "Sepi Kai Wha?"
+	planet "The Station of Dr. Rousseau"
+groups 2
+ship "Shield Beetle"
+	name "Butt Plug 5"
+	sprite "ship/hai shield beetle"
+	attributes
+		category "Heavy Warship"
+		cost 17900000
+		mass 650
+		bunks 95
+		"cargo space" 142
+		drag 8.8
+		"engine capacity" 150
+		"fuel capacity" 500
+		"gun ports" 8
+		"heat dissipation" 0.6
+		hull 9800
+		"outfit space" 798
+		"required crew" 47
+		shields 32000
+		"turret mounts" 4
+		"weapon capacity" 333
+	outfits
+		"Point Defense Turret"
+		"Quantum Key Stone"
+		"Large Heat Shunt" 2
+		`"Bufaer" Atomic Thruster`
+		`"Bufaer" Atomic Steering`
+		"Quantum Keystone"
+		"Triple Plasma Core"
+		"Systems Core (Medium)" 2
+		"Fuel Processor"
+		"Engine Expansion" 2
+		"Capsule Bunk Room"
+		"Mass Expansion" 5
+		"Phoenix Lance" 2
+		"Heat Sink" 27
+		"Warp Drive"
+		"Energy Cube" 40
+		"Disruptor Cannon" 2
+		"" 3
+	crew 47
+	fuel 700
+	shields 32000
+	hull 9800
+	position -5969.5737 15208.001
+	engine -44 133 1
+	engine 44 133 1
+	gun -22 -102
+	gun 22 -102 "Phoenix Lance"
+	gun -34 -68 "Disruptor Cannon"
+	gun 34 -68 "Disruptor Cannon"
+	gun -49 -38 "Phoenix Lance"
+	gun 49 -38
+	gun -61 -14
+	gun 61 -14
+	turret -39 48
+	turret 39 48 "Point Defense Turret"
+	turret -57 75
+	turret 57 75
+	explode "tiny explosion" 50
+	explode "small explosion" 50
+	explode "medium explosion" 50
+	explode "large explosion" 50
+	explode "huge explosion" 20
+	"final explode" "final explosion large" 1
+	system "Sepi Kai Wha?"
+	planet "The Station of Dr. Rousseau"
+groups 2
+ship "Shield Beetle"
+	name "Butt Plug 6"
+	sprite "ship/hai shield beetle"
+	attributes
+		category "Heavy Warship"
+		cost 17900000
+		mass 650
+		bunks 95
+		"cargo space" 142
+		drag 8.8
+		"engine capacity" 150
+		"fuel capacity" 500
+		"gun ports" 8
+		"heat dissipation" 0.6
+		hull 9800
+		"outfit space" 798
+		"required crew" 47
+		shields 32000
+		"turret mounts" 4
+		"weapon capacity" 333
+	outfits
+		"Point Defense Turret"
+		"Quantum Key Stone"
+		"Large Heat Shunt" 2
+		`"Bufaer" Atomic Thruster`
+		`"Bufaer" Atomic Steering`
+		"Quantum Keystone"
+		"Triple Plasma Core"
+		"Systems Core (Medium)" 2
+		"Fuel Processor"
+		"Engine Expansion" 2
+		"Capsule Bunk Room"
+		"Mass Expansion" 5
+		"Phoenix Lance" 2
+		"Heat Sink" 27
+		"Warp Drive"
+		"Energy Cube" 40
+		"Disruptor Cannon" 2
+		"" 3
+	crew 47
+	fuel 700
+	shields 32000
+	hull 9800
+	position -5982.4056 15199.838
+	engine -44 133 1
+	engine 44 133 1
+	gun -22 -102
+	gun 22 -102 "Phoenix Lance"
+	gun -34 -68 "Disruptor Cannon"
+	gun 34 -68 "Disruptor Cannon"
+	gun -49 -38 "Phoenix Lance"
+	gun 49 -38
+	gun -61 -14
+	gun 61 -14
+	turret -39 48
+	turret 39 48 "Point Defense Turret"
+	turret -57 75
+	turret 57 75
+	explode "tiny explosion" 50
+	explode "small explosion" 50
+	explode "medium explosion" 50
+	explode "large explosion" 50
+	explode "huge explosion" 20
+	"final explode" "final explosion large" 1
+	system "Sepi Kai Wha?"
+	planet "The Station of Dr. Rousseau"
+groups 2
+ship "Shield Beetle"
+	name "Butt Plug 7"
+	sprite "ship/hai shield beetle"
+	attributes
+		category "Heavy Warship"
+		cost 17900000
+		mass 650
+		bunks 95
+		"cargo space" 142
+		drag 8.8
+		"engine capacity" 150
+		"fuel capacity" 500
+		"gun ports" 8
+		"heat dissipation" 0.6
+		hull 9800
+		"outfit space" 798
+		"required crew" 47
+		shields 32000
+		"turret mounts" 4
+		"weapon capacity" 333
+	outfits
+		"Point Defense Turret"
+		"Quantum Key Stone"
+		"Large Heat Shunt" 2
+		`"Bufaer" Atomic Thruster`
+		`"Bufaer" Atomic Steering`
+		"Quantum Keystone"
+		"Triple Plasma Core"
+		"Systems Core (Medium)" 2
+		"Fuel Processor"
+		"Engine Expansion" 2
+		"Mass Expansion" 5
+		"Phoenix Lance" 2
+		"Heat Sink" 27
+		"Warp Drive"
+		"Energy Cube" 40
+		"Disruptor Cannon" 2
+		"" 3
+	crew 47
+	fuel 700
+	shields 32000
+	hull 9800
+	position -5960.833 15178.428
+	engine -44 133 1
+	engine 44 133 1
+	gun -22 -102
+	gun 22 -102 "Phoenix Lance"
+	gun -34 -68 "Disruptor Cannon"
+	gun 34 -68 "Disruptor Cannon"
+	gun -49 -38 "Phoenix Lance"
+	gun 49 -38
+	gun -61 -14
+	gun 61 -14
+	turret -39 48
+	turret 39 48 "Point Defense Turret"
+	turret -57 75
+	turret 57 75
+	explode "tiny explosion" 50
+	explode "small explosion" 50
+	explode "medium explosion" 50
+	explode "large explosion" 50
+	explode "huge explosion" 20
+	"final explode" "final explosion large" 1
+	system "Sepi Kai Wha?"
+	planet "The Station of Dr. Rousseau"
+groups 2
+ship "Shield Beetle"
+	name "Butt Plug 8"
+	sprite "ship/hai shield beetle"
+	attributes
+		category "Heavy Warship"
+		cost 17900000
+		mass 650
+		bunks 95
+		"cargo space" 142
+		drag 8.8
+		"engine capacity" 150
+		"fuel capacity" 500
+		"gun ports" 8
+		"heat dissipation" 0.6
+		hull 9800
+		"outfit space" 798
+		"required crew" 47
+		shields 32000
+		"turret mounts" 4
+		"weapon capacity" 333
+	outfits
+		"Point Defense Turret"
+		"Quantum Key Stone"
+		"Large Heat Shunt" 2
+		`"Bufaer" Atomic Thruster`
+		`"Bufaer" Atomic Steering`
+		"Quantum Keystone"
+		"Triple Plasma Core"
+		"Systems Core (Medium)" 2
+		"Fuel Processor"
+		"Engine Expansion" 2
+		"Mass Expansion" 5
+		"Phoenix Lance" 2
+		"Heat Sink" 27
+		"Warp Drive"
+		"Energy Cube" 40
+		"Disruptor Cannon" 2
+		"" 3
+	crew 47
+	fuel 700
+	shields 32000
+	hull 9800
+	position -5996.7964 15209.686
+	engine -44 133 1
+	engine 44 133 1
+	gun -22 -102
+	gun 22 -102 "Phoenix Lance"
+	gun -34 -68 "Disruptor Cannon"
+	gun 34 -68 "Disruptor Cannon"
+	gun -49 -38 "Phoenix Lance"
+	gun 49 -38
+	gun -61 -14
+	gun 61 -14
+	turret -39 48
+	turret 39 48 "Point Defense Turret"
+	turret -57 75
+	turret 57 75
+	explode "tiny explosion" 50
+	explode "small explosion" 50
+	explode "medium explosion" 50
+	explode "large explosion" 50
+	explode "huge explosion" 20
+	"final explode" "final explosion large" 1
+	system "Sepi Kai Wha?"
+	planet "The Station of Dr. Rousseau"
+groups 2
+ship "Shield Beetle"
+	name "Butt Plug 9"
+	sprite "ship/hai shield beetle"
+	attributes
+		category "Heavy Warship"
+		cost 17900000
+		mass 650
+		bunks 95
+		"cargo space" 142
+		drag 8.8
+		"engine capacity" 150
+		"fuel capacity" 500
+		"gun ports" 8
+		"heat dissipation" 0.6
+		hull 9800
+		"outfit space" 798
+		"required crew" 47
+		shields 32000
+		"turret mounts" 4
+		"weapon capacity" 333
+	outfits
+		"Point Defense Turret"
+		"Quantum Key Stone"
+		"Large Heat Shunt" 2
+		`"Bufaer" Atomic Thruster`
+		`"Bufaer" Atomic Steering`
+		"Quantum Keystone"
+		"Triple Plasma Core"
+		"Systems Core (Medium)" 2
+		"Fuel Processor"
+		"Engine Expansion" 2
+		"Mass Expansion" 5
+		"Phoenix Lance" 2
+		"Heat Sink" 27
+		"Warp Drive"
+		"Energy Cube" 40
+		"Disruptor Cannon" 2
+		"" 3
+	crew 47
+	fuel 700
+	shields 32000
+	hull 9800
+	position -5964.9489 15195.044
+	engine -44 133 1
+	engine 44 133 1
+	gun -22 -102
+	gun 22 -102 "Phoenix Lance"
+	gun -34 -68 "Disruptor Cannon"
+	gun 34 -68 "Disruptor Cannon"
+	gun -49 -38 "Phoenix Lance"
+	gun 49 -38
+	gun -61 -14
+	gun 61 -14
+	turret -39 48
+	turret 39 48 "Point Defense Turret"
+	turret -57 75
+	turret 57 75
+	explode "tiny explosion" 50
+	explode "small explosion" 50
+	explode "medium explosion" 50
+	explode "large explosion" 50
+	explode "huge explosion" 20
+	"final explode" "final explosion large" 1
+	system "Sepi Kai Wha?"
+	planet "The Station of Dr. Rousseau"
+groups 2
+ship "Shield Beetle"
+	name "Butt Plug 10"
+	sprite "ship/hai shield beetle"
+	attributes
+		category "Heavy Warship"
+		cost 17900000
+		mass 650
+		bunks 95
+		"cargo space" 142
+		drag 8.8
+		"engine capacity" 150
+		"fuel capacity" 500
+		"gun ports" 8
+		"heat dissipation" 0.6
+		hull 9800
+		"outfit space" 798
+		"required crew" 47
+		shields 32000
+		"turret mounts" 4
+		"weapon capacity" 333
+	outfits
+		"Point Defense Turret"
+		"Quantum Key Stone"
+		"Large Heat Shunt" 2
+		`"Bufaer" Atomic Thruster`
+		`"Bufaer" Atomic Steering`
+		"Quantum Keystone"
+		"Triple Plasma Core"
+		"Systems Core (Medium)" 2
+		"Fuel Processor"
+		"Engine Expansion" 2
+		"Mass Expansion" 5
+		"Phoenix Lance" 2
+		"Heat Sink" 27
+		"Warp Drive"
+		"Energy Cube" 40
+		"Disruptor Cannon" 2
+		"" 3
+	crew 47
+	fuel 700
+	shields 32000
+	hull 9800
+	position -5947.8693 15177.641
+	engine -44 133 1
+	engine 44 133 1
+	gun -22 -102
+	gun 22 -102 "Phoenix Lance"
+	gun -34 -68 "Disruptor Cannon"
+	gun 34 -68 "Disruptor Cannon"
+	gun -49 -38 "Phoenix Lance"
+	gun 49 -38
+	gun -61 -14
+	gun 61 -14
+	turret -39 48
+	turret 39 48 "Point Defense Turret"
+	turret -57 75
+	turret 57 75
+	explode "tiny explosion" 50
+	explode "small explosion" 50
+	explode "medium explosion" 50
+	explode "large explosion" 50
+	explode "huge explosion" 20
+	"final explode" "final explosion large" 1
+	system "Sepi Kai Wha?"
+	planet "The Station of Dr. Rousseau"
+groups 2
+ship "Shield Beetle"
+	name "Butt Plug 11"
+	sprite "ship/hai shield beetle"
+	attributes
+		category "Heavy Warship"
+		cost 17900000
+		mass 650
+		bunks 95
+		"cargo space" 142
+		drag 8.8
+		"engine capacity" 150
+		"fuel capacity" 500
+		"gun ports" 8
+		"heat dissipation" 0.6
+		hull 9800
+		"outfit space" 798
+		"required crew" 47
+		shields 32000
+		"turret mounts" 4
+		"weapon capacity" 333
+	outfits
+		"Quantum Key Stone"
+		"Jump Drive"
+		"Quantum Keystone"
+		"Fuel Processor"
+		"Storage Cell"
+		"Shield Modulator" 5
+		"Thrust Module" 20
+		"Small Engine Frame"
+		"Energy Cube" 26
+		"" 3
+	crew 47
+	fuel 700
+	shields 32000
+	hull 9800
+	position -5471.279 15648.93
+	engine -44 133 1
+	engine 44 133 1
+	gun -22 -102
+	gun 22 -102
+	gun -34 -68
+	gun 34 -68
+	gun -49 -38
+	gun 49 -38
+	gun -61 -14
+	gun 61 -14
+	turret -39 48
+	turret 39 48
+	turret -57 75
+	turret 57 75
+	explode "tiny explosion" 50
+	explode "small explosion" 50
+	explode "medium explosion" 50
+	explode "large explosion" 50
+	explode "huge explosion" 20
+	"final explode" "final explosion large" 1
+	system "Sepi Kai Wha?"
+	planet "The Station of Dr. Rousseau"
+ship "Shield Beetle"
+	name "Butt Plug 12"
+	sprite "ship/hai shield beetle"
+	attributes
+		category "Heavy Warship"
+		cost 17900000
+		mass 650
+		bunks 95
+		"cargo space" 142
+		drag 8.8
+		"engine capacity" 150
+		"fuel capacity" 500
+		"gun ports" 8
+		"heat dissipation" 0.6
+		hull 9800
+		"outfit space" 798
+		"required crew" 47
+		shields 32000
+		"turret mounts" 4
+		"weapon capacity" 333
+	outfits
+		"Quantum Key Stone"
+		"Jump Drive"
+		"Quantum Keystone"
+		"Fuel Processor"
+		"Storage Cell"
+		"Shield Modulator" 5
+		"Thrust Module" 20
+		"Small Engine Frame"
+		"Energy Cube" 26
+		"" 3
+	crew 47
+	fuel 700
+	shields 32000
+	hull 9800
+	position -5347.1735 15549.175
+	engine -44 133 1
+	engine 44 133 1
+	gun -22 -102
+	gun 22 -102
+	gun -34 -68
+	gun 34 -68
+	gun -49 -38
+	gun 49 -38
+	gun -61 -14
+	gun 61 -14
+	turret -39 48
+	turret 39 48
+	turret -57 75
+	turret 57 75
+	explode "tiny explosion" 50
+	explode "small explosion" 50
+	explode "medium explosion" 50
+	explode "large explosion" 50
+	explode "huge explosion" 20
+	"final explode" "final explosion large" 1
+	system "Sepi Kai Wha?"
+	planet "The Station of Dr. Rousseau"
+ship "Shield Beetle"
+	name "Butt Plug 13"
+	sprite "ship/hai shield beetle"
+	attributes
+		category "Heavy Warship"
+		cost 17900000
+		mass 650
+		bunks 95
+		"cargo space" 142
+		drag 8.8
+		"engine capacity" 150
+		"fuel capacity" 500
+		"gun ports" 8
+		"heat dissipation" 0.6
+		hull 9800
+		"outfit space" 798
+		"required crew" 47
+		shields 32000
+		"turret mounts" 4
+		"weapon capacity" 333
+	outfits
+		"Quantum Key Stone"
+		"Jump Drive"
+		"Quantum Keystone"
+		"Fuel Processor"
+		"Storage Cell"
+		"Shield Modulator" 5
+		"Thrust Module" 20
+		"Small Engine Frame"
+		"Energy Cube" 26
+		"" 3
+	crew 47
+	fuel 700
+	shields 32000
+	hull 9800
+	position -5521.2342 14965.204
+	engine -44 133 1
+	engine 44 133 1
+	gun -22 -102
+	gun 22 -102
+	gun -34 -68
+	gun 34 -68
+	gun -49 -38
+	gun 49 -38
+	gun -61 -14
+	gun 61 -14
+	turret -39 48
+	turret 39 48
+	turret -57 75
+	turret 57 75
+	explode "tiny explosion" 50
+	explode "small explosion" 50
+	explode "medium explosion" 50
+	explode "large explosion" 50
+	explode "huge explosion" 20
+	"final explode" "final explosion large" 1
+	system "Sepi Kai Wha?"
+	planet "The Station of Dr. Rousseau"
+ship "Shield Beetle"
+	name "Butt Plug 14"
+	sprite "ship/hai shield beetle"
+	attributes
+		category "Heavy Warship"
+		cost 17900000
+		mass 650
+		bunks 95
+		"cargo space" 142
+		drag 8.8
+		"engine capacity" 150
+		"fuel capacity" 500
+		"gun ports" 8
+		"heat dissipation" 0.6
+		hull 9800
+		"outfit space" 798
+		"required crew" 47
+		shields 32000
+		"turret mounts" 4
+		"weapon capacity" 333
+	outfits
+		"Quantum Key Stone"
+		"Jump Drive"
+		"Quantum Keystone"
+		"Fuel Processor"
+		"Storage Cell"
+		"Shield Modulator" 5
+		"Thrust Module" 20
+		"Small Engine Frame"
+		"Energy Cube" 26
+		"" 3
+	crew 47
+	fuel 700
+	shields 32000
+	hull 9800
+	position -6062.6751 14849.57
+	engine -44 133 1
+	engine 44 133 1
+	gun -22 -102
+	gun 22 -102
+	gun -34 -68
+	gun 34 -68
+	gun -49 -38
+	gun 49 -38
+	gun -61 -14
+	gun 61 -14
+	turret -39 48
+	turret 39 48
+	turret -57 75
+	turret 57 75
+	explode "tiny explosion" 50
+	explode "small explosion" 50
+	explode "medium explosion" 50
+	explode "large explosion" 50
+	explode "huge explosion" 20
+	"final explode" "final explosion large" 1
+	system "Sepi Kai Wha?"
+	planet "The Station of Dr. Rousseau"
+ship "Shield Beetle"
+	name "Butt Plug 15"
+	sprite "ship/hai shield beetle"
+	attributes
+		category "Heavy Warship"
+		cost 17900000
+		mass 650
+		bunks 95
+		"cargo space" 142
+		drag 8.8
+		"engine capacity" 150
+		"fuel capacity" 500
+		"gun ports" 8
+		"heat dissipation" 0.6
+		hull 9800
+		"outfit space" 798
+		"required crew" 47
+		shields 32000
+		"turret mounts" 4
+		"weapon capacity" 333
+	outfits
+		"Quantum Key Stone"
+		"Jump Drive"
+		"Quantum Keystone"
+		"Fuel Processor"
+		"Storage Cell"
+		"Shield Modulator" 5
+		"Thrust Module" 20
+		"Small Engine Frame"
+		"Energy Cube" 26
+		"" 3
+	crew 47
+	fuel 700
+	shields 32000
+	hull 9800
+	position -5427.8651 15088.969
+	engine -44 133 1
+	engine 44 133 1
+	gun -22 -102
+	gun 22 -102
+	gun -34 -68
+	gun 34 -68
+	gun -49 -38
+	gun 49 -38
+	gun -61 -14
+	gun 61 -14
+	turret -39 48
+	turret 39 48
+	turret -57 75
+	turret 57 75
+	explode "tiny explosion" 50
+	explode "small explosion" 50
+	explode "medium explosion" 50
+	explode "large explosion" 50
+	explode "huge explosion" 20
+	"final explode" "final explosion large" 1
+	system "Sepi Kai Wha?"
+	planet "The Station of Dr. Rousseau"
+ship "Shield Beetle"
+	name "Butt Plug 16"
+	sprite "ship/hai shield beetle"
+	attributes
+		category "Heavy Warship"
+		cost 17900000
+		mass 650
+		bunks 95
+		"cargo space" 142
+		drag 8.8
+		"engine capacity" 150
+		"fuel capacity" 500
+		"gun ports" 8
+		"heat dissipation" 0.6
+		hull 9800
+		"outfit space" 798
+		"required crew" 47
+		shields 32000
+		"turret mounts" 4
+		"weapon capacity" 333
+	outfits
+		"Quantum Key Stone"
+		"Jump Drive"
+		"Quantum Keystone"
+		"Fuel Processor"
+		"Storage Cell"
+		"Shield Modulator" 5
+		"Thrust Module" 20
+		"Small Engine Frame"
+		"Energy Cube" 26
+		"" 3
+	crew 47
+	fuel 700
+	shields 32000
+	hull 9800
+	position -6024.1697 14854.686
+	engine -44 133 1
+	engine 44 133 1
+	gun -22 -102
+	gun 22 -102
+	gun -34 -68
+	gun 34 -68
+	gun -49 -38
+	gun 49 -38
+	gun -61 -14
+	gun 61 -14
+	turret -39 48
+	turret 39 48
+	turret -57 75
+	turret 57 75
+	explode "tiny explosion" 50
+	explode "small explosion" 50
+	explode "medium explosion" 50
+	explode "large explosion" 50
+	explode "huge explosion" 20
+	"final explode" "final explosion large" 1
+	system "Sepi Kai Wha?"
+	planet "The Station of Dr. Rousseau"
+ship "Shield Beetle"
+	name "Butt Plug 17"
+	sprite "ship/hai shield beetle"
+	attributes
+		category "Heavy Warship"
+		cost 17900000
+		mass 650
+		bunks 95
+		"cargo space" 142
+		drag 8.8
+		"engine capacity" 150
+		"fuel capacity" 500
+		"gun ports" 8
+		"heat dissipation" 0.6
+		hull 9800
+		"outfit space" 798
+		"required crew" 47
+		shields 32000
+		"turret mounts" 4
+		"weapon capacity" 333
+	outfits
+		"Quantum Key Stone"
+		"Jump Drive"
+		"Quantum Keystone"
+		"Fuel Processor"
+		"Storage Cell"
+		"Shield Modulator" 5
+		"Thrust Module" 20
+		"Small Engine Frame"
+		"Energy Cube" 26
+		"" 3
+	crew 47
+	fuel 700
+	shields 32000
+	hull 9800
+	position -6003.5016 14805.746
+	engine -44 133 1
+	engine 44 133 1
+	gun -22 -102
+	gun 22 -102
+	gun -34 -68
+	gun 34 -68
+	gun -49 -38
+	gun 49 -38
+	gun -61 -14
+	gun 61 -14
+	turret -39 48
+	turret 39 48
+	turret -57 75
+	turret 57 75
+	explode "tiny explosion" 50
+	explode "small explosion" 50
+	explode "medium explosion" 50
+	explode "large explosion" 50
+	explode "huge explosion" 20
+	"final explode" "final explosion large" 1
+	system "Sepi Kai Wha?"
+	planet "The Station of Dr. Rousseau"
+ship "Shield Beetle"
+	name "Butt Plug 18"
+	sprite "ship/hai shield beetle"
+	attributes
+		category "Heavy Warship"
+		cost 17900000
+		mass 650
+		bunks 95
+		"cargo space" 142
+		drag 8.8
+		"engine capacity" 150
+		"fuel capacity" 500
+		"gun ports" 8
+		"heat dissipation" 0.6
+		hull 9800
+		"outfit space" 798
+		"required crew" 47
+		shields 32000
+		"turret mounts" 4
+		"weapon capacity" 333
+	outfits
+		"Quantum Key Stone"
+		"Jump Drive"
+		"Quantum Keystone"
+		"Fuel Processor"
+		"Storage Cell"
+		"Shield Modulator" 5
+		"Thrust Module" 20
+		"Small Engine Frame"
+		"Energy Cube" 26
+		"" 3
+	crew 47
+	fuel 700
+	shields 32000
+	hull 9800
+	position -6073.5668 14822.814
+	engine -44 133 1
+	engine 44 133 1
+	gun -22 -102
+	gun 22 -102
+	gun -34 -68
+	gun 34 -68
+	gun -49 -38
+	gun 49 -38
+	gun -61 -14
+	gun 61 -14
+	turret -39 48
+	turret 39 48
+	turret -57 75
+	turret 57 75
+	explode "tiny explosion" 50
+	explode "small explosion" 50
+	explode "medium explosion" 50
+	explode "large explosion" 50
+	explode "huge explosion" 20
+	"final explode" "final explosion large" 1
+	system "Sepi Kai Wha?"
+	planet "The Station of Dr. Rousseau"
+ship "Shield Beetle"
+	name "Butt Plug 19"
+	sprite "ship/hai shield beetle"
+	attributes
+		category "Heavy Warship"
+		cost 17900000
+		mass 650
+		bunks 95
+		"cargo space" 142
+		drag 8.8
+		"engine capacity" 150
+		"fuel capacity" 500
+		"gun ports" 8
+		"heat dissipation" 0.6
+		hull 9800
+		"outfit space" 798
+		"required crew" 47
+		shields 32000
+		"turret mounts" 4
+		"weapon capacity" 333
+	outfits
+		"Quantum Key Stone"
+		"Jump Drive"
+		"Quantum Keystone"
+		"Fuel Processor"
+		"Storage Cell"
+		"Shield Modulator" 5
+		"Thrust Module" 20
+		"Small Engine Frame"
+		"Energy Cube" 26
+		"" 3
+	crew 47
+	fuel 700
+	shields 32000
+	hull 9800
+	position -5441.2058 15056.615
+	engine -44 133 1
+	engine 44 133 1
+	gun -22 -102
+	gun 22 -102
+	gun -34 -68
+	gun 34 -68
+	gun -49 -38
+	gun 49 -38
+	gun -61 -14
+	gun 61 -14
+	turret -39 48
+	turret 39 48
+	turret -57 75
+	turret 57 75
+	explode "tiny explosion" 50
+	explode "small explosion" 50
+	explode "medium explosion" 50
+	explode "large explosion" 50
+	explode "huge explosion" 20
+	"final explode" "final explosion large" 1
+	system "Sepi Kai Wha?"
+	planet "The Station of Dr. Rousseau"
+ship "Shield Beetle"
+	name "Butt Plug 20"
+	sprite "ship/hai shield beetle"
+	attributes
+		category "Heavy Warship"
+		cost 17900000
+		mass 650
+		bunks 95
+		"cargo space" 142
+		drag 8.8
+		"engine capacity" 150
+		"fuel capacity" 500
+		"gun ports" 8
+		"heat dissipation" 0.6
+		hull 9800
+		"outfit space" 798
+		"required crew" 47
+		shields 32000
+		"turret mounts" 4
+		"weapon capacity" 333
+	outfits
+		"Quantum Key Stone"
+		"Jump Drive"
+		"Quantum Keystone"
+		"Fuel Processor"
+		"Storage Cell"
+		"Shield Modulator" 5
+		"Thrust Module" 20
+		"Small Engine Frame"
+		"Energy Cube" 26
+		"" 3
+	crew 47
+	fuel 700
+	shields 32000
+	hull 9800
+	position -5479.2201 15077.749
+	engine -44 133 1
+	engine 44 133 1
+	gun -22 -102
+	gun 22 -102
+	gun -34 -68
+	gun 34 -68
+	gun -49 -38
+	gun 49 -38
+	gun -61 -14
+	gun 61 -14
+	turret -39 48
+	turret 39 48
+	turret -57 75
+	turret 57 75
+	explode "tiny explosion" 50
+	explode "small explosion" 50
+	explode "medium explosion" 50
+	explode "large explosion" 50
+	explode "huge explosion" 20
+	"final explode" "final explosion large" 1
+	system "Sepi Kai Wha?"
+	planet "The Station of Dr. Rousseau"
+ship "Shield Beetle"
+	name "Butt Plug 21"
+	sprite "ship/hai shield beetle"
+	attributes
+		category "Heavy Warship"
+		cost 17900000
+		mass 650
+		bunks 95
+		"cargo space" 142
+		drag 8.8
+		"engine capacity" 150
+		"fuel capacity" 500
+		"gun ports" 8
+		"heat dissipation" 0.6
+		hull 9800
+		"outfit space" 798
+		"required crew" 47
+		shields 32000
+		"turret mounts" 4
+		"weapon capacity" 333
+	outfits
+		"Quantum Key Stone"
+		"Jump Drive"
+		"Quantum Keystone"
+		"Fuel Processor"
+		"Storage Cell"
+		"Shield Modulator" 5
+		"Thrust Module" 20
+		"Small Engine Frame"
+		"Energy Cube" 26
+		"" 3
+	crew 47
+	fuel 700
+	shields 32000
+	hull 9800
+	position -6139.1505 15010.196
+	engine -44 133 1
+	engine 44 133 1
+	gun -22 -102
+	gun 22 -102
+	gun -34 -68
+	gun 34 -68
+	gun -49 -38
+	gun 49 -38
+	gun -61 -14
+	gun 61 -14
+	turret -39 48
+	turret 39 48
+	turret -57 75
+	turret 57 75
+	explode "tiny explosion" 50
+	explode "small explosion" 50
+	explode "medium explosion" 50
+	explode "large explosion" 50
+	explode "huge explosion" 20
+	"final explode" "final explosion large" 1
+	system "Sepi Kai Wha?"
+	planet "The Station of Dr. Rousseau"
+ship "Shield Beetle"
+	name "Butt Plug 22"
+	sprite "ship/hai shield beetle"
+	attributes
+		category "Heavy Warship"
+		cost 17900000
+		mass 650
+		bunks 95
+		"cargo space" 142
+		drag 8.8
+		"engine capacity" 150
+		"fuel capacity" 500
+		"gun ports" 8
+		"heat dissipation" 0.6
+		hull 9800
+		"outfit space" 798
+		"required crew" 47
+		shields 32000
+		"turret mounts" 4
+		"weapon capacity" 333
+	outfits
+		"Quantum Key Stone"
+		"Jump Drive"
+		"Quantum Keystone"
+		"Fuel Processor"
+		"Storage Cell"
+		"Shield Modulator" 5
+		"Thrust Module" 20
+		"Small Engine Frame"
+		"Energy Cube" 26
+		"" 3
+	crew 47
+	fuel 700
+	shields 32000
+	hull 9800
+	position -5349.441 15342.46
+	engine -44 133 1
+	engine 44 133 1
+	gun -22 -102
+	gun 22 -102
+	gun -34 -68
+	gun 34 -68
+	gun -49 -38
+	gun 49 -38
+	gun -61 -14
+	gun 61 -14
+	turret -39 48
+	turret 39 48
+	turret -57 75
+	turret 57 75
+	explode "tiny explosion" 50
+	explode "small explosion" 50
+	explode "medium explosion" 50
+	explode "large explosion" 50
+	explode "huge explosion" 20
+	"final explode" "final explosion large" 1
+	system "Sepi Kai Wha?"
+	planet "The Station of Dr. Rousseau"
+ship "Shield Beetle"
+	name "Butt Plug 23"
+	sprite "ship/hai shield beetle"
+	attributes
+		category "Heavy Warship"
+		cost 17900000
+		mass 650
+		bunks 95
+		"cargo space" 142
+		drag 8.8
+		"engine capacity" 150
+		"fuel capacity" 500
+		"gun ports" 8
+		"heat dissipation" 0.6
+		hull 9800
+		"outfit space" 798
+		"required crew" 47
+		shields 32000
+		"turret mounts" 4
+		"weapon capacity" 333
+	outfits
+		"Quantum Key Stone"
+		"Jump Drive"
+		"Quantum Keystone"
+		"Fuel Processor"
+		"Storage Cell"
+		"Shield Modulator" 5
+		"Thrust Module" 20
+		"Small Engine Frame"
+		"Energy Cube" 26
+		"" 3
+	crew 47
+	fuel 700
+	shields 32000
+	hull 9800
+	position -5492.0465 15604.2
+	engine -44 133 1
+	engine 44 133 1
+	gun -22 -102
+	gun 22 -102
+	gun -34 -68
+	gun 34 -68
+	gun -49 -38
+	gun 49 -38
+	gun -61 -14
+	gun 61 -14
+	turret -39 48
+	turret 39 48
+	turret -57 75
+	turret 57 75
+	explode "tiny explosion" 50
+	explode "small explosion" 50
+	explode "medium explosion" 50
+	explode "large explosion" 50
+	explode "huge explosion" 20
+	"final explode" "final explosion large" 1
+	system "Sepi Kai Wha?"
+	planet "The Station of Dr. Rousseau"
+ship "Shield Beetle"
+	name "Butt Plug 24"
+	sprite "ship/hai shield beetle"
+	attributes
+		category "Heavy Warship"
+		cost 17900000
+		mass 650
+		bunks 95
+		"cargo space" 142
+		drag 8.8
+		"engine capacity" 150
+		"fuel capacity" 500
+		"gun ports" 8
+		"heat dissipation" 0.6
+		hull 9800
+		"outfit space" 798
+		"required crew" 47
+		shields 32000
+		"turret mounts" 4
+		"weapon capacity" 333
+	outfits
+		"Quantum Key Stone"
+		"Jump Drive"
+		"Quantum Keystone"
+		"Fuel Processor"
+		"Storage Cell"
+		"Shield Modulator" 5
+		"Thrust Module" 20
+		"Small Engine Frame"
+		"Energy Cube" 26
+		"" 3
+	crew 47
+	fuel 700
+	shields 32000
+	hull 9800
+	position -6035.2326 14825.793
+	engine -44 133 1
+	engine 44 133 1
+	gun -22 -102
+	gun 22 -102
+	gun -34 -68
+	gun 34 -68
+	gun -49 -38
+	gun 49 -38
+	gun -61 -14
+	gun 61 -14
+	turret -39 48
+	turret 39 48
+	turret -57 75
+	turret 57 75
+	explode "tiny explosion" 50
+	explode "small explosion" 50
+	explode "medium explosion" 50
+	explode "large explosion" 50
+	explode "huge explosion" 20
+	"final explode" "final explosion large" 1
+	system "Sepi Kai Wha?"
+	planet "The Station of Dr. Rousseau"
+ship "Shield Beetle"
+	name "Mon e Lur"
+	sprite "ship/hai shield beetle"
+	attributes
+		category "Heavy Warship"
+		cost 17900000
+		mass 650
+		bunks 95
+		"cargo space" 142
+		drag 8.8
+		"engine capacity" 150
+		"fuel capacity" 500
+		"gun ports" 8
+		"heat dissipation" 0.6
+		hull 9800
+		"outfit space" 798
+		"required crew" 47
+		shields 32000
+		"turret mounts" 4
+		"weapon capacity" 333
+	outfits
+		"Point Defense Turret"
+		"Quantum Key Stone"
+		Hyperdrive
+		"Fuel Pod" 3
+		"Heavy Laser Turret" 2
+		"Liquid Helium Cooler"
+		"Large Heat Shunt"
+		`"Bufaer" Atomic Thruster`
+		"Korath Grab-Strike"
+		`"Bufaer" Atomic Steering`
+		"Quantum Keystone"
+		"Hai Diamond Regenerator"
+		"Triple Plasma Core"
+		"Systems Core (Medium)"
+		"Small Heat Shunt"
+		"Fuel Processor"
+		"Engine Expansion" 2
+		"Capsule Bunk Room"
+	crew 50
+	fuel 1000
+	shields 32000
+	hull 9800
+	position -80.265045 -280.81753
+	engine -44 133 1
+	engine 44 133 1
+	gun -22 -102
+	gun 22 -102
+	gun -34 -68
+	gun 34 -68
+	gun -49 -38
+	gun 49 -38
+	gun -61 -14
+	gun 61 -14
+	turret -39 48 "Korath Grab-Strike"
+	turret 39 48 "Point Defense Turret"
+	turret -57 75 "Heavy Laser Turret"
+	turret 57 75 "Heavy Laser Turret"
+	explode "tiny explosion" 50
+	explode "small explosion" 50
+	explode "medium explosion" 50
+	explode "large explosion" 50
+	explode "huge explosion" 20
+	"final explode" "final explosion large" 1
+	system Cinxia
+	planet Caelian
+	parked
+ship "Shield Beetle"
+	name "Du e Sen"
+	sprite "ship/hai shield beetle"
+	attributes
+		category "Heavy Warship"
+		cost 17900000
+		mass 650
+		bunks 95
+		"cargo space" 142
+		drag 8.8
+		"engine capacity" 150
+		"fuel capacity" 500
+		"gun ports" 8
+		"heat dissipation" 0.6
+		hull 9800
+		"outfit space" 798
+		"required crew" 47
+		shields 32000
+		"turret mounts" 4
+		"weapon capacity" 333
+	outfits
+		"Point Defense Turret"
+		"Quantum Key Stone"
+		Hyperdrive
+		"Fuel Pod" 3
+		"Heavy Laser Turret" 3
+		"Liquid Helium Cooler"
+		"Large Heat Shunt"
+		`"Bufaer" Atomic Thruster`
+		`"Bufaer" Atomic Steering`
+		"Quantum Keystone"
+		"Hai Diamond Regenerator"
+		"Triple Plasma Core"
+		"Systems Core (Medium)"
+		"Small Heat Shunt"
+		"Fuel Processor"
+		"Engine Expansion" 2
+	crew 50
+	fuel 1000
+	shields 32000
+	hull 9800
+	position -84.385322 -277.56013
+	engine -44 133 1
+	engine 44 133 1
+	gun -22 -102
+	gun 22 -102
+	gun -34 -68
+	gun 34 -68
+	gun -49 -38
+	gun 49 -38
+	gun -61 -14
+	gun 61 -14
+	turret -39 48 "Heavy Laser Turret"
+	turret 39 48 "Point Defense Turret"
+	turret -57 75 "Heavy Laser Turret"
+	turret 57 75 "Heavy Laser Turret"
+	explode "tiny explosion" 50
+	explode "small explosion" 50
+	explode "medium explosion" 50
+	explode "large explosion" 50
+	explode "huge explosion" 20
+	"final explode" "final explosion large" 1
+	system Cinxia
+	planet Caelian
+	parked
+ship "Shield Beetle"
+	name "Du Cor Ow"
+	sprite "ship/hai shield beetle"
+	attributes
+		category "Heavy Warship"
+		cost 17900000
+		mass 650
+		bunks 95
+		"cargo space" 142
+		drag 8.8
+		"engine capacity" 150
+		"fuel capacity" 500
+		"gun ports" 8
+		"heat dissipation" 0.6
+		hull 9800
+		"outfit space" 798
+		"required crew" 47
+		shields 32000
+		"turret mounts" 4
+		"weapon capacity" 333
+	outfits
+		"Point Defense Turret"
+		"Quantum Key Stone"
+		Hyperdrive
+		"Fuel Pod" 3
+		"Heavy Laser Turret" 3
+		"Large Heat Shunt" 3
+		`"Bufaer" Atomic Thruster`
+		`"Bufaer" Atomic Steering`
+		"Quantum Keystone"
+		"Hai Diamond Regenerator"
+		"Triple Plasma Core"
+		"Systems Core (Medium)"
+		"Small Heat Shunt"
+		"Fuel Processor" 2
+		"Engine Expansion" 2
+	crew 50
+	fuel 1200
+	shields 32000
+	hull 9800
+	position -79.640243 -280.53576
+	engine -44 133 1
+	engine 44 133 1
+	gun -22 -102
+	gun 22 -102
+	gun -34 -68
+	gun 34 -68
+	gun -49 -38
+	gun 49 -38
+	gun -61 -14
+	gun 61 -14
+	turret -39 48 "Heavy Laser Turret"
+	turret 39 48 "Point Defense Turret"
+	turret -57 75 "Heavy Laser Turret"
+	turret 57 75 "Heavy Laser Turret"
+	explode "tiny explosion" 50
+	explode "small explosion" 50
+	explode "medium explosion" 50
+	explode "large explosion" 50
+	explode "huge explosion" 20
+	"final explode" "final explosion large" 1
+	system Cinxia
+	planet Caelian
+	parked
+ship "Shield Beetle"
+	name "Mon e Ow"
+	sprite "ship/hai shield beetle"
+	attributes
+		category "Heavy Warship"
+		cost 17900000
+		mass 650
+		bunks 95
+		"cargo space" 142
+		drag 8.8
+		"engine capacity" 150
+		"fuel capacity" 500
+		"gun ports" 8
+		"heat dissipation" 0.6
+		hull 9800
+		"outfit space" 798
+		"required crew" 47
+		shields 32000
+		"turret mounts" 4
+		"weapon capacity" 333
+	outfits
+		"Point Defense Turret"
+		"Quantum Key Stone"
+		Hyperdrive
+		"Fuel Pod" 3
+		"Heavy Laser Turret" 3
+		"Large Heat Shunt" 3
+		`"Bufaer" Atomic Thruster`
+		`"Bufaer" Atomic Steering`
+		"Quantum Keystone"
+		"Hai Diamond Regenerator"
+		"Triple Plasma Core"
+		"Systems Core (Medium)"
+		"Small Heat Shunt"
+		"Fuel Processor"
+		"Engine Expansion" 2
+	crew 50
+	fuel 1000
+	shields 32000
+	hull 9800
+	position -109.86818 -271.90912
+	engine -44 133 1
+	engine 44 133 1
+	gun -22 -102
+	gun 22 -102
+	gun -34 -68
+	gun 34 -68
+	gun -49 -38
+	gun 49 -38
+	gun -61 -14
+	gun 61 -14
+	turret -39 48 "Point Defense Turret"
+	turret 39 48 "Heavy Laser Turret"
+	turret -57 75 "Heavy Laser Turret"
+	turret 57 75 "Heavy Laser Turret"
+	explode "tiny explosion" 50
+	explode "small explosion" 50
+	explode "medium explosion" 50
+	explode "large explosion" 50
+	explode "huge explosion" 20
+	"final explode" "final explosion large" 1
+	system Cinxia
+	planet Caelian
+	parked
+ship "Shield Beetle"
+	name "Luf Loh"
+	sprite "ship/hai shield beetle"
+	attributes
+		category "Heavy Warship"
+		cost 17900000
+		mass 650
+		bunks 95
+		"cargo space" 142
+		drag 8.8
+		"engine capacity" 150
+		"fuel capacity" 500
+		"gun ports" 8
+		"heat dissipation" 0.6
+		hull 9800
+		"outfit space" 798
+		"required crew" 47
+		shields 32000
+		"turret mounts" 4
+		"weapon capacity" 333
+	outfits
+		"Point Defense Turret"
+		"Quantum Key Stone"
+		Hyperdrive
+		"Fuel Pod" 3
+		"Heavy Laser Turret" 3
+		"Liquid Helium Cooler"
+		"Large Heat Shunt"
+		`"Bufaer" Atomic Thruster`
+		`"Bufaer" Atomic Steering`
+		"Quantum Keystone"
+		"Hai Diamond Regenerator"
+		"Triple Plasma Core"
+		"Systems Core (Medium)"
+		"Fuel Processor"
+		"Engine Expansion" 2
+		"Capsule Bunk Room"
+	crew 50
+	fuel 1000
+	shields 32000
+	hull 9800
+	position -77.807575 -280.01502
+	engine -44 133 1
+	engine 44 133 1
+	gun -22 -102
+	gun 22 -102
+	gun -34 -68
+	gun 34 -68
+	gun -49 -38
+	gun 49 -38
+	gun -61 -14
+	gun 61 -14
+	turret -39 48 "Point Defense Turret"
+	turret 39 48 "Heavy Laser Turret"
+	turret -57 75 "Heavy Laser Turret"
+	turret 57 75 "Heavy Laser Turret"
+	explode "tiny explosion" 50
+	explode "small explosion" 50
+	explode "medium explosion" 50
+	explode "large explosion" 50
+	explode "huge explosion" 20
+	"final explode" "final explosion large" 1
+	system Cinxia
+	planet Caelian
+	parked
+ship "Shield Beetle"
+	name "Luf Woa Sen"
+	sprite "ship/hai shield beetle"
+	attributes
+		category "Heavy Warship"
+		cost 17900000
+		mass 650
+		bunks 95
+		"cargo space" 142
+		drag 8.8
+		"engine capacity" 150
+		"fuel capacity" 500
+		"gun ports" 8
+		"heat dissipation" 0.6
+		hull 9800
+		"outfit space" 798
+		"required crew" 47
+		shields 32000
+		"turret mounts" 4
+		"weapon capacity" 333
+	outfits
+		"Point Defense Turret"
+		"Quantum Key Stone"
+		Hyperdrive
+		Supercapacitor
+		"Fuel Pod" 3
+		"Heavy Laser Turret" 3
+		"Liquid Helium Cooler"
+		"Large Heat Shunt" 3
+		`"Bufaer" Atomic Thruster`
+		`"Bufaer" Atomic Steering`
+		"Quantum Keystone"
+		"Hai Diamond Regenerator"
+		"Triple Plasma Core"
+		"Systems Core (Medium)"
+		"Small Heat Shunt"
+		"Fuel Processor"
+		"Engine Expansion" 2
+	crew 50
+	fuel 1000
+	shields 32000
+	hull 9800
+	position -87.319672 -274.71267
+	engine -44 133 1
+	engine 44 133 1
+	gun -22 -102
+	gun 22 -102
+	gun -34 -68
+	gun 34 -68
+	gun -49 -38
+	gun 49 -38
+	gun -61 -14
+	gun 61 -14
+	turret -39 48 "Point Defense Turret"
+	turret 39 48 "Heavy Laser Turret"
+	turret -57 75 "Heavy Laser Turret"
+	turret 57 75 "Heavy Laser Turret"
+	explode "tiny explosion" 50
+	explode "small explosion" 50
+	explode "medium explosion" 50
+	explode "large explosion" 50
+	explode "huge explosion" 20
+	"final explode" "final explosion large" 1
+	system Cinxia
+	planet Caelian
+	parked
+ship "Shield Beetle"
+	name "Du Lur"
+	sprite "ship/hai shield beetle"
+	attributes
+		category "Heavy Warship"
+		cost 17900000
+		mass 650
+		bunks 95
+		"cargo space" 142
+		drag 8.8
+		"engine capacity" 150
+		"fuel capacity" 500
+		"gun ports" 8
+		"heat dissipation" 0.6
+		hull 9800
+		"outfit space" 798
+		"required crew" 47
+		shields 32000
+		"turret mounts" 4
+		"weapon capacity" 333
+	outfits
+		"Point Defense Turret"
+		"Quantum Key Stone"
+		Hyperdrive
+		Supercapacitor
+		"Fuel Pod" 5
+		"Heavy Laser Turret" 3
+		"Liquid Helium Cooler"
+		Ramscoop
+		"Large Heat Shunt"
+		`"Bufaer" Atomic Thruster`
+		"Boulder Reactor"
+		`"Bufaer" Atomic Steering`
+		"Quantum Keystone"
+		"Geode Reactor"
+		"Hai Diamond Regenerator" 2
+		"Engine Expansion" 2
+		"Capsule Bunk Room"
+	crew 50
+	fuel 1000
+	shields 32000
+	hull 9800
+	position -78.222643 -281.32124
+	engine -44 133 1
+	engine 44 133 1
+	gun -22 -102
+	gun 22 -102
+	gun -34 -68
+	gun 34 -68
+	gun -49 -38
+	gun 49 -38
+	gun -61 -14
+	gun 61 -14
+	turret -39 48 "Point Defense Turret"
+	turret 39 48 "Heavy Laser Turret"
+	turret -57 75 "Heavy Laser Turret"
+	turret 57 75 "Heavy Laser Turret"
+	explode "tiny explosion" 50
+	explode "small explosion" 50
+	explode "medium explosion" 50
+	explode "large explosion" 50
+	explode "huge explosion" 20
+	"final explode" "final explosion large" 1
+	system Cinxia
+	planet Caelian
+	parked
+ship "Shield Beetle"
+	name "Woh Cor Ow"
+	sprite "ship/hai shield beetle"
+	attributes
+		category "Heavy Warship"
+		cost 17900000
+		mass 650
+		bunks 95
+		"cargo space" 142
+		drag 8.8
+		"engine capacity" 150
+		"fuel capacity" 500
+		"gun ports" 8
+		"heat dissipation" 0.6
+		hull 9800
+		"outfit space" 798
+		"required crew" 47
+		shields 32000
+		"turret mounts" 4
+		"weapon capacity" 333
+	outfits
+		"Point Defense Turret"
+		"Quantum Key Stone"
+		Hyperdrive
+		Supercapacitor
+		"Fuel Pod" 5
+		"Heavy Laser Turret" 3
+		"Liquid Helium Cooler"
+		Ramscoop
+		`"Bufaer" Atomic Thruster`
+		"Boulder Reactor"
+		`"Bufaer" Atomic Steering`
+		"Quantum Keystone"
+		"Geode Reactor"
+		"Hai Diamond Regenerator" 2
+		"Engine Expansion" 2
+		"Capsule Bunk Room"
+	crew 50
+	fuel 1000
+	shields 32000
+	hull 9800
+	position -100.41453 -276.21704
+	engine -44 133 1
+	engine 44 133 1
+	gun -22 -102
+	gun 22 -102
+	gun -34 -68
+	gun 34 -68
+	gun -49 -38
+	gun 49 -38
+	gun -61 -14
+	gun 61 -14
+	turret -39 48 "Point Defense Turret"
+	turret 39 48 "Heavy Laser Turret"
+	turret -57 75 "Heavy Laser Turret"
+	turret 57 75 "Heavy Laser Turret"
+	explode "tiny explosion" 50
+	explode "small explosion" 50
+	explode "medium explosion" 50
+	explode "large explosion" 50
+	explode "huge explosion" 20
+	"final explode" "final explosion large" 1
+	system Cinxia
+	planet Caelian
+	parked
+ship "Shield Beetle"
+	name "Vai Hey"
+	sprite "ship/hai shield beetle"
+	attributes
+		category "Heavy Warship"
+		cost 17900000
+		mass 650
+		bunks 95
+		"cargo space" 142
+		drag 8.8
+		"engine capacity" 150
+		"fuel capacity" 500
+		"gun ports" 8
+		"heat dissipation" 0.6
+		hull 9800
+		"outfit space" 798
+		"required crew" 47
+		shields 32000
+		"turret mounts" 4
+		"weapon capacity" 333
+	outfits
+		"Point Defense Turret"
+		"Quantum Key Stone"
+		Hyperdrive
+		Supercapacitor
+		"Fuel Pod" 5
+		"Heavy Laser Turret" 3
+		"Liquid Helium Cooler"
+		Ramscoop
+		`"Bufaer" Atomic Thruster`
+		"Boulder Reactor"
+		`"Bufaer" Atomic Steering`
+		"Quantum Keystone"
+		"Geode Reactor"
+		"Hai Diamond Regenerator" 2
+		"Engine Expansion" 2
+		"Capsule Bunk Room"
+	crew 50
+	fuel 1000
+	shields 32000
+	hull 9800
+	position -81.552796 -284.33178
+	engine -44 133 1
+	engine 44 133 1
+	gun -22 -102
+	gun 22 -102
+	gun -34 -68
+	gun 34 -68
+	gun -49 -38
+	gun 49 -38
+	gun -61 -14
+	gun 61 -14
+	turret -39 48 "Point Defense Turret"
+	turret 39 48 "Heavy Laser Turret"
+	turret -57 75 "Heavy Laser Turret"
+	turret 57 75 "Heavy Laser Turret"
+	explode "tiny explosion" 50
+	explode "small explosion" 50
+	explode "medium explosion" 50
+	explode "large explosion" 50
+	explode "huge explosion" 20
+	"final explode" "final explosion large" 1
+	system Cinxia
+	planet Caelian
+	parked
+ship "Shield Beetle"
+	name "Mon Sook Sen"
+	sprite "ship/hai shield beetle"
+	attributes
+		category "Heavy Warship"
+		cost 17900000
+		mass 650
+		bunks 95
+		"cargo space" 142
+		drag 8.8
+		"engine capacity" 150
+		"fuel capacity" 500
+		"gun ports" 8
+		"heat dissipation" 0.6
+		hull 9800
+		"outfit space" 798
+		"required crew" 47
+		shields 32000
+		"turret mounts" 4
+		"weapon capacity" 333
+	outfits
+		"Point Defense Turret"
+		"Quantum Key Stone"
+		Hyperdrive
+		Supercapacitor
+		"Fuel Pod" 5
+		"Heavy Laser Turret" 3
+		"Liquid Helium Cooler"
+		Ramscoop
+		`"Bufaer" Atomic Thruster`
+		"Boulder Reactor"
+		`"Bufaer" Atomic Steering`
+		"Quantum Keystone"
+		"Geode Reactor"
+		"Hai Diamond Regenerator" 2
+		"Engine Expansion" 2
+		"Capsule Bunk Room"
+	crew 50
+	fuel 1000
+	shields 32000
+	hull 9800
+	position -87.727756 -277.98859
+	engine -44 133 1
+	engine 44 133 1
+	gun -22 -102
+	gun 22 -102
+	gun -34 -68
+	gun 34 -68
+	gun -49 -38
+	gun 49 -38
+	gun -61 -14
+	gun 61 -14
+	turret -39 48 "Point Defense Turret"
+	turret 39 48 "Heavy Laser Turret"
+	turret -57 75 "Heavy Laser Turret"
+	turret 57 75 "Heavy Laser Turret"
+	explode "tiny explosion" 50
+	explode "small explosion" 50
+	explode "medium explosion" 50
+	explode "large explosion" 50
+	explode "huge explosion" 20
+	"final explode" "final explosion large" 1
+	system Cinxia
+	planet Caelian
+	parked
+ship "Shield Beetle"
+	name "Vai e Lur"
+	sprite "ship/hai shield beetle"
+	attributes
+		category "Heavy Warship"
+		cost 17900000
+		mass 650
+		bunks 95
+		"cargo space" 142
+		drag 8.8
+		"engine capacity" 150
+		"fuel capacity" 500
+		"gun ports" 8
+		"heat dissipation" 0.6
+		hull 9800
+		"outfit space" 798
+		"required crew" 47
+		shields 32000
+		"turret mounts" 4
+		"weapon capacity" 333
+	outfits
+		"Point Defense Turret"
+		"Quantum Key Stone"
+		Hyperdrive
+		Supercapacitor
+		"Fuel Pod" 5
+		"Heavy Laser Turret" 3
+		"Liquid Helium Cooler"
+		Ramscoop
+		`"Bufaer" Atomic Thruster`
+		"Boulder Reactor"
+		`"Bufaer" Atomic Steering`
+		"Quantum Keystone"
+		"Geode Reactor"
+		"Hai Diamond Regenerator" 2
+		"Engine Expansion" 2
+	crew 50
+	fuel 1000
+	shields 32000
+	hull 9800
+	position -104.63341 -283.26402
+	engine -44 133 1
+	engine 44 133 1
+	gun -22 -102
+	gun 22 -102
+	gun -34 -68
+	gun 34 -68
+	gun -49 -38
+	gun 49 -38
+	gun -61 -14
+	gun 61 -14
+	turret -39 48 "Heavy Laser Turret"
+	turret 39 48 "Heavy Laser Turret"
+	turret -57 75 "Heavy Laser Turret"
+	turret 57 75 "Point Defense Turret"
+	explode "tiny explosion" 50
+	explode "small explosion" 50
+	explode "medium explosion" 50
+	explode "large explosion" 50
+	explode "huge explosion" 20
+	"final explode" "final explosion large" 1
+	system Cinxia
+	planet Caelian
+	parked
+groups 4
+ship "Shield Beetle"
+	name "Vai Woa Sen"
+	sprite "ship/hai shield beetle"
+	attributes
+		category "Heavy Warship"
+		cost 17900000
+		mass 650
+		bunks 95
+		"cargo space" 142
+		drag 8.8
+		"engine capacity" 150
+		"fuel capacity" 500
+		"gun ports" 8
+		"heat dissipation" 0.6
+		hull 9800
+		"outfit space" 798
+		"required crew" 47
+		shields 32000
+		"turret mounts" 4
+		"weapon capacity" 333
+	outfits
+		"Point Defense Turret"
+		"Quantum Key Stone"
+		Hyperdrive
+		Supercapacitor
+		"Fuel Pod" 5
+		"Heavy Laser Turret" 3
+		"Liquid Helium Cooler"
+		Ramscoop
+		`"Bufaer" Atomic Thruster`
+		"Boulder Reactor"
+		`"Bufaer" Atomic Steering`
+		"Quantum Keystone"
+		"Geode Reactor"
+		"Hai Diamond Regenerator" 2
+		"Engine Expansion" 2
+	crew 50
+	fuel 1000
+	shields 32000
+	hull 9800
+	position -82.601752 -281.87366
+	engine -44 133 1
+	engine 44 133 1
+	gun -22 -102
+	gun 22 -102
+	gun -34 -68
+	gun 34 -68
+	gun -49 -38
+	gun 49 -38
+	gun -61 -14
+	gun 61 -14
+	turret -39 48 "Heavy Laser Turret"
+	turret 39 48 "Heavy Laser Turret"
+	turret -57 75 "Heavy Laser Turret"
+	turret 57 75 "Point Defense Turret"
+	explode "tiny explosion" 50
+	explode "small explosion" 50
+	explode "medium explosion" 50
+	explode "large explosion" 50
+	explode "huge explosion" 20
+	"final explode" "final explosion large" 1
+	system Cinxia
+	planet Caelian
+	parked
+groups 4
+ship "Shield Beetle"
+	name "Du e Sen"
+	sprite "ship/hai shield beetle"
+	attributes
+		category "Heavy Warship"
+		cost 17900000
+		mass 650
+		bunks 95
+		"cargo space" 142
+		drag 8.8
+		"engine capacity" 150
+		"fuel capacity" 500
+		"gun ports" 8
+		"heat dissipation" 0.6
+		hull 9800
+		"outfit space" 798
+		"required crew" 47
+		shields 32000
+		"turret mounts" 4
+		"weapon capacity" 333
+	outfits
+		"Point Defense Turret"
+		"Quantum Key Stone"
+		Hyperdrive
+		Supercapacitor
+		"Fuel Pod" 5
+		"Heavy Laser Turret" 3
+		"Liquid Helium Cooler"
+		Ramscoop
+		`"Bufaer" Atomic Thruster`
+		"Boulder Reactor"
+		`"Bufaer" Atomic Steering`
+		"Quantum Keystone"
+		"Geode Reactor"
+		"Hai Diamond Regenerator" 2
+		"Engine Expansion" 2
+	crew 50
+	fuel 1000
+	shields 32000
+	hull 9800
+	position -102.65157 -281.65209
+	engine -44 133 1
+	engine 44 133 1
+	gun -22 -102
+	gun 22 -102
+	gun -34 -68
+	gun 34 -68
+	gun -49 -38
+	gun 49 -38
+	gun -61 -14
+	gun 61 -14
+	turret -39 48 "Point Defense Turret"
+	turret 39 48 "Heavy Laser Turret"
+	turret -57 75 "Heavy Laser Turret"
+	turret 57 75 "Heavy Laser Turret"
+	explode "tiny explosion" 50
+	explode "small explosion" 50
+	explode "medium explosion" 50
+	explode "large explosion" 50
+	explode "huge explosion" 20
+	"final explode" "final explosion large" 1
+	system Cinxia
+	planet Caelian
+	parked
+ship "Shield Beetle"
+	name "Mon Sen"
+	sprite "ship/hai shield beetle"
+	attributes
+		category "Heavy Warship"
+		cost 17900000
+		mass 650
+		bunks 95
+		"cargo space" 142
+		drag 8.8
+		"engine capacity" 150
+		"fuel capacity" 500
+		"gun ports" 8
+		"heat dissipation" 0.6
+		hull 9800
+		"outfit space" 798
+		"required crew" 47
+		shields 32000
+		"turret mounts" 4
+		"weapon capacity" 333
+	outfits
+		"Point Defense Turret"
+		"Quantum Key Stone"
+		Hyperdrive
+		Supercapacitor
+		"Fuel Pod" 5
+		"Heavy Laser Turret" 3
+		"Liquid Helium Cooler"
+		Ramscoop
+		`"Bufaer" Atomic Thruster`
+		"Boulder Reactor"
+		`"Bufaer" Atomic Steering`
+		"Quantum Keystone"
+		"Geode Reactor"
+		"Hai Diamond Regenerator" 2
+		"Engine Expansion" 2
+	crew 50
+	fuel 1000
+	shields 32000
+	hull 9800
+	position -111.78596 -287.25704
+	engine -44 133 1
+	engine 44 133 1
+	gun -22 -102
+	gun 22 -102
+	gun -34 -68
+	gun 34 -68
+	gun -49 -38
+	gun 49 -38
+	gun -61 -14
+	gun 61 -14
+	turret -39 48 "Point Defense Turret"
+	turret 39 48 "Heavy Laser Turret"
+	turret -57 75 "Heavy Laser Turret"
+	turret 57 75 "Heavy Laser Turret"
+	explode "tiny explosion" 50
+	explode "small explosion" 50
+	explode "medium explosion" 50
+	explode "large explosion" 50
+	explode "huge explosion" 20
+	"final explode" "final explosion large" 1
+	system Cinxia
+	planet Caelian
+	parked
+ship "Shield Beetle"
+	name "Woh Woa Lur"
+	sprite "ship/hai shield beetle"
+	attributes
+		category "Heavy Warship"
+		cost 17900000
+		mass 650
+		bunks 95
+		"cargo space" 142
+		drag 8.8
+		"engine capacity" 150
+		"fuel capacity" 500
+		"gun ports" 8
+		"heat dissipation" 0.6
+		hull 9800
+		"outfit space" 798
+		"required crew" 47
+		shields 32000
+		"turret mounts" 4
+		"weapon capacity" 333
+	outfits
+		"Point Defense Turret"
+		"Quantum Key Stone"
+		Hyperdrive
+		Supercapacitor
+		"Fuel Pod" 5
+		"Heavy Laser Turret" 3
+		"Liquid Helium Cooler"
+		Ramscoop
+		`"Bufaer" Atomic Thruster`
+		"Boulder Reactor"
+		`"Bufaer" Atomic Steering`
+		"Quantum Keystone"
+		"Geode Reactor"
+		"Hai Diamond Regenerator" 2
+		"Engine Expansion" 2
+	crew 50
+	fuel 1000
+	shields 32000
+	hull 9800
+	position -80.030596 -279.81968
+	engine -44 133 1
+	engine 44 133 1
+	gun -22 -102
+	gun 22 -102
+	gun -34 -68
+	gun 34 -68
+	gun -49 -38
+	gun 49 -38
+	gun -61 -14
+	gun 61 -14
+	turret -39 48 "Point Defense Turret"
+	turret 39 48 "Heavy Laser Turret"
+	turret -57 75 "Heavy Laser Turret"
+	turret 57 75 "Heavy Laser Turret"
+	explode "tiny explosion" 50
+	explode "small explosion" 50
+	explode "medium explosion" 50
+	explode "large explosion" 50
+	explode "huge explosion" 20
+	"final explode" "final explosion large" 1
+	system Cinxia
+	planet Caelian
+	parked
+ship Aerie
+	name "Sloop of Justice"
+	sprite ship/aerie
+	attributes
+		category "Medium Warship"
+		cost 3500000
+		mass 130
+		bunks 28
+		"cargo space" 50
+		drag 4.1
+		"engine capacity" 95
+		"fuel capacity" 500
+		"gun ports" 2
+		"heat dissipation" 0.7
+		hull 1900
+		"outfit space" 390
+		"required crew" 10
+		shields 5700
+		"turret mounts" 3
+		"weapon capacity" 150
+	outfits
+		Hyperdrive
+		"Heavy Laser" 2
+		"Heavy Laser Turret" 2
+		"Heavy Anti-Missile Turret"
+		"Large Radar Jammer"
+		"LP072a Battery Pack"
+		"D41-HY Shield Generator"
+		"NT-200 Nucleovoltaic"
+		"X3700 Ion Thruster"
+		"X3200 Ion Steering"
+	crew 12
+	fuel 500.0039
+	shields 5700
+	hull 1900
+	position -18.536018 -29.005827
+	engine -10 91 1
+	engine 10 91 1
+	gun -13 -79 "Heavy Laser"
+	gun 13 -79 "Heavy Laser"
+	turret 0 0 "Heavy Anti-Missile Turret"
+	turret -17 14 "Heavy Laser Turret"
+	turret 17 14 "Heavy Laser Turret"
+	fighter -42 -2
+	fighter 42 2
+	leak leak 50 50
+	leak flame 50 80
+	leak "big leak" 90 30
+	explode "tiny explosion" 10
+	explode "small explosion" 25
+	explode "medium explosion" 25
+	explode "large explosion" 10
+	"final explode" "final explosion medium" 1
+	system Sabik
+	parked
+account
+	credits 154609354
+	score 800
+	history
+		440193855
+		440125484
+		440057891
+		439991060
+		439692326
+		439394365
+		439073287
+		444627110
+		444331677
+		444036977
+		460337441
+		480246186
+		496310336
+		512535290
+		512285638
+		528265338
+		544330354
+		560413923
+		560014347
+		559626074
+		559252829
+		558863377
+		558491995
+		558028650
+		557642314
+		557241362
+		556919665
+		556525919
+		556121692
+		555716494
+		555311734
+		554931558
+		556653990
+		555981291
+		555317901
+		554661395
+		554011075
+		553370712
+		552729140
+		552102400
+		551478006
+		550864210
+		550256281
+		549654963
+		549057975
+		548468569
+		547889538
+		547310370
+		546742688
+		546179256
+		545619327
+		545067481
+		544770609
+		544230765
+		543699111
+		543173682
+		542647842
+		542128645
+		541614790
+		541359054
+		540861020
+		540369682
+		539878048
+		539394619
+		538916926
+		538443446
+		537972460
+		537511830
+		537049155
+		536594551
+		536104166
+		535621603
+		535143989
+		534672289
+		534199881
+		533734883
+		533272957
+		532816494
+		532400782
+		531989414
+		531582623
+		531180357
+		530782565
+		530389191
+		530000198
+		529615531
+		529235148
+		528859000
+		528487039
+		528119226
+		527755509
+		527395849
+		527040195
+		526688506
+		526340743
+		525996855
+		525656814
+		500433232
+		734358053
+		778189302
+		776958924
+stock
+	"Thrust Module" -14
+	"Energy Cube" -294
+"fleet depreciation"
+	ship Albatross
+		1100985 1
+	ship Gascraft
+		1100918 1
+	ship Bactrian
+		1100514 1
+	outfit "Inhibitor Cannon"
+		1100985 2
+	outfit "Point Defense Turret"
+		1100985 13
+	outfit "Epoch Cell"
+		1100985 1
+	outfit "Crystal Capacitor"
+		1100985 1
+	outfit "Emergency Ramscoop"
+		1100918 1
+	outfit "Quantum Key Stone"
+		1100918 1
+		1100985 23
+	outfit "Forge-Class Thruster"
+		1100985 1
+	outfit "Forge-Class Steering"
+		1100985 1
+	outfit "Crucible-Class Steering"
+		1100918 1
+		1100985 1
+	outfit Hyperdrive
+		1100985 1
+	outfit "Millennium Cell"
+		1100918 1
+	outfit "Thrasher Turret"
+		1100985 7
+	outfit "Thermoelectric Cooler"
+		1100985 2
+	outfit "Smelter-Class Thruster"
+		1100985 1
+	outfit "Crucible-Class Thruster"
+		1100918 1
+	outfit "Fuel Pod"
+		1100790 84
+	outfit "Heavy Laser Turret"
+		1100770 16
+	outfit "Liquid Helium Cooler"
+		1100800 14
+	outfit "A860 Atomic Thruster"
+		1100514 1
+	outfit Ramscoop
+		1100514 1
+		1100638 5
+	outfit `"Bufaer" Atomic Thruster`
+		1100728 6
+		1100734 3
+	outfit "Korath Warder"
+	outfit "Quantum Keystone"
+		1100746 52
+	outfit "Geode Reactor"
+	outfit "Greyhound Plasma Thruster"
+	outfit "Systems Core (Medium)"
+	outfit "Small Heat Shunt"
+	outfit "Fuel Processor"
+	outfit "Korath Repeater Rifle"
+	outfit "Steering (Planetary Class)"
+	outfit "Engine Expansion"
+		1100514 1
+		1100638 23
+	outfit "Capsule Bunk Room"
+		1100720 5
+		1100728 8
+		1100734 9
+		1100760 3
+	outfit "A125 Atomic Steering"
+	outfit "RT-I Radiothermal"
+	outfit "Systems Core (Large)"
+	outfit "Phoenix Lance"
+		1101053 20
+	outfit "Infrared Turret"
+		1101052 2
+	outfit "Anti-Matter Rifle"
+		1101050 13
+		1101051 15
+	outfit "Thrust Module"
+		1101053 14
+		1101054 266
+	outfit "Heat Sink"
+	outfit "Small Engine Frame"
+		1101053 14
+	outfit "Warp Drive"
+		1101053 10
+	outfit "Energy Cube"
+		1101053 470
+		1101054 294
+"stock depreciation"
+
+# What you've done:
+mission "First Contact: Wanderer"
+	name "Hai Interpreter?"
+	description "The aliens north of Hai space seem to speak the Hai language. If you can find one of the Hai who is willing to interpret, perhaps you can communicate with them."
+	landing
+	to offer
+		"First Contact: Hai: offered" != 0
+	to complete
+		"Wanderers: Diplomacy: offered" != 0
+	destination "Vara K'chrai"
+	on offer
+		log
+			"Discovered a birdlike alien species to the north of human space. They appear to speak the Hai language in addition to their own, so with the help of a Hai interpreter it might be possible to communicate with them."
+		conversation
+			label 0
+			branch 4 1
+				"First Contact: Wanderer (Before Hai): offered" != 0
+			label 1
+			"All the other worlds belonging to this species have appeared unwilling to let you land, but here you find a slightly warmer welcome. A cloud of small, highly maneuverable patrol ships takes off from the planet as you approach and herds you onto one particular landing pad where, after a few minutes, several of the aliens approach your ship."
+			"	This species is birdlike, but with bodies nearly as large as yours, and with wings that tower above you. They come swooping down from the sky, circle your ship to inspect it, and then land near the hatch and wait for you to open it. They do not appear to be armed, but their talons are three or four inches long."
+			"	Hesitantly, you open your hatch and greet them. One of the aliens speaks to you: a chirping, clicking noise. You have no idea what it is saying."
+				goto 2
+			label 2
+			choice
+				`	"Hello. I come in peace."`
+					goto 3
+				`	"My name is <first>. I am glad to meet you."`
+					goto 3
+			label 3
+			`	The alien leans forward as you speak, as if trying to decipher your words. "Iyik'ka'ak kareek elik, ek karu karai kavet," it says. You shake your head to indicate that you do not understand, and again try to speak to it in your own language. Again it leans forward as if deeply focused on what you are saying.`
+				goto 5
+			label 4
+			"As before, you are ushered to the ground by a flock of the small alien ships, and a few of them fly over to your ship and wait for your to come out and try to talk to them. Also as before, you do not recognize their language and they do not understand yours, although their leader seems to be focused intently on trying to understand you."
+				goto 5
+			label 5
+			`	The other aliens standing beside it are inspecting you with equal curiosity. Finally, one of them says to the leader, "Ek kalek kiro suk i'hai, sek speru siyek ka'hai esek'ru fer'ek." The leader gestures in response, turning up open palms, and the second alien steps forward and begins speaking in an entirely different language. After a moment, you are startled to realize that it is speaking the language of the Hai.`
+			`	"Hai, you speak the Hai language?" you ask. You cup your hands above your ears to mimic the large, rodent-like ears of the Hai.`
+			`	"Iy, ka'hai!" says the alien, rustling its wings in what you take as a gesture of excitement, "Speru ek ka'hai?" At the same time, though, one of the other aliens takes a step back and flexes its talons at you. It occurs to you that the Hai may or may not be viewed favorably here.`
+				goto 6
+			label 6
+			choice
+				`	"Sorry, I don't speak their language."`
+					goto 7
+				`	"Are there any Hai here?"`
+					goto 7
+			label 7
+			"	The same alien speaks again, pantomiming your ship flying into the sky and then returning, and then points to your airlock and mimics your rodent-ear gesture for the Hai. You think it is telling you to go find one of the Hai who can serve as an interpreter, and bring them back here."
+				accept
+mission "Drak guarding Void Sprites"
+	name "Drak guarding Void Sprites"
+	invisible
+	landing
+	destination "New Boston"
+	npc
+		succeed 128
+		government Drak
+		personality
+			confusion 10
+			heroic
+			staying
+			vindictive
+		ship Archon
+			name "Sleeping Dragon"
+			noun entity
+			sprite ship/archon
+				"frame rate" 0.86999997
+			"never disabled"
+			attributes
+				category "Heavy Warship"
+				cost 1000000000
+				mass 1000
+				bunks 1
+				cloak 0.04
+				drag 27
+				"energy capacity" 10000
+				"energy generation" 500
+				"engine capacity" 200
+				"fuel capacity" 800
+				"gun ports" 1
+				"heat dissipation" 40
+				"heat generation" 17
+				hull 1000000
+				"hull energy" 100
+				"hull repair rate" 100
+				"outfit space" 800
+				ramscoop 100
+				"required crew" 1
+				"shield energy" 100
+				"shield generation" 100
+				shields 4000000
+				"turret mounts" 8
+				"weapon capacity" 600
+			outfits
+				Hyperdrive
+				"Jump Drive"
+				"Medium Graviton Thruster"
+				"Medium Graviton Steering"
+				"Drak Draining Field"
+				"Drak Turret" 3
+				"Drak Anti-Missile Field" 2
+				"Drak Antimatter Cannon"
+				"Drak Distancer" 2
+			crew 1
+			fuel 800.74779
+			shields 4000000
+			hull 1000000
+			position -658.08208 318.21754
+			engine -17 92 1
+			engine 17 92 1
+			gun 0 -74 "Drak Antimatter Cannon"
+			turret 0 -10 "Drak Anti-Missile Field"
+			turret 0 -10 "Drak Anti-Missile Field"
+			turret 0 -10 "Drak Draining Field"
+			turret -40 -13 "Drak Turret"
+			turret 40 -13 "Drak Turret"
+			turret 0 81 "Drak Turret"
+			turret -55 16 "Drak Distancer"
+			turret 55 16 "Drak Distancer"
+			explode "nuke explosion" 3
+			"final explode" "final explosion large" 1
+			system Nenia
+mission "Drak guarding Sayaiban"
+	name "Drak guarding Sayaiban"
+	invisible
+	landing
+	destination "New Boston"
+	npc
+		succeed 128
+		government Drak
+		personality
+			confusion 10
+			heroic
+			staying
+			vindictive
+		ship Archon
+			name "Watchful Gravetender"
+			noun entity
+			sprite ship/archon
+				"frame rate" 0.86999997
+			"never disabled"
+			attributes
+				category "Heavy Warship"
+				cost 1000000000
+				mass 1000
+				bunks 1
+				drag 27
+				"energy capacity" 10000
+				"energy generation" 500
+				"engine capacity" 200
+				"fuel capacity" 800
+				"gun ports" 1
+				"heat dissipation" 40
+				"heat generation" 17
+				hull 1000000
+				"hull energy" 100
+				"hull repair rate" 100
+				"outfit space" 800
+				ramscoop 100
+				"required crew" 1
+				"shield energy" 100
+				"shield generation" 100
+				shields 4000000
+				"turret mounts" 8
+				"weapon capacity" 600
+			outfits
+				Hyperdrive
+				"Jump Drive"
+				"Medium Graviton Thruster"
+				"Medium Graviton Steering"
+				"Drak Draining Field"
+				"Drak Turret" 3
+				"Drak Anti-Missile Field" 2
+				"Drak Antimatter Cannon"
+				"Drak Distancer" 2
+			crew 1
+			fuel 800.34279
+			shields 4000000
+			hull 1000000
+			position -1834.218 2568.5994
+			engine -17 92 1
+			engine 17 92 1
+			gun 0 -74 "Drak Antimatter Cannon"
+			turret 0 -10 "Drak Anti-Missile Field"
+			turret 0 -10 "Drak Anti-Missile Field"
+			turret 0 -10 "Drak Draining Field"
+			turret -40 -13 "Drak Turret"
+			turret 40 -13 "Drak Turret"
+			turret 0 81 "Drak Turret"
+			turret -55 16 "Drak Distancer"
+			turret 55 16 "Drak Distancer"
+			explode "nuke explosion" 3
+			"final explode" "final explosion large" 1
+			system Sayaiban
+	on enter Sayaiban
+		log Factions Archons
+			"Archons consider it to be their job to enforce peace and to prevent extinction. If they are unable to prevent a species from driving itself extinct, they will still try to preserve some of what that species created as a memorial to them."
+			"They are capable of communicating telepathically."
+		conversation
+			label 0
+			`A voice says, "This system is off limits. You should leave."`
+			"	After a second, you realize that the voice did not come from your communications equipment. In fact, now that you think about it, you're not sure if it was an audible voice, or just something in your head."
+				goto 1
+			label 1
+			choice
+				"	(Ignore it.)"
+					goto 2
+				`	"Why should I leave?"`
+					goto 4
+				`	"You can't tell me what to do."`
+					goto 4
+			label 2
+			`	"You should leave." The thought repeats itself, insistently. Either you're going crazy, or a creature is communicating with you telepathically.`
+				goto 3
+			label 3
+			choice
+				`	"Why should I leave?"`
+					goto 4
+				`	"You can't tell me what to do."`
+					goto 4
+			label 4
+			`	You feel as if a vast and patient creature has just heaved an immense sigh. "Human, you would do well not to ignore the warning of an Archon. I am here to warn off those who might be harmed by the swarm intelligence that infests this system. If you remain here long your ship will be digested by the swarm."`
+			`	You recall that "Archon" is what Drak ships are called.`
+				goto 5
+			label 5
+			choice
+				`	"What do you mean, 'digested'?"`
+					goto 6
+				`	"What is a 'swarm intelligence'?"`
+					goto 7
+			label 6
+			`	"I mean that your ship will be broken down into its component parts." You notice, as the voice says this, that your shields are registering small energy bursts, as if they are being struck by invisible weapons.`
+			`	"What is this swarm?" you ask.`
+				goto 7
+			label 7
+			`	"Self-replicating miniature robots," the voice replies. "A weapon created by the Korath, the last of their great abominations. If you wish to feed your ship to the swarm, I will not stop you, but they already possess enough raw material here without your assistance." The voice's tone, inasmuch as a disembodied imaginary voice can be said to have a tone, is sardonic.`
+				goto 8
+			label 8
+			choice
+				`	"Okay, okay, I'll get out of here."`
+					goto 12
+				`	"Wait, I have more questions."`
+					goto 9
+			label 9
+			`	"Yes?"`
+			`	You ask, "Why don't you just destroy the swarm, if it is so dangerous?"`
+			`	The voice says, "Because if the Korath manage to drive themselves extinct, this intelligence will be their last and greatest surviving creation, and we will preserve it as a living memorial to them. Please do not interfere here." When the voice speaks the phrase, "drive themselves extinct," the words are accompanied by an emotion that you cannot put a name to.`
+			"	Also, the empty space around your ship is beginning to light up with small sparks, like an angry swarm of fireflies."
+				goto 10
+			label 10
+			choice
+				`	"Well, it's an honor to meet you. I'll be leaving now."`
+					goto 12
+				`	"Why do you care if they go extinct?"`
+					goto 11
+			label 11
+			`	"Our directive is to enforce peace and prevent extinction," says the voice. As before, the words "prevent extinction" echo loud in your mind as if underlined by a nameless emotion. "Now, enough questions," says the voice.`
+				goto 12
+			label 12
+			"	The presence inside your head seems to fall away, and you are left talking to thin air."
+				decline
+mission "Drak guarding Korath space"
+	name "Drak guarding Korath space"
+	invisible
+	landing
+	destination "New Boston"
+	npc
+		succeed 128
+		government Drak
+		personality
+			confusion 10
+			heroic
+			staying
+			vindictive
+		ship Archon
+			name "Kasiliri's Folly"
+			noun entity
+			sprite ship/archon
+				"frame rate" 0.86999997
+			"never disabled"
+			attributes
+				category "Heavy Warship"
+				cost 1000000000
+				mass 1000
+				bunks 1
+				drag 27
+				"energy capacity" 10000
+				"energy generation" 500
+				"engine capacity" 200
+				"fuel capacity" 800
+				"gun ports" 1
+				"heat dissipation" 40
+				"heat generation" 17
+				hull 1000000
+				"hull energy" 100
+				"hull repair rate" 100
+				"outfit space" 800
+				ramscoop 100
+				"required crew" 1
+				"shield energy" 100
+				"shield generation" 100
+				shields 4000000
+				"turret mounts" 8
+				"weapon capacity" 600
+			outfits
+				Hyperdrive
+				"Jump Drive"
+				"Medium Graviton Thruster"
+				"Medium Graviton Steering"
+				"Drak Draining Field"
+				"Drak Turret" 3
+				"Drak Anti-Missile Field" 2
+				"Drak Antimatter Cannon"
+				"Drak Distancer" 2
+			crew 1
+			fuel 802.00148
+			shields 4000000
+			hull 1000000
+			position -1209.6689 1402.6691
+			engine -17 92 1
+			engine 17 92 1
+			gun 0 -74 "Drak Antimatter Cannon"
+			turret 0 -10 "Drak Anti-Missile Field"
+			turret 0 -10 "Drak Anti-Missile Field"
+			turret 0 -10 "Drak Draining Field"
+			turret -40 -13 "Drak Turret"
+			turret 40 -13 "Drak Turret"
+			turret 0 81 "Drak Turret"
+			turret -55 16 "Drak Distancer"
+			turret 55 16 "Drak Distancer"
+			explode "nuke explosion" 3
+			"final explode" "final explosion large" 1
+			system Fasitopfar
+	npc
+		succeed 128
+		government Drak
+		personality
+			confusion 10
+			heroic
+			staying
+			vindictive
+		ship Archon
+			name "Sword of Eden"
+			noun entity
+			sprite ship/archon
+				"frame rate" 0.86999997
+			"never disabled"
+			attributes
+				category "Heavy Warship"
+				cost 1000000000
+				mass 1000
+				bunks 1
+				drag 27
+				"energy capacity" 10000
+				"energy generation" 500
+				"engine capacity" 200
+				"fuel capacity" 800
+				"gun ports" 1
+				"heat dissipation" 40
+				"heat generation" 17
+				hull 1000000
+				"hull energy" 100
+				"hull repair rate" 100
+				"outfit space" 800
+				ramscoop 100
+				"required crew" 1
+				"shield energy" 100
+				"shield generation" 100
+				shields 4000000
+				"turret mounts" 8
+				"weapon capacity" 600
+			outfits
+				Hyperdrive
+				"Jump Drive"
+				"Medium Graviton Thruster"
+				"Medium Graviton Steering"
+				"Drak Draining Field"
+				"Drak Turret" 3
+				"Drak Anti-Missile Field" 2
+				"Drak Antimatter Cannon"
+				"Drak Distancer" 2
+			crew 1
+			fuel 801.92479
+			shields 4000000
+			hull 1000000
+			position -1122.6645 1658.9273
+			engine -17 92 1
+			engine 17 92 1
+			gun 0 -74 "Drak Antimatter Cannon"
+			turret 0 -10 "Drak Anti-Missile Field"
+			turret 0 -10 "Drak Anti-Missile Field"
+			turret 0 -10 "Drak Draining Field"
+			turret -40 -13 "Drak Turret"
+			turret 40 -13 "Drak Turret"
+			turret 0 81 "Drak Turret"
+			turret -55 16 "Drak Distancer"
+			turret 55 16 "Drak Distancer"
+			explode "nuke explosion" 3
+			"final explode" "final explosion large" 1
+			system Kasikfar
+	npc
+		succeed 128
+		government Drak
+		personality
+			confusion 10
+			heroic
+			staying
+			vindictive
+		ship Archon
+			name "Snows of Far Door Nai"
+			noun entity
+			sprite ship/archon
+				"frame rate" 0.86999997
+			"never disabled"
+			attributes
+				category "Heavy Warship"
+				cost 1000000000
+				mass 1000
+				bunks 1
+				drag 27
+				"energy capacity" 10000
+				"energy generation" 500
+				"engine capacity" 200
+				"fuel capacity" 800
+				"gun ports" 1
+				"heat dissipation" 40
+				"heat generation" 17
+				hull 1000000
+				"hull energy" 100
+				"hull repair rate" 100
+				"outfit space" 800
+				ramscoop 100
+				"required crew" 1
+				"shield energy" 100
+				"shield generation" 100
+				shields 4000000
+				"turret mounts" 8
+				"weapon capacity" 600
+			outfits
+				Hyperdrive
+				"Jump Drive"
+				"Medium Graviton Thruster"
+				"Medium Graviton Steering"
+				"Drak Draining Field"
+				"Drak Turret" 3
+				"Drak Anti-Missile Field" 2
+				"Drak Antimatter Cannon"
+				"Drak Distancer" 2
+			crew 1
+			fuel 802.0731
+			shields 4000000
+			hull 1000000
+			position -538.48743 1637.6584
+			engine -17 92 1
+			engine 17 92 1
+			gun 0 -74 "Drak Antimatter Cannon"
+			turret 0 -10 "Drak Anti-Missile Field"
+			turret 0 -10 "Drak Anti-Missile Field"
+			turret 0 -10 "Drak Draining Field"
+			turret -40 -13 "Drak Turret"
+			turret 40 -13 "Drak Turret"
+			turret 0 81 "Drak Turret"
+			turret -55 16 "Drak Distancer"
+			turret 55 16 "Drak Distancer"
+			explode "nuke explosion" 3
+			"final explode" "final explosion large" 1
+			system Peresedersi
+mission "Bounty Hunting (Marauder IV)"
+	name "Hunt down Lost Slash"
+	description "A Marauder vessel named Lost Slash, leading a small fleet, has been attacking merchants near the Betelgeuse system. Destroy the whole fleet and return to Prime for payment (425,000 credits)."
+	job
+	repeat 0
+	to offer
+		"combat rating" > 1550
+		or
+			random < 5
+			and
+				"combat rating" < 2700
+				random < 30
+	destination Prime
+	npc
+		succeed 128
+		government Bounty
+		personality
+			confusion 10
+			heroic
+			nemesis
+			staying
+			target
+		dialog
+			"The Lost Slash and their fleet have been eliminated. You can claim the bounty payment by returning to Prime in the Betelgeuse system."
+		ship "Marauder Quicksilver"
+			name "Lost Slash"
+			sprite ship/mquicksilvers
+			attributes
+				category "Light Warship"
+				cost 1200000
+				mass 140
+				bunks 7
+				"cargo space" 5
+				drag 2.7
+				"engine capacity" 75
+				"fuel capacity" 400
+				"gun ports" 2
+				"heat dissipation" 0.8
+				hull 900
+				"outfit space" 265
+				"required crew" 4
+				"self destruct" 0.25
+				shields 3500
+				"turret mounts" 1
+				"weapon capacity" 65
+			outfits
+				Hyperdrive
+				"Heavy Laser" 2
+				"Heavy Anti-Missile Turret"
+				"LP036a Battery Pack"
+				"Liquid Nitrogen Cooler"
+				"S-270 Regenerator"
+				"Fission Reactor"
+				"Laser Rifle"
+				"Security Station" 3
+				"A250 Atomic Thruster"
+				"A375 Atomic Steering"
+			cargo
+				commodities
+					Food 4
+			crew 5
+			fuel 400.00128
+			shields 3500
+			hull 900
+			position -1080.8369 -1876.6343
+			engine -16 52 1
+			engine 16 52 1
+			gun -7 -39 "Heavy Laser"
+			gun 7 -39 "Heavy Laser"
+			turret 0 15 "Heavy Anti-Missile Turret"
+			explode "tiny explosion" 12
+			explode "small explosion" 16
+			"final explode" "final explosion small" 1
+			system Phact
+		ship "Marauder Raven"
+			name "No More Masters"
+			sprite ship/mravens
+			attributes
+				category "Light Warship"
+				cost 2250000
+				mass 145
+				bunks 14
+				"cargo space" 20
+				drag 3.7
+				"engine capacity" 110
+				"fuel capacity" 500
+				"gun ports" 4
+				"heat dissipation" 0.8
+				hull 1600
+				"outfit space" 310
+				"required crew" 7
+				"self destruct" 0.25
+				shields 5200
+				"turret mounts" 1
+				"weapon capacity" 105
+			outfits
+				Hyperdrive
+				"Outfits Expansion"
+				Supercapacitor 3
+				"Heavy Laser" 4
+				"Heavy Laser Turret"
+				Afterburner
+				"Liquid Nitrogen Cooler"
+				"S-270 Regenerator"
+				"Breeder Reactor"
+				"A250 Atomic Thruster"
+				"A375 Atomic Steering"
+			crew 14
+			fuel 500.00194
+			shields 5200
+			hull 1600
+			position 1307.1895 -518.50859
+			engine -12 45 1
+			engine 12 45 1
+			gun -10 -33 "Heavy Laser"
+			gun 10 -33 "Heavy Laser"
+			gun -16 -28 "Heavy Laser"
+			gun 16 -28 "Heavy Laser"
+			turret 0 -19 "Heavy Laser Turret"
+			explode "tiny explosion" 28
+			explode "small explosion" 40
+			explode "medium explosion" 24
+			explode "large explosion" 16
+			"final explode" "final explosion small" 1
+			system Phact
+		ship "Marauder Splinter"
+			name Shocksludge
+			sprite ship/msplinterw
+			attributes
+				category "Medium Warship"
+				cost 3400000
+				mass 275
+				bunks 22
+				"cargo space" 40
+				drag 4
+				"engine capacity" 110
+				"fuel capacity" 600
+				"gun ports" 4
+				"heat dissipation" 0.7
+				hull 1950
+				"outfit space" 450
+				"required crew" 14
+				"self destruct" 0.25
+				shields 5700
+				"turret mounts" 3
+				"weapon capacity" 180
+			outfits
+				Hyperdrive
+				"Quad Blaster Turret" 2
+				"Heavy Anti-Missile Turret"
+				"LP036a Battery Pack"
+				"Plasma Cannon" 4
+				"D23-QP Shield Generator"
+				"Liquid Nitrogen Cooler"
+				"Fusion Reactor"
+				"Laser Rifle" 20
+				"Security Station" 2
+				"A525 Atomic Steering"
+				"A250 Atomic Thruster"
+			cargo
+				commodities
+					Food 19
+			crew 22
+			fuel 600.00213
+			shields 5700
+			hull 1950
+			position -476.93963 1175.5292
+			engine -14 112 1
+			engine 14 112 1
+			gun -7.5 -98 "Plasma Cannon"
+			gun 7.5 -98 "Plasma Cannon"
+			gun -15 -82 "Plasma Cannon"
+			gun 15 -82 "Plasma Cannon"
+			turret -17 -28 "Quad Blaster Turret"
+			turret 0 -28 "Heavy Anti-Missile Turret"
+			turret 17 -28 "Quad Blaster Turret"
+			explode "tiny explosion" 18
+			explode "small explosion" 36
+			explode "medium explosion" 24
+			explode "large explosion" 8
+			"final explode" "final explosion medium" 1
+			system Phact
+	on complete
+		dialog
+			"The government of Prime gratefully pays you 425,000 credits for eliminating the Lost Slash and their fleet."
+		payment 425000
+mission "Bounty Hunting (Small)"
+	name "Hunt down Ghost of Fury"
+	description "A pirate vessel named Ghost of Fury has been attacking merchants near the Betelgeuse system. Destroy it and return to Prime for payment (150,000 credits)."
+	job
+	repeat 0
+	to offer
+		"combat rating" > 300
+		random < 40
+	destination Prime
+	npc
+		succeed 128
+		government Bounty
+		personality
+			confusion 10
+			heroic
+			nemesis
+			staying
+			target
+		dialog
+			"The Ghost of Fury has been eliminated. You can claim the bounty payment by returning to Prime in the Betelgeuse system."
+		ship Firebird
+			name "Ghost of Fury"
+			sprite ship/firebird
+			attributes
+				category "Medium Warship"
+				cost 3700000
+				mass 290
+				bunks 22
+				"cargo space" 50
+				drag 4.5
+				"engine capacity" 100
+				"fuel capacity" 400
+				"gun ports" 4
+				"heat dissipation" 0.6
+				hull 2800
+				"outfit space" 400
+				"required crew" 7
+				shields 6400
+				"turret mounts" 2
+				"weapon capacity" 160
+			outfits
+				Hyperdrive
+				"Outfits Expansion"
+				"Heavy Laser Turret" 2
+				"Impala Plasma Thruster"
+				"Meteor Missile" 70
+				"Meteor Missile Launcher" 2
+				Torpedo 60
+				"Torpedo Launcher" 2
+				"LP072a Battery Pack"
+				"D94-YV Shield Generator"
+				"Fission Reactor"
+				"A375 Atomic Steering"
+			cargo
+				commodities
+					Food 10
+					"Luxury Goods" 13
+					Medical 1
+			crew 10
+			fuel 400.00232
+			shields 6400
+			hull 2800
+			position -479.06519 -240.46844
+			engine -33 65 1
+			engine 33 65 1
+			gun -28 -27 "Meteor Missile Launcher"
+			gun 28 -27 "Meteor Missile Launcher"
+			gun -39 -13 "Torpedo Launcher"
+			gun 39 -13 "Torpedo Launcher"
+			turret -5 3 "Heavy Laser Turret"
+			turret 5 3 "Heavy Laser Turret"
+			explode "tiny explosion" 18
+			explode "small explosion" 36
+			explode "medium explosion" 24
+			explode "large explosion" 8
+			"final explode" "final explosion medium" 1
+			system Saiph
+	on complete
+		dialog
+			"The government of Prime gratefully pays you 150,000 credits for eliminating the Ghost of Fury."
+		payment 150000
+mission "Bounty Hunting (Marauder IV)"
+	name "Hunt down No Life"
+	description "A Marauder vessel named No Life, leading a small fleet, has been attacking merchants near the Cor Caroli system. Destroy the whole fleet and return to Heartland for payment (425,000 credits)."
+	job
+	repeat 0
+	to offer
+		"combat rating" > 1550
+		or
+			random < 5
+			and
+				"combat rating" < 2700
+				random < 30
+	destination Heartland
+	npc
+		succeed 128
+		government Bounty
+		personality
+			confusion 10
+			heroic
+			nemesis
+			staying
+			target
+		dialog
+			"The No Life and their fleet have been eliminated. You can claim the bounty payment by returning to Heartland in the Cor Caroli system."
+		ship "Marauder Quicksilver"
+			name "No Life"
+			sprite ship/mquicksilvers
+			attributes
+				category "Light Warship"
+				cost 1200000
+				mass 140
+				bunks 7
+				"cargo space" 5
+				drag 2.7
+				"engine capacity" 75
+				"fuel capacity" 400
+				"gun ports" 2
+				"heat dissipation" 0.8
+				hull 900
+				"outfit space" 265
+				"required crew" 4
+				"self destruct" 0.25
+				shields 3500
+				"turret mounts" 1
+				"weapon capacity" 65
+			outfits
+				Hyperdrive
+				"Heavy Laser" 2
+				"Heavy Anti-Missile Turret"
+				"LP036a Battery Pack"
+				"Liquid Nitrogen Cooler"
+				"S-270 Regenerator"
+				"Fission Reactor"
+				"Laser Rifle"
+				"Security Station" 3
+				"A250 Atomic Thruster"
+				"A375 Atomic Steering"
+			cargo
+				commodities
+					Metal 4
+			crew 6
+			fuel 400.00069
+			shields 3500
+			hull 900
+			position 1347.7764 -1165.2633
+			engine -16 52 1
+			engine 16 52 1
+			gun -7 -39 "Heavy Laser"
+			gun 7 -39 "Heavy Laser"
+			turret 0 15 "Heavy Anti-Missile Turret"
+			explode "tiny explosion" 12
+			explode "small explosion" 16
+			"final explode" "final explosion small" 1
+			system Sarin
+		ship "Marauder Raven"
+			name "Fat Bell"
+			sprite ship/mravens
+			attributes
+				category "Light Warship"
+				cost 2250000
+				mass 145
+				bunks 14
+				"cargo space" 20
+				drag 3.7
+				"engine capacity" 110
+				"fuel capacity" 500
+				"gun ports" 4
+				"heat dissipation" 0.8
+				hull 1600
+				"outfit space" 310
+				"required crew" 7
+				"self destruct" 0.25
+				shields 5200
+				"turret mounts" 1
+				"weapon capacity" 105
+			outfits
+				Hyperdrive
+				"Outfits Expansion"
+				Supercapacitor 3
+				"Heavy Laser" 4
+				"Heavy Laser Turret"
+				Afterburner
+				"Liquid Nitrogen Cooler"
+				"S-270 Regenerator"
+				"Breeder Reactor"
+				"A250 Atomic Thruster"
+				"A375 Atomic Steering"
+			crew 13
+			fuel 500.00158
+			shields 5200
+			hull 1600
+			position 655.51506 -30.500364
+			engine -12 45 1
+			engine 12 45 1
+			gun -10 -33 "Heavy Laser"
+			gun 10 -33 "Heavy Laser"
+			gun -16 -28 "Heavy Laser"
+			gun 16 -28 "Heavy Laser"
+			turret 0 -19 "Heavy Laser Turret"
+			explode "tiny explosion" 28
+			explode "small explosion" 40
+			explode "medium explosion" 24
+			explode "large explosion" 16
+			"final explode" "final explosion small" 1
+			system Sarin
+		ship "Marauder Firebird"
+			name "Horns of Wrath"
+			sprite ship/mfirebirds
+			attributes
+				category "Medium Warship"
+				cost 4100000
+				mass 350
+				bunks 25
+				"cargo space" 20
+				drag 4.5
+				"engine capacity" 110
+				"fuel capacity" 400
+				"gun ports" 4
+				"heat dissipation" 0.6
+				hull 3000
+				"outfit space" 450
+				"required crew" 10
+				"self destruct" 0.25
+				shields 7000
+				"turret mounts" 2
+				"weapon capacity" 175
+			outfits
+				Hyperdrive
+				"Outfits Expansion"
+				Supercapacitor
+				"Heavy Laser Turret"
+				"Heavy Anti-Missile Turret"
+				"S-970 Regenerator"
+				"Liquid Helium Cooler"
+				"Plasma Cannon" 4
+				"Fusion Reactor"
+				"Laser Rifle" 25
+				"A525 Atomic Steering"
+				"A250 Atomic Thruster"
+			crew 17
+			fuel 400.00039
+			shields 7000
+			hull 3000
+			position 2734.8215 -1471.0602
+			engine -32 62 1
+			engine 32 62 1
+			gun -27 -32 "Plasma Cannon"
+			gun 27 -32 "Plasma Cannon"
+			gun -38 -18 "Plasma Cannon"
+			gun 38 -18 "Plasma Cannon"
+			turret -5 3 "Heavy Laser Turret"
+			turret 5 3 "Heavy Anti-Missile Turret"
+			explode "tiny explosion" 18
+			explode "small explosion" 36
+			explode "medium explosion" 24
+			explode "large explosion" 8
+			"final explode" "final explosion medium" 1
+			system Sarin
+	on complete
+		dialog
+			"The government of Heartland gratefully pays you 425,000 credits for eliminating the No Life and their fleet."
+		payment 425000
+mission "Bounty Hunting (Marauder V)"
+	name "Hunt down Morfran the Flayed"
+	description "A Marauder vessel named Morfran the Flayed, leading a small fleet, has been attacking merchants near the Cor Caroli system. Destroy the whole fleet and return to Heartland for payment (450,000 credits)."
+	job
+	repeat 0
+	to offer
+		"combat rating" > 2000
+		or
+			random < 5
+			and
+				"combat rating" < 3500
+				random < 25
+	destination Heartland
+	npc
+		succeed 128
+		government Bounty
+		personality
+			confusion 10
+			heroic
+			nemesis
+			staying
+			target
+		dialog
+			"The Morfran the Flayed and their fleet have been eliminated. You can claim the bounty payment by returning to Heartland in the Cor Caroli system."
+		ship "Marauder Quicksilver"
+			name "Morfran the Flayed"
+			sprite ship/mquicksilvers
+			attributes
+				category "Light Warship"
+				cost 1200000
+				mass 140
+				bunks 7
+				"cargo space" 5
+				drag 2.7
+				"engine capacity" 75
+				"fuel capacity" 400
+				"gun ports" 2
+				"heat dissipation" 0.8
+				hull 900
+				"outfit space" 265
+				"required crew" 4
+				"self destruct" 0.25
+				shields 3500
+				"turret mounts" 1
+				"weapon capacity" 65
+			outfits
+				Hyperdrive
+				"Heavy Laser" 2
+				"Heavy Anti-Missile Turret"
+				"LP036a Battery Pack"
+				"Liquid Nitrogen Cooler"
+				"S-270 Regenerator"
+				"Fission Reactor"
+				"Laser Rifle"
+				"Security Station" 3
+				"A250 Atomic Thruster"
+				"A375 Atomic Steering"
+			cargo
+				commodities
+					Electronics 5
+			crew 4
+			fuel 400.00251
+			shields 3500
+			hull 900
+			position -1304.0029 -407.13845
+			engine -16 52 1
+			engine 16 52 1
+			gun -7 -39 "Heavy Laser"
+			gun 7 -39 "Heavy Laser"
+			turret 0 15 "Heavy Anti-Missile Turret"
+			explode "tiny explosion" 12
+			explode "small explosion" 16
+			"final explode" "final explosion small" 1
+			system Ipsing
+		ship "Marauder Raven"
+			name "Omen of Contagion"
+			sprite ship/mravens
+			attributes
+				category "Light Warship"
+				cost 2250000
+				mass 145
+				bunks 14
+				"cargo space" 20
+				drag 3.7
+				"engine capacity" 110
+				"fuel capacity" 500
+				"gun ports" 4
+				"heat dissipation" 0.8
+				hull 1600
+				"outfit space" 310
+				"required crew" 7
+				"self destruct" 0.25
+				shields 5200
+				"turret mounts" 1
+				"weapon capacity" 105
+			outfits
+				Hyperdrive
+				"Outfits Expansion"
+				Supercapacitor 3
+				"Heavy Laser" 4
+				"Heavy Laser Turret"
+				Afterburner
+				"Liquid Nitrogen Cooler"
+				"S-270 Regenerator"
+				"Breeder Reactor"
+				"A250 Atomic Thruster"
+				"A375 Atomic Steering"
+			crew 8
+			fuel 500.00282
+			shields 5200
+			hull 1600
+			position -848.56465 -865.21184
+			engine -12 45 1
+			engine 12 45 1
+			gun -10 -33 "Heavy Laser"
+			gun 10 -33 "Heavy Laser"
+			gun -16 -28 "Heavy Laser"
+			gun 16 -28 "Heavy Laser"
+			turret 0 -19 "Heavy Laser Turret"
+			explode "tiny explosion" 28
+			explode "small explosion" 40
+			explode "medium explosion" 24
+			explode "large explosion" 16
+			"final explode" "final explosion small" 1
+			system Ipsing
+		ship "Marauder Splinter"
+			name "Bart the Grotesque"
+			sprite ship/msplintere
+			attributes
+				category "Medium Warship"
+				cost 3400000
+				mass 275
+				bunks 22
+				"cargo space" 40
+				drag 4
+				"engine capacity" 130
+				"fuel capacity" 600
+				"gun ports" 2
+				"heat dissipation" 0.7
+				hull 1950
+				"outfit space" 450
+				"required crew" 14
+				"self destruct" 0.25
+				shields 5700
+				"turret mounts" 3
+				"weapon capacity" 165
+			outfits
+				Hyperdrive
+				"Water Coolant System"
+				"Quad Blaster Turret" 2
+				"Heavy Anti-Missile Turret"
+				"LP036a Battery Pack"
+				"Plasma Cannon" 2
+				"D67-TM Shield Generator"
+				"Liquid Nitrogen Cooler"
+				"Fusion Reactor"
+				"A370 Atomic Thruster"
+				"Laser Rifle" 21
+				"Security Station"
+				"A525 Atomic Steering"
+			cargo
+				commodities
+					Equipment 31
+			crew 21
+			fuel 600.00989
+			shields 5700
+			hull 1950
+			position -52.567247 12.945654
+			engine -15 114 0.7
+			engine 0 118 1
+			engine 15 114 0.7
+			gun -15 -82 "Plasma Cannon"
+			gun 15 -82 "Plasma Cannon"
+			turret -17 -28 "Quad Blaster Turret"
+			turret 0 -28 "Heavy Anti-Missile Turret"
+			turret 17 -28 "Quad Blaster Turret"
+			explode "tiny explosion" 18
+			explode "small explosion" 36
+			explode "medium explosion" 24
+			explode "large explosion" 8
+			"final explode" "final explosion medium" 1
+			system Ipsing
+	on complete
+		dialog
+			"The government of Heartland gratefully pays you 450,000 credits for eliminating the Morfran the Flayed and their fleet."
+		payment 450000
+mission "Bounty Hunting (Marauder VI)"
+	name "Hunt down Seth the Red"
+	description "A Marauder vessel named Seth the Red, leading a small fleet, has been attacking merchants near the Cor Caroli system. Destroy the whole fleet and return to Heartland for payment (475,000 credits)."
+	job
+	repeat 0
+	to offer
+		"combat rating" > 2500
+		or
+			random < 5
+			and
+				"combat rating" < 5000
+				random < 20
+	destination Heartland
+	npc
+		succeed 128
+		government Bounty
+		personality
+			confusion 10
+			heroic
+			nemesis
+			staying
+			target
+		dialog
+			"The Seth the Red and their fleet have been eliminated. You can claim the bounty payment by returning to Heartland in the Cor Caroli system."
+		ship "Marauder Quicksilver"
+			name "Seth the Red"
+			sprite ship/mquicksilvers
+			attributes
+				category "Light Warship"
+				cost 1200000
+				mass 140
+				bunks 7
+				"cargo space" 5
+				drag 2.7
+				"engine capacity" 75
+				"fuel capacity" 400
+				"gun ports" 2
+				"heat dissipation" 0.8
+				hull 900
+				"outfit space" 265
+				"required crew" 4
+				"self destruct" 0.25
+				shields 3500
+				"turret mounts" 1
+				"weapon capacity" 65
+			outfits
+				Hyperdrive
+				"Heavy Laser" 2
+				"Heavy Anti-Missile Turret"
+				"LP036a Battery Pack"
+				"Liquid Nitrogen Cooler"
+				"S-270 Regenerator"
+				"Fission Reactor"
+				"Laser Rifle"
+				"Security Station" 3
+				"A250 Atomic Thruster"
+				"A375 Atomic Steering"
+			cargo
+				commodities
+					"Luxury Goods" 2
+			crew 7
+			fuel 400.00047
+			shields 3500
+			hull 900
+			position 2314.8476 -1157.9676
+			engine -16 52 1
+			engine 16 52 1
+			gun -7 -39 "Heavy Laser"
+			gun 7 -39 "Heavy Laser"
+			turret 0 15 "Heavy Anti-Missile Turret"
+			explode "tiny explosion" 12
+			explode "small explosion" 16
+			"final explode" "final explosion small" 1
+			system Sarin
+		ship "Marauder Raven"
+			name "Ahriman the Cold"
+			sprite ship/mravens
+			attributes
+				category "Light Warship"
+				cost 2250000
+				mass 145
+				bunks 14
+				"cargo space" 20
+				drag 3.7
+				"engine capacity" 110
+				"fuel capacity" 500
+				"gun ports" 4
+				"heat dissipation" 0.8
+				hull 1600
+				"outfit space" 310
+				"required crew" 7
+				"self destruct" 0.25
+				shields 5200
+				"turret mounts" 1
+				"weapon capacity" 105
+			outfits
+				Hyperdrive
+				"Outfits Expansion"
+				Supercapacitor 3
+				"Heavy Laser" 4
+				"Heavy Laser Turret"
+				Afterburner
+				"Liquid Nitrogen Cooler"
+				"S-270 Regenerator"
+				"Breeder Reactor"
+				"A250 Atomic Thruster"
+				"A375 Atomic Steering"
+			crew 9
+			fuel 500.00042
+			shields 5200
+			hull 1600
+			position 2515.7543 -1372.2135
+			engine -12 45 1
+			engine 12 45 1
+			gun -10 -33 "Heavy Laser"
+			gun 10 -33 "Heavy Laser"
+			gun -16 -28 "Heavy Laser"
+			gun 16 -28 "Heavy Laser"
+			turret 0 -19 "Heavy Laser Turret"
+			explode "tiny explosion" 28
+			explode "small explosion" 40
+			explode "medium explosion" 24
+			explode "large explosion" 16
+			"final explode" "final explosion small" 1
+			system Sarin
+		ship "Marauder Manta"
+			name "Dracula's Vandal"
+			sprite ship/mmantas
+			attributes
+				category "Medium Warship"
+				cost 3740000
+				mass 195
+				bunks 11
+				"cargo space" 10
+				drag 4.7
+				"engine capacity" 110
+				"fuel capacity" 400
+				"gun ports" 6
+				"heat dissipation" 0.8
+				hull 1750
+				"outfit space" 390
+				"required crew" 7
+				"self destruct" 0.25
+				shields 6500
+				"turret mounts" 1
+				"weapon capacity" 155
+			outfits
+				Hyperdrive
+				"Quad Blaster Turret"
+				"Particle Cannon" 2
+				"Plasma Cannon" 2
+				"Meteor Missile" 70
+				"Meteor Missile Launcher" 2
+				"Liquid Nitrogen Cooler"
+				"D14-RN Shield Generator"
+				"LP144a Battery Pack"
+				"Laser Rifle" 8
+				"Security Station" 3
+				"A525 Atomic Steering"
+				"A250 Atomic Thruster"
+				"Dwarf Core"
+			cargo
+				commodities
+					Clothing 2
+			crew 8
+			fuel 400.00148
+			shields 6500
+			hull 1750
+			position 567.37635 -447.62018
+			engine -33 38 1
+			engine 33 38 1
+			gun -66 -30 "Meteor Missile Launcher"
+			gun 66 -30 "Meteor Missile Launcher"
+			gun -27 -30 "Plasma Cannon"
+			gun 27 -30 "Plasma Cannon"
+			gun -20 -30 "Particle Cannon"
+			gun 20 -30 "Particle Cannon"
+			turret 0 -29 "Quad Blaster Turret"
+			explode "tiny explosion" 10
+			explode "small explosion" 20
+			explode "medium explosion" 15
+			"final explode" "final explosion medium" 1
+			system Sarin
+	on complete
+		dialog
+			"The government of Heartland gratefully pays you 475,000 credits for eliminating the Seth the Red and their fleet."
+		payment 475000
+mission "Bounty Hunting (Big)"
+	name "Hunt down Fractured Mother"
+	description "A pirate vessel named Fractured Mother has been attacking merchants near the Zubeneschamali system. Destroy it and return to Zug for payment (250,000 credits)."
+	job
+	repeat 0
+	to offer
+		"combat rating" > 500
+		random < 20
+	destination Zug
+	npc
+		succeed 128
+		government Bounty
+		personality
+			confusion 10
+			heroic
+			nemesis
+			staying
+			target
+		dialog
+			"The Fractured Mother has been eliminated. You can claim the bounty payment by returning to Zug in the Zubeneschamali system."
+		ship Leviathan
+			name "Fractured Mother"
+			sprite ship/leviathan
+			attributes
+				category "Heavy Warship"
+				cost 9800000
+				mass 480
+				bunks 64
+				"cargo space" 80
+				drag 7.6
+				"engine capacity" 120
+				"fuel capacity" 500
+				"gun ports" 4
+				"heat dissipation" 0.5
+				hull 5000
+				"outfit space" 620
+				"required crew" 43
+				shields 14400
+				"turret mounts" 4
+				"weapon capacity" 240
+			outfits
+				"Heavy Laser Turret" 4
+				"LP036a Battery Pack"
+				"Scram Drive"
+				Ramscoop
+				"Impala Plasma Thruster"
+				Afterburner
+				"Meteor Missile" 70
+				"Meteor Missile Launcher" 2
+				Torpedo 60
+				"Torpedo Launcher" 2
+				"Liquid Nitrogen Cooler"
+				"D94-YV Shield Generator" 2
+				"Breeder Reactor"
+				"A375 Atomic Steering"
+			cargo
+				commodities
+					Clothing 2
+					Equipment 39
+					Medical 30
+			crew 55
+			fuel 500.01879
+			shields 14400
+			hull 5000
+			position -1707.8926 -1621.683
+			engine -25 125 1
+			engine 25 125 1
+			gun -39 -33 "Meteor Missile Launcher"
+			gun 39 -33 "Meteor Missile Launcher"
+			gun -51 -21 "Torpedo Launcher"
+			gun 51 -21 "Torpedo Launcher"
+			turret -15 -50 "Heavy Laser Turret"
+			turret 15 -50 "Heavy Laser Turret"
+			turret -25 10 "Heavy Laser Turret"
+			turret 25 10 "Heavy Laser Turret"
+			explode "tiny explosion" 18
+			explode "small explosion" 36
+			explode "medium explosion" 24
+			explode "large explosion" 8
+			"final explode" "final explosion large" 1
+			system Kochab
+	on complete
+		dialog
+			"The government of Zug gratefully pays you 250,000 credits for eliminating the Fractured Mother."
+		payment 250000
+mission "Bounty Hunting (Medium)"
+	name "Hunt down Psychotic Beauty"
+	description "A pirate vessel named Psychotic Beauty has been attacking merchants near the Zubeneschamali system. Destroy it and return to Zug for payment (200,000 credits)."
+	job
+	repeat 0
+	to offer
+		"combat rating" > 400
+		random < 20
+	destination Zug
+	npc
+		succeed 128
+		government Bounty
+		personality
+			confusion 10
+			heroic
+			nemesis
+			staying
+			target
+		dialog
+			"The Psychotic Beauty has been eliminated. You can claim the bounty payment by returning to Zug in the Zubeneschamali system."
+		ship Firebird
+			name "Psychotic Beauty"
+			sprite ship/firebird
+			attributes
+				category "Medium Warship"
+				cost 3700000
+				mass 290
+				bunks 22
+				"cargo space" 50
+				drag 4.5
+				"engine capacity" 100
+				"fuel capacity" 400
+				"gun ports" 4
+				"heat dissipation" 0.6
+				hull 2800
+				"outfit space" 400
+				"required crew" 7
+				shields 6400
+				"turret mounts" 2
+				"weapon capacity" 160
+			outfits
+				Hyperdrive
+				"Outfits Expansion"
+				"Quad Blaster Turret" 2
+				"LP036a Battery Pack"
+				"Plasma Cannon" 4
+				"LP072a Battery Pack"
+				"Liquid Nitrogen Cooler"
+				"D41-HY Shield Generator"
+				"X3700 Ion Thruster"
+				"Breeder Reactor"
+				"A375 Atomic Steering"
+			cargo
+				commodities
+					Electronics 1
+					Medical 14
+					Metal 9
+			crew 10
+			fuel 400.00122
+			shields 6400
+			hull 2800
+			position -775.2471 -992.95316
+			engine -33 65 1
+			engine 33 65 1
+			gun -28 -27 "Plasma Cannon"
+			gun 28 -27 "Plasma Cannon"
+			gun -39 -13 "Plasma Cannon"
+			gun 39 -13 "Plasma Cannon"
+			turret -5 3 "Quad Blaster Turret"
+			turret 5 3 "Quad Blaster Turret"
+			explode "tiny explosion" 18
+			explode "small explosion" 36
+			explode "medium explosion" 24
+			explode "large explosion" 8
+			"final explode" "final explosion medium" 1
+			system Kochab
+	on complete
+		dialog
+			"The government of Zug gratefully pays you 200,000 credits for eliminating the Psychotic Beauty."
+		payment 200000
+mission "Bounty Hunting (Marauder VIII)"
+	name "Hunt down Rasputin the Fallen"
+	description "A Marauder vessel named Rasputin the Fallen, leading a small fleet, has been attacking merchants near the Delta Capricorni system. Destroy the whole fleet and return to Maker for payment (550,000 credits)."
+	job
+	repeat 0
+	to offer
+		"combat rating" > 4000
+		random < 15
+	destination Maker
+	npc
+		succeed 128
+		government Bounty
+		personality
+			confusion 10
+			heroic
+			nemesis
+			staying
+			target
+		dialog
+			"The Rasputin the Fallen and their fleet have been eliminated. You can claim the bounty payment by returning to Maker in the Delta Capricorni system."
+		ship Osprey
+			name "Rasputin the Fallen"
+			sprite ship/osprey
+			attributes
+				category "Medium Warship"
+				cost 4400000
+				mass 270
+				bunks 24
+				"cargo space" 40
+				drag 6.1
+				"engine capacity" 130
+				"fuel capacity" 600
+				"gun ports" 4
+				"heat dissipation" 0.8
+				hull 1600
+				"outfit space" 450
+				"required crew" 9
+				shields 7200
+				"turret mounts" 2
+				"weapon capacity" 180
+			outfits
+				Hyperdrive
+				Supercapacitor 4
+				"Water Coolant System"
+				"Heavy Laser" 4
+				"Heavy Laser Turret" 2
+				"LP036a Battery Pack"
+				"Impala Plasma Thruster"
+				"D94-YV Shield Generator"
+				"Breeder Reactor"
+				"X4200 Ion Steering"
+			cargo
+				commodities
+					Medical 4
+			crew 19
+			fuel 600.0041
+			shields 7200
+			hull 1600
+			position 346.21256 -674.89895
+			engine -40 67 1
+			engine 40 67 1
+			gun -8 -100 "Heavy Laser"
+			gun 8 -100 "Heavy Laser"
+			gun -26 -53 "Heavy Laser"
+			gun 26 -53 "Heavy Laser"
+			turret -16 -16 "Heavy Laser Turret"
+			turret 16 -16 "Heavy Laser Turret"
+			explode "tiny explosion" 28
+			explode "small explosion" 40
+			explode "medium explosion" 24
+			explode "large explosion" 16
+			"final explode" "final explosion medium" 1
+			system "Alpha Centauri"
+		ship Osprey
+			name "Good Fortune"
+			sprite ship/osprey
+			attributes
+				category "Medium Warship"
+				cost 4400000
+				mass 270
+				bunks 24
+				"cargo space" 40
+				drag 6.1
+				"engine capacity" 130
+				"fuel capacity" 600
+				"gun ports" 4
+				"heat dissipation" 0.8
+				hull 1600
+				"outfit space" 450
+				"required crew" 9
+				shields 7200
+				"turret mounts" 2
+				"weapon capacity" 180
+			outfits
+				Hyperdrive
+				Supercapacitor 3
+				"Water Coolant System"
+				"Heavy Laser Turret" 2
+				"Heavy Rocket" 40
+				"Heavy Rocket Launcher" 2
+				"LP036a Battery Pack"
+				Torpedo 60
+				"Torpedo Launcher" 2
+				"D41-HY Shield Generator"
+				"A520 Atomic Thruster"
+				"Breeder Reactor"
+				"A375 Atomic Steering"
+			cargo
+				commodities
+					Medical 2
+			crew 16
+			fuel 600.00135
+			shields 7200
+			hull 1600
+			position 2569.3857 -99.658888
+			engine -40 67 1
+			engine 40 67 1
+			gun -8 -100 "Heavy Rocket Launcher"
+			gun 8 -100 "Heavy Rocket Launcher"
+			gun -26 -53 "Torpedo Launcher"
+			gun 26 -53 "Torpedo Launcher"
+			turret -16 -16 "Heavy Laser Turret"
+			turret 16 -16 "Heavy Laser Turret"
+			explode "tiny explosion" 28
+			explode "small explosion" 40
+			explode "medium explosion" 24
+			explode "large explosion" 16
+			"final explode" "final explosion medium" 1
+			system "Alpha Centauri"
+		ship Osprey
+			name "Stolen Time"
+			sprite ship/osprey
+			attributes
+				category "Medium Warship"
+				cost 4400000
+				mass 270
+				bunks 24
+				"cargo space" 40
+				drag 6.1
+				"engine capacity" 130
+				"fuel capacity" 600
+				"gun ports" 4
+				"heat dissipation" 0.8
+				hull 1600
+				"outfit space" 450
+				"required crew" 9
+				shields 7200
+				"turret mounts" 2
+				"weapon capacity" 180
+			outfits
+				Hyperdrive
+				"Quad Blaster Turret" 2
+				"Liquid Helium Cooler"
+				"Impala Plasma Thruster"
+				"Impala Plasma Steering"
+				"Plasma Cannon" 4
+				"LP072a Battery Pack"
+				"Small Radar Jammer" 2
+				"D41-HY Shield Generator"
+				"Breeder Reactor"
+			cargo
+				commodities
+					Equipment 12
+			crew 11
+			fuel 600.00111
+			shields 7200
+			hull 1600
+			position 3049.0298 629.38218
+			engine -40 67 1
+			engine 40 67 1
+			gun -8 -100 "Plasma Cannon"
+			gun 8 -100 "Plasma Cannon"
+			gun -26 -53 "Plasma Cannon"
+			gun 26 -53 "Plasma Cannon"
+			turret -16 -16 "Quad Blaster Turret"
+			turret 16 -16 "Quad Blaster Turret"
+			leak leak 40 50
+			leak flame 80 80
+			leak "big leak" 80 30
+			explode "tiny explosion" 28
+			explode "small explosion" 40
+			explode "medium explosion" 24
+			explode "large explosion" 16
+			"final explode" "final explosion medium" 1
+			system "Alpha Centauri"
+		ship "Marauder Falcon"
+			name "Tower of Poison"
+			sprite ship/mfalcons
+			attributes
+				category "Heavy Warship"
+				cost 13900000
+				mass 560
+				bunks 80
+				"cargo space" 60
+				drag 6.7
+				"engine capacity" 165
+				"fuel capacity" 600
+				"gun ports" 4
+				"heat dissipation" 0.8
+				hull 4100
+				"outfit space" 580
+				"required crew" 43
+				"self destruct" 0.15
+				shields 14100
+				"turret mounts" 4
+				"weapon capacity" 265
+			outfits
+				Hyperdrive
+				"Outfits Expansion" 3
+				"Modified Blaster Turret" 4
+				"Liquid Helium Cooler"
+				"Large Radar Jammer"
+				"Plasma Cannon" 4
+				"D67-TM Shield Generator"
+				"Fusion Reactor"
+				"Laser Rifle" 80
+				"A520 Atomic Thruster"
+				"A525 Atomic Steering"
+				"LP288a Battery Pack"
+			crew 75
+			fuel 600.00084
+			shields 14100
+			hull 4100
+			position 4058.8093 20.635849
+			engine -16 143 1
+			engine 16 143 1
+			gun -16 -89 "Plasma Cannon"
+			gun 16 -89 "Plasma Cannon"
+			gun -16 -89 "Plasma Cannon"
+			gun 16 -89 "Plasma Cannon"
+			turret -16 -25 "Modified Blaster Turret"
+			turret 16 -25 "Modified Blaster Turret"
+			turret -57 32.5 "Modified Blaster Turret"
+			turret 57 32.5 "Modified Blaster Turret"
+			explode "tiny explosion" 40
+			explode "small explosion" 55
+			explode "medium explosion" 60
+			explode "large explosion" 40
+			"final explode" "final explosion large" 1
+			system "Alpha Centauri"
+	on complete
+		dialog
+			"The government of Maker gratefully pays you 550,000 credits for eliminating the Rasputin the Fallen and their fleet."
+		payment 550000
+mission "Bounty Hunting (Medium)"
+	name "Hunt down Nosferatu the Evil"
+	description "A pirate vessel named Nosferatu the Evil has been attacking merchants near the Delta Capricorni system. Destroy it and return to Maker for payment (200,000 credits)."
+	job
+	repeat 0
+	to offer
+		"combat rating" > 400
+		random < 20
+	destination Maker
+	npc
+		succeed 128
+		government Bounty
+		personality
+			confusion 10
+			heroic
+			nemesis
+			staying
+			target
+		dialog
+			"The Nosferatu the Evil has been eliminated. You can claim the bounty payment by returning to Maker in the Delta Capricorni system."
+		ship Bastion
+			name "Nosferatu the Evil"
+			sprite ship/bastion
+			attributes
+				category "Medium Warship"
+				cost 3560000
+				mass 580
+				bunks 40
+				"cargo space" 110
+				drag 10.3
+				"engine capacity" 120
+				"fuel capacity" 500
+				"gun ports" 4
+				"heat dissipation" 0.5
+				hull 4200
+				"outfit space" 470
+				"required crew" 17
+				shields 6700
+				"turret mounts" 3
+				"weapon capacity" 180
+			outfits
+				Hyperdrive
+				"Outfits Expansion" 2
+				"Quad Blaster Turret" 3
+				"Plasma Cannon" 4
+				"LP072a Battery Pack"
+				"D67-TM Shield Generator"
+				"Liquid Nitrogen Cooler"
+				"Fusion Reactor"
+				"X3700 Ion Thruster"
+				"Orca Plasma Steering"
+			cargo
+				commodities
+					Electronics 12
+					Equipment 56
+					Metal 2
+			crew 32
+			fuel 500.00042
+			shields 6700
+			hull 4200
+			position -2645.5537 5294.4234
+			engine -28 85 1
+			engine 28 85 1
+			gun -54 -14 "Plasma Cannon"
+			gun 54 -14 "Plasma Cannon"
+			gun -54 -14 "Plasma Cannon"
+			gun 54 -14 "Plasma Cannon"
+			turret 0 0 "Quad Blaster Turret"
+			turret -30 14 "Quad Blaster Turret"
+			turret 30 14 "Quad Blaster Turret"
+			explode "tiny explosion" 5
+			explode "small explosion" 15
+			explode "medium explosion" 30
+			explode "large explosion" 20
+			"final explode" "final explosion medium" 1
+			system Alderamin
+	on complete
+		dialog
+			"The government of Maker gratefully pays you 200,000 credits for eliminating the Nosferatu the Evil."
+		payment 200000
+mission "Bounty Hunting (Big)"
+	name "Hunt down Garzad's Murder"
+	description "A pirate vessel named Garzad's Murder has been attacking merchants near the Schedar system. Destroy it and return to Amazon for payment (250,000 credits)."
+	job
+	repeat 0
+	to offer
+		"combat rating" > 500
+		random < 20
+	destination Amazon
+	npc
+		succeed 128
+		government Bounty
+		personality
+			confusion 10
+			heroic
+			nemesis
+			staying
+			target
+		dialog
+			"The Garzad's Murder has been eliminated. You can claim the bounty payment by returning to Amazon in the Schedar system."
+		ship Leviathan
+			name "Garzad's Murder"
+			sprite ship/leviathan
+			attributes
+				category "Heavy Warship"
+				cost 9800000
+				mass 480
+				bunks 64
+				"cargo space" 80
+				drag 7.6
+				"engine capacity" 120
+				"fuel capacity" 500
+				"gun ports" 4
+				"heat dissipation" 0.5
+				hull 5000
+				"outfit space" 620
+				"required crew" 43
+				shields 14400
+				"turret mounts" 4
+				"weapon capacity" 240
+			outfits
+				Hyperdrive
+				"Quad Blaster Turret" 4
+				"Particle Cannon" 4
+				"Liquid Helium Cooler"
+				"D67-TM Shield Generator"
+				"Fusion Reactor"
+				"LP144a Battery Pack"
+				"X3700 Ion Thruster"
+				"X4200 Ion Steering"
+			cargo
+				commodities
+					Clothing 5
+					Electronics 51
+					Equipment 16
+			crew 57
+			fuel 500.00114
+			shields 14400
+			hull 5000
+			position -693.13212 2324.0362
+			engine -25 125 1
+			engine 25 125 1
+			gun -39 -33 "Particle Cannon"
+			gun 39 -33 "Particle Cannon"
+			gun -51 -21 "Particle Cannon"
+			gun 51 -21 "Particle Cannon"
+			turret -15 -50 "Quad Blaster Turret"
+			turret 15 -50 "Quad Blaster Turret"
+			turret -25 10 "Quad Blaster Turret"
+			turret 25 10 "Quad Blaster Turret"
+			leak leak 50 50
+			leak flame 30 80
+			leak "big leak" 60 30
+			explode "tiny explosion" 18
+			explode "small explosion" 36
+			explode "medium explosion" 24
+			explode "large explosion" 8
+			"final explode" "final explosion large" 1
+			system Alpheratz
+	on complete
+		dialog
+			"The government of Amazon gratefully pays you 250,000 credits for eliminating the Garzad's Murder."
+		payment 250000
+mission "Bounty Hunting (Marauder VIII)"
+	name "Hunt down Grim Hydra"
+	description "A Marauder vessel named Grim Hydra, leading a small fleet, has been attacking merchants near the Schedar system. Destroy the whole fleet and return to Amazon for payment (550,000 credits)."
+	job
+	repeat 0
+	to offer
+		"combat rating" > 4000
+		random < 15
+	destination Amazon
+	npc
+		succeed 128
+		government Bounty
+		personality
+			confusion 10
+			heroic
+			nemesis
+			staying
+			target
+		dialog
+			"The Grim Hydra and their fleet have been eliminated. You can claim the bounty payment by returning to Amazon in the Schedar system."
+		ship Osprey
+			name "Grim Hydra"
+			sprite ship/osprey
+			attributes
+				category "Medium Warship"
+				cost 4400000
+				mass 270
+				bunks 24
+				"cargo space" 40
+				drag 6.1
+				"engine capacity" 130
+				"fuel capacity" 600
+				"gun ports" 4
+				"heat dissipation" 0.8
+				hull 1600
+				"outfit space" 450
+				"required crew" 9
+				shields 7200
+				"turret mounts" 2
+				"weapon capacity" 180
+			outfits
+				Hyperdrive
+				Supercapacitor 4
+				"Water Coolant System"
+				"Heavy Laser" 4
+				"Heavy Laser Turret" 2
+				"LP036a Battery Pack"
+				"Impala Plasma Thruster"
+				"D94-YV Shield Generator"
+				"Breeder Reactor"
+				"X4200 Ion Steering"
+			cargo
+				commodities
+					Metal 9
+			crew 17
+			fuel 600.00193
+			shields 7200
+			hull 1600
+			position -54.472707 547.73274
+			engine -40 67 1
+			engine 40 67 1
+			gun -8 -100 "Heavy Laser"
+			gun 8 -100 "Heavy Laser"
+			gun -26 -53 "Heavy Laser"
+			gun 26 -53 "Heavy Laser"
+			turret -16 -16 "Heavy Laser Turret"
+			turret 16 -16 "Heavy Laser Turret"
+			explode "tiny explosion" 28
+			explode "small explosion" 40
+			explode "medium explosion" 24
+			explode "large explosion" 16
+			"final explode" "final explosion medium" 1
+			system Markab
+		ship Osprey
+			name "Shadow Spite"
+			sprite ship/osprey
+			attributes
+				category "Medium Warship"
+				cost 4400000
+				mass 270
+				bunks 24
+				"cargo space" 40
+				drag 6.1
+				"engine capacity" 130
+				"fuel capacity" 600
+				"gun ports" 4
+				"heat dissipation" 0.8
+				hull 1600
+				"outfit space" 450
+				"required crew" 9
+				shields 7200
+				"turret mounts" 2
+				"weapon capacity" 180
+			outfits
+				Hyperdrive
+				Supercapacitor 3
+				"Water Coolant System"
+				"Heavy Laser Turret" 2
+				"Heavy Rocket" 40
+				"Heavy Rocket Launcher" 2
+				"LP036a Battery Pack"
+				Torpedo 60
+				"Torpedo Launcher" 2
+				"D41-HY Shield Generator"
+				"A520 Atomic Thruster"
+				"Breeder Reactor"
+				"A375 Atomic Steering"
+			cargo
+				commodities
+					Clothing 9
+			crew 11
+			fuel 600.00094
+			shields 7200
+			hull 1600
+			position -70.437327 -1387.0571
+			engine -40 67 1
+			engine 40 67 1
+			gun -8 -100 "Heavy Rocket Launcher"
+			gun 8 -100 "Heavy Rocket Launcher"
+			gun -26 -53 "Torpedo Launcher"
+			gun 26 -53 "Torpedo Launcher"
+			turret -16 -16 "Heavy Laser Turret"
+			turret 16 -16 "Heavy Laser Turret"
+			explode "tiny explosion" 28
+			explode "small explosion" 40
+			explode "medium explosion" 24
+			explode "large explosion" 16
+			"final explode" "final explosion medium" 1
+			system Markab
+		ship Osprey
+			name "Wounded Conquest"
+			sprite ship/osprey
+			attributes
+				category "Medium Warship"
+				cost 4400000
+				mass 270
+				bunks 24
+				"cargo space" 40
+				drag 6.1
+				"engine capacity" 130
+				"fuel capacity" 600
+				"gun ports" 4
+				"heat dissipation" 0.8
+				hull 1600
+				"outfit space" 450
+				"required crew" 9
+				shields 7200
+				"turret mounts" 2
+				"weapon capacity" 180
+			outfits
+				Hyperdrive
+				"Quad Blaster Turret" 2
+				"Liquid Helium Cooler"
+				"Impala Plasma Thruster"
+				"Impala Plasma Steering"
+				"Plasma Cannon" 4
+				"LP072a Battery Pack"
+				"Small Radar Jammer" 2
+				"D41-HY Shield Generator"
+				"Breeder Reactor"
+			cargo
+				commodities
+					Clothing 23
+			crew 12
+			fuel 600.00164
+			shields 7200
+			hull 1600
+			position -133.4981 682.18191
+			engine -40 67 1
+			engine 40 67 1
+			gun -8 -100 "Plasma Cannon"
+			gun 8 -100 "Plasma Cannon"
+			gun -26 -53 "Plasma Cannon"
+			gun 26 -53 "Plasma Cannon"
+			turret -16 -16 "Quad Blaster Turret"
+			turret 16 -16 "Quad Blaster Turret"
+			leak leak 40 50
+			leak flame 80 80
+			leak "big leak" 80 30
+			explode "tiny explosion" 28
+			explode "small explosion" 40
+			explode "medium explosion" 24
+			explode "large explosion" 16
+			"final explode" "final explosion medium" 1
+			system Markab
+		ship "Marauder Falcon"
+			name "Lost Music"
+			sprite ship/mfalconw
+			attributes
+				category "Heavy Warship"
+				cost 13900000
+				mass 560
+				bunks 80
+				"cargo space" 60
+				drag 6.7
+				"engine capacity" 165
+				"fuel capacity" 600
+				"gun ports" 6
+				"heat dissipation" 0.8
+				hull 4100
+				"outfit space" 580
+				"required crew" 43
+				"self destruct" 0.15
+				shields 14100
+				"turret mounts" 4
+				"weapon capacity" 300
+			outfits
+				Hyperdrive
+				"Outfits Expansion" 3
+				"Quad Blaster Turret" 4
+				"Liquid Helium Cooler"
+				"Large Radar Jammer"
+				"Plasma Cannon" 6
+				"Fusion Reactor"
+				"D41-HY Shield Generator"
+				"LP144a Battery Pack"
+				"A370 Atomic Thruster"
+				"Laser Rifle" 80
+				"A525 Atomic Steering"
+			crew 75
+			fuel 600.00182
+			shields 14100
+			hull 4100
+			position 597.01106 65.384448
+			engine -16 142 1
+			engine 16 142 1
+			gun -18.5 -88 "Plasma Cannon"
+			gun 18.5 -88 "Plasma Cannon"
+			gun -18.5 -88 "Plasma Cannon"
+			gun 18.5 -88 "Plasma Cannon"
+			gun -21.5 -77 "Plasma Cannon"
+			gun 21.5 -77 "Plasma Cannon"
+			turret -16 -25 "Quad Blaster Turret"
+			turret 16 -25 "Quad Blaster Turret"
+			turret -57 32.5 "Quad Blaster Turret"
+			turret 57 32.5 "Quad Blaster Turret"
+			explode "tiny explosion" 40
+			explode "small explosion" 55
+			explode "medium explosion" 60
+			explode "large explosion" 40
+			"final explode" "final explosion large" 1
+			system Markab
+	on complete
+		dialog
+			"The government of Amazon gratefully pays you 550,000 credits for eliminating the Grim Hydra and their fleet."
+		payment 550000
+mission "Bounty Hunting (Small)"
+	name "Hunt down Blade of Violation"
+	description "A pirate vessel named Blade of Violation has been attacking merchants near the Schedar system. Destroy it and return to Amazon for payment (150,000 credits)."
+	job
+	repeat 0
+	to offer
+		"combat rating" > 300
+		random < 40
+	destination Amazon
+	npc
+		succeed 128
+		government Bounty
+		personality
+			confusion 10
+			heroic
+			nemesis
+			staying
+			target
+		dialog
+			"The Blade of Violation has been eliminated. You can claim the bounty payment by returning to Amazon in the Schedar system."
+		ship Osprey
+			name "Blade of Violation"
+			sprite ship/osprey
+			attributes
+				category "Medium Warship"
+				cost 4400000
+				mass 270
+				bunks 24
+				"cargo space" 40
+				drag 6.1
+				"engine capacity" 130
+				"fuel capacity" 600
+				"gun ports" 4
+				"heat dissipation" 0.8
+				hull 1600
+				"outfit space" 450
+				"required crew" 9
+				shields 7200
+				"turret mounts" 2
+				"weapon capacity" 180
+			outfits
+				Hyperdrive
+				"Quad Blaster Turret" 2
+				"Liquid Helium Cooler"
+				"Impala Plasma Thruster"
+				"Impala Plasma Steering"
+				"Plasma Cannon" 4
+				"LP072a Battery Pack"
+				"Small Radar Jammer" 2
+				"D41-HY Shield Generator"
+				"Breeder Reactor"
+			cargo
+				commodities
+					Electronics 27
+					"Heavy Metals" 5
+					Plastic 7
+			crew 14
+			fuel 600.00389
+			shields 7200
+			hull 1600
+			position 23.730752 -24.266774
+			engine -40 67 1
+			engine 40 67 1
+			gun -8 -100 "Plasma Cannon"
+			gun 8 -100 "Plasma Cannon"
+			gun -26 -53 "Plasma Cannon"
+			gun 26 -53 "Plasma Cannon"
+			turret -16 -16 "Quad Blaster Turret"
+			turret 16 -16 "Quad Blaster Turret"
+			leak leak 40 50
+			leak flame 80 80
+			leak "big leak" 80 30
+			explode "tiny explosion" 28
+			explode "small explosion" 40
+			explode "medium explosion" 24
+			explode "large explosion" 16
+			"final explode" "final explosion medium" 1
+			system Scheat
+	on complete
+		dialog
+			"The government of Amazon gratefully pays you 150,000 credits for eliminating the Blade of Violation."
+		payment 150000
+mission "Bounty Hunting (Medium)"
+	name "Hunt down Haekati the Bloody"
+	description "A pirate vessel named Haekati the Bloody has been attacking merchants near the Polaris system. Destroy it and return to Shangri-La for payment (200,000 credits)."
+	job
+	repeat 0
+	to offer
+		"combat rating" > 400
+		random < 20
+	destination Shangri-La
+	npc
+		succeed 128
+		government Bounty
+		personality
+			confusion 10
+			heroic
+			nemesis
+			staying
+			target
+		dialog
+			"The Haekati the Bloody has been eliminated. You can claim the bounty payment by returning to Shangri-La in the Polaris system."
+		ship Firebird
+			name "Haekati the Bloody"
+			sprite ship/firebird
+			attributes
+				category "Medium Warship"
+				cost 3700000
+				mass 290
+				bunks 22
+				"cargo space" 50
+				drag 4.5
+				"engine capacity" 100
+				"fuel capacity" 400
+				"gun ports" 4
+				"heat dissipation" 0.6
+				hull 2800
+				"outfit space" 400
+				"required crew" 7
+				shields 6400
+				"turret mounts" 2
+				"weapon capacity" 160
+			outfits
+				Hyperdrive
+				"Outfits Expansion"
+				"Quad Blaster Turret" 2
+				"LP036a Battery Pack"
+				"Plasma Cannon" 4
+				"LP072a Battery Pack"
+				"Liquid Nitrogen Cooler"
+				"D41-HY Shield Generator"
+				"X3700 Ion Thruster"
+				"Breeder Reactor"
+				"A375 Atomic Steering"
+			cargo
+				commodities
+					Clothing 10
+					"Luxury Goods" 8
+					Plastic 2
+			crew 21
+			fuel 400.00077
+			shields 6400
+			hull 2800
+			position 881.50589 -1475.2167
+			engine -33 65 1
+			engine 33 65 1
+			gun -28 -27 "Plasma Cannon"
+			gun 28 -27 "Plasma Cannon"
+			gun -39 -13 "Plasma Cannon"
+			gun 39 -13 "Plasma Cannon"
+			turret -5 3 "Quad Blaster Turret"
+			turret 5 3 "Quad Blaster Turret"
+			explode "tiny explosion" 18
+			explode "small explosion" 36
+			explode "medium explosion" 24
+			explode "large explosion" 8
+			"final explode" "final explosion medium" 1
+			system Achernar
+	on complete
+		dialog
+			"The government of Shangri-La gratefully pays you 200,000 credits for eliminating the Haekati the Bloody."
+		payment 200000
+mission "Bounty Hunting (Small)"
+	name "Hunt down Overwhelming Bandit"
+	description "A pirate vessel named Overwhelming Bandit has been attacking merchants near the Polaris system. Destroy it and return to Shangri-La for payment (150,000 credits)."
+	job
+	repeat 0
+	to offer
+		"combat rating" > 300
+		random < 40
+	destination Shangri-La
+	npc
+		succeed 128
+		government Bounty
+		personality
+			confusion 10
+			heroic
+			nemesis
+			staying
+			target
+		dialog
+			"The Overwhelming Bandit has been eliminated. You can claim the bounty payment by returning to Shangri-La in the Polaris system."
+		ship Manta
+			name "Overwhelming Bandit"
+			sprite ship/manta
+			attributes
+				category "Medium Warship"
+				cost 3400000
+				mass 170
+				bunks 10
+				"cargo space" 20
+				drag 4.7
+				"engine capacity" 100
+				"fuel capacity" 400
+				"gun ports" 6
+				"heat dissipation" 0.8
+				hull 1500
+				"outfit space" 350
+				"required crew" 6
+				shields 5900
+				"weapon capacity" 140
+			outfits
+				Hyperdrive
+				"Particle Cannon" 4
+				"Meteor Missile" 70
+				"Meteor Missile Launcher" 2
+				"D14-RN Shield Generator"
+				"LP144a Battery Pack"
+				"X3700 Ion Thruster"
+				"X3200 Ion Steering"
+				"RT-I Radiothermal"
+			cargo
+				commodities
+					"Heavy Metals" 20
+			crew 8
+			fuel 400.00127
+			shields 5900
+			hull 1500
+			position -726.14014 -532.15697
+			engine -33 38 1
+			engine 33 38 1
+			gun -21 -35 "Particle Cannon"
+			gun 21 -35 "Particle Cannon"
+			gun -27 -35 "Particle Cannon"
+			gun 27 -35 "Particle Cannon"
+			gun -66 -32 "Meteor Missile Launcher"
+			gun 66 -32 "Meteor Missile Launcher"
+			leak leak 60 50
+			leak flame 40 80
+			explode "tiny explosion" 10
+			explode "small explosion" 20
+			explode "medium explosion" 15
+			"final explode" "final explosion small" 1
+			system "Al Dhanab"
+	on complete
+		dialog
+			"The government of Shangri-La gratefully pays you 150,000 credits for eliminating the Overwhelming Bandit."
+		payment 150000
+conditions
+	"Assisting Hai: offered"
+	"Bounty Hunting (Big): active" 2
+	"Bounty Hunting (Big): done"
+	"Bounty Hunting (Big): offered" 3
+	"Bounty Hunting (Marauder IV): active" 2
+	"Bounty Hunting (Marauder IV): offered" 2
+	"Bounty Hunting (Marauder V): active"
+	"Bounty Hunting (Marauder V): offered"
+	"Bounty Hunting (Marauder VI): active"
+	"Bounty Hunting (Marauder VI): offered"
+	"Bounty Hunting (Marauder VIII): active" 2
+	"Bounty Hunting (Marauder VIII): offered" 2
+	"Bounty Hunting (Medium): active" 3
+	"Bounty Hunting (Medium): offered" 3
+	"Bounty Hunting (Small): active" 3
+	"Bounty Hunting (Small): offered" 3
+	"Bounty Hunting: The Dread Pirate Roberts: done"
+	"Bounty Hunting: The Dread Pirate Roberts: offered"
+	"Courier 1: offered"
+	"Courier 2: offered"
+	"Courier 3: offered"
+	"Deep Archaeology 1: done"
+	"Deep Archaeology 1: offered"
+	"Deep Archaeology 2: done"
+	"Deep Archaeology 2: offered"
+	"Deep Archaeology 3: done"
+	"Deep Archaeology 3: offered"
+	"Deep Archaeology 4: done"
+	"Deep Archaeology 4: offered"
+	"Deep Archaeology 5: done"
+	"Deep Archaeology 5: offered"
+	"Discovered Hai Space: offered"
+	"Discovered Wanderer Space: offered"
+	"Drak guarding Korath space: active"
+	"Drak guarding Korath space: offered"
+	"Drak guarding Sayaiban: active"
+	"Drak guarding Sayaiban: offered"
+	"Drak guarding Void Sprites: active"
+	"Drak guarding Void Sprites: offered"
+	"Expedition to Hope 1: done"
+	"Expedition to Hope 1: offered"
+	"Expedition to Hope 2: done"
+	"Expedition to Hope 2: offered"
+	"First Contact: Hai: offered"
+	"First Contact: Quarg: offered"
+	"First Contact: Remnant: offered"
+	"First Contact: Wanderer: active"
+	"First Contact: Wanderer: offered"
+	"Guardians of Red Dwarf: done"
+	"Guardians of Red Dwarf: offered"
+	"Humanitarian 2: done"
+	"Humanitarian 2: offered"
+	"Intro [0]: done"
+	"Intro [0]: offered"
+	"Intro [1 Transport]: done"
+	"Intro [1 Transport]: offered"
+	"Kraken Reward: done"
+	"Kraken Reward: offered"
+	"Mystery retrieval: offered" 2
+	"Pact Questioning: offered"
+	"Pact Recon 0: done"
+	"Pact Recon 0: offered"
+	"Pact Recon 1: done"
+	"Pact Recon 1: offered"
+	"Pact Recon 2: done"
+	"Pact Recon 2: offered"
+	"Pact Recon 3: done"
+	"Pact Recon 3: offered"
+	"Passengers [1]: done" 2
+	"Passengers [1]: offered" 2
+	"Release the Kraken!: done"
+	"Release the Kraken!: offered"
+	"Remnant: Bounty: done" 5
+	"Remnant: Bounty: offered" 5
+	"Remnant: Defense 1: done"
+	"Remnant: Defense 1: offered"
+	"Remnant: Defense 2: done"
+	"Remnant: Defense 2: offered"
+	"Remnant: Defense 3: done"
+	"Remnant: Defense 3: offered"
+	"Remnant: Key Stones: done"
+	"Remnant: Key Stones: offered"
+	"Remnant: Technology Available: offered"
+	"Remnant: Void Sprites 1: done"
+	"Remnant: Void Sprites 1: offered"
+	"Remnant: Void Sprites 2: done"
+	"Remnant: Void Sprites 2: offered"
+	"Remnant: Void Sprites 3: done"
+	"Remnant: Void Sprites 3: offered"
+	"Southern Carriers Trigger: offered"
+	"Strike Breakers [textile]: done"
+	"Strike Breakers [textile]: offered"
+	"Terminus exploration: done"
+	"Terminus exploration: offered"
+	"Tourists back [1]: done"
+	"Tourists back [1]: offered"
+	"Tourists out [1]: done"
+	"Tourists out [1]: offered"
+	"Tourists out [2]: done"
+	"Tourists out [2]: offered"
+	"Transport farmers to <planet>: done"
+	"Transport farmers to <planet>: offered"
+	"Transport workers to <planet>: done"
+	"Transport workers to <planet>: offered"
+	"WR Star 1: done"
+	"WR Star 1: offered"
+	"armament deterrence" 169
+	"cargo attractiveness" 43
+	"cargo space" 2998
+	"combat rating" 15083
+	"credit score" 800
+	credits 179552482
+	day 2
+	"event: Kraken Reward"
+	"event: ember waste label"
+	"event: initial deployment 1"
+	"event: initial deployment 2"
+	"event: initial deployment 3"
+	"event: initial deployment 4"
+	"event: label hai space"
+	"event: label wanderer space"
+	"event: remembrance day"
+	"event: remnant: gascraft"
+	"event: remnant: nenia empty"
+	"event: remnant: nenia restored"
+	"event: remnant: surveillance begin"
+	"event: remnant: surveillance end"
+	"event: remnant: void sprite research"
+	"event: southern carriers 1"
+	"event: southern carriers 2"
+	"event: southern carriers 3"
+	"event: war begins"
+	"event: war begins: offered"
+	"license: Pilot's"
+	"license: Remnant"
+	month 8
+	"net worth" 776958924
+	"passenger space" 2312
+	"pirate attraction" -125
+	"remembrance day: offered"
+	"reputation:  Drak " -1000
+	"reputation:  Kor Mereti " -1000
+	"reputation:  Pirate " -1558
+	"reputation:  Republic " 2
+	"reputation: Alpha" -1000
+	"reputation: Author"
+	"reputation: Bad Trip" -1000
+	"reputation: Bounty" -1266
+	"reputation: Bounty Hunter" -1034
+	"reputation: Coalition"
+	"reputation: Deep" -1000
+	"reputation: Deep Security" 98
+	"reputation: Drak"
+	"reputation: Free Worlds" 197
+	"reputation: Hai" 2594
+	"reputation: Hai (Unfettered)" -6126
+	"reputation: Heliarch"
+	"reputation: Independent" 10
+	"reputation: Indigenous Lifeform"
+	"reputation: Kor Efret"
+	"reputation: Kor Mereti" -1000
+	"reputation: Kor Sestor" -1000
+	"reputation: Korath" -11451
+	"reputation: Korath Nanobots" -1000
+	"reputation: Merchant" 1087
+	"reputation: Militia" 197
+	"reputation: Navy (Oathkeeper)" 147
+	"reputation: Navy Intelligence" 147
+	"reputation: Neutral" 98
+	"reputation: Parrot"
+	"reputation: Pirate" -6244
+	"reputation: Pug"
+	"reputation: Quarg"
+	"reputation: Remnant"
+	"reputation: Republic" 147
+	"reputation: Syndicate" 2670
+	"reputation: Syndicate (Extremist)" -1000
+	"reputation: Team Blue" -1000
+	"reputation: Team Red" -1000
+	"reputation: Test Dummy" -1000
+	"reputation: Ursa Polaris" 147
+	"reputation: Wanderer"
+	"ships: Heavy Warship" 26
+	"tribute: Albatross" 400
+	"tribute: Bloodsea" 200
+	"tribute: Buccaneer Bay" 800
+	"tribute: Covert" 1300
+	"tribute: Deadman's Cove" 600
+	"tribute: Greenrock" 1800
+	"tribute: Smuggler's Den" 400
+	"tribute: Thule" 900
+	year 3015
+event
+	date 25 8 3015
+	"event: southern carriers 4" = 1
+	fleet "Large Northern Merchants"
+		fighters "free worlds fighter"
+		add variant 2
+			"Hauler III"
+			"Hauler II"
+			"Roost (Sidewinder)"
+			Dagger 2
+			Lance 2
+		add variant 2
+			"Hauler III"
+			"Hauler II"
+			"Roost (Sidewinder)"
+			"Lance (Gatling)" 2
+			Lance 2
+		add variant 2
+			Roost 3
+			Dagger 4
+			Lance 4
+			Boxwing 4
+		add variant 2
+			Roost 3
+			"Lance (Gatling)" 4
+			Lance 4
+			Boxwing 4
+	fleet "Large Southern Pirates"
+		add variant 1
+			Roost
+			Barb 4
+		add variant 1
+			Roost
+			"Barb (Gatling)" 4
+	fleet "Large Independent"
+		fighters "free worlds fighter"
+		add variant 2
+			Roost
+			Barb 4
+		add variant 2
+			Roost
+			Barb 2
+			Boxwing 2
+	fleet "Small Northern Pirates"
+		add variant 1
+			Nest
+			Lance 2
+	fleet "Large Northern Pirates"
+		add variant 1
+			Roost
+			Lance 4
+		add variant 1
+			Roost
+			"Lance (Gatling)" 4
+changes
+	system "Gamma Corvi"
+		government "Free Worlds"
+		fleet "Small Southern Merchants" 600
+		fleet "Large Southern Merchants" 1400
+		fleet "Small Free Worlds" 600
+		fleet "Large Free Worlds" 1300
+	system Spica
+		government "Free Worlds"
+	system Minkar
+		government "Free Worlds"
+	system Acrux
+		government "Free Worlds"
+	system Mimosa
+		government "Free Worlds"
+	system Kraz
+		government "Free Worlds"
+	system Izar
+		government "Free Worlds"
+	system "Zeta Centauri"
+		government "Free Worlds"
+	system Hadar
+		government "Free Worlds"
+	system Alkaid
+		government "Free Worlds"
+	system Zubeneschamali
+		government "Free Worlds"
+	system Kochab
+		government "Free Worlds"
+	system Ildaria
+		government "Free Worlds"
+	system Zubenelgenubi
+		government "Free Worlds"
+	system Sabik
+		government "Free Worlds"
+	system Unukalhai
+		government "Free Worlds"
+	system Kornephoros
+		government "Free Worlds"
+	system Sargas
+		government "Free Worlds"
+	system Lesath
+		government "Free Worlds"
+	system Aldhibain
+		government "Free Worlds"
+	system Dschubba
+		government "Free Worlds"
+	system Atria
+		government "Free Worlds"
+	system Alniyat
+		government "Free Worlds"
+	system Han
+		government "Free Worlds"
+	system Pherkad
+		government "Free Worlds"
+	system "Yed Prior"
+		government "Free Worlds"
+	system "Beta Lupi"
+		government "Free Worlds"
+	system "Kappa Centauri"
+		government "Free Worlds"
+	system Castor
+		fleet "Small Northern Merchants" 800
+		fleet "Large Northern Merchants" 1100
+		fleet "Small Republic" 800
+		fleet "Large Republic" 400
+	system Pollux
+		fleet "Small Northern Merchants" 700
+		fleet "Large Northern Merchants" 1100
+		fleet "Small Republic" 700
+		fleet "Large Republic" 900
+	system Vega
+		fleet "Small Northern Merchants" 1000
+		fleet "Large Northern Merchants" 4000
+		fleet "Small Republic" 900
+		fleet "Large Republic" 1000
+	system Denebola
+		fleet "Small Northern Merchants" 1000
+		fleet "Large Northern Merchants" 3000
+		fleet "Small Republic" 700
+		fleet "Large Republic" 900
+	system Merak
+		fleet "Small Northern Merchants" 1500
+		fleet "Large Northern Merchants" 4000
+		fleet "Small Republic" 1100
+		fleet "Large Republic" 1300
+	planet Geminus
+		description "Until recently, Geminus was home to the Republic Navy Yard, the largest shipyard in human space. Now, there is nothing left of the shipyard but a gaping crater in the ground, from the recent terrorist bombing."
+		spaceport "Fortunately, the spaceport and residential areas survived the bombing, which was focused only on the Navy yard and happened early in the morning, when very few people were at work."
+		spaceport "The Navy officers who are in charge here have no time for anyone who is not enlisted in the Navy and participating in the ongoing investigation."
+		shipyard clear
+		outfitter clear
+		"required reputation" 100
+	planet Martini
+		description "Martini is a world of exotic beaches and perfect weather. The Republic's central bank and the galactic stock exchange were previously headquartered here, before a terrorist attack destroyed them and a large portion of the capital city as well."
+		"required reputation" 100
+		security .9
+	planet Bourne
+		description "Bourne is a well-developed industrial world that was first settled four centuries ago. Its cities are home to some of the richest individuals in this section of the galaxy, but also home to tens of thousands of homeless people, and many others whose factory jobs are barely providing enough to make ends meet."
+		description "Bourne is also the seat of government for the newly formed Coalition of Free Worlds."
+	system Spica
+		fleet "Small Southern Merchants" 1200
+		fleet "Large Southern Merchants" 1700
+		fleet "Small Free Worlds" 800
+		fleet "Large Free Worlds" 1500
+	system Minkar
+		fleet "Small Southern Merchants" 700
+		fleet "Large Southern Merchants" 1500
+		fleet "Small Free Worlds" 700
+		fleet "Large Free Worlds" 1200
+	system Mimosa
+		fleet "Small Southern Merchants" 1200
+		fleet "Large Southern Merchants" 2300
+		fleet "Small Free Worlds" 1200
+		fleet "Large Free Worlds" 1900
+	system Kraz
+		fleet "Small Southern Merchants" 900
+		fleet "Large Southern Merchants" 1600
+		fleet "Small Free Worlds" 700
+		fleet "Large Free Worlds" 900
+	system Acrux
+		fleet "Small Southern Merchants" 500
+		fleet "Large Southern Merchants" 800
+		fleet "Small Free Worlds" 700
+		fleet "Large Free Worlds" 1100
+		fleet "Human Miners" 5000
+	system "Tania Australis"
+		fleet "Small Northern Merchants" 1400
+		fleet "Large Northern Merchants" 2900
+		fleet "Small Republic" 600
+		fleet "Large Republic" 400
+		fleet "Navy Surveillance" 2000
+	planet Ingot
+		description "Ingot is a volcanic moon, totally unsuitable for life but rich in metal. The miners who work here must spend all their time inside pressurized buildings. Because Ingot has almost no atmosphere to slow them down, meteorites are a constant danger to the colonists. The shells of the buildings have multiple layers, designed to be self-sealing in any but the largest of impacts. Most of the mining is done remotely by robotic vehicles, but someone still needs to be present to control them and to make repairs when something goes wrong."
+		description "Ingot is also now home to a burgeoning Navy base, although since the planet is so unlivable most of the troops are just living in ships in orbit."
+	system Fala
+		fleet "Small Northern Merchants" 1900
+		fleet "Large Northern Merchants" 3500
+		fleet "Small Republic" 600
+		fleet "Large Republic" 400
+		fleet "Small Northern Pirates" 4000
+		fleet "Large Northern Pirates" 8000
+		fleet "Navy Surveillance" 2000
+	system Phecda
+		fleet "Small Northern Merchants" 900
+		fleet "Small Southern Merchants" 1100
+		fleet "Small Republic" 900
+		fleet "Large Republic" 1100
+		fleet "Navy Surveillance" 2000
+	system Algorel
+		fleet "Small Southern Merchants" 800
+		fleet "Large Southern Merchants" 1200
+		fleet "Small Republic" 700
+		fleet "Large Republic" 500
+		fleet "Small Southern Pirates" 2500
+		fleet "Large Southern Pirates" 8000
+		fleet "Navy Surveillance" 2000
+	planet "New Wales"
+		description "New Wales is home to a few mining outposts which extract and refine rare earth minerals and heavy metals. It is dangerous work: the mines are deep underground and prone to noxious gases and cave-ins, and the refineries work with molten radioactive materials and caustic chemicals. Due to the somewhat dim light of the star Algorel, and the cloudiness of the atmosphere, this is not a good world for farming, and the population remains quite small."
+		description "The Republic Navy has planted a base on New Wales: so far, just a densely packed cluster of prefabricated barracks and infirmary buildings on the outskirts of one of the mining colonies."
+	system Porrima
+		fleet "Small Southern Merchants" 1400
+		fleet "Large Southern Merchants" 4000
+		fleet "Small Republic" 1200
+		fleet "Large Republic" 1800
+		fleet "Small Southern Pirates" 9000
+		fleet "Navy Surveillance" 2000
+	system Ipsing
+		fleet "Small Southern Merchants" 2800
+		fleet "Large Southern Merchants" 7000
+		fleet "Small Republic" 2500
+		fleet "Large Republic" 4000
+		fleet "Small Southern Pirates" 5000
+		fleet "Navy Surveillance" 2000
+	system Mizar
+		fleet "Small Southern Merchants" 1400
+		fleet "Large Southern Merchants" 4500
+		fleet "Small Republic" 1000
+		fleet "Large Republic" 1400
+		fleet "Small Southern Pirates" 9000
+		fleet "Navy Surveillance" 2000
+	system Muphrid
+		fleet "Small Southern Merchants" 1200
+		fleet "Large Southern Merchants" 4800
+		fleet "Small Republic" 1100
+		fleet "Large Republic" 1900
+		fleet "Small Southern Pirates" 9000
+		fleet "Navy Surveillance" 2000
+	system Menkent
+		fleet "Small Southern Merchants" 700
+		fleet "Large Southern Merchants" 1900
+		fleet "Small Republic" 500
+		fleet "Large Republic" 600
+		fleet "Navy Surveillance" 2000
+		fleet "Human Miners" 2000
+	planet "New Austria"
+		description "New Austria is a rugged mountain world, full of snow-capped peaks and valleys so deep and so steep that they rarely see sunlight. The few settlements that have been built here were developed for mining sapphires and rubies; the sapphires found in New Austria range from blue to yellow to black to clear in color, and are used both for industrial abrasives and for jewelry."
+		description "The Navy has recently requisitioned one of the abandoned mining towns and begun refurbishing it for a secure military base, with the mining tunnels used as deep underground bunkers."
+	planet Martini
+		"required reputation" 10
+	system Izar
+		fleet "Small Southern Merchants" 500
+		fleet "Large Southern Merchants" 1500
+		fleet "Small Free Worlds" 700
+		fleet "Large Free Worlds" 1000
+	system "Zeta Centauri"
+		fleet "Small Southern Merchants" 700
+		fleet "Large Southern Merchants" 1700
+		fleet "Small Free Worlds" 1200
+		fleet "Large Free Worlds" 2000
+		fleet "Small Southern Pirates" 6000
+		fleet "Large Southern Pirates" 9000
+	system Hadar
+		fleet "Small Southern Merchants" 400
+		fleet "Large Southern Merchants" 600
+		fleet "Small Free Worlds" 600
+		fleet "Large Free Worlds" 1100
+	system Alkaid
+		fleet "Small Southern Merchants" 1200
+		fleet "Large Southern Merchants" 4000
+		fleet "Small Free Worlds" 6000
+		fleet "Large Free Worlds" 10000
+		fleet "Small Southern Pirates" 4000
+		fleet "Large Southern Pirates" 8000
+	system Zubeneschamali
+		fleet "Small Southern Merchants" 500
+		fleet "Large Southern Merchants" 1000
+		fleet "Small Free Worlds" 1400
+		fleet "Large Free Worlds" 2400
+		fleet "Small Southern Pirates" 4000
+		fleet "Large Southern Pirates" 5000
+	system Kochab
+		fleet "Small Southern Merchants" 1800
+		fleet "Large Southern Merchants" 5000
+		fleet "Small Southern Pirates" 6000
+		fleet "Small Free Worlds" 5000
+	system Ildaria
+		fleet "Small Southern Merchants" 900
+		fleet "Large Southern Merchants" 1800
+		fleet "Small Free Worlds" 2200
+		fleet "Large Free Worlds" 3600
+		fleet "Small Southern Pirates" 4000
+		fleet "Large Southern Pirates" 7000
+	system Mora
+		fleet "Small Southern Merchants" 2800
+		fleet "Large Southern Merchants" 5000
+		fleet "Small Southern Pirates" 3000
+		fleet "Large Southern Pirates" 4000
+		fleet "Small Republic" 1000
+		fleet "Large Republic" 2000
+		fleet "Navy Surveillance" 1600
+	system "Delta Velorum"
+		fleet "Small Southern Merchants" 1000
+		fleet "Large Southern Merchants" 3000
+		fleet "Small Southern Pirates" 2000
+		fleet "Large Southern Pirates" 5000
+		fleet "Small Republic" 1600
+		fleet "Large Republic" 2400
+		fleet "Navy Surveillance" 1600
+	system Turais
+		fleet "Small Southern Merchants" 2000
+		fleet "Large Southern Merchants" 6000
+		fleet "Small Southern Pirates" 3000
+		fleet "Large Southern Pirates" 7000
+		fleet "Small Republic" 1000
+		fleet "Large Republic" 1800
+		fleet "Navy Surveillance" 1600
+	system Gacrux
+		fleet "Small Southern Merchants" 2000
+		fleet "Large Southern Merchants" 5000
+		fleet "Small Southern Pirates" 2000
+		fleet "Large Southern Pirates" 4000
+		fleet "Small Republic" 2000
+		fleet "Large Republic" 3000
+		fleet "Navy Surveillance" 1600
+	system "Cor Caroli"
+		fleet "Small Southern Merchants" 700
+		fleet "Large Southern Merchants" 1300
+		fleet "Small Southern Pirates" 2000
+		fleet "Small Republic" 1200
+		fleet "Large Republic" 1800
+		fleet "Navy Surveillance" 1600
+	system Muhlifain
+		fleet "Small Southern Merchants" 1000
+		fleet "Large Southern Merchants" 3500
+		fleet "Small Southern Pirates" 6000
+		fleet "Small Republic" 3000
+		fleet "Large Republic" 4000
+		fleet "Navy Surveillance" 1600
+	system Vindemiatrix
+		fleet "Small Southern Merchants" 600
+		fleet "Large Southern Merchants" 3000
+		fleet "Small Southern Pirates" 2000
+		fleet "Large Southern Pirates" 4000
+		fleet "Small Republic" 2000
+		fleet "Large Republic" 3000
+		fleet "Navy Surveillance" 1600
+	system Sarin
+		fleet "Small Southern Merchants" 1000
+		fleet "Large Southern Merchants" 3000
+		fleet "Small Southern Pirates" 2000
+		fleet "Large Southern Pirates" 6000
+		fleet "Small Republic" 8000
+		fleet "Large Republic" 15000
+		fleet "Navy Surveillance" 1600
+	system Alioth
+		fleet "Small Southern Merchants" 400
+		fleet "Large Northern Merchants" 600
+		fleet "Small Southern Pirates" 1200
+		fleet "Large Southern Pirates" 2400
+		fleet "Small Republic" 3000
+		fleet "Large Republic" 4000
+		fleet "Navy Surveillance" 1600
+	system Holeb
+		fleet "Small Southern Merchants" 1000
+		fleet "Large Southern Merchants" 3000
+		fleet "Small Southern Pirates" 5000
+		fleet "Small Republic" 2000
+		fleet "Large Republic" 3000
+		fleet "Navy Surveillance" 1600
+	system Arcturus
+		fleet "Small Southern Merchants" 700
+		fleet "Large Southern Merchants" 3000
+		fleet "Small Southern Pirates" 4000
+		fleet "Small Republic" 2000
+		fleet "Large Republic" 3000
+		fleet "Navy Surveillance" 1600
+	system Rutilicus
+		fleet "Small Southern Merchants" 600
+		fleet "Large Southern Merchants" 2000
+		fleet "Small Southern Pirates" 8000
+		fleet "Small Republic" 1000
+		fleet "Large Republic" 2000
+		fleet "Navy Surveillance" 1600
+	system Alphecca
+		fleet "Small Southern Merchants" 2000
+		fleet "Large Northern Merchants" 3500
+		fleet "Small Southern Pirates" 3000
+		fleet "Small Republic" 3000
+		fleet "Large Republic" 4000
+		fleet "Navy Surveillance" 1600
+	system Boral
+		fleet "Small Southern Merchants" 3000
+		fleet "Large Northern Merchants" 8000
+		fleet "Small Southern Pirates" 1500
+		fleet "Small Republic" 7000
+		fleet "Large Republic" 12000
+		fleet "Navy Surveillance" 1600
+	system Cebalrai
+		fleet "Small Southern Merchants" 600
+		fleet "Large Southern Merchants" 2000
+		fleet "Small Southern Pirates" 4000
+		fleet "Small Republic" 1000
+		fleet "Large Republic" 2000
+		fleet "Navy Surveillance" 1600
+	system Rasalhague
+		fleet "Small Southern Merchants" 1500
+		fleet "Large Southern Merchants" 2000
+		fleet "Small Southern Pirates" 4000
+		fleet "Large Southern Pirates" 8000
+		fleet "Small Republic" 3000
+		fleet "Large Republic" 4000
+		fleet "Navy Surveillance" 1600
+	system Zubenelgenubi
+		fleet "Small Southern Merchants" 500
+		fleet "Large Southern Merchants" 900
+		fleet "Small Free Worlds" 800
+		fleet "Large Free Worlds" 1000
+		fleet "Small Southern Pirates" 5000
+		fleet "Large Southern Pirates" 8000
+	system Unukalhai
+		fleet "Small Southern Merchants" 900
+		fleet "Large Southern Merchants" 3000
+		fleet "Small Southern Pirates" 3000
+		fleet "Small Free Worlds" 3000
+		fleet "Large Free Worlds" 6000
+	system Sabik
+		fleet "Small Southern Merchants" 400
+		fleet "Large Southern Merchants" 600
+		fleet "Small Free Worlds" 1000
+		fleet "Large Free Worlds" 1600
+	system Aldhibain
+		fleet "Small Southern Merchants" 400
+		fleet "Large Southern Merchants" 500
+		fleet "Small Free Worlds" 600
+		fleet "Large Free Worlds" 700
+		fleet "Small Southern Pirates" 1400
+		fleet "Large Southern Pirates" 3000
+	system Kornephoros
+		fleet "Small Southern Merchants" 600
+		fleet "Large Southern Merchants" 700
+		fleet "Small Southern Pirates" 5000
+		fleet "Small Free Worlds" 1000
+		fleet "Large Free Worlds" 2000
+		fleet "Human Miners" 3000
+	system Wei
+		fleet "Small Southern Merchants" 800
+		fleet "Large Southern Merchants" 2500
+		fleet "Small Southern Pirates" 6000
+		fleet "Small Republic" 800
+		fleet "Large Republic" 700
+		fleet "Navy Surveillance" 1200
+	system Seginus
+		fleet "Small Southern Merchants" 1200
+		fleet "Large Southern Merchants" 2700
+		fleet "Small Southern Pirates" 8000
+		fleet "Small Republic" 1200
+		fleet "Large Republic" 1400
+		fleet "Navy Surveillance" 1200
+	system Alnasl
+		fleet "Small Southern Merchants" 1300
+		fleet "Large Southern Merchants" 2500
+		fleet "Small Southern Pirates" 6000
+		fleet "Small Republic" 900
+		fleet "Large Republic" 1100
+		fleet "Navy Surveillance" 1200
+	system Eber
+		fleet "Small Southern Merchants" 1900
+		fleet "Large Southern Merchants" 2900
+		fleet "Small Southern Pirates" 3000
+		fleet "Small Republic" 1000
+		fleet "Large Republic" 1500
+		fleet "Navy Surveillance" 1200
+	system "Alpha Arae"
+		fleet "Small Southern Merchants" 2100
+		fleet "Large Southern Merchants" 8000
+		fleet "Small Southern Pirates" 6000
+		fleet "Large Southern Pirates" 13000
+		fleet "Small Republic" 900
+		fleet "Large Republic" 800
+		fleet "Navy Surveillance" 1200
+	system "Kaus Borealis"
+		fleet "Small Southern Merchants" 900
+		fleet "Large Southern Merchants" 4000
+		fleet "Small Southern Pirates" 8000
+		fleet "Small Republic" 1100
+		fleet "Large Republic" 800
+		fleet "Navy Surveillance" 1200
+	galaxy "label hai"
+		sprite label/hai
+	planet Geminus
+		"required reputation" 10
+	system Sargas
+		fleet "Small Southern Merchants" 600
+		fleet "Large Southern Merchants" 2500
+		fleet "Small Southern Pirates" 3000
+		fleet "Large Southern Pirates" 5000
+		fleet "Small Free Worlds" 1000
+		fleet "Large Free Worlds" 1500
+		fleet "Navy Surveillance" 800
+	system Dschubba
+		fleet "Small Southern Merchants" 800
+		fleet "Large Southern Merchants" 2600
+		fleet "Small Southern Pirates" 3000
+		fleet "Large Southern Pirates" 6000
+		fleet "Small Free Worlds" 2000
+		fleet "Large Free Worlds" 3000
+		fleet "Navy Surveillance" 800
+	system Lesath
+		fleet "Small Southern Merchants" 800
+		fleet "Large Southern Merchants" 1600
+		fleet "Small Southern Pirates" 3000
+		fleet "Large Southern Pirates" 7000
+		fleet "Small Free Worlds" 800
+		fleet "Large Free Worlds" 1100
+		fleet "Navy Surveillance" 800
+	system Atria
+		fleet "Small Southern Merchants" 700
+		fleet "Large Southern Merchants" 2600
+		fleet "Small Southern Pirates" 5000
+		fleet "Large Southern Pirates" 8000
+		fleet "Small Free Worlds" 1000
+		fleet "Large Free Worlds" 2100
+	system Alniyat
+		fleet "Small Southern Merchants" 500
+		fleet "Large Southern Merchants" 600
+		fleet "Small Southern Pirates" 2000
+		fleet "Large Southern Pirates" 4000
+		fleet "Small Free Worlds" 1500
+		fleet "Large Free Worlds" 4000
+	system Han
+		fleet "Small Southern Merchants" 800
+		fleet "Large Southern Merchants" 4000
+		fleet "Small Southern Pirates" 2000
+		fleet "Large Southern Pirates" 9000
+		fleet "Small Free Worlds" 3000
+		fleet "Large Free Worlds" 8000
+	system Pherkad
+		fleet "Small Southern Merchants" 500
+		fleet "Large Southern Merchants" 700
+		fleet "Small Free Worlds" 900
+		fleet "Large Free Worlds" 1700
+		fleet "Small Southern Pirates" 1000
+		fleet "Large Southern Pirates" 1900
+	system "Beta Lupi"
+		fleet "Small Southern Merchants" 800
+		fleet "Small Southern Pirates" 1100
+		fleet "Large Southern Pirates" 1600
+		fleet "Small Free Worlds" 4000
+		fleet "Large Free Worlds" 8000
+	system "Yed Prior"
+		fleet "Small Northern Merchants" 800
+		fleet "Large Northern Merchants" 1100
+		fleet "Small Southern Pirates" 1000
+		fleet "Large Southern Pirates" 2000
+		fleet "Small Free Worlds" 5000
+		fleet "Large Free Worlds" 8000
+	system "Kappa Centauri"
+		fleet "Small Southern Merchants" 900
+		fleet "Large Southern Merchants" 2700
+		fleet "Small Southern Pirates" 1600
+		fleet "Large Southern Pirates" 2000
+		fleet "Small Free Worlds" 3000
+		fleet "Large Free Worlds" 5000
+	system Rastaban
+		fleet "Small Southern Merchants" 1000
+		fleet "Large Southern Merchants" 1900
+		fleet "Small Southern Pirates" 4000
+		fleet "Large Southern Pirates" 8000
+		fleet "Small Republic" 900
+		fleet "Large Republic" 700
+		fleet "Navy Surveillance" 1200
+	system Sabik
+		fleet "Small Southern Merchants" 600
+		fleet "Large Southern Merchants" 800
+		fleet "Small Free Worlds" 800
+		fleet "Large Free Worlds" 1200
+		fleet "Navy Surveillance" 800
+	system Aldhibain
+		fleet "Small Southern Merchants" 600
+		fleet "Large Southern Merchants" 800
+		fleet "Small Free Worlds" 600
+		fleet "Large Free Worlds" 600
+		fleet "Small Southern Pirates" 1400
+		fleet "Large Southern Pirates" 3000
+		fleet "Navy Surveillance" 800
+	system Kornephoros
+		fleet "Small Southern Merchants" 800
+		fleet "Large Southern Merchants" 1000
+		fleet "Small Southern Pirates" 5000
+		fleet "Small Free Worlds" 900
+		fleet "Large Free Worlds" 1700
+		fleet "Navy Surveillance" 800
+		fleet "Human Miners" 3000
+	shipyard "Syndicate Basics"
+		Barb
+	shipyard "Southbound Basics"
+		Finch
+	shipyard "Southbound Advanced"
+		Nest
+	outfitter "Syndicate Advanced"
+		"X1050 Ion Engines"
+	fleet "Small Free Worlds"
+		fighters "free worlds fighters"
+		add variant 1
+			Nest
+			Finch 2
+	galaxy "label waste"
+		sprite label/waste
+	shipyard "Southbound Basics"
+		Boxwing
+	shipyard "Southbound Advanced"
+		Roost
+		Skein
+	shipyard "Syndicate Basics"
+		"Barb (Proton)"
+	outfitter "Syndicate Basics"
+		"X1050 Ion Engines"
+	fleet "Large Southern Merchants"
+		fighters "free worlds fighter"
+		add variant 15
+			"Hauler III"
+			Nest
+			Finch 2
+		add variant 15
+			Argosy
+			"Hauler II"
+			Nest
+			Finch 2
+		add variant 5
+			"Hauler III" 3
+			Roost
+			Finch 4
+		add variant 5
+			Roost 3
+			Finch 6
+			Boxwing 6
+	fleet "Small Independent"
+		fighters "free worlds fighter"
+		add variant 1
+			Nest
+			Barb 2
+		add variant 1
+			Nest
+			Barb
+			Boxwing
+	system Nenia
+		remove fleet "Void Sprites"
+	system Nenia
+		add fleet "Void Sprites" 500
+	planet Viminal
+		add shipyard "Remnant Gascraft"
+	system Parca
+		remove fleet "Korath Raid"
+	system Parca
+		add fleet "Korath Raid" 10000
+	shipyard "Tarazed Basics"
+		Finch
+		Barb
+	shipyard "Tarazed Advanced"
+		Nest
+		Roost
+		Skein
+	fleet "Large Free Worlds"
+		fighters "free worlds fighters"
+		add variant 2
+			Roost
+			Finch 4
+		add variant 2
+			Skein
+			Finch 6
+		add variant 1
+			Roost 2
+			Finch 6
+			Boxwing 2
+		add variant 1
+			Skein 2
+			Finch 8
+			Boxwing 4
+	fleet "Small Southern Pirates"
+		add variant 1
+			Nest
+			Barb 2
+		add variant 1
+			Nest
+			"Barb (Gatling)" 2
+	galaxy "label wanderers"
+		sprite label/wanderers
+	outfitter Rousseau
+		"Fracture Engine"
+		"Positron Collider"
+		"Anti-Matter Turret"
+economy
+	system Food Clothing Metal Plastic Equipment Medical Industrial Electronics "Heavy Metals" "Luxury Goods"
+	"1 Axis" -3463 -2633 1466 -2883 2155 15002 -1726 -1274 -3075 -828
+	"10 Pole" -582 945 2485 3231 -1864 -7268 -271 4651 4391 -4721
+	"11 Autumn Above" -18410 1749 2451 -1678 -2664 4701 -5935 7381 1172 -1325
+	"11 Spring Below" -7758 9023 -1099 -644 13719 6391 1728 -8324 3060 1498
+	"12 Autumn Above" -2961 -8833 -5844 -489 5732 3651 3443 -9485 -4878 2772
+	"14 Pole" 1427 -7359 -11539 -2065 10519 5864 7984 -8643 3668 601
+	"14 Summer Above" -1707 -176 4390 14013 -5777 3797 -6277 3526 -2740 -4166
+	"14 Winter Below" -4731 4497 5403 854 -8109 13209 3613 -8542 -12486 -13925
+	"16 Autumn Rising" -17336 4992 -2481 7563 134 -1686 -2068 -7263 14603 -782
+	"3 Axis" -13252 -2223 4758 -3747 369 9545 -827 -4903 -7050 -3051
+	"3 Pole" -7321 -1691 4106 16563 2597 6068 -4739 -946 480 -7483
+	"3 Spring Rising" 1240 660 1051 -4928 486 163 8737 4560 -978 -1547
+	"4 Axis" -12119 4347 4559 -18 -2425 -3237 10003 -8113 -7847 -2585
+	"4 Spring Rising" 4138 -4728 5560 -5899 3326 11625 590 5673 -2519 -732
+	"4 Summer Rising" -10277 -6625 1289 8378 4492 10650 -3953 343 -6588 -5183
+	"4 Winter Rising" -11978 -2916 4547 8511 2923 14550 -8347 -6196 -6049 -3831
+	"5 Axis" -1030 1281 -9481 6187 -14401 -6901 -1148 -1215 -176 6743
+	"5 Spring Below" 717 10988 2214 500 1039 5892 5711 -2459 -1790 -4968
+	"5 Summer Above" -7886 -5254 -3596 1169 -1730 -3596 -615 -4316 10281 296
+	"5 Winter Above" -4981 -4721 6542 3588 -5759 4337 -4956 -8217 50 3721
+	"7 Autumn Rising" -9420 -1131 2077 -3743 920 -4728 -3071 3083 -5404 -8457
+	"8 Winter Below" 24 -249 4368 7794 -1149 3566 4662 -6476 -8111 -7861
+	"9 Spring Above" -2411 -1429 -2583 -103 -1868 6078 577 1252 -2918 -4483
+	Ablodab 1176 -2481 -857 12275 10343 -5148 -13757 11880 -6812 -10887
+	Ablub 788 -3910 4572 -7728 -8505 2410 -7659 -8110 -6549 1442
+	Acamar 2189 12538 3634 10485 17323 -2469 7584 -1043 3627 -4236
+	Achernar -1750 -3607 25480 -7443 6857 -2771 -18670 18111 -895 -2775
+	Acrux -7023 3482 -1171 -13097 7755 -250 3898 11487 1844 1764
+	Adhara -2024 -603 -2807 9853 -4428 -3682 9306 -1234 3725 -2614
+	Aescolanus 3602 -2939 5925 -5035 2352 -4406 9829 -77 1254 -9859
+	"Al Dhanab" -5160 -114 14688 1050 541 7023 -12835 17802 -1450 3285
+	Albaldah 5738 -3515 -3547 3095 3467 -2085 2532 5316 2367 -9915
+	Albireo 8440 1306 -4290 6954 1417 -722 -15425 -969 8116 -13686
+	Alcyone -5170 -6203 4684 11983 6588 19230 2349 -558 3956 5339
+	Aldebaran 593 6877 5766 10790 16040 4854 6539 -5208 -3566 -524
+	Alderamin -605 -8066 -8306 -2885 8228 -5249 1689 3031 -10949 -6793
+	Aldhibain 48 8353 1253 3071 -4306 721 -6157 2454 -2182 -4620
+	Algenib 1341 -5042 -3316 7388 3924 3673 5641 4616 -8177 7107
+	Algieba 2300 -4397 -1828 15518 -228 1829 4269 -1652 -40 -5481
+	Algol 740 418 -180 1719 6911 7651 2931 2424 6347 -2838
+	Algorel 125 2575 347 7991 4940 -6562 -1379 3213 3317 1046
+	Alheka -3939 1019 2511 89 6499 7849 -9789 -3080 -2813 -1214
+	Alhena 850 -999 -5117 10327 1765 537 1509 -2486 257 3781
+	Alioth -49 -4536 1384 -4742 1377 -2385 -5087 7808 1684 -8266
+	Alkaid -5624 227 6012 -1757 2123 10948 -4498 -865 6302 1008
+	Almaaz 10323 -610 -1864 6223 -13858 1328 -476 3511 -2968 -493
+	Almach -1879 4845 762 -1959 1812 3620 -2130 3969 5659 -1099
+	Alnair -8615 -2734 -8521 -4442 3499 -13800 5005 -6550 -6727 -6555
+	Alnasl 8754 -7601 2909 -5414 -10322 -5118 9043 5913 18386 -12407
+	Alnilam 2378 -12757 2250 -2195 -6970 1442 -3667 171 4773 1479
+	Alnitak -1996 6778 7238 2588 -1168 3842 -6097 5290 -3618 8839
+	Alniyat 4026 10824 24058 1883 -5545 -16277 -7257 5208 -7480 -3594
+	"Alpha Arae" 9637 5709 -2870 -11469 -3821 -3207 2417 -2977 994 660
+	"Alpha Centauri" -8254 -5914 -1815 -2286 -12642 4991 22 8623 3074 8455
+	"Alpha Hydri" -6535 7232 8067 -6232 2243 1045 -6455 6096 2230 -683
+	Alphard 10666 -8483 -3503 14638 7318 -5034 3492 406 4557 -2693
+	Alphecca -4501 8154 -3487 1481 -5389 -5532 -4775 -2617 -1474 -6471
+	Alpheratz -9869 230 7955 876 13299 5568 -13759 5189 -1856 -410
+	Altair 4096 5811 8573 -4093 -2159 9458 -5458 977 -1921 -10271
+	Aludra -4572 8146 -4927 586 -14680 -2450 -2855 3964 2994 306
+	"Ancient Hope" 449 2601 -4583 -5287 8198 -4658 -7485 -2328 -9984 7586
+	Ankaa -12421 1486 8933 -496 1085 2877 -2716 307 -5196 -2865
+	Answer -5933 4038 3888 4180 800 -3549 -314 -784 11570 -3849
+	Antares -2267 9 9598 -2653 -4322 -10675 -3100 7606 -3840 4701
+	Antevorta 7516 4524 -6400 -35642 11546 2281 -16836 -3871 3626 1500
+	Ap'arak 4243 -236 -9787 -1378 -4194 -13547 -830 -7538 5132 -6564
+	Arcturus 7038 -7927 4174 -3257 5621 318 -1002 5442 1208 -5243
+	Arculus -6964 2366 1831 3165 -5285 2736 18357 2029 -3989 -3042
+	Arneb 1006 -524 -2345 -3928 -13436 -1223 -5526 14 -1957 2887
+	Ascella -15151 11224 -2388 8357 9776 237 3648 -2690 7507 -275
+	Asikafarnut -1903 9306 4797 657 6293 6172 9156 22003 15827 24519
+	Aspidiske -3124 1299 -2840 7948 -14399 -11342 1906 10067 997 10075
+	Atria 1991 8771 -3143 -5267 1857 8716 -3694 -9797 259 741
+	Avior -13705 3395 -3536 11866 -20931 -13634 -10682 1662 -3982 8459
+	Aya'k'k 369 1763 -5352 4042 -8467 -5430 5640 -1121 -1951 5924
+	Beginning 15974 4086 2131 8905 -21730 -16281 7037 -9602 -10596 2001
+	Bellatrix 8709 -6499 5153 -433 8383 376 372 6670 -2215 -845
+	Belonging 6889 -5329 -12252 3246 -685 -3588 3913 887 -8868 1224
+	Belug 1744 -8279 -1061 -4506 -2162 -3039 6177 -2617 4120 -2933
+	Belugt 299 4568 4423 3596 -4731 7099 -8731 8413 556 2711
+	"Beta Lupi" -12724 20700 14149 56 1727 -4211 4160 -2161 5463 -472
+	Betelgeuse -1888 5296 -2513 -452 7493 6775 -2532 -1795 -133 635
+	Bloptab 3965 10029 -1428 132 -8160 9882 -4445 4643 4347 449
+	Blubipad -5128 2083 461 -7397 -4698 2859 -2846 -2523 -177 -7300
+	Blugtad 9884 6510 -4820 -4365 -964 13054 -17888 6599 9426 -2853
+	Boral -3068 7064 -5015 5204 -1718 6413 -1918 -5956 -6275 312
+	"Bore Fah" -3654 10983 3286 -5767 -11960 254 7645 2203 -14162 10311
+	"Bote Asu" -8270 12568 -2632 3172 2570 682 7195 -3944 -6842 7426
+	"Bright Void" 144 -7324 6936 -1180 -1114 -7138 8833 -1778 -3323 11941
+	"Broken Bowl" 58 -868 2669 -3111 -3986 -1398 4577 6819 -7716 3196
+	Caeculus 3796 2719 -109 9369 834 -4444 1688 -1653 -7850 3169
+	Canopus -11922 -6049 -1492 3063 3270 10515 -7097 1257 -1634 3953
+	Capella 1371 -521 9071 11289 3087 5283 -3257 4949 -8446 9333
+	Caph -1263 8775 -5696 1293 7107 8925 -5778 -7265 -6031 416
+	Cardax 10903 2568 -3895 6944 10291 162 -2763 -3021 4973 -8773
+	Cardea -795 -3805 3439 -7651 3315 9642 -9129 -12355 8378 1371
+	Castor 3967 -10622 -1469 3191 690 -9912 5556 3405 395 3306
+	Cebalrai -4140 11249 53 -11428 669 -2001 620 -15867 14559 6595
+	Celeborim -5713 4693 3428 9906 3608 2819 7078 541 2249 6790
+	Chikatip 1196 -3909 7379 3006 16288 975 1598 -7699 146 -2370
+	Chimitarp 1898 44 -1461 899 2662 9759 4659 2431 8529 5988
+	Chirr'ay'akai -10889 4650 -11519 2311 141 -3992 5007 2799 4240 -7026
+	Chornifath 4846 -2144 1644 -2048 -2176 -1430 4508 5899 1900 -2192
+	Chy'chra 817 -12675 -17462 2328 -3305 3102 6573 6910 -6562 -9661
+	Cinxia -11543 6588 2717 5053 1148 9355 8111 5088 9012 -419
+	Coluber 5925 3155 -5136 6871 2230 -1791 -10385 8861 -9914 7763
+	Companion -3663 -10374 8890 -2673 2981 636 -5764 -3340 -7181 -5577
+	Convector -2839 -759 3410 -9907 817 -700 -6715 6465 820 4463
+	"Cor Caroli" 1407 -1887 8980 -2168 4167 -3563 -1849 3014 4753 -5258
+	"Da Ent" 4201 -996 3993 1205 675 2355 -3072 -8616 3868 2685
+	"Da Lest" -759 -3112 3097 11701 653 -2055 -5902 -7462 6388 7402
+	Dabih 12659 -4308 8114 2504 13119 2908 5992 7524 -1314 -8201
+	Danoa 1796 1368 7565 7437 562 -6587 2348 6728 3550 -334
+	"Dark Hills" 11495 3730 2028 10691 -11035 -1509 11744 -2901 -4119 -7042
+	Debrugt 9312 -2976 -11725 17381 6980 1347 979 191 -8448 -880
+	"Delta Capricorni" -2570 1955 4061 -1370 -3299 4339 -4680 5321 -9513 -11224
+	"Delta Sagittarii" 4054 -92 -6853 4004 39 -4303 6996 1149 -3460 2748
+	"Delta Velorum" 1829 -1149 6732 1789 7639 11139 -416 1735 7504 2431
+	Deneb -2947 -1305 4452 -1339 2496 -7809 -7036 102 1677 -533
+	Denebola -1902 1826 -4819 -15163 -1917 4437 -3181 1124 8926 -1697
+	Diphda -7496 7382 6299 6392 8669 4479 -3464 2334 -386 -2291
+	Dokdobaru -4553 1692 7210 9583 18164 11379 3539 5584 -8319 -578
+	Dschubba -3774 10501 4065 -3320 1694 -2898 -3642 1571 -5717 -9577
+	Dubhe 170 1928 4600 4834 7055 6671 -3646 3466 -12691 7233
+	"Due Yoot" 2133 10536 6424 1969 -16464 8055 13382 -8191 -9538 11931
+	Durax -2953 -7083 -2396 11276 2991 2444 9375 -4830 5377 8235
+	Eber 14180 -1215 -3274 -4107 2291 -1686 2276 3821 5234 -8231
+	Eblumab -3416 8558 289 -4628 1143 2866 -942 -2722 -2248 -733
+	Edusa -5333 -263 7988 122 2515 -84 14530 -1534 1987 10131
+	"Ehma Ti" -7931 1943 551 12504 -4842 10523 6739 -4341 -10534 11787
+	Ek'kek'ru 14540 9250 -12941 3615 -14250 -4432 9515 -4417 -3344 -1490
+	Ekuarik 32 -4554 -947 -8783 -3286 -2496 6224 -5642 4702 4006
+	Elnath 2076 3692 -406 9379 19060 -665 4473 4497 3961 -598
+	Eltanin 11542 -1026 -9194 8513 7981 2664 7771 -123 -2473 -3628
+	Eneremprukt 198 12163 -4839 3489 1846 -3672 1607 3666 -1285 2863
+	Enif 18290 11030 2731 7197 10524 6183 -18457 993 -122 -6781
+	"Epsilon Leonis" 2272 2018 1363 11769 -9640 -17765 7044 -5432 539 -2458
+	Es'sprak'ai 804 1131 -1966 11736 -3197 -3351 7477 -3050 513 56
+	Eshkoshtar 5159 995 962 9226 3766 -1719 6522 1593 -1664 1452
+	Eteron 1860 3918 618 -5151 3759 4139 -2355 -11639 -2642 -392
+	"Fah Root" 942 5193 3780 3004 -9138 8792 5203 6535 2808 1112
+	"Fah Soom" -4302 7311 -2599 1091 -9709 4792 7966 -11328 -3445 540
+	Fala 4045 1793 -2028 4258 4566 7177 1875 -7036 8317 6900
+	"Fallen Leaf" 2097 -401 695 4394 -2220 -9759 1733 -10948 2313 -169
+	"Far Horizon" -6131 3300 1070 -13267 20866 -801 -4113 1439 -3159 -3928
+	Farbutero 2600 -10153 1865 7246 8095 9642 -6685 -1689 1641 2042
+	Farinus -10972 -1543 -1047 1608 -302 6263 2859 5310 900 -2275
+	Faronektu -6143 921 -4715 3631 7985 5703 1679 -2514 -4929 -4067
+	Fasitopfar -1167 -678 78 1122 -1718 -1121 4993 -1684 -804 -6584
+	"Fell Omen" -704 2992 3191 -707 609 -4240 708 1755 -2924 354
+	Feroteri 1482 -12220 -1663 2308 5733 14887 -5418 6286 4566 1271
+	Ferukistek -3059 6267 -6373 -2877 928 -3806 2095 1602 -1152 -1995
+	Fingol -2348 -471 2241 -2303 -2507 -1120 -1245 599 6304 6010
+	Flugbu 3856 -5961 -7422 931 1162 -925 -2403 -1119 -1400 -2176
+	Fomalhaut 6020 4960 267 570 -4674 717 -2834 4407 -179 2521
+	Fornarep -4338 -3843 3846 3655 13367 5294 2492 10963 -10338 -199
+	"Four Pillars" -13059 3484 -7776 -7451 19302 -6301 -12221 -11061 5943 -7740
+	Furmeliki -2683 -8628 3409 1336 8486 13235 1330 -3870 4410 -1199
+	Gacrux 2993 7075 -3166 2105 208 1555 4807 634 -278 1941
+	"Gamma Cassiopeiae" -8415 -5321 -2540 -579 -4308 6017 -5189 4964 669 -8495
+	"Gamma Corvi" -12168 7008 -7192 -712 8078 1288 3244 3400 -4907 6496
+	Gienah 3300 -1288 -4887 5857 15567 -6131 2120 11767 -8845 -1978
+	Girtab 7719 9721 -7041 -7208 -5022 -7410 -8236 -1741 1748 4538
+	Glubatub -567 603 3181 -6035 -8386 4674 -6588 -6098 8171 1202
+	Gomeisa 3051 7820 2160 14328 2076 -10149 10998 -2936 4576 -3398
+	"Good Omen" 4650 1430 2379 8943 -8137 -3829 245 -3887 1234 5100
+	Gorvi 7635 -3918 41 -568 -13165 1739 -3234 2919 -1329 7925
+	Graffias 3914 -4492 4636 276 -1579 944 -1660 -2343 4032 -2758
+	Gupta 9700 -1195 3181 16210 2819 -99 -4667 5422 -5007 -11307
+	Hadar -2796 -2022 8303 -11410 798 12777 -5124 12387 6729 -17711
+	Hamal 126 671 4954 -4407 -9325 3941 -404 -227 -6512 -413
+	Han -5050 9833 3580 743 -3273 -5026 -627 -9035 1711 -5251
+	Hassaleh 15297 10500 -2248 6165 4656 -12945 -1309 -741 4128 4185
+	Hatysa 8707 -12798 -3231 -2857 -25704 2618 -2483 -811 -6361 1920
+	"Heia Due" 5977 5164 8165 -1110 -4962 8231 3248 -1690 -5062 12294
+	Hesselpost 1009 8393 6190 353 7715 1799 -508 2855 470 433
+	"Hevru Hai" 5058 736 -11008 -2049 -9182 524 -2271 -11119 -327 -1979
+	"Hi Yahr" -3429 3980 -8542 3347 -2106 2703 -249 -6058 -8208 543
+	Hintar -5081 3874 1317 -2996 -719 2222 45 -9477 11409 5643
+	Holeb -6039 -3375 -1294 -6883 2013 -11640 1510 10608 -4115 -11253
+	Homeward 3286 7675 4219 -6455 -3423 -564 6235 4137 -9458 -6399
+	Host -346 -3873 -3096 800 827 -8297 -315 -6730 -4315 3529
+	Hunter -2205 -9077 -3165 7208 118 -6351 7977 -15 -1175 7322
+	Ik'kara'ka 2930 -3548 -17615 -1695 -3961 1350 1610 7083 -9780 -5984
+	Ildaria -9250 -10555 -1669 -4763 -13878 4538 -5716 -518 3834 -1862
+	"Imo Dep" 908 -5591 4713 3363 -1358 -6513 -3895 -2787 568 13406
+	Insitor 6295 7713 -6364 -11115 6853 669 -1563 3792 2593 1713
+	"Io Lowe" -1555 1404 5052 6402 -3097 4961 -494 -6191 -4014 6953
+	"Io Mann" -3051 2972 -2403 -4960 3413 10456 11638 -10425 -2745 7050
+	Ipsing 5666 -6646 -452 3086 -11654 -3990 -4625 6176 -828 -3783
+	Iyech'yek 2662 6976 -3053 792 -12120 -3288 -940 394 2417 -255
+	Izar -370 7271 2732 -7350 -1117 -174 -7754 6196 7626 45
+	Ka'ch'chrai 12732 5325 -17136 5353 -4939 -6289 5458 -5604 -2901 -7327
+	Ka'pru -1655 3785 -2760 -10243 -6113 -7276 -356 -6548 -2296 6877
+	Kaliptari 8385 681 3525 -18291 -567 11549 1268 6890 -4937 -23290
+	"Kappa Centauri" -4563 9993 8662 80 8146 2101 -9841 -3951 7058 1662
+	Kashikt -743 -3951 -4492 2650 7143 17613 -8928 7973 -1737 3010
+	Kasikfar -6037 -4241 1785 -8334 -8621 -812 -749 1808 -1459 2447
+	"Kaus Australis" 6152 8067 -898 5858 6897 -4316 1336 -4631 4831 3357
+	"Kaus Borealis" 10557 8573 2639 -11771 -904 -2063 6885 -2173 8221 -591
+	"Ki War Ek" -9364 4927 -1066 314 -8626 -579 -1610 2372 -8092 -8857
+	Kiro'ku -2057 6154 -4668 -8288 -10959 -12121 1238 -10994 -2460 -207
+	Kiru'kichi -155 7685 -825 -1814 -3450 -5341 223 14154 2150 617
+	Kochab -2767 -3232 -2774 1804 -9384 -187 -6105 -1955 -6846 2446
+	"Kor Ak'Mari" -3460 -2807 309 2993 -8843 -2866 -1721 783 -11822 -511
+	"Kor En'lakfar" -3405 -13093 -16785 1004 5168 8163 -9358 2953 -11199 2441
+	"Kor Fel'tar" 758 -16000 -21722 -6411 4132 1478 -10163 1806 -8980 3147
+	"Kor Men" -75 -16544 -18796 -5210 2781 1583 -16295 5159 -8025 5575
+	"Kor Nor'peli" 5905 9662 -14528 -4816 -5091 829 7767 -4472 10438 -12831
+	"Kor Tar'bei" 10587 18532 -20155 44 521 -3012 17857 2853 8746 -24802
+	"Kor Zena'i" 4540 8228 -8716 -2716 2404 -1254 12281 5421 433 -8494
+	Kornephoros 7153 -4948 -270 -2972 -8823 -4747 -6598 7604 -964 -5787
+	Korsmanath 2435 -2497 1661 6916 10064 7803 815 -3135 314 -2404
+	Kraz 5973 -1817 -1214 13159 -1704 -3 5062 -3465 -3681 4487
+	Kugel 409 6872 1527 5594 6792 -3232 8517 -2093 1595 882
+	Kursa 8479 4610 -3046 2132 13779 2955 995 1162 5051 -129
+	"Last Word" -1261 4796 11344 -3756 11231 2024 13773 5172 -12631 -6153
+	Lesath 3312 18046 -3398 -10907 -2382 -2191 -4096 -6632 8578 -2033
+	Levana -1333 1689 2887 -5718 7670 -3127 -14477 10407 -6223 4408
+	Limen -263 2440 14231 6909 2335 13834 4789 -6737 -9440 8653
+	Lolami -4431 -27 6341 -6397 2481 7781 5852 1077 479 5424
+	"Lom Tahr" -2198 9531 6030 4335 -8177 4529 9641 -19639 321 17740
+	"Lone Cloud" -5082 4913 -106 -4313 10115 -7273 -5131 -3331 2234 -645
+	Lucina 4893 -6447 -5598 11177 4966 -513 -6829 7332 -3087 -2054
+	Lurata 4091 -3308 1040 7647 7966 -2124 2034 7013 345 -3529
+	Makferuti -3146 908 -5579 -1128 -555 -3739 8735 10805 10993 8962
+	Markab 3657 -1379 4674 658 4864 2215 -4672 8420 -10070 -9756
+	Markeb -17635 2239 -4861 5154 -6605 -13167 -1186 -3110 -1893 4380
+	Matar 425 -1127 -712 9864 3171 -7645 4461 8074 -8710 -3397
+	Mebla 6879 -2270 -7625 3109 16833 -841 -11473 4378 -2265 -8623
+	Mebsuta -39 108 -1017 -1987 3483 4984 6934 -4240 6874 -1299
+	Meftarkata -2393 -12475 -2175 4157 7255 6186 -340 5780 -10931 -11122
+	"Mei Yohn" -4830 -3021 8337 6462 239 5475 -4131 -4287 -5168 8788
+	Mekislepti 246 6357 3041 -5618 5127 -1297 7686 10780 1818 -8802
+	Membulem 6675 -4878 6177 -2923 2915 1795 -5901 11139 997 3139
+	Men -14295 9672 8267 763 -2734 -13355 3402 7785 8162 -4358
+	Menkalinan -1057 -10808 3907 13024 6218 -503 -11340 -2339 -1914 8947
+	Menkar 10823 -6417 8544 1617 132 4190 -8729 550 -1199 8881
+	Menkent 2490 4786 6756 -3862 -397 -4645 -5880 1296 3849 3794
+	Merak -6439 10533 3537 -21815 3642 5138 -8837 -11690 13997 658
+	Mesuket -6794 11532 7997 4621 2487 -3783 17055 9490 593 7321
+	Miaplacidus 10486 -655 -3737 6434 -2394 -2273 8842 -279 -12779 3076
+	Miblulub 1384 -11784 6443 -10358 -5597 10505 -7413 -7922 -4220 5849
+	Mimosa 17055 5855 -3562 2750 3549 -8110 8007 1640 1964 8244
+	Minkar -6039 8558 1060 -6418 17543 5642 1326 1951 -3888 11060
+	Mintaka 4780 2918 2043 5416 -20109 -3548 -2042 3767 277 8740
+	Mirach -16414 177 5836 -200 -5187 16388 -5031 12511 2841 -2349
+	Mirfak 11018 -3940 4152 2930 -493 6595 -5653 6321 -64 4146
+	Mirzam -915 2048 1814 8106 9425 8124 -3668 -5075 4061 -4054
+	Mizar 2103 -4532 7265 -1589 -5997 -4394 -5029 8726 3284 -4193
+	Moktar 6474 2247 541 4617 6542 -768 -2023 -3976 2023 476
+	Mora 5177 3333 3097 7543 -5648 18642 11996 -91 11486 3038
+	Muhlifain 5768 -264 4751 -1649 3904 2021 2585 2523 839 -4586
+	Muphrid -815 5940 2227 -7802 -5758 787 2071 -270 3310 -4265
+	Naos -9926 13352 -2486 10976 -16413 -17118 4174 13994 -560 6300
+	Naper -5897 -1997 4204 11328 6417 -4150 604 2390 -3068 3119
+	Nenia -3821 3479 -235 -10835 1492 7330 -9750 -7535 4381 1238
+	Nihal 5378 1899 -13249 4254 12204 836 834 8124 -6653 541
+	Nocte -2516 -4652 1599 -3461 -903 1150 -6228 -3286 -9534 10184
+	Nunki -5860 1526 -1462 -1932 -3343 -1228 2081 3400 6956 -7819
+	Oblate 5105 -7188 -10361 1596 986 5513 -2374 5124 9161 8
+	Orbona 4065 -1725 7740 -3211 6553 1742 4543 -9092 -12371 6829
+	Orvala -9067 4790 382 3711 301 -4978 -2208 -7490 -817 -1963
+	Ossipago -9582 8006 -6472 -7166 3202 3491 -2028 -9293 -3131 1255
+	"Over the Rainbow" 0 0 0 0 0 0 0 0 0 0
+	Pantica -5493 4789 3658 7751 758 7371 11638 9686 6070 4553
+	Parca 2307 -7047 -57 10128 -3942 -6942 1128 -4226 -7610 -442
+	Peacock -5606 5584 -2838 9535 3534 7512 -3243 -3364 -668 3000
+	Pelubta -4560 -1547 3359 6947 10123 -1207 -11220 2828 -1203 -3664
+	Peragenor 183 7275 2566 4243 -2936 4217 -11276 5874 -8529 1534
+	Peresedersi -3312 -3107 2488 5663 2232 -8436 3127 -2048 -1141 -3119
+	Perfica -4164 8907 3490 11138 4647 -3424 4106 5577 4098 -5237
+	Persian -6388 -13718 -8605 -4083 6518 -10664 -1120 5050 -6833 -10873
+	Persitar -570 -5190 -1704 -2281 1567 -3794 -881 440 7477 -2178
+	Phact -4233 -9938 -1226 4642 6710 8677 -2247 -205 -5278 -2408
+	Phecda -6412 -46 4198 2843 3448 1238 -1376 -9954 2931 -2640
+	Pherkad -5316 17292 9265 -4435 651 3419 -9236 -6177 4854 -1386
+	Phurad 2755 -7216 -13259 8931 4257 10911 -2454 1561 279 -979
+	Pik'ro'iyak 14905 15187 -6867 17472 -16508 -7049 25900 -11343 -5310 8185
+	Plort -2962 -5980 8699 2508 -11464 1143 4672 -134 6641 927
+	Polaris 708 233 14989 -11713 -3469 -3177 -9589 8784 -638 3994
+	Pollux -1007 -6942 804 4020 -1987 -2315 7960 -4035 -1345 3150
+	Porrima 4292 6543 -3001 -12522 6031 2145 -1776 -2058 -3223 -2251
+	Prakacha'a -3717 -4726 -30579 7359 -3722 -4503 1094 2056 -6936 -7702
+	Procyon -3296 -1614 -973 2008 -1704 -4198 3580 4043 -4576 -453
+	"Pug Iyik" 4165 2750 -280 11024 -1252 -1141 6778 4554 -1828 985
+	Quaru -4959 7212 7406 -11844 -3063 -351 12100 -891 -13973 -10430
+	Rajak 11101 -8627 2510 8235 19143 -10726 3162 2921 3677 7784
+	Rasalhague -4446 9398 5750 559 8313 -250 270 -12540 -3039 6347
+	Rastaban 2509 7943 -8149 -6057 1568 -6927 -2287 275 1585 1330
+	"Rati Cal" -3804 -255 7369 -937 -7193 227 5504 -5476 -7496 -6816
+	Regor -5254 10526 -720 5151 -5341 -12701 -2634 11310 1782 8479
+	Regulus -4410 4920 838 -3341 5489 2081 -7135 -6072 4997 2259
+	Remembrance 2096 3824 -5738 7299 -14654 -9 5568 -7743 -4798 -2805
+	Rigel -827 7237 -4638 2626 2996 4293 -9516 -5858 -3889 6198
+	Ruchbah -9149 10110 20179 -8834 14486 17195 -4288 3302 10070 3717
+	Rutilicus -2442 -3220 -6672 -4451 1727 -4549 -2605 175 2912 -2879
+	Sabik -6947 -1639 6378 -6932 -1759 -2119 -5616 -6431 874 -9045
+	Sabriset 6310 2842 3114 -7212 2832 6808 607 -3593 6287 -11405
+	Sadalmelik 19265 6919 -8115 6303 3438 6829 -11958 -4815 2875 -4221
+	Sadalsuud 11440 6323 -4787 2620 1035 2220 -12096 -2134 889 -303
+	Sadr 1224 -3896 4471 -2505 -7459 4490 -4556 1053 1524 -8970
+	"Sagittarius A*" 0 0 0 0 0 0 0 0 0 0
+	Saiph -2473 -4334 -1727 4789 2811 3155 -8898 6423 -985 13109
+	Salipastart -6719 -3427 3803 3080 9236 450 3280 -3550 -1374 4541
+	Sargas 2058 2097 -3286 -2835 -3826 1303 381 4885 -3252 -2622
+	Sarin 2297 -3264 3316 3098 3415 -1598 -4010 6150 -7409 7038
+	Sayaiban 4160 328 9211 5360 999 2634 -1595 2142 3283 4857
+	Scheat -2968 2556 4522 4996 -4507 4788 -1970 9536 -10432 -9672
+	Schedar -8979 -4584 10962 -11403 -178 4745 -4760 20013 9679 -7360
+	Segesta 8498 4070 -3327 1118 -3873 -3978 -8242 9075 -4512 2042
+	Seginus 2336 -6611 -691 -5973 -1675 -6614 -869 -272 8672 -7983
+	Seketra 4307 -7089 525 -5553 13083 -160 770 -9441 -607 -613
+	Sepetrosk -2582 -10060 -3110 3123 3034 10853 -2884 10867 5723 3802
+	"Sepi Kai Wha?" 3091 272 3592 -6545 -5902 -6508 -14358 -936 860 4275
+	"Sepi no Kai" -4042 4228 11190 -642 1330 -3830 -1436 -6246 -4160 18
+	Sepriaptu 2281 349 280 -6159 1170 7196 5038 -7730 -2100 -8832
+	Sevrelect 1733 2638 -1837 9343 6737 11662 -696 3973 -182 597
+	Shaula 4010 12941 2534 -4222 -1080 559 -5754 1650 2212 7962
+	Sheratan -8555 2021 6966 725 2106 14729 -2378 239 7472 1552
+	Si'yak'ku 6288 9135 -5446 -315 1172 -2337 6202 4027 -3401 -1839
+	Sich'ka'ara 2200 -2154 -23417 -2776 -11901 -11787 8773 -2979 1348 -5439
+	Silikatakfar -5762 8583 -2881 7835 -4307 4280 5771 6586 278 7392
+	"Silver Bell" 1947 1567 2705 -3016 4744 477 4769 18709 -14388 -10836
+	"Silver String" 5303 -687 -2241 4213 -4057 -633 -5535 9846 530 -4589
+	Similisti -4994 3544 9904 2838 12005 16607 4028 -1004 -4527 6595
+	Sirius 1585 -2143 -5960 -5607 734 2254 1095 -7494 -1988 606
+	Skeruto -132 -7727 10032 -4385 1938 16254 -474 -3576 -4417 -4014
+	Sko'karak 11097 8991 -2037 6561 -10968 3349 -6429 -5251 1363 -1663
+	Sobarati -5683 4288 3193 -1499 -3959 7043 2405 9777 1450 10730
+	Sol 4967 7053 -1055 -9085 -2838 7998 -3562 -5292 -5474 5924
+	"Sol Arach" 6013 -5029 12158 -7369 -13909 16546 2259 -4658 205 -6374
+	"Sol Kimek" -19455 2193 4582 3583 4714 10095 -2975 -3287 -7269 -8285
+	"Sol Saryd" 101 -1211 -8167 -7860 -782 -8392 807 -1018 -6614 -2514
+	Solifar 5855 -1431 -860 -7489 -3776 3165 -5112 5077 286 -6307
+	Sospi 1389 -4494 -12467 219 8513 -1303 5747 -775 -5346 -1229
+	Speloog 5569 -3012 -3325 -5454 -5227 -8444 2769 -1320 5796 257
+	Spica -11120 9219 -1047 -888 12181 7850 1220 2495 -11475 5783
+	"Steep Roof" 886 -2121 7610 1012 2347 416 861 -2614 -3009 3890
+	Stercutus 5118 7934 2753 11087 -7104 -649 -26349 9581 -29717 14834
+	Suhail -3319 7347 -3255 -1557 3097 -8340 652 11063 -2065 1029
+	Sumar 4382 8562 43 8231 20487 -8421 945 5667 7034 -695
+	Sumprast 6707 -3066 1882 -2948 -7281 15799 1405 11516 1236 -5109
+	Tais 2328 4448 2749 4226 7075 3607 -4600 -1200 -2796 3974
+	Talita 15269 -7645 4655 849 -1792 -2211 3975 -8258 -3972 8575
+	"Tania Australis" -1245 -2467 8618 6707 2673 14470 7754 -14943 5242 1377
+	Tarazed 7733 1351 9788 13496 5105 2575 -13407 -609 4940 -3804
+	Tebuteb -1691 -2548 8465 -2758 -13505 9016 -6978 -202 3040 -899
+	Tejat 1066 -338 -4642 8796 6231 2311 2142 -2012 -11093 7163
+	Terminus -3562 323 8922 4770 455 4438 -4623 -8461 -1170 7575
+	"Terra Incognita" 0 0 0 0 0 0 0 0 0 0
+	Torbab 10096 -5085 -1582 69 -6587 282 -2283 -4339 -105 -6494
+	Tortor 1904 451 -2900 -1733 -10782 2708 -1534 2819 -1499 4433
+	Turais 6251 -9239 9722 5155 5737 3657 376 -1517 4186 77
+	"Ula Mon" -8504 5424 1282 10117 -70 2128 -2352 -2515 2538 6746
+	"Ultima Thule" 2870 -3415 -5614 7550 9248 -5238 4819 -5954 -1759 13080
+	Umbral -2988 173 3721 438 1192 2416 -1580 -518 5570 -1778
+	Unagi 2244 5188 11273 996 2347 -1024 -4565 2652 2621 7520
+	Unukalhai -873 -3736 4459 -6501 1399 -3482 -5356 -3679 -238 -9352
+	"Uwa Fahn" 2802 7746 -8128 -5080 -810 9993 -6717 -3954 538 -3877
+	Vega -4906 2721 8225 -5323 635 447 -7014 2421 -12199 7302
+	Vindemiatrix 6619 -6914 9596 -3946 6405 8137 -2529 5326 -1214 -6158
+	Volax -257 3625 -12997 -904 4249 4261 596 3390 766 -9658
+	"Wah Ki" -11287 6656 3304 -2067 -9600 7154 9710 -2709 -17062 7023
+	"Wah Oh" -1811 8571 5237 -775 -10971 22793 12423 1045 -11673 11432
+	"Wah Yoot" -13783 11120 6422 8213 -11852 10662 16416 -13432 -21477 11701
+	Waypoint 393 787 2954 90 -2058 -7911 1496 4369 -4702 11518
+	Wazn 8565 -4343 -8733 9953 10822 9963 425 -3689 174 194
+	Wei 1363 1522 1023 -6335 -570 -7834 3564 7536 15137 -13003
+	Wezen -178 8457 263 5387 -4764 -5456 3439 10594 1224 2059
+	"World's End" 0 0 0 0 0 0 0 0 0 0
+	"Ya Hai" -2953 14715 4044 4142 1571 3768 7406 -11294 -535 2775
+	"Yed Prior" 1474 3637 -5094 -208 -2789 2413 -7719 -691 -2334 5702
+	Zaurak 3798 -10427 6891 626 -4976 11937 6564 -4317 1166 8333
+	"Zeta Aquilae" -8381 5025 1874 8380 10593 -8420 -1974 -13695 -870 -218
+	"Zeta Centauri" 3247 -8638 7609 2432 2885 4565 -1932 5414 8381 -7672
+	Zosma 2292 7160 258 13893 10402 8907 5568 2842 -7764 5466
+	"Zuba Zub" -4996 -2699 2701 8967 -2382 -2059 -5016 2728 -13893 7778
+	Zubenelgenubi -7013 5457 5667 518 -1310 5220 -7083 -931 -3040 -7845
+	Zubeneschamali -13885 4132 1025 -8965 -11917 4185 -2129 1752 -6882 660
+destroyed "Captain Nate"
+destroyed "Marauding Max K"
+
+# What you know:
+visited "Kaus Borealis"
+visited Cebalrai
+visited Castor
+visited Betelgeuse
+visited Vega
+visited Denebola
+visited Menkent
+visited Sol
+visited Pollux
+visited Rastaban
+visited Pherkad
+visited "Delta Capricorni"
+visited Rasalhague
+visited Alderamin
+visited Markab
+visited Alpheratz
+visited "Zeta Aquilae"
+visited Umbral
+visited Tarazed
+visited Ka'ch'chrai
+visited Gienah
+visited Alnair
+visited Mintaka
+visited "Gamma Corvi"
+visited Wei
+visited Hintar
+visited Ruchbah
+visited Ankaa
+visited Scheat
+visited Sheratan
+visited Ascella
+visited Achernar
+visited Altair
+visited Algenib
+visited Ildaria
+visited Miaplacidus
+visited Aspidiske
+visited Gomeisa
+visited Dabih
+visited Terminus
+visited Zubenelgenubi
+visited Kornephoros
+visited Rutilicus
+visited Kraz
+visited Sabik
+visited Men
+visited Antares
+visited Shaula
+visited Nunki
+visited "Yed Prior"
+visited "Beta Lupi"
+visited "Kappa Centauri"
+visited Alniyat
+visited Dschubba
+visited Han
+visited Atria
+visited "Delta Sagittarii"
+visited Albaldah
+visited Girtab
+visited Nenia
+visited Parca
+visited Alphecca
+visited Seginus
+visited Alioth
+visited Sarin
+visited Graffias
+visited Orvala
+visited Kochab
+visited "Sepi no Kai"
+visited "Sepi Kai Wha?"
+visited Acamar
+visited Diphda
+visited Aldebaran
+visited Elnath
+visited Kugel
+visited "Al Dhanab"
+visited Schedar
+visited Polaris
+visited Acrux
+visited Minkar
+visited "Zeta Centauri"
+visited Izar
+visited Adhara
+visited "Epsilon Leonis"
+visited Aescolanus
+visited Mirach
+visited Albireo
+visited Eltanin
+visited Sadr
+visited Lurata
+visited Alcyone
+visited Zaurak
+visited Oblate
+visited Durax
+visited Capella
+visited Kursa
+visited Aldhibain
+visited Algieba
+visited "Tania Australis"
+visited Alphard
+visited Zosma
+visited Algol
+visited Algorel
+visited "Cor Caroli"
+visited Turais
+visited Mizar
+visited Phecda
+visited Alheka
+visited Canopus
+visited Alhena
+visited Menkalinan
+visited Wazn
+visited Vindemiatrix
+visited Holeb
+visited Alkaid
+visited Hadar
+visited Almaaz
+visited Hatysa
+visited Unagi
+visited Almach
+visited Persian
+visited Alnasl
+visited Eber
+visited Alnilam
+visited Alnitak
+visited Rigel
+visited Saiph
+visited "Alpha Arae"
+visited "Alpha Centauri"
+visited "Alpha Hydri"
+visited Talita
+visited Boral
+visited Fomalhaut
+visited Aludra
+visited Naos
+visited Antevorta
+visited Ossipago
+visited Cardea
+visited Convector
+visited Insitor
+visited Ap'arak
+visited Sich'ka'ara
+visited Arcturus
+visited Arculus
+visited Edusa
+visited Cinxia
+visited Pantica
+visited Arneb
+visited Peacock
+visited Tais
+visited Naper
+visited Avior
+visited Regor
+visited Lesath
+visited Markeb
+visited Aya'k'k
+visited Pik'ro'iyak
+visited Bellatrix
+visited Menkar
+visited Mirfak
+visited Mirzam
+visited "Bore Fah"
+visited "Wah Ki"
+visited "Bote Asu"
+visited "Ula Mon"
+visited "Ya Hai"
+visited Caeculus
+visited Stercutus
+visited Phurad
+visited Phact
+visited Procyon
+visited Caph
+visited Eteron
+visited Cardax
+visited Moktar
+visited Volax
+visited Sumar
+visited Prakacha'a
+visited Ik'kara'ka
+visited Perfica
+visited Farinus
+visited Coluber
+visited Levana
+visited Lucina
+visited Gacrux
+visited "Da Ent"
+visited "Da Lest"
+visited "Lom Tahr"
+visited "Kaus Australis"
+visited Danoa
+visited Hassaleh
+visited "Delta Velorum"
+visited Fala
+visited Mora
+visited Merak
+visited Fingol
+visited Dubhe
+visited "Due Yoot"
+visited "Wah Oh"
+visited "Io Mann"
+visited "Heia Due"
+visited "Rati Cal"
+visited "Ehma Ti"
+visited "Wah Yoot"
+visited Ek'kek'ru
+visited Si'yak'ku
+visited Nihal
+visited Enif
+visited Sadalmelik
+visited Sadalsuud
+visited Sirius
+visited "Fah Root"
+visited Muhlifain
+visited "Gamma Cassiopeiae"
+visited Spica
+visited Gorvi
+visited Tortor
+visited Zubeneschamali
+visited Hamal
+visited Rajak
+visited Waypoint
+visited "Io Lowe"
+visited "Hi Yahr"
+visited "Imo Dep"
+visited "Zuba Zub"
+visited "Mei Yohn"
+visited Ipsing
+visited Ka'pru
+visited Kiro'ku
+visited "Kor Nor'peli"
+visited Sargas
+visited Mimosa
+visited Limen
+visited Orbona
+visited Lolami
+visited Matar
+visited Mebsuta
+visited Muphrid
+visited Porrima
+visited Regulus
+visited Tejat
+visited Wezen
+visited Sospi
+visited Nocte
+visited Peragenor
+visited "Ultima Thule"
+visited Suhail
+visited Unukalhai
+visited Segesta
+visited "Uwa Fahn"
+"visited planet" "New Portland"
+"visited planet" "New Iceland"
+"visited planet" Tundra
+"visited planet" Greenrock
+"visited planet" Earth
+"visited planet" Silver
+"visited planet" Shangri-La
+"visited planet" "New Boston"
+"visited planet" "New Greenland"
+"visited planet" "New China"
+"visited planet" Heartland
+"visited planet" Ingot
+"visited planet" Wayfarer
+"visited planet" "New Tibet"
+"visited planet" Valhalla
+"visited planet" Dancer
+"visited planet" Farpoint
+"visited planet" Zug
+"visited planet" Maker
+"visited planet" "Smuggler's Den"
+"visited planet" Hope
+"visited planet" Vinci
+"visited planet" Caelian
+"visited planet" Midgard
+"visited planet" Prime
+"visited planet" Allhome
+"visited planet" Bounty
+"visited planet" Longjump
+"visited planet" Harmony
+"visited planet" Bloodsea
+"visited planet" Trinket
+"visited planet" "New Wales"
+"visited planet" Aventine
+"visited planet" Viminal
+"visited planet" Nasqueron
+"visited planet" Slylandro
+"visited planet" Clark
+"visited planet" "New Holland"
+"visited planet" Albatross
+"visited planet" "The Station of Dr. Rousseau"
+"visited planet" "Wormhole Sepi Kai Yes"
+"visited planet" "Ember Wormhole"
+"visited planet" "New India"
+"visited planet" Glaze
+"visited planet" "Deadman's Cove"
+"visited planet" Twinstar
+"visited planet" Follower
+"visited planet" Lichen
+"visited planet" Splashdown
+"visited planet" "Ember Reaches"
+"visited planet" Sundrinker
+"visited planet" Haze
+"visited planet" "Remnant Wormhole"
+"visited planet" Covert
+"visited planet" "Vara K'chrai"
+"visited planet" Sunracer
+"visited planet" Pearl
+"visited planet" Humanika
+"visited planet" Amazon
+"visited planet" Echo
+"visited planet" "Arachne Station"
+"visited planet" Makerplace
+"visited planet" "Wormhole Alpha"
+"visited planet" "New Argentina"
+"visited planet" Cloudfire
+"visited planet" Hai-home
+"visited planet" Mirrorlake
+"visited planet" Memory
+"visited planet" Giverstone
+harvested
+	Durax Lead
+	Almach Lead
+	Almach Silicon
+logbook
+	16 11 3013
+		"Finally scraped together enough money for a down payment on a starship. The interest on the mortgage is exorbitant."
+	16 11 3013
+		"Getting some basic instructions on making a living as a merchant from an old captain named James."
+	20 12 3013
+		"Volunteered to help the Southern Mutual Defense Pact keep tabs on pirate activity in their region of space. Pirate attacks seem to be getting worse because the Navy doesn't bother to patrol down here anymore."
+	7 6 3014
+		"Recovered data from a derelict science drone for a team of scientists, who were studying a strange red anomaly in the Terminus system. They suggest that it may be a partially collapsed wormhole."
+	12 6 3014
+		"Apparently the Navy is suspicious of anyone who worked with the Southern Mutual Defense Pact; got questioned about it by an officer. It was unclear what his rank or position in the Navy was."
+	20 7 3014
+		"Agreed to take a piece of wood from a church on Midgard for an archaeologist. Carbon dating suggests that the church was built many centuries before the discovery of the hyperdrive."
+	7 8 3014
+		"Returned to Midgard with Albert Foster, the archaeologist, to map the area around the church. The instruments discovered what looked like an artificial singularity. Got chased away by Deep ships before being able to look closer."
+	14 2 3015
+		"Discovered a strange, isolated human community in an otherwise uninhabited region of space south of the Core. They call themselves the Remnant."
+	25 5 3015
+		"The prefects have reached a consensus that you should be considered a valuable friend of the Remnant, and shall be given permission to purchase their ships and technology."
+	2 7 3015
+		"Discovered a birdlike alien species to the north of human space. They appear to speak the Hai language in addition to their own, so with the help of a Hai interpreter it might be possible to communicate with them."
+	Factions Alphas
+		"The Alphas were designed hundreds of years ago as genetically engineered super-soldiers, with no compassion or empathy. They escaped from their masters, enslaved entire planets, and commanded massive fleets of ships. Eventually they were defeated, and were either killed or went into hiding. They can be recognized by their green, photosynthetic skin."
+		"Alphas can live for centuries, and it is likely that many of them have survived, hiding out on anarchist worlds or somewhere beyond human space. Fortunately, they reproduce much more slowly than ordinary humans do."
+	Factions Archons
+		`Archons are partly biological, but do not seem to be naturally evolved creatures. Some of their biological characteristics may have been based on the "void sprites" that inhabit the Ember Waste.`
+	Factions Drak
+		"The Drak are supposedly the oldest living species in the galaxy. The Quarg say that the Drak act as something like galactic peacekeepers or police, and will intervene if a species invents a weapon so terrible that it could drive that species to extinction."
+	Factions "Free Worlds"
+		"The Free Worlds is a collection of local governments in the southern galactic arm who have declared independence from the Republic after Parliament refused to address issues they raised about trade tariffs, taxation, and representation. They may be linked to the recent terrorist attacks on the Navy Yard and the galactic stock exchange, although they deny responsibility."
+	Factions Hai
+		"The Hai are a species of giant, intelligent rodents, who live to the north of human space. They allow any humans who discover their territory to live alongside them, and to trade with them and purchase their technology."
+	Factions Pirates
+		"In poorer and more remote star systems, where the Navy seldom patrols, pirate attacks on merchant ships are frequent. Pirates are also known to attack large, unguarded convoys of freighters even in more populated areas. Most pirate fleets come from lawless worlds on the outskirts of human space."
+	Factions Quarg
+		"The Quarg are tall, thin, inscrutable aliens who evolved on a very small planet and can live comfortably on worlds with atmosphere so thin that a human being could not breathe it. They discovered spaceflight millions of years ago. Many of them live on artificially constructed ringworlds, including one in human space. They live at peace with most sentient species and claim to be in communication with an even older species named the Drak."
+	Factions Remnant
+		"Half a millennium ago, during the Alpha Wars, a group of humans fleeing the conflict and looking for a safer place to live discovered a wormhole into a region of space known as the Ember Waste. They built settlements there, and chose to call themselves the Remnant. Although they no longer fear the Alphas as much as they once did, they still have not rejoined human society."
+		"Since their colonies were first formed, the Remnant's culture has changed drastically. They communicate in sign language, using their voices only for singing. Their food and architecture and much of their technology is strange, and much of it has been borrowed or stolen from nearby alien species."
+		"Recently, Korath ships have begun raiding Remnant worlds. The Remnant have decided not to try to discourage these raids, because they are a perfect opportunity to steal jump drives and other valuable alien technology from the Korath."
+	Factions Republic
+		"Hundreds of years ago, the independent territories in different parts of human space agreed to join together into a single democratic government, with Earth as its capital. The rise of the Republic ushered in a long period of peace and prosperity in human history."
+		`Representation in the Republic Parliament is based on population. That means that some individual "Paradise Worlds" have more representatives than entire regions of space like the Dirt Belt that are more sparsely settled.`
+	Factions Syndicate
+		"The Syndicate is a megacorporation, the largest employer in human space. People who cannot find steady work elsewhere flock to the Syndicate factory worlds, where they are almost guaranteed to find a job. Although the Syndicate is technically part of the Republic, Syndicate worlds are governed directly by the corporation."
+		"The Syndicate is a central part of the Republic's economy, but they are also well known for selling shoddy products and for doing damage to the environment on the worlds they control. Their treatment of workers is questionable, and their opposition to organized labor is legendary. Some Syndicate factory towns have even been accused of human rights abuses."
+	Factions "Void Sprites"
+		`The "void sprites" are space-dwelling lifeforms. They are apparently not sentient. They evolved in the atmosphere of a gas giant, but have some biological mechanism for altering or reflecting gravity that allows them to fly into outer space, in the same way that human ships use antigravity to escape a planet's gravity well. The void sprites are not particularly powerful or dangerous creatures, but they are guarded by a Drak Archon.`
+	People "Albert Foster"
+		"An archaeologist who is famous for using dubious methods: he has been banned from Quarg space for trying to collect an alloy sample from their ringworld, and is rumored to have also been involved in a scheme involving dinosaur fossils and an illegal genetic resequencer. He is currently based on Vinci, on the edge of the Paradise sector."

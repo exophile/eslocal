@@ -1,0 +1,185 @@
+outfit “Capper”
+	category "Turrets"
+	cost 98000
+	thumbnail "outfit/disruptor"
+	"mass" 15
+	"outfit space" -15
+	"weapon capacity" -15
+	"turret mounts" -1
+	"required crew" 1
+	weapon
+		sprite "projectile/disruptor"
+			"frame rate" 15
+		"hardpoint sprite" "hardpoint/disruptor"
+		"hardpoint offset" 15
+		sound "disruptor"
+		"hit effect" "disruptor impact"
+		"inaccuracy" .5
+		"turret turn" 4.0
+		"velocity" 1000
+		"lifetime" 1
+		"reload" 1
+		"firing energy" 1.0
+		"firing heat" 1.0
+		"shield damage" 1
+		"hull damage" 15
+		"disruption damage" 5
+		“hit force” -450
+		“slowing damage” 50
+		“heat damage” 120
+		“ion damage” 50
+		“piercing” .9
+	description “One stop shop for disabling your foes.  Get these if you are a total dick.”
+
+
+outfit "Dimensional Heat Sink"
+	category "Systems"
+	cost 60000
+	thumbnail "outfit/liquid nitrogen"
+	"mass" 5
+	"outfit space" -5
+	"cooling" 100
+	description "For ships that come from about five centuries in the future, we ain't got time for that! (heat)."
+
+outfit "Dimensional Shield Regenerator"
+	category "Systems"
+	cost 220000
+	thumbnail "outfit/small regenerator"
+	"mass" 10
+	"outfit space" -10
+	"shield generation" 100
+	"shield energy" .6
+	"energy consumption" .3
+	description "A dimensional shield regenerator works by draining kinetic and other forms of energy from the shield and shunting it into another dimension.  The shield's capacity to absorb energy recovers as excess is bled off."
+
+outfit "Dimensional Ramscoop"
+	category "Systems"
+	cost 320000
+	thumbnail "outfit/catalytic ramscoop"
+	"mass" 5
+	"outfit space" -5
+	"ramscoop" 100
+	description "Dimensional ramscoops provide a shortcut through an alternate dimension to a nearby star, generating unheard of levels of refueling."
+
+outfit "Dimensional Scram Drive"
+	category "Systems"
+	cost 90000
+	thumbnail "outfit/scram drive"
+	"mass" 3
+	"outfit space" -3
+	"scram drive" .2
+	"jump fuel" 50
+	"hyperdrive" 1
+	"jump drive" 1
+	"jump speed" 0.5
+	description "A Dimensional Scram Drive is a futuristic drive that utilizes frame dragging effects to execute jumps without slowing to a stop.  It requires immense computational power."
+
+outfit "Surveillance Pod"
+	category "Systems"
+	cost 122500
+	thumbnail "outfit/surveillance pod"
+	"mass" 5
+	"outfit space" -5
+	"outfit scan power" 16
+	"outfit scan speed" 2
+	"cargo scan power" 4
+	"cargo scan speed" 2
+	"atmosphere scan" 100
+	"tactical scan power" 9
+	description "This is Navy technology, a collection of scanners designed to fit perfectly inside one of their surveillance drones. Since the outputs are fairly standard, you could connect it to your own ship's systems if you want. Installing more than one increases the scan range and speed."
+
+
+outfit "OP Cloaking Device"
+	category "Systems"
+	cost 1200000
+	"mass" 10
+	"outfit space" -10
+	"cloak" .01
+	"cloaking energy" 1
+	"cloaking fuel" .2
+	unplunderable 1
+	ramscoop 50
+	"shield generation" 200
+	"shield energy" .2
+	"hull repair" 20
+	"hull energy" .2
+	description "You're sure the cloaking device is here somewhere, but you can't see it.  And now you are dead."
+
+
+outfit "Outfits Expansion"
+	category "Systems"
+	cost 50000
+	thumbnail "outfit/blue screwdriver"
+	"mass" 5
+	"outfit space" 15
+	"cargo space" -20
+#	"cooling inefficiency" 1
+#	"heat dissipation" -.01
+	unplunderable 1
+	description "This expansion allows you to sacrifice some cargo space in order to make room for more outfits, in situations where you need just a bit more space to install a particular system. It does not increase your weapon or engine space."
+	description "	Unfortunately, rearranging the interior of your ship in such a fundamental way tends to interfere with its cooling systems."
+
+outfit "Pocket Dimension"
+	category "Systems"
+	cost 300000
+	thumbnail "outfit/red screwdriver"
+	"mass" 5
+	"cargo space" 1500
+	"outfit space" -20
+	unplunderable 1
+	description "I got a pocket, got a pocket full of sunshine... A classic product from Through The Looking Glass LLC, very few customers have disappeared while using one."
+
+outfit "Engine Expansion"
+	category "Systems"
+	cost 30000
+	thumbnail "outfit/red screwdriver"
+	"mass" 5
+	"cargo space" -20
+	"engine capacity" 15
+	unplunderable 1
+	description "If you envy Han Solo and want to make the Kessel Run in less than five parsecs, an engine expansion will significantly increase the engine-based structural integrity of your hull."
+
+outfit "Capsule Bunk Room"
+	category "Systems"
+	cost 40000
+	thumbnail "outfit/bunk room"
+	"mass" 10
+	"bunks" 40
+	"outfit space" -20
+	unplunderable 1
+	"energy consumption" .1
+	"heat generation" .2
+	description "Modeled after the capsule hotels of late 20th century Earth, these modules allow you to pack the absolute maximum number of people into your hull.  The downside is increased energy consumption and heat generation."
+
+outfit "Dimensional Slicer"
+	category "Hand to Hand"
+	cost 8000
+	thumbnail "outfit/laser rifle"
+	"capture attack" 100
+	"capture defense" 80
+	"unplunderable" 1
+	description "A dimensional slicer sends sections of a target to another dimension.  This tends to have unfortunate effects on the item or entity donating the material."
+
+outfit "Omniscient Map"
+	category "Special"
+	cost 100000
+	thumbnail "outfit/map"
+	"map" 12000
+	description "This data chip contains complete information on the twelve thousand star systems closest to this one: planets, ports, governments, trade prices, available services, etc. You can get all the same information just by exploring those systems yourself, but having a map can save you from making wrong turns if you are trying to travel through new territory to reach a certain system quickly."
+
+outfitter "Common Outfits"
+	"Capper"
+	"Dimensional Heat Sink"
+	"Dimensional Shield Regenerator"
+	"Omniscient Map"
+	"Dimensional Slicer"
+	"Capsule Bunk Room"
+	"Engine Expansion"
+	"Pocket Dimension"
+	"Outfits Expansion"
+	"OP Cloaking Device"
+	"Surveillance Pod"
+	"Dimensional Shield Regenerator"
+	"Dimensional Scram Drive"
+	"Dimensional Ramscoop"
+	

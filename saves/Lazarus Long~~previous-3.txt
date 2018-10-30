@@ -1,0 +1,4862 @@
+pilot Lazarus Long
+date 11 7 3014
+system Polaris
+planet Shangri-La
+clearance
+travel Hamal
+travel "Alpha Hydri"
+"map coloring" -6
+"map zoom" 0
+"reputation with"
+	" Drak " -1000
+	" Kor Mereti " -1000
+	Alpha -1000
+	Author 1
+	"Bad Trip" -1000
+	Bounty -1091.8
+	"Bounty Hunter" -1000
+	Coalition 1
+	Deep -1000
+	"Deep Security" 984.64
+	Drak 1
+	"Free Worlds" 1968.28
+	Hai 502.9
+	"Hai (Unfettered)" -2005.8
+	Heliarch 1
+	Independent 10
+	"Indigenous Lifeform" 1
+	"Kor Efret" 1
+	"Kor Mereti" -1000
+	"Kor Sestor" -1000
+	Korath -38362.4
+	"Korath Nanobots" -1000
+	Merchant 8664.12
+	Militia 1967.28
+	"Navy (Oathkeeper)" 1575.46
+	"Navy Intelligence" 1475.46
+	Neutral 984.64
+	Parrot 1
+	Pirate -4928.2
+	Pug 1
+	Quarg 1
+	Remnant 1
+	Republic 1477.46
+	Syndicate 21145.48
+	"Syndicate (Extremist)" -1000
+	"Team Blue" -1000
+	"Team Red" -1000
+	"Test Dummy" -1000
+	Uninhabited 0
+	Wanderer 1
+
+# What you own:
+ship Bactrian
+	name "WEDDING CAKE"
+	sprite ship/bactrian
+	attributes
+		category "Heavy Warship"
+		cost 17600000
+		mass 940
+		bunks 245
+		"cargo space" 530
+		drag 16.1
+		"engine capacity" 180
+		"fuel capacity" 700
+		"gun ports" 4
+		"heat dissipation" 0.4
+		hull 8600
+		"outfit space" 740
+		"required crew" 70
+		shields 17500
+		"turret mounts" 6
+		"weapon capacity" 300
+	outfits
+		"Cargo Scanner"
+		Capper 5
+		"Outfit Scanner"
+		"A860 Atomic Thruster"
+		Ramscoop
+		"Tactical Scanner"
+		"Jump Drive"
+		"Water Coolant System" 5
+		"Chameleon Anti-Missile"
+		"Quantum Keystone"
+		"Fusion Reactor"
+		"Systems Core (Medium)"
+		"Systems Core (Large)"
+		"Engine Expansion"
+		"Breeder Reactor"
+		"A525 Atomic Steering"
+	crew 245
+	fuel 700
+	shields 17500
+	hull 8600
+	position -95.774144 504.55544
+	engine -18 230 1
+	engine 18 230 1
+	gun -15 -226
+	gun 15 -226
+	gun -40 -133
+	gun -45 -128
+	turret -22 -148 Capper
+	turret 26 -80 Capper
+	turret -41 -20 Capper
+	turret 32 -7 Capper
+	turret 53 82 Capper
+	turret -37 186 "Chameleon Anti-Missile"
+	fighter -38 -26
+	fighter 35 36
+	fighter -47 97
+	leak leak 30 50
+	leak flame 30 80
+	leak "big leak" 50 30
+	explode "large explosion" 45
+	explode "huge explosion" 30
+	explode "small explosion" 25
+	explode "medium explosion" 35
+	"final explode" "final explosion large" 1
+	system Polaris
+	planet Shangri-La
+ship "Shield Beetle"
+	name "CARROT CAKE"
+	sprite "ship/hai shield beetle"
+	attributes
+		category "Heavy Warship"
+		cost 17900000
+		mass 650
+		bunks 95
+		"cargo space" 142
+		drag 8.8
+		"engine capacity" 150
+		"fuel capacity" 500
+		"gun ports" 8
+		"heat dissipation" 0.6
+		hull 9800
+		"outfit space" 798
+		"required crew" 47
+		shields 32000
+		"turret mounts" 4
+		"weapon capacity" 333
+	outfits
+		"Cargo Expansion" 7
+		Capper 4
+		"Large Heat Shunt"
+		`"Bufaer" Atomic Thruster`
+		"Jump Drive"
+		"Boulder Reactor"
+		`"Bufaer" Atomic Steering`
+		"Quantum Keystone"
+		"AR120 Reverse Thruster"
+		"Geode Reactor"
+		"Hai Gorge Batteries"
+		"Systems Core (Medium)"
+		"Systems Core (Large)"
+		"Engine Expansion" 2
+		"Fuel Processor"
+		"Korath Repeater Rifle" 1183
+	crew 95
+	fuel 700
+	shields 32000
+	hull 9800
+	position -112.22187 516.60329
+	engine -44 133 1
+	engine 44 133 1
+	gun -22 -102
+	gun 22 -102
+	gun -34 -68
+	gun 34 -68
+	gun -49 -38
+	gun 49 -38
+	gun -61 -14
+	gun 61 -14
+	turret -39 48 Capper
+	turret 39 48 Capper
+	turret -57 75 Capper
+	turret 57 75 Capper
+	explode "large explosion" 50
+	explode "huge explosion" 20
+	explode "tiny explosion" 50
+	explode "small explosion" 50
+	explode "medium explosion" 50
+	"final explode" "final explosion large" 1
+	system Polaris
+	planet Shangri-La
+groups 4
+ship "Shield Beetle"
+	name "Luf Ood Loh"
+	sprite "ship/hai shield beetle"
+	attributes
+		category "Heavy Warship"
+		cost 17900000
+		mass 650
+		bunks 95
+		"cargo space" 142
+		drag 8.8
+		"engine capacity" 150
+		"fuel capacity" 500
+		"gun ports" 8
+		"heat dissipation" 0.6
+		hull 9800
+		"outfit space" 798
+		"required crew" 47
+		shields 32000
+		"turret mounts" 4
+		"weapon capacity" 333
+	outfits
+		"Cargo Expansion" 7
+		Capper 3
+		"Large Heat Shunt"
+		`"Bufaer" Atomic Thruster`
+		"Jump Drive"
+		"Korath Warder"
+		"Boulder Reactor"
+		`"Bufaer" Atomic Steering`
+		"Quantum Keystone"
+		"Geode Reactor"
+		"Hai Gorge Batteries"
+		"Systems Core (Medium)"
+		"Systems Core (Large)"
+		"Engine Expansion" 2
+		"Fuel Processor" 2
+	crew 50
+	fuel 900
+	shields 32000
+	hull 9800
+	position -104.49266 508.64734
+	engine -44 133 1
+	engine 44 133 1
+	gun -22 -102
+	gun 22 -102
+	gun -34 -68
+	gun 34 -68
+	gun -49 -38
+	gun 49 -38
+	gun -61 -14
+	gun 61 -14
+	turret -39 48 Capper
+	turret 39 48 Capper
+	turret -57 75 Capper
+	turret 57 75 "Korath Warder"
+	explode "large explosion" 50
+	explode "huge explosion" 20
+	explode "tiny explosion" 50
+	explode "small explosion" 50
+	explode "medium explosion" 50
+	"final explode" "final explosion large" 1
+	system Polaris
+	planet Shangri-La
+groups 6
+ship "Shield Beetle"
+	name "Mon Sook Ow"
+	sprite "ship/hai shield beetle"
+	attributes
+		category "Heavy Warship"
+		cost 17900000
+		mass 650
+		bunks 95
+		"cargo space" 142
+		drag 8.8
+		"engine capacity" 150
+		"fuel capacity" 500
+		"gun ports" 8
+		"heat dissipation" 0.6
+		hull 9800
+		"outfit space" 798
+		"required crew" 47
+		shields 32000
+		"turret mounts" 4
+		"weapon capacity" 333
+	outfits
+		"Cargo Expansion" 7
+		Capper 3
+		"Large Heat Shunt"
+		`"Bufaer" Atomic Thruster`
+		"Jump Drive"
+		"Korath Warder"
+		"Boulder Reactor"
+		`"Bufaer" Atomic Steering`
+		"Quantum Keystone"
+		"Geode Reactor"
+		"Hai Gorge Batteries"
+		"Systems Core (Medium)"
+		"Systems Core (Large)"
+		"Engine Expansion" 2
+		"Fuel Processor" 2
+	crew 50
+	fuel 900
+	shields 32000
+	hull 9800
+	position -102.50185 520.89349
+	engine -44 133 1
+	engine 44 133 1
+	gun -22 -102
+	gun 22 -102
+	gun -34 -68
+	gun 34 -68
+	gun -49 -38
+	gun 49 -38
+	gun -61 -14
+	gun 61 -14
+	turret -39 48 "Korath Warder"
+	turret 39 48 Capper
+	turret -57 75 Capper
+	turret 57 75 Capper
+	explode "large explosion" 50
+	explode "huge explosion" 20
+	explode "tiny explosion" 50
+	explode "small explosion" 50
+	explode "medium explosion" 50
+	"final explode" "final explosion large" 1
+	system Polaris
+	planet Shangri-La
+groups 6
+ship "Shield Beetle"
+	name "Woh e Loh"
+	sprite "ship/hai shield beetle"
+	attributes
+		category "Heavy Warship"
+		cost 17900000
+		mass 650
+		bunks 95
+		"cargo space" 142
+		drag 8.8
+		"engine capacity" 150
+		"fuel capacity" 500
+		"gun ports" 8
+		"heat dissipation" 0.6
+		hull 9800
+		"outfit space" 798
+		"required crew" 47
+		shields 32000
+		"turret mounts" 4
+		"weapon capacity" 333
+	outfits
+		"Cargo Expansion" 7
+		Capper 3
+		"Large Heat Shunt"
+		`"Bufaer" Atomic Thruster`
+		"Jump Drive"
+		"Korath Warder"
+		"Boulder Reactor"
+		`"Bufaer" Atomic Steering`
+		"Quantum Keystone"
+		"Geode Reactor"
+		"Hai Gorge Batteries"
+		"Systems Core (Medium)"
+		"Systems Core (Large)"
+		"Engine Expansion" 2
+		"Fuel Processor" 2
+	crew 50
+	fuel 900
+	shields 32000
+	hull 9800
+	position -105.84768 500.00082
+	engine -44 133 1
+	engine 44 133 1
+	gun -22 -102
+	gun 22 -102
+	gun -34 -68
+	gun 34 -68
+	gun -49 -38
+	gun 49 -38
+	gun -61 -14
+	gun 61 -14
+	turret -39 48 "Korath Warder"
+	turret 39 48 Capper
+	turret -57 75 Capper
+	turret 57 75 Capper
+	explode "large explosion" 50
+	explode "huge explosion" 20
+	explode "tiny explosion" 50
+	explode "small explosion" 50
+	explode "medium explosion" 50
+	"final explode" "final explosion large" 1
+	system Polaris
+	planet Shangri-La
+groups 6
+ship "Shield Beetle"
+	name "Woh Cor Bin"
+	sprite "ship/hai shield beetle"
+	attributes
+		category "Heavy Warship"
+		cost 17900000
+		mass 650
+		bunks 95
+		"cargo space" 142
+		drag 8.8
+		"engine capacity" 150
+		"fuel capacity" 500
+		"gun ports" 8
+		"heat dissipation" 0.6
+		hull 9800
+		"outfit space" 798
+		"required crew" 47
+		shields 32000
+		"turret mounts" 4
+		"weapon capacity" 333
+	outfits
+		"Cargo Expansion" 7
+		Capper 3
+		"Large Heat Shunt"
+		`"Bufaer" Atomic Thruster`
+		"Jump Drive"
+		"Korath Warder"
+		"Boulder Reactor"
+		`"Bufaer" Atomic Steering`
+		"Quantum Keystone"
+		"Geode Reactor"
+		"Hai Gorge Batteries"
+		"Systems Core (Medium)"
+		"Systems Core (Large)"
+		"Engine Expansion" 2
+		"Fuel Processor" 2
+	crew 50
+	fuel 900
+	shields 32000
+	hull 9800
+	position -101.77616 507.81825
+	engine -44 133 1
+	engine 44 133 1
+	gun -22 -102
+	gun 22 -102
+	gun -34 -68
+	gun 34 -68
+	gun -49 -38
+	gun 49 -38
+	gun -61 -14
+	gun 61 -14
+	turret -39 48 "Korath Warder"
+	turret 39 48 Capper
+	turret -57 75 Capper
+	turret 57 75 Capper
+	explode "large explosion" 50
+	explode "huge explosion" 20
+	explode "tiny explosion" 50
+	explode "small explosion" 50
+	explode "medium explosion" 50
+	"final explode" "final explosion large" 1
+	system Polaris
+	planet Shangri-La
+groups 6
+ship "Shield Beetle"
+	name "Mon Sen"
+	sprite "ship/hai shield beetle"
+	attributes
+		category "Heavy Warship"
+		cost 17900000
+		mass 650
+		bunks 95
+		"cargo space" 142
+		drag 8.8
+		"engine capacity" 150
+		"fuel capacity" 500
+		"gun ports" 8
+		"heat dissipation" 0.6
+		hull 9800
+		"outfit space" 798
+		"required crew" 47
+		shields 32000
+		"turret mounts" 4
+		"weapon capacity" 333
+	outfits
+		"Cargo Expansion" 7
+		Capper 3
+		"Large Heat Shunt"
+		`"Bufaer" Atomic Thruster`
+		"Jump Drive"
+		"Korath Warder"
+		"Boulder Reactor"
+		`"Bufaer" Atomic Steering`
+		"Quantum Keystone"
+		"Geode Reactor"
+		"Hai Gorge Batteries"
+		"Systems Core (Medium)"
+		"Systems Core (Large)"
+		"Engine Expansion" 2
+		"Fuel Processor" 2
+	crew 50
+	fuel 900
+	shields 32000
+	hull 9800
+	position -112.50572 509.16706
+	engine -44 133 1
+	engine 44 133 1
+	gun -22 -102
+	gun 22 -102
+	gun -34 -68
+	gun 34 -68
+	gun -49 -38
+	gun 49 -38
+	gun -61 -14
+	gun 61 -14
+	turret -39 48 "Korath Warder"
+	turret 39 48 Capper
+	turret -57 75 Capper
+	turret 57 75 Capper
+	explode "large explosion" 50
+	explode "huge explosion" 20
+	explode "tiny explosion" 50
+	explode "small explosion" 50
+	explode "medium explosion" 50
+	"final explode" "final explosion large" 1
+	system Polaris
+	planet Shangri-La
+groups 6
+account
+	credits 98102259
+	score 637
+	history
+		21766630
+		21516457
+		21273645
+		21028768
+		20783552
+		20542440
+		20305111
+		31086305
+		30854768
+		30631938
+		30404195
+		30173583
+		25651757
+		27510325
+		34095464
+		33899465
+		33697788
+		33496392
+		33303215
+		33117780
+		32929940
+		32752106
+		32553924
+		32360195
+		32174677
+		31990943
+		31801823
+		31628990
+		31447576
+		83986444
+		67286681
+		67104542
+		103708268
+		95239185
+		95044046
+		103756457
+		103571452
+		101462339
+		101148094
+		100842359
+		100549632
+		100274793
+		99971717
+		99677042
+		99381550
+		99097510
+		98832847
+		98530173
+		98258199
+		97962852
+		97670168
+		97377552
+		97073544
+		96772538
+		96482139
+		96200601
+		95355099
+		96986112
+		96624513
+		96276678
+		95925954
+		95505884
+		95099453
+		98544674
+		98124418
+		97696692
+		97296471
+		98097140
+		97719760
+		97376658
+		97005362
+		96638196
+		96260203
+		92000722
+		91620261
+		91244903
+		90885396
+		90567569
+		134932516
+		134606264
+		134287537
+		133984033
+		128554829
+		128224993
+		127914514
+		127608805
+		127361789
+		150929243
+		150657860
+		150408272
+		150161769
+		149307515
+		148937694
+		148587388
+		148254408
+		147929936
+		196838628
+		196657161
+		196447831
+		196240021
+		213677638
+	mortgage Mortgage
+		principal 824
+		interest 0.00326
+		term 277
+cargo
+	commodities
+		Clothing 7
+		Equipment 5
+		Food 20
+		Industrial 2
+		Plastic 5
+	outfits
+		"Jump Drive" 7
+stock
+	"Cargo Expansion" 19
+	"Systems Core (Medium)" 1
+	"Capsule Bunk Room" 4
+"fleet depreciation"
+	ship Bactrian
+		1100557 1
+	outfit "Cargo Scanner"
+		1100541 1
+	outfit Hyperdrive
+	outfit "Cargo Expansion"
+		1100604 34
+		1100657 7
+	outfit Capper
+		1100437 1
+		1100446 2
+		1100541 2
+		1100617 16
+		1100657 3
+	outfit "Heavy Anti-Missile Turret"
+	outfit "Outfit Scanner"
+		1100541 1
+	outfit "A860 Atomic Thruster"
+		1100557 1
+	outfit "Tactical Scanner"
+		1100541 1
+	outfit `"Bufaer" Atomic Thruster`
+		1100604 6
+	outfit "Korath Warder"
+	outfit "D23-QP Shield Generator"
+	outfit "Water Coolant System"
+		1100557 3
+	outfit "Pulse Turret"
+	outfit "Quantum Keystone"
+		1100604 3
+	outfit "D94-YV Shield Generator"
+	outfit "Fusion Reactor"
+	outfit "AR120 Reverse Thruster"
+		1100557 1
+	outfit "Hai Gorge Batteries"
+		1100604 3
+	outfit "Systems Core (Medium)"
+	outfit "Systems Core (Large)"
+	outfit "Engine Expansion"
+		1100468 1
+		1100604 12
+	outfit "Breeder Reactor"
+	outfit "A525 Atomic Steering"
+		1100557 1
+	outfit "Fuel Processor"
+	outfit "Korath Repeater Rifle"
+"stock depreciation"
+	outfit "Cargo Expansion"
+		1100657 19
+	outfit "Systems Core (Medium)"
+		1099667 1
+	outfit "Capsule Bunk Room"
+		1100557 4
+
+# What you've done:
+mission "Rescue Miners 1"
+	name "Rescue Miners"
+	description "Participate in the medical evacuation of some miners injured in a recent accident on Trove."
+	cargo "emergency supplies" 15
+	passengers 15
+	minor
+	to offer
+		random < 60
+	destination Trove
+	on offer
+		dialog
+			`You've just sat down in the spaceport bar and ordered a drink when someone in uniform runs into the room and shouts, "There's been a mine explosion on Trove! We need all available ships to carry relief workers and supplies and to evacuate the injured to a world where there are better medical facilities." Do you volunteer?`
+mission "Drak guarding Void Sprites"
+	name "Drak guarding Void Sprites"
+	invisible
+	landing
+	destination "New Boston"
+	npc
+		succeed 128
+		government Drak
+		personality
+			confusion 10
+			heroic
+			staying
+			vindictive
+		ship Archon
+			name "Sleeping Dragon"
+			noun entity
+			sprite ship/archon
+				"frame rate" 0.86999997
+			"never disabled"
+			attributes
+				category "Heavy Warship"
+				cost 1000000000
+				mass 1000
+				bunks 1
+				cloak 0.04
+				drag 27
+				"energy capacity" 10000
+				"energy generation" 500
+				"engine capacity" 200
+				"fuel capacity" 800
+				"gun ports" 1
+				"heat dissipation" 40
+				"heat generation" 17
+				hull 1000000
+				"hull energy" 100
+				"hull repair rate" 100
+				"outfit space" 800
+				ramscoop 100
+				"required crew" 1
+				"shield energy" 100
+				"shield generation" 100
+				shields 4000000
+				"turret mounts" 8
+				"weapon capacity" 600
+			outfits
+				Hyperdrive
+				"Jump Drive"
+				"Medium Graviton Thruster"
+				"Medium Graviton Steering"
+				"Drak Draining Field"
+				"Drak Distancer" 2
+				"Drak Turret" 3
+				"Drak Antimatter Cannon"
+				"Drak Anti-Missile Field" 2
+			crew 1
+			fuel 800.55387
+			shields 4000000
+			hull 1000000
+			position -1478.8357 -286.96656
+			engine -17 92 1
+			engine 17 92 1
+			gun 0 -74 "Drak Antimatter Cannon"
+			turret 0 -10 "Drak Anti-Missile Field"
+			turret 0 -10 "Drak Anti-Missile Field"
+			turret 0 -10 "Drak Draining Field"
+			turret -40 -13 "Drak Turret"
+			turret 40 -13 "Drak Turret"
+			turret 0 81 "Drak Turret"
+			turret -55 16 "Drak Distancer"
+			turret 55 16 "Drak Distancer"
+			explode "nuke explosion" 3
+			"final explode" "final explosion large" 1
+			system Nenia
+mission "Drak guarding Sayaiban"
+	name "Drak guarding Sayaiban"
+	invisible
+	landing
+	destination "New Boston"
+	npc
+		succeed 128
+		government Drak
+		personality
+			confusion 10
+			heroic
+			staying
+			vindictive
+		ship Archon
+			name "Watchful Gravetender"
+			noun entity
+			sprite ship/archon
+				"frame rate" 0.86999997
+			"never disabled"
+			attributes
+				category "Heavy Warship"
+				cost 1000000000
+				mass 1000
+				bunks 1
+				drag 27
+				"energy capacity" 10000
+				"energy generation" 500
+				"engine capacity" 200
+				"fuel capacity" 800
+				"gun ports" 1
+				"heat dissipation" 40
+				"heat generation" 17
+				hull 1000000
+				"hull energy" 100
+				"hull repair rate" 100
+				"outfit space" 800
+				ramscoop 100
+				"required crew" 1
+				"shield energy" 100
+				"shield generation" 100
+				shields 4000000
+				"turret mounts" 8
+				"weapon capacity" 600
+			outfits
+				Hyperdrive
+				"Jump Drive"
+				"Medium Graviton Thruster"
+				"Medium Graviton Steering"
+				"Drak Draining Field"
+				"Drak Distancer" 2
+				"Drak Turret" 3
+				"Drak Antimatter Cannon"
+				"Drak Anti-Missile Field" 2
+			crew 1
+			fuel 800.58825
+			shields 4000000
+			hull 1000000
+			position 769.5567 -691.4554
+			engine -17 92 1
+			engine 17 92 1
+			gun 0 -74 "Drak Antimatter Cannon"
+			turret 0 -10 "Drak Anti-Missile Field"
+			turret 0 -10 "Drak Anti-Missile Field"
+			turret 0 -10 "Drak Draining Field"
+			turret -40 -13 "Drak Turret"
+			turret 40 -13 "Drak Turret"
+			turret 0 81 "Drak Turret"
+			turret -55 16 "Drak Distancer"
+			turret 55 16 "Drak Distancer"
+			explode "nuke explosion" 3
+			"final explode" "final explosion large" 1
+			system Sayaiban
+	on enter Sayaiban
+		log Factions Archons
+			"Archons consider it to be their job to enforce peace and to prevent extinction. If they are unable to prevent a species from driving itself extinct, they will still try to preserve some of what that species created as a memorial to them."
+			"They are capable of communicating telepathically."
+		conversation
+			label 0
+			`A voice says, "This system is off limits. You should leave."`
+			"	After a second, you realize that the voice did not come from your communications equipment. In fact, now that you think about it, you're not sure if it was an audible voice, or just something in your head."
+				goto 1
+			label 1
+			choice
+				"	(Ignore it.)"
+					goto 2
+				`	"Why should I leave?"`
+					goto 4
+				`	"You can't tell me what to do."`
+					goto 4
+			label 2
+			`	"You should leave." The thought repeats itself, insistently. Either you're going crazy, or a creature is communicating with you telepathically.`
+				goto 3
+			label 3
+			choice
+				`	"Why should I leave?"`
+					goto 4
+				`	"You can't tell me what to do."`
+					goto 4
+			label 4
+			`	You feel as if a vast and patient creature has just heaved an immense sigh. "Human, you would do well not to ignore the warning of an Archon. I am here to warn off those who might be harmed by the swarm intelligence that infests this system. If you remain here long your ship will be digested by the swarm."`
+			`	You recall that "Archon" is what Drak ships are called.`
+				goto 5
+			label 5
+			choice
+				`	"What do you mean, 'digested'?"`
+					goto 6
+				`	"What is a 'swarm intelligence'?"`
+					goto 7
+			label 6
+			`	"I mean that your ship will be broken down into its component parts." You notice, as the voice says this, that your shields are registering small energy bursts, as if they are being struck by invisible weapons.`
+			`	"What is this swarm?" you ask.`
+				goto 7
+			label 7
+			`	"Self-replicating miniature robots," the voice replies. "A weapon created by the Korath, the last of their great abominations. If you wish to feed your ship to the swarm, I will not stop you, but they already possess enough raw material here without your assistance." The voice's tone, inasmuch as a disembodied imaginary voice can be said to have a tone, is sardonic.`
+				goto 8
+			label 8
+			choice
+				`	"Okay, okay, I'll get out of here."`
+					goto 12
+				`	"Wait, I have more questions."`
+					goto 9
+			label 9
+			`	"Yes?"`
+			`	You ask, "Why don't you just destroy the swarm, if it is so dangerous?"`
+			`	The voice says, "Because if the Korath manage to drive themselves extinct, this intelligence will be their last and greatest surviving creation, and we will preserve it as a living memorial to them. Please do not interfere here." When the voice speaks the phrase, "drive themselves extinct," the words are accompanied by an emotion that you cannot put a name to.`
+			"	Also, the empty space around your ship is beginning to light up with small sparks, like an angry swarm of fireflies."
+				goto 10
+			label 10
+			choice
+				`	"Well, it's an honor to meet you. I'll be leaving now."`
+					goto 12
+				`	"Why do you care if they go extinct?"`
+					goto 11
+			label 11
+			`	"Our directive is to enforce peace and prevent extinction," says the voice. As before, the words "prevent extinction" echo loud in your mind as if underlined by a nameless emotion. "Now, enough questions," says the voice.`
+				goto 12
+			label 12
+			"	The presence inside your head seems to fall away, and you are left talking to thin air."
+				decline
+mission "Drak guarding Korath space"
+	name "Drak guarding Korath space"
+	invisible
+	landing
+	destination "New Boston"
+	npc
+		succeed 128
+		government Drak
+		personality
+			confusion 10
+			heroic
+			staying
+			vindictive
+		ship Archon
+			name "Kasiliri's Folly"
+			noun entity
+			sprite ship/archon
+				"frame rate" 0.86999997
+			"never disabled"
+			attributes
+				category "Heavy Warship"
+				cost 1000000000
+				mass 1000
+				bunks 1
+				drag 27
+				"energy capacity" 10000
+				"energy generation" 500
+				"engine capacity" 200
+				"fuel capacity" 800
+				"gun ports" 1
+				"heat dissipation" 40
+				"heat generation" 17
+				hull 1000000
+				"hull energy" 100
+				"hull repair rate" 100
+				"outfit space" 800
+				ramscoop 100
+				"required crew" 1
+				"shield energy" 100
+				"shield generation" 100
+				shields 4000000
+				"turret mounts" 8
+				"weapon capacity" 600
+			outfits
+				Hyperdrive
+				"Jump Drive"
+				"Medium Graviton Thruster"
+				"Medium Graviton Steering"
+				"Drak Draining Field"
+				"Drak Distancer" 2
+				"Drak Turret" 3
+				"Drak Antimatter Cannon"
+				"Drak Anti-Missile Field" 2
+			crew 1
+			fuel 803.4237
+			shields 4000000
+			hull 1000000
+			position -157.55117 -450.43134
+			engine -17 92 1
+			engine 17 92 1
+			gun 0 -74 "Drak Antimatter Cannon"
+			turret 0 -10 "Drak Anti-Missile Field"
+			turret 0 -10 "Drak Anti-Missile Field"
+			turret 0 -10 "Drak Draining Field"
+			turret -40 -13 "Drak Turret"
+			turret 40 -13 "Drak Turret"
+			turret 0 81 "Drak Turret"
+			turret -55 16 "Drak Distancer"
+			turret 55 16 "Drak Distancer"
+			explode "nuke explosion" 3
+			"final explode" "final explosion large" 1
+			system Fasitopfar
+	npc
+		succeed 128
+		government Drak
+		personality
+			confusion 10
+			heroic
+			staying
+			vindictive
+		ship Archon
+			name "Sword of Eden"
+			noun entity
+			sprite ship/archon
+				"frame rate" 0.86999997
+			"never disabled"
+			attributes
+				category "Heavy Warship"
+				cost 1000000000
+				mass 1000
+				bunks 1
+				drag 27
+				"energy capacity" 10000
+				"energy generation" 500
+				"engine capacity" 200
+				"fuel capacity" 800
+				"gun ports" 1
+				"heat dissipation" 40
+				"heat generation" 17
+				hull 1000000
+				"hull energy" 100
+				"hull repair rate" 100
+				"outfit space" 800
+				ramscoop 100
+				"required crew" 1
+				"shield energy" 100
+				"shield generation" 100
+				shields 4000000
+				"turret mounts" 8
+				"weapon capacity" 600
+			outfits
+				Hyperdrive
+				"Jump Drive"
+				"Medium Graviton Thruster"
+				"Medium Graviton Steering"
+				"Drak Draining Field"
+				"Drak Distancer" 2
+				"Drak Turret" 3
+				"Drak Antimatter Cannon"
+				"Drak Anti-Missile Field" 2
+			crew 1
+			fuel 803.46275
+			shields 4000000
+			hull 1000000
+			position -5.664771 -457.50392
+			engine -17 92 1
+			engine 17 92 1
+			gun 0 -74 "Drak Antimatter Cannon"
+			turret 0 -10 "Drak Anti-Missile Field"
+			turret 0 -10 "Drak Anti-Missile Field"
+			turret 0 -10 "Drak Draining Field"
+			turret -40 -13 "Drak Turret"
+			turret 40 -13 "Drak Turret"
+			turret 0 81 "Drak Turret"
+			turret -55 16 "Drak Distancer"
+			turret 55 16 "Drak Distancer"
+			explode "nuke explosion" 3
+			"final explode" "final explosion large" 1
+			system Kasikfar
+	npc
+		succeed 128
+		government Drak
+		personality
+			confusion 10
+			heroic
+			staying
+			vindictive
+		ship Archon
+			name "Snows of Far Door Nai"
+			noun entity
+			sprite ship/archon
+				"frame rate" 0.86999997
+			"never disabled"
+			attributes
+				category "Heavy Warship"
+				cost 1000000000
+				mass 1000
+				bunks 1
+				drag 27
+				"energy capacity" 10000
+				"energy generation" 500
+				"engine capacity" 200
+				"fuel capacity" 800
+				"gun ports" 1
+				"heat dissipation" 40
+				"heat generation" 17
+				hull 1000000
+				"hull energy" 100
+				"hull repair rate" 100
+				"outfit space" 800
+				ramscoop 100
+				"required crew" 1
+				"shield energy" 100
+				"shield generation" 100
+				shields 4000000
+				"turret mounts" 8
+				"weapon capacity" 600
+			outfits
+				Hyperdrive
+				"Jump Drive"
+				"Medium Graviton Thruster"
+				"Medium Graviton Steering"
+				"Drak Draining Field"
+				"Drak Distancer" 2
+				"Drak Turret" 3
+				"Drak Antimatter Cannon"
+				"Drak Anti-Missile Field" 2
+			crew 1
+			fuel 804.51002
+			shields 4000000
+			hull 1000000
+			position -81.459491 23.31246
+			engine -17 92 1
+			engine 17 92 1
+			gun 0 -74 "Drak Antimatter Cannon"
+			turret 0 -10 "Drak Anti-Missile Field"
+			turret 0 -10 "Drak Anti-Missile Field"
+			turret 0 -10 "Drak Draining Field"
+			turret -40 -13 "Drak Turret"
+			turret 40 -13 "Drak Turret"
+			turret 0 81 "Drak Turret"
+			turret -55 16 "Drak Distancer"
+			turret 55 16 "Drak Distancer"
+			explode "nuke explosion" 3
+			"final explode" "final explosion large" 1
+			system Peresedersi
+mission "Bounty Hunting (Small)"
+	name "Hunt down End of Masters"
+	description "A pirate vessel named End of Masters has been attacking merchants near the Aldhibain system. Destroy it and return to Glaze for payment (150,000 credits)."
+	job
+	repeat 0
+	to offer
+		"combat rating" > 300
+		random < 40
+	destination Glaze
+	npc
+		succeed 128
+		government Bounty
+		personality
+			confusion 10
+			heroic
+			nemesis
+			staying
+			target
+		dialog
+			"The End of Masters has been eliminated. You can claim the bounty payment by returning to Glaze in the Aldhibain system."
+		ship Firebird
+			name "End of Masters"
+			sprite ship/firebird
+			attributes
+				category "Medium Warship"
+				cost 3700000
+				mass 290
+				bunks 22
+				"cargo space" 50
+				drag 4.5
+				"engine capacity" 100
+				"fuel capacity" 400
+				"gun ports" 4
+				"heat dissipation" 0.6
+				hull 2800
+				"outfit space" 400
+				"required crew" 7
+				shields 6400
+				"turret mounts" 2
+				"weapon capacity" 160
+			outfits
+				Hyperdrive
+				"Heavy Laser" 4
+				"Heavy Laser Turret" 2
+				"D41-HY Shield Generator"
+				"LP144a Battery Pack"
+				"X3200 Ion Steering"
+				"RT-I Radiothermal"
+				"nGVF-AA Fuel Cell"
+				"X3700 Ion Thruster"
+			cargo
+				commodities
+					Electronics 13
+					"Luxury Goods" 34
+			crew 18
+			fuel 400.0016
+			shields 6400
+			hull 2800
+			position 709.21098 141.6684
+			engine -33 65 1
+			engine 33 65 1
+			gun -28 -27 "Heavy Laser"
+			gun 28 -27 "Heavy Laser"
+			gun -39 -13 "Heavy Laser"
+			gun 39 -13 "Heavy Laser"
+			turret -5 3 "Heavy Laser Turret"
+			turret 5 3 "Heavy Laser Turret"
+			leak leak 50 50
+			leak flame 30 80
+			explode "large explosion" 8
+			explode "tiny explosion" 18
+			explode "small explosion" 36
+			explode "medium explosion" 24
+			"final explode" "final explosion medium" 1
+			system Unukalhai
+	on complete
+		dialog
+			"The government of Glaze gratefully pays you 150,000 credits for eliminating the End of Masters."
+		payment 150000
+mission "Bounty Hunting (Small)"
+	name "Hunt down Mindrat"
+	description "A pirate vessel named Mindrat has been attacking merchants near the Albaldah system. Destroy it and return to New India for payment (150,000 credits)."
+	job
+	repeat 0
+	to offer
+		"combat rating" > 300
+		random < 40
+	destination "New India"
+	npc
+		succeed 128
+		government Bounty
+		personality
+			confusion 10
+			heroic
+			nemesis
+			staying
+			target
+		dialog
+			"The Mindrat has been eliminated. You can claim the bounty payment by returning to New India in the Albaldah system."
+		ship Firebird
+			name Mindrat
+			sprite ship/firebird
+			attributes
+				category "Medium Warship"
+				cost 3700000
+				mass 290
+				bunks 22
+				"cargo space" 50
+				drag 4.5
+				"engine capacity" 100
+				"fuel capacity" 400
+				"gun ports" 4
+				"heat dissipation" 0.6
+				hull 2800
+				"outfit space" 400
+				"required crew" 7
+				shields 6400
+				"turret mounts" 2
+				"weapon capacity" 160
+			outfits
+				"Outfits Expansion"
+				Hyperdrive
+				"Heavy Laser Turret" 2
+				"Impala Plasma Thruster"
+				"Meteor Missile" 70
+				"Meteor Missile Launcher" 2
+				Torpedo 60
+				"Torpedo Launcher" 2
+				"LP072a Battery Pack"
+				"D94-YV Shield Generator"
+				"A375 Atomic Steering"
+				"Fission Reactor"
+			cargo
+				commodities
+					Electronics 27
+					Equipment 3
+			crew 13
+			fuel 400.0052
+			shields 6400
+			hull 2800
+			position -21.8945 460.28404
+			engine -33 65 1
+			engine 33 65 1
+			gun -28 -27 "Meteor Missile Launcher"
+			gun 28 -27 "Meteor Missile Launcher"
+			gun -39 -13 "Torpedo Launcher"
+			gun 39 -13 "Torpedo Launcher"
+			turret -5 3 "Heavy Laser Turret"
+			turret 5 3 "Heavy Laser Turret"
+			explode "large explosion" 8
+			explode "tiny explosion" 18
+			explode "small explosion" 36
+			explode "medium explosion" 24
+			"final explode" "final explosion medium" 1
+			system Albireo
+	on complete
+		dialog
+			"The government of New India gratefully pays you 150,000 credits for eliminating the Mindrat."
+		payment 150000
+mission "Bounty Hunting (Medium)"
+	name "Hunt down Dead-eye"
+	description "A pirate vessel named Dead-eye has been attacking merchants near the Pherkad system. Destroy it and return to Solace for payment (200,000 credits)."
+	job
+	repeat 0
+	to offer
+		"combat rating" > 400
+		random < 20
+	destination Solace
+	npc
+		succeed 128
+		government Bounty
+		personality
+			confusion 10
+			heroic
+			nemesis
+			staying
+			target
+		dialog
+			"The Dead-eye has been eliminated. You can claim the bounty payment by returning to Solace in the Pherkad system."
+		ship Protector
+			name Dead-eye
+			sprite ship/protector
+			attributes
+				category "Heavy Warship"
+				cost 5500000
+				mass 500
+				bunks 69
+				"cargo space" 50
+				drag 10.3
+				"engine capacity" 100
+				"fuel capacity" 400
+				"gun ports" 2
+				"heat dissipation" 0.6
+				hull 6500
+				"outfit space" 570
+				"required crew" 30
+				shields 9500
+				"turret mounts" 6
+				"weapon capacity" 220
+			outfits
+				Supercapacitor 3
+				Hyperdrive
+				"Laser Turret" 2
+				"Heavy Laser Turret" 4
+				"LP036a Battery Pack"
+				"Water Coolant System"
+				"D94-YV Shield Generator" 2
+				"Fusion Reactor"
+				"A375 Atomic Steering"
+				"A370 Atomic Thruster"
+			cargo
+				commodities
+					"Heavy Metals" 15
+					Medical 30
+			crew 36
+			fuel 100
+			shields 9499.8207
+			hull -1
+			position 21.531003 43.968305
+			engine -11 125 1
+			engine 11 125 1
+			gun -15 -100
+			gun 15 -100
+			turret -54 -54 "Laser Turret"
+			turret 54 -54 "Laser Turret"
+			turret -73 0 "Heavy Laser Turret"
+			turret 73 0 "Heavy Laser Turret"
+			turret -54 54 "Heavy Laser Turret"
+			turret 54 54 "Heavy Laser Turret"
+			explode "large explosion" 8
+			explode "tiny explosion" 18
+			explode "small explosion" 36
+			explode "medium explosion" 24
+			"final explode" "final explosion large" 1
+			system Dschubba
+			actions 240
+	on complete
+		dialog
+			"The government of Solace gratefully pays you 200,000 credits for eliminating the Dead-eye."
+		payment 200000
+mission "Bounty Hunting (Small)"
+	name "Hunt down Apep the Wicked"
+	description "A pirate vessel named Apep the Wicked has been attacking merchants near the Pherkad system. Destroy it and return to Solace for payment (150,000 credits)."
+	job
+	repeat 0
+	to offer
+		"combat rating" > 300
+		random < 40
+	destination Solace
+	npc
+		succeed 128
+		government Bounty
+		personality
+			confusion 10
+			heroic
+			nemesis
+			staying
+			target
+		dialog
+			"The Apep the Wicked has been eliminated. You can claim the bounty payment by returning to Solace in the Pherkad system."
+		ship Splinter
+			name "Apep the Wicked"
+			sprite ship/splinter
+			attributes
+				category "Medium Warship"
+				cost 3100000
+				mass 250
+				bunks 21
+				"cargo space" 75
+				drag 4
+				"engine capacity" 100
+				"fuel capacity" 600
+				"gun ports" 2
+				"heat dissipation" 0.7
+				hull 1700
+				"outfit space" 400
+				"required crew" 7
+				shields 5200
+				"turret mounts" 3
+				"weapon capacity" 150
+			outfits
+				Hyperdrive
+				"Heavy Laser" 2
+				"Heavy Laser Turret" 2
+				"Heavy Anti-Missile Turret"
+				"LP036a Battery Pack"
+				"Impala Plasma Steering"
+				"Water Coolant System"
+				"D94-YV Shield Generator"
+				"Fission Reactor"
+				"X3700 Ion Thruster"
+			cargo
+				commodities
+					Clothing 59
+					Plastic 16
+			crew 11
+			fuel 600.00269
+			shields 5200
+			hull 1700
+			position 256.09149 -107.38532
+			engine -15 115 1
+			engine 15 115 1
+			gun -15 -80 "Heavy Laser"
+			gun 15 -80 "Heavy Laser"
+			turret -17 -28 "Heavy Laser Turret"
+			turret 0 -28 "Heavy Anti-Missile Turret"
+			turret 17 -28 "Heavy Laser Turret"
+			explode "large explosion" 8
+			explode "tiny explosion" 18
+			explode "small explosion" 36
+			explode "medium explosion" 24
+			"final explode" "final explosion medium" 1
+			system "Beta Lupi"
+	on complete
+		dialog
+			"The government of Solace gratefully pays you 150,000 credits for eliminating the Apep the Wicked."
+		payment 150000
+mission "Bounty Hunting (Small)"
+	name "Hunt down Haekati's Tide"
+	description "A pirate vessel named Haekati's Tide has been attacking merchants near the Zeta Aquilae system. Destroy it and return to Rand for payment (150,000 credits)."
+	job
+	repeat 0
+	to offer
+		"combat rating" > 300
+		random < 40
+	destination Rand
+	npc
+		succeed 128
+		government Bounty
+		personality
+			confusion 10
+			heroic
+			nemesis
+			staying
+			target
+		dialog
+			"The Haekati's Tide has been eliminated. You can claim the bounty payment by returning to Rand in the Zeta Aquilae system."
+		ship Bastion
+			name "Haekati's Tide"
+			sprite ship/bastion
+			attributes
+				category "Medium Warship"
+				cost 3560000
+				mass 580
+				bunks 40
+				"cargo space" 110
+				drag 10.3
+				"engine capacity" 120
+				"fuel capacity" 500
+				"gun ports" 4
+				"heat dissipation" 0.5
+				hull 4200
+				"outfit space" 470
+				"required crew" 17
+				shields 6700
+				"turret mounts" 3
+				"weapon capacity" 180
+			outfits
+				Hyperdrive
+				"Blaster Turret" 3
+				"Heavy Rocket" 40
+				"Heavy Rocket Launcher" 2
+				"S3 Thermionic"
+				"Impala Plasma Thruster"
+				"Impala Plasma Steering"
+				"Plasma Cannon" 2
+				"D67-TM Shield Generator"
+				"Water Coolant System"
+				"LP144a Battery Pack"
+				"nGVF-BB Fuel Cell"
+			cargo
+				commodities
+					Clothing 25
+					Electronics 30
+					Plastic 22
+			crew 35
+			fuel 500.00363
+			shields 6700
+			hull 4200
+			position -215.71477 130.30877
+			engine -28 85 1
+			engine 28 85 1
+			gun -54 -14 "Plasma Cannon"
+			gun 54 -14 "Plasma Cannon"
+			gun -54 -14 "Heavy Rocket Launcher"
+			gun 54 -14 "Heavy Rocket Launcher"
+			turret 0 0 "Blaster Turret"
+			turret -30 14 "Blaster Turret"
+			turret 30 14 "Blaster Turret"
+			leak leak 40 50
+			leak flame 40 80
+			leak "big leak" 70 30
+			explode "large explosion" 20
+			explode "tiny explosion" 5
+			explode "small explosion" 15
+			explode "medium explosion" 30
+			"final explode" "final explosion medium" 1
+			system Peacock
+	on complete
+		dialog
+			"The government of Rand gratefully pays you 150,000 credits for eliminating the Haekati's Tide."
+		payment 150000
+mission "Bounty Hunting (Marauder I)"
+	name "Hunt down Murderfrag"
+	description "A Marauder vessel named Murderfrag, leading a small fleet, has been attacking merchants near the Alioth system. Destroy the whole fleet and return to New Tibet for payment (300,000 credits)."
+	job
+	repeat 0
+	to offer
+		"combat rating" > 600
+		or
+			random < 5
+			and
+				"combat rating" < 1200
+				random < 35
+	destination "New Tibet"
+	npc
+		succeed 128
+		government Bounty
+		personality
+			confusion 10
+			heroic
+			nemesis
+			staying
+			target
+		dialog
+			"The Murderfrag and their fleet have been eliminated. You can claim the bounty payment by returning to New Tibet in the Alioth system."
+		ship "Marauder Bounder"
+			name Murderfrag
+			sprite ship/mboundere
+			attributes
+				category Interceptor
+				cost 1250000
+				mass 145
+				bunks 18
+				"cargo space" 20
+				drag 3.7
+				"engine capacity" 130
+				"fuel capacity" 900
+				"gun ports" 1
+				"heat dissipation" 0.8
+				hull 700
+				"outfit space" 240
+				"required crew" 2
+				"self destruct" 0.25
+				shields 2500
+				"turret mounts" 2
+				"weapon capacity" 80
+			outfits
+				"Outfits Expansion"
+				Hyperdrive
+				"Quad Blaster Turret" 2
+				"Heavy Laser"
+				"LP072a Battery Pack"
+				"Water Coolant System"
+				"S-270 Regenerator"
+				"Laser Rifle" 18
+				"A375 Atomic Steering"
+				"Dwarf Core"
+				"A370 Atomic Thruster"
+			crew 7
+			fuel 900.00147
+			shields 2500
+			hull 700
+			position 288.29769 -771.08371
+			engine -12 58 0.7
+			engine 0 51 1
+			engine 12 58 0.7
+			gun 0 -85 "Heavy Laser"
+			turret -38 7 "Quad Blaster Turret"
+			turret 38 7 "Quad Blaster Turret"
+			explode "tiny explosion" 10
+			explode "small explosion" 20
+			explode "medium explosion" 15
+			"final explode" "final explosion small" 1
+			system Cebalrai
+		ship "Marauder Arrow"
+			name "Bart's Madness"
+			sprite ship/marroww
+			attributes
+				category Interceptor
+				cost 1320000
+				mass 145
+				bunks 5
+				"cargo space" 5
+				drag 2.7
+				"engine capacity" 80
+				"fuel capacity" 400
+				"gun ports" 4
+				"heat dissipation" 0.85
+				hull 500
+				"outfit space" 210
+				"required crew" 2
+				"self destruct" 0.25
+				shields 2300
+				"turret mounts" 1
+				"weapon capacity" 60
+			outfits
+				Hyperdrive
+				"Heavy Laser Turret"
+				"LP036a Battery Pack"
+				"Energy Blaster" 4
+				"D14-RN Shield Generator"
+				"A255 Atomic Steering"
+				"Water Coolant System"
+				"Laser Rifle" 5
+				"A250 Atomic Thruster"
+				"Dwarf Core"
+			cargo
+				commodities
+					Plastic 4
+			crew 5
+			fuel 400.00181
+			shields 2300
+			hull 500
+			position 546.37731 -235.69621
+			engine -8 57 1
+			engine 8 57 1
+			gun -6 -36 "Energy Blaster"
+			gun 6 -36 "Energy Blaster"
+			gun -7 -34 "Energy Blaster"
+			gun 7 -34 "Energy Blaster"
+			turret 0 15 "Heavy Laser Turret"
+			explode "tiny explosion" 12
+			explode "small explosion" 18
+			explode "medium explosion" 6
+			"final explode" "final explosion small" 1
+			system Cebalrai
+		ship "Marauder Quicksilver"
+			name "Endless Torment"
+			sprite ship/mquicksilvers
+			attributes
+				category "Light Warship"
+				cost 1200000
+				mass 140
+				bunks 7
+				"cargo space" 5
+				drag 2.7
+				"engine capacity" 75
+				"fuel capacity" 400
+				"gun ports" 2
+				"heat dissipation" 0.8
+				hull 900
+				"outfit space" 265
+				"required crew" 4
+				"self destruct" 0.25
+				shields 3500
+				"turret mounts" 1
+				"weapon capacity" 65
+			outfits
+				Hyperdrive
+				"Heavy Laser" 2
+				"Heavy Anti-Missile Turret"
+				"LP036a Battery Pack"
+				"Liquid Nitrogen Cooler"
+				"S-270 Regenerator"
+				"Laser Rifle"
+				"Security Station" 3
+				"A250 Atomic Thruster"
+				"A375 Atomic Steering"
+				"Fission Reactor"
+			cargo
+				commodities
+					Industrial 2
+			crew 4
+			fuel 400.00347
+			shields 3500
+			hull 900
+			position 61.820923 -86.472465
+			engine -16 52 1
+			engine 16 52 1
+			gun -7 -39 "Heavy Laser"
+			gun 7 -39 "Heavy Laser"
+			turret 0 15 "Heavy Anti-Missile Turret"
+			explode "tiny explosion" 12
+			explode "small explosion" 16
+			"final explode" "final explosion small" 1
+			system Cebalrai
+	on complete
+		dialog
+			"The government of New Tibet gratefully pays you 300,000 credits for eliminating the Murderfrag and their fleet."
+		payment 300000
+mission "Bounty Hunting (Big)"
+	name "Hunt down Barrel of Doom"
+	description "A pirate vessel named Barrel of Doom has been attacking merchants near the Polaris system. Destroy it and return to Shangri-La for payment (250,000 credits)."
+	job
+	repeat 0
+	to offer
+		"combat rating" > 500
+		random < 20
+	destination Shangri-La
+	npc
+		succeed 128
+		government Bounty
+		personality
+			confusion 10
+			heroic
+			nemesis
+			staying
+			target
+		dialog
+			"The Barrel of Doom has been eliminated. You can claim the bounty payment by returning to Shangri-La in the Polaris system."
+		ship Leviathan
+			name "Barrel of Doom"
+			sprite ship/leviathan
+			attributes
+				category "Heavy Warship"
+				cost 9800000
+				mass 480
+				bunks 64
+				"cargo space" 80
+				drag 7.6
+				"engine capacity" 120
+				"fuel capacity" 500
+				"gun ports" 4
+				"heat dissipation" 0.5
+				hull 5000
+				"outfit space" 620
+				"required crew" 43
+				shields 14400
+				"turret mounts" 4
+				"weapon capacity" 240
+			outfits
+				Supercapacitor
+				Hyperdrive
+				"Heavy Laser" 4
+				"Heavy Laser Turret" 4
+				"Armageddon Core"
+				"LP036a Battery Pack"
+				"Liquid Helium Cooler"
+				Ramscoop
+				"D94-YV Shield Generator"
+				"A525 Atomic Steering"
+				"A370 Atomic Thruster"
+			cargo
+				commodities
+					Industrial 55
+					Plastic 22
+			crew 58
+			fuel 500
+			shields 14400
+			hull 5000
+			position -937.32259 -491.4194
+			engine -25 125 1
+			engine 25 125 1
+			gun -39 -33 "Heavy Laser"
+			gun 39 -33 "Heavy Laser"
+			gun -51 -21 "Heavy Laser"
+			gun 51 -21 "Heavy Laser"
+			turret -15 -50 "Heavy Laser Turret"
+			turret 15 -50 "Heavy Laser Turret"
+			turret -25 10 "Heavy Laser Turret"
+			turret 25 10 "Heavy Laser Turret"
+			explode "large explosion" 8
+			explode "tiny explosion" 18
+			explode "small explosion" 36
+			explode "medium explosion" 24
+			"final explode" "final explosion large" 1
+			system Alpheratz
+	on complete
+		dialog
+			"The government of Shangri-La gratefully pays you 250,000 credits for eliminating the Barrel of Doom."
+		payment 250000
+mission "Bounty Hunting (Small)"
+	name "Hunt down Rotted Innocence"
+	description "A pirate vessel named Rotted Innocence has been attacking merchants near the Polaris system. Destroy it and return to Shangri-La for payment (150,000 credits)."
+	job
+	repeat 0
+	to offer
+		"combat rating" > 300
+		random < 40
+	destination Shangri-La
+	npc
+		succeed 128
+		government Bounty
+		personality
+			confusion 10
+			heroic
+			nemesis
+			staying
+			target
+		dialog
+			"The Rotted Innocence has been eliminated. You can claim the bounty payment by returning to Shangri-La in the Polaris system."
+		ship Osprey
+			name "Rotted Innocence"
+			sprite ship/osprey
+			attributes
+				category "Medium Warship"
+				cost 4400000
+				mass 270
+				bunks 24
+				"cargo space" 40
+				drag 6.1
+				"engine capacity" 130
+				"fuel capacity" 600
+				"gun ports" 4
+				"heat dissipation" 0.8
+				hull 1600
+				"outfit space" 450
+				"required crew" 9
+				shields 7200
+				"turret mounts" 2
+				"weapon capacity" 180
+			outfits
+				Supercapacitor 4
+				Hyperdrive
+				"Heavy Laser" 4
+				"Heavy Laser Turret" 2
+				"LP036a Battery Pack"
+				"Impala Plasma Thruster"
+				"Water Coolant System"
+				"D94-YV Shield Generator"
+				"Breeder Reactor"
+				"X4200 Ion Steering"
+			cargo
+				commodities
+					Food 38
+					Industrial 2
+			crew 24
+			fuel 600
+			shields 7200
+			hull 1600
+			position 807.83123 126.39175
+			engine -40 67 1
+			engine 40 67 1
+			gun -8 -100 "Heavy Laser"
+			gun 8 -100 "Heavy Laser"
+			gun -26 -53 "Heavy Laser"
+			gun 26 -53 "Heavy Laser"
+			turret -16 -16 "Heavy Laser Turret"
+			turret 16 -16 "Heavy Laser Turret"
+			explode "large explosion" 16
+			explode "tiny explosion" 28
+			explode "small explosion" 40
+			explode "medium explosion" 24
+			"final explode" "final explosion medium" 1
+			system "Al Dhanab"
+	on complete
+		dialog
+			"The government of Shangri-La gratefully pays you 150,000 credits for eliminating the Rotted Innocence."
+		payment 150000
+"available job" "Bulk Delivery [0]"
+	name "Bulk delivery to Icefall"
+	description "Deliver 61 tons of umbrellas to Icefall in the Menkar system. Payment is 64,050 credits."
+	cargo umbrellas 61
+	job
+	repeat 0
+	to offer
+		random < 70
+	destination Icefall
+	on complete
+		dialog
+			"You drop off your cargo of umbrellas and collect your payment of 64,050 credits."
+		payment 64050
+"available job" "Cargo [0]"
+	name "Delivery to Icefall"
+	description "Deliver 16 tons of assorted shimstock to Icefall in the Menkar system. Payment is 16,800 credits."
+	cargo "assorted shimstock" 16
+	job
+	repeat 0
+	destination Icefall
+	on complete
+		dialog
+			"You drop off your cargo of assorted shimstock and collect your payment of 16,800 credits."
+		payment 16800
+"available job" "Cargo [1]"
+	name "Delivery to Maker"
+	description "Deliver 15 tons of soy products to Maker in the Delta Capricorni system. Payment is 11,250 credits."
+	cargo "soy products" 15
+	job
+	repeat 0
+	to offer
+		random < 90
+	destination Maker
+	on complete
+		dialog
+			"You drop off your cargo of soy products and collect your payment of 11,250 credits."
+		payment 11250
+"available job" "Escort (Extra Large, Southern, Dangerous Origin or Destination)"
+	name "Escort to Sundive"
+	description "The captain of the Beatrice will pay you 150,000 credits to escort them safely through this dangerous region of space to reach Sundive in the Sheratan system by Thu, 21 Jul 3014."
+	deadline 21 7 3014
+	job
+	repeat 0
+	to offer
+		random < 20
+		"combat rating" > 100
+	destination Sundive
+	npc
+		government Pirate
+		personality
+			confusion 10
+			harvests
+			nemesis
+			plunders
+		ship Fury
+			name Screamwrench
+			sprite ship/fury
+			attributes
+				category Interceptor
+				cost 490000
+				mass 70
+				bunks 3
+				"cargo space" 15
+				drag 1.6
+				"engine capacity" 60
+				"fuel capacity" 600
+				"gun ports" 4
+				"heat dissipation" 0.9
+				hull 400
+				"outfit space" 160
+				"required crew" 1
+				shields 2000
+				"weapon capacity" 40
+			outfits
+				Supercapacitor 3
+				Hyperdrive
+				"D14-RN Shield Generator"
+				"Meteor Missile" 140
+				"Meteor Missile Launcher" 4
+				"Chipmunk Plasma Steering"
+				"nGVF-BB Fuel Cell"
+				"Greyhound Plasma Thruster"
+			cargo
+				commodities
+					Electronics 4
+			crew 2
+			fuel 600
+			shields 2000
+			hull 400
+			position -110.07421 511.06694
+			engine -17 35 1
+			engine 17 35 1
+			gun -10 -26 "Meteor Missile Launcher"
+			gun 10 -26 "Meteor Missile Launcher"
+			gun -16 -20 "Meteor Missile Launcher"
+			gun 16 -20 "Meteor Missile Launcher"
+			explode "tiny explosion" 10
+			explode "small explosion" 20
+			system Polaris
+		ship Fury
+			name "Baleful Pit"
+			sprite ship/fury
+			attributes
+				category Interceptor
+				cost 490000
+				mass 70
+				bunks 3
+				"cargo space" 15
+				drag 1.6
+				"engine capacity" 60
+				"fuel capacity" 600
+				"gun ports" 4
+				"heat dissipation" 0.9
+				hull 400
+				"outfit space" 160
+				"required crew" 1
+				shields 2000
+				"weapon capacity" 40
+			outfits
+				Supercapacitor 3
+				Hyperdrive
+				"D14-RN Shield Generator"
+				"Meteor Missile" 140
+				"Meteor Missile Launcher" 4
+				"Chipmunk Plasma Steering"
+				"nGVF-BB Fuel Cell"
+				"Greyhound Plasma Thruster"
+			cargo
+				commodities
+					Industrial 9
+			crew 2
+			fuel 600
+			shields 2000
+			hull 400
+			position -241.17498 559.78129
+			engine -17 35 1
+			engine 17 35 1
+			gun -10 -26 "Meteor Missile Launcher"
+			gun 10 -26 "Meteor Missile Launcher"
+			gun -16 -20 "Meteor Missile Launcher"
+			gun 16 -20 "Meteor Missile Launcher"
+			explode "tiny explosion" 10
+			explode "small explosion" 20
+			system Polaris
+		ship Fury
+			name "No More Life"
+			sprite ship/fury
+			attributes
+				category Interceptor
+				cost 490000
+				mass 70
+				bunks 3
+				"cargo space" 15
+				drag 1.6
+				"engine capacity" 60
+				"fuel capacity" 600
+				"gun ports" 4
+				"heat dissipation" 0.9
+				hull 400
+				"outfit space" 160
+				"required crew" 1
+				shields 2000
+				"weapon capacity" 40
+			outfits
+				Supercapacitor 3
+				Hyperdrive
+				"D14-RN Shield Generator"
+				"Meteor Missile" 140
+				"Meteor Missile Launcher" 4
+				"Chipmunk Plasma Steering"
+				"nGVF-BB Fuel Cell"
+				"Greyhound Plasma Thruster"
+			cargo
+				commodities
+					Plastic 15
+			crew 1
+			fuel 600
+			shields 2000
+			hull 400
+			position 92.222686 720.65199
+			engine -17 35 1
+			engine 17 35 1
+			gun -10 -26 "Meteor Missile Launcher"
+			gun 10 -26 "Meteor Missile Launcher"
+			gun -16 -20 "Meteor Missile Launcher"
+			gun 16 -20 "Meteor Missile Launcher"
+			explode "tiny explosion" 10
+			explode "small explosion" 20
+			system Polaris
+		ship "Modified Argosy"
+			name "Sleepless Nights"
+			sprite "ship/modified argosy"
+			attributes
+				category "Light Warship"
+				cost 1960000
+				mass 250
+				bunks 12
+				"cargo space" 60
+				drag 6.2
+				"engine capacity" 80
+				"fuel capacity" 400
+				"gun ports" 4
+				"heat dissipation" 0.6
+				hull 1900
+				"outfit space" 340
+				"required crew" 5
+				shields 4800
+				"turret mounts" 2
+				"weapon capacity" 140
+			outfits
+				Hyperdrive
+				"Heavy Laser Turret"
+				"Heavy Anti-Missile Turret"
+				"S3 Thermionic"
+				"Meteor Missile" 70
+				"Meteor Missile Launcher" 2
+				Torpedo 60
+				"Torpedo Launcher" 2
+				"LP072a Battery Pack"
+				"D41-HY Shield Generator"
+				"X3700 Ion Thruster"
+				"Greyhound Plasma Steering"
+			cargo
+				commodities
+					"Heavy Metals" 15
+			crew 8
+			fuel 400
+			shields 4800
+			hull 1900
+			position -236.87596 616.55388
+			engine -20 91 1
+			engine 20 91 1
+			gun -22 -37 "Meteor Missile Launcher"
+			gun 22 -37 "Meteor Missile Launcher"
+			gun -23 -37 "Torpedo Launcher"
+			gun 23 -37 "Torpedo Launcher"
+			turret 0 -12 "Heavy Laser Turret"
+			turret 0 8 "Heavy Anti-Missile Turret"
+			explode "large explosion" 15
+			explode "tiny explosion" 10
+			explode "small explosion" 25
+			explode "medium explosion" 30
+			"final explode" "final explosion medium" 1
+			system Polaris
+	npc
+		government Pirate
+		personality
+			confusion 10
+			harvests
+			nemesis
+			plunders
+			staying
+		ship Fury
+			name "Snakes of Contagion"
+			plural Furies
+			sprite ship/fury
+			attributes
+				category Interceptor
+				cost 490000
+				mass 70
+				bunks 3
+				"cargo space" 15
+				drag 1.6
+				"engine capacity" 60
+				"fuel capacity" 600
+				"gun ports" 4
+				"heat dissipation" 0.9
+				hull 400
+				"outfit space" 160
+				"required crew" 1
+				shields 2000
+				"weapon capacity" 40
+			outfits
+				Hyperdrive
+				"LP036a Battery Pack"
+				"Energy Blaster" 4
+				"D14-RN Shield Generator"
+				"nGVF-CC Fuel Cell"
+				"X2200 Ion Steering"
+				"X2700 Ion Thruster"
+			cargo
+				commodities
+					Medical 2
+			crew 1
+			fuel 600
+			shields 2000
+			hull 400
+			position 458.85648 -971.87115
+			engine -17 35 1
+			engine 17 35 1
+			gun -10 -26 "Energy Blaster"
+			gun 10 -26 "Energy Blaster"
+			gun -16 -20 "Energy Blaster"
+			gun 16 -20 "Energy Blaster"
+			leak flame 50 80
+			explode "tiny explosion" 10
+			explode "small explosion" 20
+			system Sheratan
+		ship Bastion
+			name "Screams of Narkan"
+			sprite ship/bastion
+			attributes
+				category "Medium Warship"
+				cost 3560000
+				mass 580
+				bunks 40
+				"cargo space" 110
+				drag 10.3
+				"engine capacity" 120
+				"fuel capacity" 500
+				"gun ports" 4
+				"heat dissipation" 0.5
+				hull 4200
+				"outfit space" 470
+				"required crew" 17
+				shields 6700
+				"turret mounts" 3
+				"weapon capacity" 180
+			outfits
+				Hyperdrive
+				"Blaster Turret" 3
+				"Heavy Rocket" 40
+				"Heavy Rocket Launcher" 2
+				"S3 Thermionic"
+				"Impala Plasma Thruster"
+				"Impala Plasma Steering"
+				"Plasma Cannon" 2
+				"D67-TM Shield Generator"
+				"Water Coolant System"
+				"LP144a Battery Pack"
+				"nGVF-BB Fuel Cell"
+			cargo
+				commodities
+					Medical 20
+			crew 30
+			fuel 500
+			shields 6700
+			hull 4200
+			position 708.24542 -869.37924
+			engine -28 85 1
+			engine 28 85 1
+			gun -54 -14 "Plasma Cannon"
+			gun 54 -14 "Plasma Cannon"
+			gun -54 -14 "Heavy Rocket Launcher"
+			gun 54 -14 "Heavy Rocket Launcher"
+			turret 0 0 "Blaster Turret"
+			turret -30 14 "Blaster Turret"
+			turret 30 14 "Blaster Turret"
+			leak leak 40 50
+			leak flame 40 80
+			leak "big leak" 70 30
+			explode "large explosion" 20
+			explode "tiny explosion" 5
+			explode "small explosion" 15
+			explode "medium explosion" 30
+			"final explode" "final explosion medium" 1
+			system Sheratan
+	npc
+		fail 128
+		accompany
+		government Merchant
+		personality
+			confusion 10
+			escort
+			timid
+		ship Behemoth
+			name Beatrice
+			sprite ship/behemoth
+			attributes
+				category "Heavy Freighter"
+				cost 10800000
+				mass 540
+				bunks 30
+				"cargo space" 490
+				drag 11.7
+				"engine capacity" 90
+				"fuel capacity" 600
+				"gun ports" 2
+				"heat dissipation" 0.4
+				hull 6300
+				"outfit space" 510
+				"required crew" 12
+				shields 7600
+				"turret mounts" 6
+				"weapon capacity" 280
+			outfits
+				"Heavy Laser Turret" 4
+				"Heavy Anti-Missile Turret" 2
+				"Scram Drive"
+				"Small Radar Jammer"
+				"D41-HY Shield Generator"
+				"LP144a Battery Pack"
+				"X3200 Ion Steering"
+				"NT-200 Nucleovoltaic"
+				"X3700 Ion Thruster"
+			cargo
+				commodities
+					Industrial 12
+					Metal 478
+			crew 25
+			fuel 600
+			shields 7600
+			hull 6300
+			position 2.302436 362.04785
+			engine -34 154 1
+			engine 34 154 1
+			gun -27 -83
+			gun 27 -83
+			turret -34 -64 "Heavy Laser Turret"
+			turret 34 -64 "Heavy Anti-Missile Turret"
+			turret -58 11 "Heavy Laser Turret"
+			turret 58 11 "Heavy Laser Turret"
+			turret -24 78 "Heavy Anti-Missile Turret"
+			turret 24 78 "Heavy Laser Turret"
+			leak leak 30 50
+			leak flame 30 80
+			leak "big leak" 50 30
+			explode "large explosion" 35
+			explode "huge explosion" 20
+			explode "small explosion" 15
+			explode "medium explosion" 25
+			"final explode" "final explosion large" 1
+			system Polaris
+	on complete
+		dialog
+			"The captain of the Beatrice thanks you for escorting them safely, and pays you 150,000 credits."
+		payment 150000
+	on visit
+		dialog
+			"You have reached Sundive, but you left the Beatrice behind! Better depart and wait for them to arrive in this star system."
+"available job" "Escort (Large, Core, Dangerous Origin)"
+	name "Escort to Shiver"
+	description "The captain of the Stargazer will pay you 120,000 credits to escort them safely out of this dangerous region of space to reach Shiver in the Altair system by Thu, 21 Jul 3014."
+	deadline 21 7 3014
+	job
+	repeat 0
+	to offer
+		random < 50
+		"combat rating" > 60
+	destination Shiver
+	npc
+		government Pirate
+		personality
+			confusion 10
+			harvests
+			nemesis
+			plunders
+		ship Firebird
+			name Deadhead
+			sprite ship/firebird
+			attributes
+				category "Medium Warship"
+				cost 3700000
+				mass 290
+				bunks 22
+				"cargo space" 50
+				drag 4.5
+				"engine capacity" 100
+				"fuel capacity" 400
+				"gun ports" 4
+				"heat dissipation" 0.6
+				hull 2800
+				"outfit space" 400
+				"required crew" 7
+				shields 6400
+				"turret mounts" 2
+				"weapon capacity" 160
+			outfits
+				"Outfits Expansion"
+				Hyperdrive
+				"Heavy Laser Turret" 2
+				"Impala Plasma Thruster"
+				"Meteor Missile" 70
+				"Meteor Missile Launcher" 2
+				Torpedo 60
+				"Torpedo Launcher" 2
+				"LP072a Battery Pack"
+				"D94-YV Shield Generator"
+				"A375 Atomic Steering"
+				"Fission Reactor"
+			cargo
+				commodities
+					"Heavy Metals" 21
+			crew 15
+			fuel 400
+			shields 6400
+			hull 2800
+			position -76.10134 516.14739
+			engine -33 65 1
+			engine 33 65 1
+			gun -28 -27 "Meteor Missile Launcher"
+			gun 28 -27 "Meteor Missile Launcher"
+			gun -39 -13 "Torpedo Launcher"
+			gun 39 -13 "Torpedo Launcher"
+			turret -5 3 "Heavy Laser Turret"
+			turret 5 3 "Heavy Laser Turret"
+			explode "large explosion" 8
+			explode "tiny explosion" 18
+			explode "small explosion" 36
+			explode "medium explosion" 24
+			"final explode" "final explosion medium" 1
+			system Polaris
+	npc
+		government Pirate
+		personality
+			confusion 10
+			harvests
+			nemesis
+			plunders
+		ship Sparrow
+			name "Rotted Music"
+			sprite ship/sparrow
+			attributes
+				category Interceptor
+				cost 225000
+				mass 50
+				bunks 2
+				"cargo space" 15
+				drag 1
+				"engine capacity" 40
+				"fuel capacity" 300
+				"gun ports" 2
+				"heat dissipation" 0.8
+				hull 300
+				"outfit space" 130
+				"required crew" 1
+				shields 1200
+				"weapon capacity" 20
+			outfits
+				Hyperdrive
+				"Beam Laser" 2
+				"LP036a Battery Pack"
+				"D14-RN Shield Generator"
+				"Chipmunk Plasma Thruster"
+				"Chipmunk Plasma Steering"
+				"nGVF-BB Fuel Cell"
+			cargo
+				commodities
+					"Heavy Metals" 1
+			crew 2
+			fuel 300
+			shields 1200
+			hull 300
+			position -1221.775 49.395141
+			engine -5 35 1
+			engine 5 35 1
+			gun -7 -10 "Beam Laser"
+			gun 7 -10 "Beam Laser"
+			leak flame 60 80
+			explode "tiny explosion" 15
+			explode "small explosion" 5
+			system Schedar
+	npc
+		government Pirate
+		personality
+			confusion 10
+			harvests
+			nemesis
+			plunders
+		ship Quicksilver
+			name "Babi's Fate"
+			sprite ship/quicksilver
+			attributes
+				category "Light Warship"
+				cost 1090000
+				mass 120
+				bunks 6
+				"cargo space" 10
+				drag 2.7
+				"engine capacity" 70
+				"fuel capacity" 400
+				"gun ports" 2
+				"heat dissipation" 0.8
+				hull 800
+				"outfit space" 240
+				"required crew" 3
+				shields 3000
+				"weapon capacity" 60
+			outfits
+				Hyperdrive
+				"LP036a Battery Pack"
+				"D23-QP Shield Generator"
+				"Proton Gun" 2
+				"Cooling Ducts"
+				"RT-I Radiothermal"
+				"Greyhound Plasma Thruster"
+				"Greyhound Plasma Steering"
+			cargo
+				commodities
+					"Heavy Metals" 5
+			crew 3
+			fuel 400
+			shields 3000
+			hull 800
+			position -103.38198 511.71116
+			engine -17 54 1
+			engine 17 54 1
+			gun -6 -38 "Proton Gun"
+			gun 6 -38 "Proton Gun"
+			explode "tiny explosion" 12
+			explode "small explosion" 16
+			"final explode" "final explosion small" 1
+			system Polaris
+		ship Quicksilver
+			name "Hydra of Wrath"
+			sprite ship/quicksilver
+			attributes
+				category "Light Warship"
+				cost 1090000
+				mass 120
+				bunks 6
+				"cargo space" 10
+				drag 2.7
+				"engine capacity" 70
+				"fuel capacity" 400
+				"gun ports" 2
+				"heat dissipation" 0.8
+				hull 800
+				"outfit space" 240
+				"required crew" 3
+				shields 3000
+				"weapon capacity" 60
+			outfits
+				Hyperdrive
+				"LP036a Battery Pack"
+				"D23-QP Shield Generator"
+				"Proton Gun" 2
+				"Cooling Ducts"
+				"RT-I Radiothermal"
+				"Greyhound Plasma Thruster"
+				"Greyhound Plasma Steering"
+			cargo
+				commodities
+					Food 8
+			crew 6
+			fuel 400
+			shields 3000
+			hull 800
+			position 283.83163 428.34258
+			engine -17 54 1
+			engine 17 54 1
+			gun -6 -38 "Proton Gun"
+			gun 6 -38 "Proton Gun"
+			explode "tiny explosion" 12
+			explode "small explosion" 16
+			"final explode" "final explosion small" 1
+			system Polaris
+		ship Quicksilver
+			name "Herod the Fat"
+			sprite ship/quicksilver
+			attributes
+				category "Light Warship"
+				cost 1090000
+				mass 120
+				bunks 6
+				"cargo space" 10
+				drag 2.7
+				"engine capacity" 70
+				"fuel capacity" 400
+				"gun ports" 2
+				"heat dissipation" 0.8
+				hull 800
+				"outfit space" 240
+				"required crew" 3
+				shields 3000
+				"weapon capacity" 60
+			outfits
+				Hyperdrive
+				"LP036a Battery Pack"
+				"D23-QP Shield Generator"
+				"Proton Gun" 2
+				"Cooling Ducts"
+				"RT-I Radiothermal"
+				"Greyhound Plasma Thruster"
+				"Greyhound Plasma Steering"
+			cargo
+				commodities
+					Electronics 4
+			crew 5
+			fuel 400
+			shields 3000
+			hull 800
+			position -3.711801 431.12037
+			engine -17 54 1
+			engine 17 54 1
+			gun -6 -38 "Proton Gun"
+			gun 6 -38 "Proton Gun"
+			explode "tiny explosion" 12
+			explode "small explosion" 16
+			"final explode" "final explosion small" 1
+			system Polaris
+	npc
+		fail 128
+		accompany
+		government Merchant
+		personality
+			confusion 10
+			escort
+			timid
+		ship "Bulk Freighter"
+			name Stargazer
+			sprite "ship/bulk freighter"
+			attributes
+				category "Heavy Freighter"
+				cost 9400000
+				mass 870
+				bunks 18
+				"cargo space" 600
+				drag 15.8
+				"engine capacity" 85
+				"fuel capacity" 600
+				"gun ports" 2
+				"heat dissipation" 0.5
+				hull 7600
+				"outfit space" 410
+				"required crew" 6
+				shields 4000
+				"turret mounts" 5
+				"weapon capacity" 180
+			outfits
+				"Laser Turret" 3
+				"Heavy Anti-Missile Turret" 2
+				"Scram Drive"
+				"D23-QP Shield Generator"
+				"Sidewinder Missile" 100
+				"Sidewinder Missile Launcher" 2
+				"LP144a Battery Pack"
+				"X3200 Ion Steering"
+				"RT-I Radiothermal"
+				"X3700 Ion Thruster"
+			cargo
+				commodities
+					Electronics 100
+					Equipment 412
+					Food 85
+			crew 17
+			fuel 600
+			shields 4000
+			hull 7600
+			position -217.38352 826.00917
+			engine -22 198 1
+			engine 22 198 1
+			gun -20 -175 "Sidewinder Missile Launcher"
+			gun 20 -175 "Sidewinder Missile Launcher"
+			turret -12 -155 "Laser Turret"
+			turret 12 -155 "Heavy Anti-Missile Turret"
+			turret 0 5 "Laser Turret"
+			turret -30 175 "Heavy Anti-Missile Turret"
+			turret 30 175 "Laser Turret"
+			leak leak 40 50
+			leak flame 30 80
+			leak "big leak" 50 30
+			explode "large explosion" 35
+			explode "huge explosion" 20
+			explode "small explosion" 15
+			explode "medium explosion" 25
+			"final explode" "final explosion large" 1
+			system Polaris
+	on complete
+		dialog
+			"The captain of the Stargazer thanks you for escorting them safely, and pays you 120,000 credits."
+		payment 120000
+	on visit
+		dialog
+			"You have reached Shiver, but you left the Stargazer behind! Better depart and wait for them to arrive in this star system."
+"available job" "Escort (Medium, Southern, Dangerous Origin or Destination)"
+	name "Escort to Antipode"
+	description "The captain of the Sovereign's Gold will pay you 90,000 credits to escort them safely through this dangerous region of space to reach Antipode in the Matar system by Thu, 21 Jul 3014."
+	deadline 21 7 3014
+	job
+	repeat 0
+	to offer
+		random < 40
+		"combat rating" > 20
+	destination Antipode
+	npc
+		government Pirate
+		personality
+			confusion 20
+			harvests
+			nemesis
+			plunders
+		ship Sparrow
+			name "Crumbling Bluebeard"
+			sprite ship/sparrow
+			attributes
+				category Interceptor
+				cost 225000
+				mass 50
+				bunks 2
+				"cargo space" 15
+				drag 1
+				"engine capacity" 40
+				"fuel capacity" 300
+				"gun ports" 2
+				"heat dissipation" 0.8
+				hull 300
+				"outfit space" 130
+				"required crew" 1
+				shields 1200
+				"weapon capacity" 20
+			outfits
+				Hyperdrive
+				"Beam Laser" 2
+				"LP036a Battery Pack"
+				"D14-RN Shield Generator"
+				"Chipmunk Plasma Thruster"
+				"Chipmunk Plasma Steering"
+				"nGVF-BB Fuel Cell"
+			cargo
+				commodities
+					Metal 12
+			crew 2
+			fuel 300
+			shields 1200
+			hull 300
+			position 209.29799 262.61542
+			engine -5 35 1
+			engine 5 35 1
+			gun -7 -10 "Beam Laser"
+			gun 7 -10 "Beam Laser"
+			leak flame 60 80
+			explode "tiny explosion" 15
+			explode "small explosion" 5
+			system Polaris
+		ship Fury
+			name "Hellish Marauder"
+			sprite ship/fury
+			attributes
+				category Interceptor
+				cost 490000
+				mass 70
+				bunks 3
+				"cargo space" 15
+				drag 1.6
+				"engine capacity" 60
+				"fuel capacity" 600
+				"gun ports" 4
+				"heat dissipation" 0.9
+				hull 400
+				"outfit space" 160
+				"required crew" 1
+				shields 2000
+				"weapon capacity" 40
+			outfits
+				Supercapacitor 3
+				Hyperdrive
+				"D14-RN Shield Generator"
+				"Meteor Missile" 140
+				"Meteor Missile Launcher" 4
+				"Chipmunk Plasma Steering"
+				"nGVF-BB Fuel Cell"
+				"Greyhound Plasma Thruster"
+			cargo
+				commodities
+					Metal 7
+			crew 2
+			fuel 600
+			shields 2000
+			hull 400
+			position -96.580098 387.48083
+			engine -17 35 1
+			engine 17 35 1
+			gun -10 -26 "Meteor Missile Launcher"
+			gun 10 -26 "Meteor Missile Launcher"
+			gun -16 -20 "Meteor Missile Launcher"
+			gun 16 -20 "Meteor Missile Launcher"
+			explode "tiny explosion" 10
+			explode "small explosion" 20
+			system Polaris
+		ship Hawk
+			name "Dark Pit"
+			sprite ship/hawk
+			attributes
+				category Interceptor
+				cost 670000
+				mass 150
+				bunks 4
+				"cargo space" 30
+				drag 2.1
+				"engine capacity" 70
+				"fuel capacity" 300
+				"gun ports" 2
+				"heat dissipation" 0.8
+				hull 500
+				"outfit space" 200
+				"required crew" 2
+				shields 2500
+				"weapon capacity" 40
+			outfits
+				Supercapacitor 2
+				Hyperdrive
+				"Heavy Rocket" 40
+				"Heavy Rocket Launcher" 2
+				"D41-HY Shield Generator"
+				"RT-I Radiothermal"
+				"Greyhound Plasma Thruster"
+				"Greyhound Plasma Steering"
+			cargo
+				commodities
+					Medical 28
+			crew 4
+			fuel 300
+			shields 2500
+			hull 500
+			position -434.95973 522.65541
+			engine -24 41 1
+			engine 24 41 1
+			gun -9 -17 "Heavy Rocket Launcher"
+			gun 9 -17 "Heavy Rocket Launcher"
+			explode "tiny explosion" 15
+			explode "small explosion" 5
+			"final explode" "final explosion small" 1
+			system Polaris
+		ship Hawk
+			name Murderbringer
+			sprite ship/hawk
+			attributes
+				category Interceptor
+				cost 670000
+				mass 150
+				bunks 4
+				"cargo space" 30
+				drag 2.1
+				"engine capacity" 70
+				"fuel capacity" 300
+				"gun ports" 2
+				"heat dissipation" 0.8
+				hull 500
+				"outfit space" 200
+				"required crew" 2
+				shields 2500
+				"weapon capacity" 40
+			outfits
+				Supercapacitor 3
+				Hyperdrive
+				"Heavy Laser" 2
+				"S3 Thermionic"
+				"A255 Atomic Steering"
+				"D41-HY Shield Generator"
+				"A250 Atomic Thruster"
+			cargo
+				commodities
+					Metal 14
+			crew 3
+			fuel 300
+			shields 2500
+			hull 500
+			position -102.37874 510.03943
+			engine -24 41 1
+			engine 24 41 1
+			gun -9 -17 "Heavy Laser"
+			gun 9 -17 "Heavy Laser"
+			explode "tiny explosion" 15
+			explode "small explosion" 5
+			"final explode" "final explosion small" 1
+			system Polaris
+		ship Hawk
+			name "Wicked Gorkon"
+			sprite ship/hawk
+			attributes
+				category Interceptor
+				cost 670000
+				mass 150
+				bunks 4
+				"cargo space" 30
+				drag 2.1
+				"engine capacity" 70
+				"fuel capacity" 300
+				"gun ports" 2
+				"heat dissipation" 0.8
+				hull 500
+				"outfit space" 200
+				"required crew" 2
+				shields 2500
+				"weapon capacity" 40
+			outfits
+				Supercapacitor 3
+				Hyperdrive
+				"Heavy Laser" 2
+				"S3 Thermionic"
+				"A255 Atomic Steering"
+				"D41-HY Shield Generator"
+				"A250 Atomic Thruster"
+			cargo
+				commodities
+					"Heavy Metals" 17
+			crew 3
+			fuel 300
+			shields 2500
+			hull 500
+			position -144.54813 455.34201
+			engine -24 41 1
+			engine 24 41 1
+			gun -9 -17 "Heavy Laser"
+			gun 9 -17 "Heavy Laser"
+			explode "tiny explosion" 15
+			explode "small explosion" 5
+			"final explode" "final explosion small" 1
+			system Polaris
+	npc
+		government Pirate
+		personality
+			confusion 20
+			harvests
+			nemesis
+			plunders
+			staying
+		ship Sparrow
+			name "Stinking Demon"
+			sprite ship/sparrow
+			attributes
+				category Interceptor
+				cost 225000
+				mass 50
+				bunks 2
+				"cargo space" 15
+				drag 1
+				"engine capacity" 40
+				"fuel capacity" 300
+				"gun ports" 2
+				"heat dissipation" 0.8
+				hull 300
+				"outfit space" 130
+				"required crew" 1
+				shields 1200
+				"weapon capacity" 20
+			outfits
+				Hyperdrive
+				"Beam Laser" 2
+				"LP036a Battery Pack"
+				"D14-RN Shield Generator"
+				"Chipmunk Plasma Thruster"
+				"Chipmunk Plasma Steering"
+				"nGVF-BB Fuel Cell"
+			cargo
+				commodities
+					"Heavy Metals" 2
+			crew 1
+			fuel 300
+			shields 1200
+			hull 300
+			position 115.83874 -266.52861
+			engine -5 35 1
+			engine 5 35 1
+			gun -7 -10 "Beam Laser"
+			gun 7 -10 "Beam Laser"
+			leak flame 60 80
+			explode "tiny explosion" 15
+			explode "small explosion" 5
+			system Matar
+		ship Fury
+			name "Lost Mother"
+			plural Furies
+			sprite ship/fury
+			attributes
+				category Interceptor
+				cost 490000
+				mass 70
+				bunks 3
+				"cargo space" 15
+				drag 1.6
+				"engine capacity" 60
+				"fuel capacity" 600
+				"gun ports" 4
+				"heat dissipation" 0.9
+				hull 400
+				"outfit space" 160
+				"required crew" 1
+				shields 2000
+				"weapon capacity" 40
+			outfits
+				Hyperdrive
+				"LP036a Battery Pack"
+				"Energy Blaster" 4
+				"D14-RN Shield Generator"
+				"nGVF-CC Fuel Cell"
+				"X2200 Ion Steering"
+				"X2700 Ion Thruster"
+			cargo
+				commodities
+					Industrial 2
+			crew 1
+			fuel 600
+			shields 2000
+			hull 400
+			position 346.21229 -486.86013
+			engine -17 35 1
+			engine 17 35 1
+			gun -10 -26 "Energy Blaster"
+			gun 10 -26 "Energy Blaster"
+			gun -16 -20 "Energy Blaster"
+			gun 16 -20 "Energy Blaster"
+			leak flame 50 80
+			explode "tiny explosion" 10
+			explode "small explosion" 20
+			system Matar
+		ship Hawk
+			name "Barge of Blood"
+			sprite ship/hawk
+			attributes
+				category Interceptor
+				cost 670000
+				mass 150
+				bunks 4
+				"cargo space" 30
+				drag 2.1
+				"engine capacity" 70
+				"fuel capacity" 300
+				"gun ports" 2
+				"heat dissipation" 0.8
+				hull 500
+				"outfit space" 200
+				"required crew" 2
+				shields 2500
+				"weapon capacity" 40
+			outfits
+				Hyperdrive
+				"Heavy Laser" 2
+				"LP036a Battery Pack"
+				"D23-QP Shield Generator"
+				"nGVF-CC Fuel Cell"
+				"Greyhound Plasma Thruster"
+				"Greyhound Plasma Steering"
+			cargo
+				commodities
+					Clothing 3
+			crew 2
+			fuel 300
+			shields 2500
+			hull 500
+			position 345.05743 -561.09339
+			engine -24 41 1
+			engine 24 41 1
+			gun -9 -17 "Heavy Laser"
+			gun 9 -17 "Heavy Laser"
+			leak leak 60 50
+			explode "tiny explosion" 15
+			explode "small explosion" 5
+			"final explode" "final explosion small" 1
+			system Matar
+		ship Fury
+			name "Bad Rambler"
+			plural Furies
+			sprite ship/fury
+			attributes
+				category Interceptor
+				cost 490000
+				mass 70
+				bunks 3
+				"cargo space" 15
+				drag 1.6
+				"engine capacity" 60
+				"fuel capacity" 600
+				"gun ports" 4
+				"heat dissipation" 0.9
+				hull 400
+				"outfit space" 160
+				"required crew" 1
+				shields 2000
+				"weapon capacity" 40
+			outfits
+				Hyperdrive
+				"LP036a Battery Pack"
+				"Energy Blaster" 4
+				"D14-RN Shield Generator"
+				"nGVF-CC Fuel Cell"
+				"X2200 Ion Steering"
+				"X2700 Ion Thruster"
+			cargo
+				commodities
+					Equipment 10
+			crew 3
+			fuel 600
+			shields 2000
+			hull 400
+			position 284.0613 -532.36911
+			engine -17 35 1
+			engine 17 35 1
+			gun -10 -26 "Energy Blaster"
+			gun 10 -26 "Energy Blaster"
+			gun -16 -20 "Energy Blaster"
+			gun 16 -20 "Energy Blaster"
+			leak flame 50 80
+			explode "tiny explosion" 10
+			explode "small explosion" 20
+			system Matar
+	npc
+		fail 128
+		accompany
+		government Merchant
+		personality
+			confusion 10
+			escort
+			timid
+		ship Freighter
+			name "Sovereign's Gold"
+			sprite ship/freighter
+			attributes
+				category "Light Freighter"
+				cost 730000
+				mass 240
+				bunks 7
+				"cargo space" 150
+				drag 5.6
+				"engine capacity" 70
+				"fuel capacity" 600
+				"heat dissipation" 0.6
+				hull 2000
+				"outfit space" 250
+				"required crew" 2
+				shields 2000
+				"turret mounts" 3
+				"weapon capacity" 80
+			outfits
+				"Blaster Turret" 2
+				"Heavy Anti-Missile Turret"
+				"LP036a Battery Pack"
+				"Scram Drive"
+				"D14-RN Shield Generator"
+				"X2200 Ion Steering"
+				"nGVF-EE Fuel Cell"
+				"X2700 Ion Thruster"
+			cargo
+				commodities
+					Clothing 38
+					Electronics 4
+					Equipment 1
+			crew 5
+			fuel 600
+			shields 2000
+			hull 2000
+			position -44.142997 548.12469
+			engine -9 97 1
+			engine 9 97 1
+			turret 0 -52 "Blaster Turret"
+			turret 0 6 "Heavy Anti-Missile Turret"
+			turret 0 65 "Blaster Turret"
+			leak leak 60 50
+			leak flame 50 80
+			explode "tiny explosion" 10
+			explode "small explosion" 30
+			explode "medium explosion" 20
+			"final explode" "final explosion small" 1
+			system Polaris
+	on complete
+		dialog
+			"The captain of the Sovereign's Gold thanks you for escorting them safely, and pays you 90,000 credits."
+		payment 90000
+	on visit
+		dialog
+			"You have reached Antipode, but you left the Sovereign's Gold behind! Better depart and wait for them to arrive in this star system."
+"available job" "Escort (Small, Core, Dangerous Origin)"
+	name "Escort to Shiver"
+	description "The captain of the Diana's Wings will pay you 60,000 credits to escort them safely out of this dangerous region of space to reach Shiver in the Altair system by Thu, 21 Jul 3014."
+	deadline 21 7 3014
+	job
+	repeat 0
+	to offer
+		random < 70
+		"combat rating" > 5
+	destination Shiver
+	npc
+		government Pirate
+		personality
+			confusion 30
+			harvests
+			nemesis
+			plunders
+		ship Fury
+			name "Sleepless Nights"
+			sprite ship/fury
+			attributes
+				category Interceptor
+				cost 490000
+				mass 70
+				bunks 3
+				"cargo space" 15
+				drag 1.6
+				"engine capacity" 60
+				"fuel capacity" 600
+				"gun ports" 4
+				"heat dissipation" 0.9
+				hull 400
+				"outfit space" 160
+				"required crew" 1
+				shields 2000
+				"weapon capacity" 40
+			outfits
+				Supercapacitor
+				Hyperdrive
+				"Heavy Laser" 2
+				"D23-QP Shield Generator"
+				"Cooling Ducts"
+				"A125 Atomic Steering"
+				"Chipmunk Plasma Thruster"
+				"RT-I Radiothermal"
+			cargo
+				commodities
+					Food 4
+			crew 3
+			fuel 600
+			shields 2000
+			hull 400
+			position -249.33931 313.62843
+			engine -17 35 1
+			engine 17 35 1
+			gun -10 -26 "Heavy Laser"
+			gun 10 -26 "Heavy Laser"
+			gun -16 -20
+			gun 16 -20
+			explode "tiny explosion" 10
+			explode "small explosion" 20
+			system Polaris
+	npc
+		government Pirate
+		personality
+			confusion 30
+			harvests
+			nemesis
+			plunders
+		ship Fury
+			name "Lady Lovibond"
+			plural Furies
+			sprite ship/fury
+			attributes
+				category Interceptor
+				cost 490000
+				mass 70
+				bunks 3
+				"cargo space" 15
+				drag 1.6
+				"engine capacity" 60
+				"fuel capacity" 600
+				"gun ports" 4
+				"heat dissipation" 0.9
+				hull 400
+				"outfit space" 160
+				"required crew" 1
+				shields 2000
+				"weapon capacity" 40
+			outfits
+				Hyperdrive
+				"LP036a Battery Pack"
+				"Energy Blaster" 4
+				"D14-RN Shield Generator"
+				"nGVF-CC Fuel Cell"
+				"X2200 Ion Steering"
+				"X2700 Ion Thruster"
+			cargo
+				commodities
+					Clothing 15
+			crew 3
+			fuel 600
+			shields 2000
+			hull 400
+			position 623.54286 -150.80983
+			engine -17 35 1
+			engine 17 35 1
+			gun -10 -26 "Energy Blaster"
+			gun 10 -26 "Energy Blaster"
+			gun -16 -20 "Energy Blaster"
+			gun 16 -20 "Energy Blaster"
+			leak flame 50 80
+			explode "tiny explosion" 10
+			explode "small explosion" 20
+			system "Al Dhanab"
+	npc
+		government Pirate
+		personality
+			confusion 30
+			harvests
+			nemesis
+			plunders
+		ship Fury
+			name "Falcon of Madness"
+			plural Furies
+			sprite ship/fury
+			attributes
+				category Interceptor
+				cost 490000
+				mass 70
+				bunks 3
+				"cargo space" 15
+				drag 1.6
+				"engine capacity" 60
+				"fuel capacity" 600
+				"gun ports" 4
+				"heat dissipation" 0.9
+				hull 400
+				"outfit space" 160
+				"required crew" 1
+				shields 2000
+				"weapon capacity" 40
+			outfits
+				Hyperdrive
+				"LP036a Battery Pack"
+				"Energy Blaster" 4
+				"D14-RN Shield Generator"
+				"nGVF-CC Fuel Cell"
+				"X2200 Ion Steering"
+				"X2700 Ion Thruster"
+			cargo
+				commodities
+					Clothing 2
+			crew 1
+			fuel 600
+			shields 2000
+			hull 400
+			position 131.89487 390.57492
+			engine -17 35 1
+			engine 17 35 1
+			gun -10 -26 "Energy Blaster"
+			gun 10 -26 "Energy Blaster"
+			gun -16 -20 "Energy Blaster"
+			gun 16 -20 "Energy Blaster"
+			leak flame 50 80
+			explode "tiny explosion" 10
+			explode "small explosion" 20
+			system Polaris
+	npc
+		fail 128
+		accompany
+		government Merchant
+		personality
+			confusion 10
+			escort
+			timid
+		ship Freighter
+			name "Diana's Wings"
+			sprite ship/freighter
+			attributes
+				category "Light Freighter"
+				cost 730000
+				mass 240
+				bunks 7
+				"cargo space" 150
+				drag 5.6
+				"engine capacity" 70
+				"fuel capacity" 600
+				"heat dissipation" 0.6
+				hull 2000
+				"outfit space" 250
+				"required crew" 2
+				shields 2000
+				"turret mounts" 3
+				"weapon capacity" 80
+			outfits
+				"Blaster Turret" 2
+				"Heavy Anti-Missile Turret"
+				"LP036a Battery Pack"
+				"Scram Drive"
+				"D14-RN Shield Generator"
+				"X2200 Ion Steering"
+				"nGVF-EE Fuel Cell"
+				"X2700 Ion Thruster"
+			cargo
+				commodities
+					Food 32
+					Industrial 22
+					Medical 27
+			crew 6
+			fuel 600
+			shields 2000
+			hull 2000
+			position 46.968712 790.878
+			engine -9 97 1
+			engine 9 97 1
+			turret 0 -52 "Blaster Turret"
+			turret 0 6 "Heavy Anti-Missile Turret"
+			turret 0 65 "Blaster Turret"
+			leak leak 60 50
+			leak flame 50 80
+			explode "tiny explosion" 10
+			explode "small explosion" 30
+			explode "medium explosion" 20
+			"final explode" "final explosion small" 1
+			system Polaris
+	on complete
+		dialog
+			"The captain of the Diana's Wings thanks you for escorting them safely, and pays you 60,000 credits."
+		payment 60000
+	on visit
+		dialog
+			"You have reached Shiver, but you left the Diana's Wings behind! Better depart and wait for them to arrive in this star system."
+"available job" "Family [2]"
+	name "Transport family to Triton Station"
+	description "This family of 6 is relocating to Triton Station in the Alheka system. They will pay you 125,000 credits to take them there."
+	passengers 6
+	job
+	repeat 0
+	to offer
+		random < 40
+		"passenger space" > 10
+	destination "Triton Station"
+	on complete
+		dialog
+			"The family you have been transporting departs your ship after paying you 125,000 credits."
+		payment 125000
+"available job" "Family [3]"
+	name "Transport family to New India"
+	description "This family of 11 is relocating to New India in the Albaldah system. They will pay you 241,000 credits to take them there."
+	passengers 11
+	job
+	repeat 0
+	to offer
+		random < 30
+		"passenger space" > 10
+	destination "New India"
+	on complete
+		dialog
+			"The family you have been transporting departs your ship after paying you 241,000 credits."
+		payment 241000
+"available job" "Large Bulk Delivery [0]"
+	name "Large bulk delivery to Placer"
+	description "Deliver 189 tons of exotic carpets to Placer in the Mirach system. Payment is 117,400 credits."
+	cargo "exotic carpets" 189
+	job
+	repeat 0
+	to offer
+		random < 70
+		"cargo space" > 160
+	destination Placer
+	on complete
+		dialog
+			"You drop off your cargo of exotic carpets and collect your payment of 117,400 credits."
+		payment 117400
+"available job" "Large Bulk Delivery [1]"
+	name "Large bulk delivery to Geyser"
+	description "Deliver 371 tons of salt to Geyser in the Denebola system. Payment is 451,200 credits."
+	cargo salt 371
+	job
+	repeat 0
+	to offer
+		random < 60
+		"cargo space" > 160
+	destination Geyser
+	on complete
+		dialog
+			"You drop off your cargo of salt and collect your payment of 451,200 credits."
+		payment 451200
+"available job" "Large Rush Delivery [0]"
+	name "Large rush delivery to Canyon"
+	description "Deliver 89 tons of handbags to Canyon in the Zaurak system by Thu, 21 Jul 3014. Payment is 116,100 credits."
+	deadline 21 7 3014
+	cargo handbags 89
+	job
+	repeat 0
+	to offer
+		random < 90
+		"cargo space" > 80
+	destination Canyon
+	on complete
+		dialog
+			"You drop off your cargo of handbags and collect your payment of 116,100 credits."
+		payment 116100
+"available job" "Large Rush Delivery [1]"
+	name "Large rush delivery to New Portland"
+	description "Deliver 49 tons of plasma cutters to New Portland in the Delta Sagittarii system by Tue, 2 Aug 3014. Payment is 126,200 credits."
+	deadline 2 8 3014
+	cargo "plasma cutters" 49
+	job
+	repeat 0
+	to offer
+		random < 80
+		"cargo space" > 80
+	destination "New Portland"
+	on complete
+		dialog
+			"You drop off your cargo of plasma cutters and collect your payment of 126,200 credits."
+		payment 126200
+"available job" "Passengers [0]"
+	name "Passenger transport to Maelstrom"
+	description "Bring 2 passengers to Maelstrom in the Nihal system. Payment is 29,000 credits."
+	passengers 2
+	job
+	repeat 0
+	destination Maelstrom
+	on complete
+		dialog
+			"You wish your passengers the best of luck on Maelstrom, and collect your payment of 29,000 credits."
+		payment 29000
+"available job" "Passengers [1]"
+	name "Passenger transport to Crossroads"
+	description "Bring 2 passengers to Crossroads in the Ruchbah system. Payment is 12,000 credits."
+	passengers 2
+	job
+	repeat 0
+	to offer
+		random < 75
+	destination Crossroads
+	on complete
+		dialog
+			"You wish your passengers the best of luck on Crossroads, and collect your payment of 12,000 credits."
+		payment 12000
+"available job" "Passengers [3]"
+	name "Passenger transport to Hermes"
+	description "Bring a passenger to Hermes in the Capella system. Payment is 13,500 credits."
+	passengers 1
+	job
+	repeat 0
+	to offer
+		random < 25
+	destination Hermes
+	on complete
+		dialog
+			"You wish your passenger the best of luck on Hermes, and collect your payment of 13,500 credits."
+		payment 13500
+"available job" "Passengers [4]"
+	name "Passenger transport to Sunracer"
+	description "These 3 passengers want to escape the pollution and crime on Shangri-La and settle on Sunracer in the Mirfak system. Payment is 38,000 credits."
+	passengers 3
+	job
+	repeat 0
+	to offer
+		random < 50
+	destination Sunracer
+	on complete
+		dialog
+			"You wish your passengers the best of luck on Sunracer, and collect your payment of 38,000 credits."
+		payment 38000
+"available job" "Rush Delivery [0]"
+	name "Rush delivery to Arabia"
+	description "Deliver 12 tons of running shoes to Arabia in the Ascella system by Sun, 31 Jul 3014. Payment is 35,800 credits."
+	deadline 31 7 3014
+	cargo "running shoes" 12
+	job
+	repeat 0
+	to offer
+		random < 90
+	destination Arabia
+	on complete
+		dialog
+			"You drop off your cargo of running shoes and collect your payment of 35,800 credits."
+		payment 35800
+"available job" "Rush Delivery [1]"
+	name "Rush delivery to Earth"
+	description "Deliver 15 tons of wheat to Earth in the Sol system by Sat, 23 Jul 3014. Payment is 33,750 credits."
+	deadline 23 7 3014
+	cargo wheat 15
+	job
+	repeat 0
+	to offer
+		random < 80
+	destination Earth
+	on complete
+		dialog
+			"You drop off your cargo of wheat and collect your payment of 33,750 credits."
+		payment 33750
+"available job" "Rush fuel Delivery"
+	name "Rush fuel delivery to Reunion"
+	description "A civilian reactor on Reunion in the Caph system is running low on fuel and needs an emergency shipment of 40 tons of depleted uranium by Sat, 23 Jul 3014. Payment is 62,000 credits."
+	deadline 23 7 3014
+	cargo "depleted uranium" 40
+	job
+	repeat 0
+	to offer
+		random < 20
+		"cargo space" > 15
+	destination Reunion
+	on complete
+		dialog
+			"You drop off your cargo of depleted uranium at the loading bay of a towering nuclear complex and collect your payment of 62,000 credits."
+		payment 62000
+"available job" "Theater props to <planet>"
+	name "Theater props to Ada"
+	description "A theater troupe on Ada in the Aldebaran system needs a delivery of 10 tons of special bawdy magazines to use as props in an upcoming performance on Mon, 25 Jul 3014. Payment is 20,000 credits."
+	deadline 25 7 3014
+	cargo "bawdy magazines" 10
+	job
+	repeat 0
+	to offer
+		random < 10
+	destination Ada
+	on complete
+		dialog
+			"Your ship is directed to the rear loading dock of a sprawling entertainment complex where your cargo of bawdy magazines is unloaded. You collect your payment of 20,000 credits."
+		payment 20000
+"available job" "Tourists out [1]"
+	name "Bring tourists to Amazon"
+	description "These 5 tourists want to see Amazon in the Schedar system. They are willing to pay you 26,500 credits."
+	passengers 5
+	job
+	repeat 0
+	to offer
+		random < 50
+	destination Amazon
+	on complete
+		dialog
+			"You wish your passengers the best of luck on Amazon, and collect your payment of 26,500 credits."
+		payment 26500
+"available job" "Transport workers to <planet>"
+	name "Transport workers to Luna"
+	description "This family of 3 factory workers is hoping to find work on Luna in the Sol system, and they will pay you 33,500 credits to take them there."
+	passengers 3
+	job
+	repeat 0
+	to offer
+		random < 80
+	destination Luna
+	on complete
+		dialog
+			"You wish the workers the best of luck on Luna, and collect your payment of 33,500 credits."
+		payment 33500
+conditions
+	"Bounty Hunting (Big): active"
+	"Bounty Hunting (Big): offered"
+	"Bounty Hunting (Marauder I): active"
+	"Bounty Hunting (Marauder I): offered"
+	"Bounty Hunting (Medium): active"
+	"Bounty Hunting (Medium): offered"
+	"Bounty Hunting (Small): active" 5
+	"Bounty Hunting (Small): done" 2
+	"Bounty Hunting (Small): offered" 7
+	"Courier 2: offered"
+	"Courier 4: offered"
+	"Discovered Hai Space: offered"
+	"Drak guarding Korath space: active"
+	"Drak guarding Korath space: offered"
+	"Drak guarding Sayaiban: active"
+	"Drak guarding Sayaiban: offered"
+	"Drak guarding Void Sprites: active"
+	"Drak guarding Void Sprites: offered"
+	"Expedition to Hope 1: done"
+	"Expedition to Hope 1: offered"
+	"Expedition to Hope 2: done"
+	"Expedition to Hope 2: offered"
+	"First Contact: Hai: offered"
+	"Intro [0]: offered"
+	"Pact Recon 0: done"
+	"Pact Recon 0: offered"
+	"Pact Recon 1: done"
+	"Pact Recon 1: offered"
+	"Pact Recon 2: done"
+	"Pact Recon 2: offered"
+	"Pact Recon 3: done"
+	"Pact Recon 3: offered"
+	"Passengers [2]: done"
+	"Passengers [2]: offered"
+	"Rescue Miners 1: active"
+	"Rescue Miners 1: offered"
+	"Southern Pirate Attack: done"
+	"Southern Pirate Attack: offered"
+	"There Might Be Riots 1: done"
+	"There Might Be Riots 1: offered"
+	"armament deterrence" 46
+	"cargo attractiveness" 34
+	"cargo space" 2037
+	"combat rating" 19625
+	"credit score" 637
+	credits 96594152
+	day 11
+	"event: label hai space"
+	"event: remembrance day"
+	"event: war begins"
+	"event: war begins: offered"
+	"license: Pilot's"
+	month 7
+	"net worth" 213677638
+	"passenger space" 599
+	"pirate attraction" -11
+	"remembrance day: offered"
+	"reputation:  Drak " -1000
+	"reputation:  Kor Mereti " -1000
+	"reputation: Alpha" -1000
+	"reputation: Author"
+	"reputation: Bad Trip" -1000
+	"reputation: Bounty" -1091
+	"reputation: Bounty Hunter" -1000
+	"reputation: Coalition"
+	"reputation: Deep" -1000
+	"reputation: Deep Security" 984
+	"reputation: Drak"
+	"reputation: Free Worlds" 1968
+	"reputation: Hai" 502
+	"reputation: Hai (Unfettered)" -2005
+	"reputation: Heliarch"
+	"reputation: Independent" 10
+	"reputation: Indigenous Lifeform"
+	"reputation: Kor Efret"
+	"reputation: Kor Mereti" -1000
+	"reputation: Kor Sestor" -1000
+	"reputation: Korath" -38362
+	"reputation: Korath Nanobots" -1000
+	"reputation: Merchant" 8664
+	"reputation: Militia" 1967
+	"reputation: Navy (Oathkeeper)" 1575
+	"reputation: Navy Intelligence" 1475
+	"reputation: Neutral" 984
+	"reputation: Parrot"
+	"reputation: Pirate" -4928
+	"reputation: Pug"
+	"reputation: Quarg"
+	"reputation: Remnant"
+	"reputation: Republic" 1477
+	"reputation: Syndicate" 21145
+	"reputation: Syndicate (Extremist)" -1000
+	"reputation: Team Blue" -1000
+	"reputation: Team Red" -1000
+	"reputation: Test Dummy" -1000
+	"reputation: Wanderer"
+	"ships: Heavy Warship" 7
+	"unpaid mortgages" 824
+	year 3014
+event
+	date 24 7 3014
+	"event: initial deployment 1" = 1
+	system Spica
+		fleet "Small Southern Merchants" 1200
+		fleet "Large Southern Merchants" 1700
+		fleet "Small Free Worlds" 800
+		fleet "Large Free Worlds" 1500
+	system Minkar
+		fleet "Small Southern Merchants" 700
+		fleet "Large Southern Merchants" 1500
+		fleet "Small Free Worlds" 700
+		fleet "Large Free Worlds" 1200
+	system Mimosa
+		fleet "Small Southern Merchants" 1200
+		fleet "Large Southern Merchants" 2300
+		fleet "Small Free Worlds" 1200
+		fleet "Large Free Worlds" 1900
+	system Kraz
+		fleet "Small Southern Merchants" 900
+		fleet "Large Southern Merchants" 1600
+		fleet "Small Free Worlds" 700
+		fleet "Large Free Worlds" 900
+	system Acrux
+		fleet "Small Southern Merchants" 500
+		fleet "Large Southern Merchants" 800
+		fleet "Small Free Worlds" 700
+		fleet "Large Free Worlds" 1100
+		fleet "Human Miners" 5000
+	system "Tania Australis"
+		fleet "Small Northern Merchants" 1400
+		fleet "Large Northern Merchants" 2900
+		fleet "Small Republic" 600
+		fleet "Large Republic" 400
+		fleet "Navy Surveillance" 2000
+	planet Ingot
+		description "Ingot is a volcanic moon, totally unsuitable for life but rich in metal. The miners who work here must spend all their time inside pressurized buildings. Because Ingot has almost no atmosphere to slow them down, meteorites are a constant danger to the colonists. The shells of the buildings have multiple layers, designed to be self-sealing in any but the largest of impacts. Most of the mining is done remotely by robotic vehicles, but someone still needs to be present to control them and to make repairs when something goes wrong."
+		description "Ingot is also now home to a burgeoning Navy base, although since the planet is so unlivable most of the troops are just living in ships in orbit."
+	system Fala
+		fleet "Small Northern Merchants" 1900
+		fleet "Large Northern Merchants" 3500
+		fleet "Small Republic" 600
+		fleet "Large Republic" 400
+		fleet "Small Northern Pirates" 4000
+		fleet "Large Northern Pirates" 8000
+		fleet "Navy Surveillance" 2000
+	system Phecda
+		fleet "Small Northern Merchants" 900
+		fleet "Small Southern Merchants" 1100
+		fleet "Small Republic" 900
+		fleet "Large Republic" 1100
+		fleet "Navy Surveillance" 2000
+	system Algorel
+		fleet "Small Southern Merchants" 800
+		fleet "Large Southern Merchants" 1200
+		fleet "Small Republic" 700
+		fleet "Large Republic" 500
+		fleet "Small Southern Pirates" 2500
+		fleet "Large Southern Pirates" 8000
+		fleet "Navy Surveillance" 2000
+	planet "New Wales"
+		description "New Wales is home to a few mining outposts which extract and refine rare earth minerals and heavy metals. It is dangerous work: the mines are deep underground and prone to noxious gases and cave-ins, and the refineries work with molten radioactive materials and caustic chemicals. Due to the somewhat dim light of the star Algorel, and the cloudiness of the atmosphere, this is not a good world for farming, and the population remains quite small."
+		description "The Republic Navy has planted a base on New Wales: so far, just a densely packed cluster of prefabricated barracks and infirmary buildings on the outskirts of one of the mining colonies."
+	system Porrima
+		fleet "Small Southern Merchants" 1400
+		fleet "Large Southern Merchants" 4000
+		fleet "Small Republic" 1200
+		fleet "Large Republic" 1800
+		fleet "Small Southern Pirates" 9000
+		fleet "Navy Surveillance" 2000
+	system Ipsing
+		fleet "Small Southern Merchants" 2800
+		fleet "Large Southern Merchants" 7000
+		fleet "Small Republic" 2500
+		fleet "Large Republic" 4000
+		fleet "Small Southern Pirates" 5000
+		fleet "Navy Surveillance" 2000
+	system Mizar
+		fleet "Small Southern Merchants" 1400
+		fleet "Large Southern Merchants" 4500
+		fleet "Small Republic" 1000
+		fleet "Large Republic" 1400
+		fleet "Small Southern Pirates" 9000
+		fleet "Navy Surveillance" 2000
+	system Muphrid
+		fleet "Small Southern Merchants" 1200
+		fleet "Large Southern Merchants" 4800
+		fleet "Small Republic" 1100
+		fleet "Large Republic" 1900
+		fleet "Small Southern Pirates" 9000
+		fleet "Navy Surveillance" 2000
+	system Menkent
+		fleet "Small Southern Merchants" 700
+		fleet "Large Southern Merchants" 1900
+		fleet "Small Republic" 500
+		fleet "Large Republic" 600
+		fleet "Navy Surveillance" 2000
+		fleet "Human Miners" 2000
+	planet "New Austria"
+		description "New Austria is a rugged mountain world, full of snow-capped peaks and valleys so deep and so steep that they rarely see sunlight. The few settlements that have been built here were developed for mining sapphires and rubies; the sapphires found in New Austria range from blue to yellow to black to clear in color, and are used both for industrial abrasives and for jewelry."
+		description "The Navy has recently requisitioned one of the abandoned mining towns and begun refurbishing it for a secure military base, with the mining tunnels used as deep underground bunkers."
+event
+	date 14 8 3014
+	"event: initial deployment 2" = 1
+	planet Martini
+		"required reputation" 10
+	system Izar
+		fleet "Small Southern Merchants" 500
+		fleet "Large Southern Merchants" 1500
+		fleet "Small Free Worlds" 700
+		fleet "Large Free Worlds" 1000
+	system "Zeta Centauri"
+		fleet "Small Southern Merchants" 700
+		fleet "Large Southern Merchants" 1700
+		fleet "Small Free Worlds" 1200
+		fleet "Large Free Worlds" 2000
+		fleet "Small Southern Pirates" 6000
+		fleet "Large Southern Pirates" 9000
+	system Hadar
+		fleet "Small Southern Merchants" 400
+		fleet "Large Southern Merchants" 600
+		fleet "Small Free Worlds" 600
+		fleet "Large Free Worlds" 1100
+	system Alkaid
+		fleet "Small Southern Merchants" 1200
+		fleet "Large Southern Merchants" 4000
+		fleet "Small Free Worlds" 6000
+		fleet "Large Free Worlds" 10000
+		fleet "Small Southern Pirates" 4000
+		fleet "Large Southern Pirates" 8000
+	system Zubeneschamali
+		fleet "Small Southern Merchants" 500
+		fleet "Large Southern Merchants" 1000
+		fleet "Small Free Worlds" 1400
+		fleet "Large Free Worlds" 2400
+		fleet "Small Southern Pirates" 4000
+		fleet "Large Southern Pirates" 5000
+	system Kochab
+		fleet "Small Southern Merchants" 1800
+		fleet "Large Southern Merchants" 5000
+		fleet "Small Southern Pirates" 6000
+		fleet "Small Free Worlds" 5000
+	system Ildaria
+		fleet "Small Southern Merchants" 900
+		fleet "Large Southern Merchants" 1800
+		fleet "Small Free Worlds" 2200
+		fleet "Large Free Worlds" 3600
+		fleet "Small Southern Pirates" 4000
+		fleet "Large Southern Pirates" 7000
+	system Mora
+		fleet "Small Southern Merchants" 2800
+		fleet "Large Southern Merchants" 5000
+		fleet "Small Southern Pirates" 3000
+		fleet "Large Southern Pirates" 4000
+		fleet "Small Republic" 1000
+		fleet "Large Republic" 2000
+		fleet "Navy Surveillance" 1600
+	system "Delta Velorum"
+		fleet "Small Southern Merchants" 1000
+		fleet "Large Southern Merchants" 3000
+		fleet "Small Southern Pirates" 2000
+		fleet "Large Southern Pirates" 5000
+		fleet "Small Republic" 1600
+		fleet "Large Republic" 2400
+		fleet "Navy Surveillance" 1600
+	system Turais
+		fleet "Small Southern Merchants" 2000
+		fleet "Large Southern Merchants" 6000
+		fleet "Small Southern Pirates" 3000
+		fleet "Large Southern Pirates" 7000
+		fleet "Small Republic" 1000
+		fleet "Large Republic" 1800
+		fleet "Navy Surveillance" 1600
+	system Gacrux
+		fleet "Small Southern Merchants" 2000
+		fleet "Large Southern Merchants" 5000
+		fleet "Small Southern Pirates" 2000
+		fleet "Large Southern Pirates" 4000
+		fleet "Small Republic" 2000
+		fleet "Large Republic" 3000
+		fleet "Navy Surveillance" 1600
+	system "Cor Caroli"
+		fleet "Small Southern Merchants" 700
+		fleet "Large Southern Merchants" 1300
+		fleet "Small Southern Pirates" 2000
+		fleet "Small Republic" 1200
+		fleet "Large Republic" 1800
+		fleet "Navy Surveillance" 1600
+	system Muhlifain
+		fleet "Small Southern Merchants" 1000
+		fleet "Large Southern Merchants" 3500
+		fleet "Small Southern Pirates" 6000
+		fleet "Small Republic" 3000
+		fleet "Large Republic" 4000
+		fleet "Navy Surveillance" 1600
+	system Vindemiatrix
+		fleet "Small Southern Merchants" 600
+		fleet "Large Southern Merchants" 3000
+		fleet "Small Southern Pirates" 2000
+		fleet "Large Southern Pirates" 4000
+		fleet "Small Republic" 2000
+		fleet "Large Republic" 3000
+		fleet "Navy Surveillance" 1600
+	system Sarin
+		fleet "Small Southern Merchants" 1000
+		fleet "Large Southern Merchants" 3000
+		fleet "Small Southern Pirates" 2000
+		fleet "Large Southern Pirates" 6000
+		fleet "Small Republic" 8000
+		fleet "Large Republic" 15000
+		fleet "Navy Surveillance" 1600
+	system Alioth
+		fleet "Small Southern Merchants" 400
+		fleet "Large Northern Merchants" 600
+		fleet "Small Southern Pirates" 1200
+		fleet "Large Southern Pirates" 2400
+		fleet "Small Republic" 3000
+		fleet "Large Republic" 4000
+		fleet "Navy Surveillance" 1600
+	system Holeb
+		fleet "Small Southern Merchants" 1000
+		fleet "Large Southern Merchants" 3000
+		fleet "Small Southern Pirates" 5000
+		fleet "Small Republic" 2000
+		fleet "Large Republic" 3000
+		fleet "Navy Surveillance" 1600
+	system Arcturus
+		fleet "Small Southern Merchants" 700
+		fleet "Large Southern Merchants" 3000
+		fleet "Small Southern Pirates" 4000
+		fleet "Small Republic" 2000
+		fleet "Large Republic" 3000
+		fleet "Navy Surveillance" 1600
+	system Rutilicus
+		fleet "Small Southern Merchants" 600
+		fleet "Large Southern Merchants" 2000
+		fleet "Small Southern Pirates" 8000
+		fleet "Small Republic" 1000
+		fleet "Large Republic" 2000
+		fleet "Navy Surveillance" 1600
+	system Alphecca
+		fleet "Small Southern Merchants" 2000
+		fleet "Large Northern Merchants" 3500
+		fleet "Small Southern Pirates" 3000
+		fleet "Small Republic" 3000
+		fleet "Large Republic" 4000
+		fleet "Navy Surveillance" 1600
+	system Boral
+		fleet "Small Southern Merchants" 3000
+		fleet "Large Northern Merchants" 8000
+		fleet "Small Southern Pirates" 1500
+		fleet "Small Republic" 7000
+		fleet "Large Republic" 12000
+		fleet "Navy Surveillance" 1600
+	system Cebalrai
+		fleet "Small Southern Merchants" 600
+		fleet "Large Southern Merchants" 2000
+		fleet "Small Southern Pirates" 4000
+		fleet "Small Republic" 1000
+		fleet "Large Republic" 2000
+		fleet "Navy Surveillance" 1600
+	system Rasalhague
+		fleet "Small Southern Merchants" 1500
+		fleet "Large Southern Merchants" 2000
+		fleet "Small Southern Pirates" 4000
+		fleet "Large Southern Pirates" 8000
+		fleet "Small Republic" 3000
+		fleet "Large Republic" 4000
+		fleet "Navy Surveillance" 1600
+event
+	date 29 8 3014
+	"event: initial deployment 3" = 1
+	system Zubenelgenubi
+		fleet "Small Southern Merchants" 500
+		fleet "Large Southern Merchants" 900
+		fleet "Small Free Worlds" 800
+		fleet "Large Free Worlds" 1000
+		fleet "Small Southern Pirates" 5000
+		fleet "Large Southern Pirates" 8000
+	system Unukalhai
+		fleet "Small Southern Merchants" 900
+		fleet "Large Southern Merchants" 3000
+		fleet "Small Southern Pirates" 3000
+		fleet "Small Free Worlds" 3000
+		fleet "Large Free Worlds" 6000
+	system Sabik
+		fleet "Small Southern Merchants" 400
+		fleet "Large Southern Merchants" 600
+		fleet "Small Free Worlds" 1000
+		fleet "Large Free Worlds" 1600
+	system Aldhibain
+		fleet "Small Southern Merchants" 400
+		fleet "Large Southern Merchants" 500
+		fleet "Small Free Worlds" 600
+		fleet "Large Free Worlds" 700
+		fleet "Small Southern Pirates" 1400
+		fleet "Large Southern Pirates" 3000
+	system Kornephoros
+		fleet "Small Southern Merchants" 600
+		fleet "Large Southern Merchants" 700
+		fleet "Small Southern Pirates" 5000
+		fleet "Small Free Worlds" 1000
+		fleet "Large Free Worlds" 2000
+		fleet "Human Miners" 3000
+	system Wei
+		fleet "Small Southern Merchants" 800
+		fleet "Large Southern Merchants" 2500
+		fleet "Small Southern Pirates" 6000
+		fleet "Small Republic" 800
+		fleet "Large Republic" 700
+		fleet "Navy Surveillance" 1200
+	system Seginus
+		fleet "Small Southern Merchants" 1200
+		fleet "Large Southern Merchants" 2700
+		fleet "Small Southern Pirates" 8000
+		fleet "Small Republic" 1200
+		fleet "Large Republic" 1400
+		fleet "Navy Surveillance" 1200
+	system Alnasl
+		fleet "Small Southern Merchants" 1300
+		fleet "Large Southern Merchants" 2500
+		fleet "Small Southern Pirates" 6000
+		fleet "Small Republic" 900
+		fleet "Large Republic" 1100
+		fleet "Navy Surveillance" 1200
+	system Eber
+		fleet "Small Southern Merchants" 1900
+		fleet "Large Southern Merchants" 2900
+		fleet "Small Southern Pirates" 3000
+		fleet "Small Republic" 1000
+		fleet "Large Republic" 1500
+		fleet "Navy Surveillance" 1200
+	system "Alpha Arae"
+		fleet "Small Southern Merchants" 2100
+		fleet "Large Southern Merchants" 8000
+		fleet "Small Southern Pirates" 6000
+		fleet "Large Southern Pirates" 13000
+		fleet "Small Republic" 900
+		fleet "Large Republic" 800
+		fleet "Navy Surveillance" 1200
+	system "Kaus Borealis"
+		fleet "Small Southern Merchants" 900
+		fleet "Large Southern Merchants" 4000
+		fleet "Small Southern Pirates" 8000
+		fleet "Small Republic" 1100
+		fleet "Large Republic" 800
+		fleet "Navy Surveillance" 1200
+event
+	date 17 9 3014
+	"event: initial deployment 4" = 1
+	planet Geminus
+		"required reputation" 10
+	system Sargas
+		fleet "Small Southern Merchants" 600
+		fleet "Large Southern Merchants" 2500
+		fleet "Small Southern Pirates" 3000
+		fleet "Large Southern Pirates" 5000
+		fleet "Small Free Worlds" 1000
+		fleet "Large Free Worlds" 1500
+		fleet "Navy Surveillance" 800
+	system Dschubba
+		fleet "Small Southern Merchants" 800
+		fleet "Large Southern Merchants" 2600
+		fleet "Small Southern Pirates" 3000
+		fleet "Large Southern Pirates" 6000
+		fleet "Small Free Worlds" 2000
+		fleet "Large Free Worlds" 3000
+		fleet "Navy Surveillance" 800
+	system Lesath
+		fleet "Small Southern Merchants" 800
+		fleet "Large Southern Merchants" 1600
+		fleet "Small Southern Pirates" 3000
+		fleet "Large Southern Pirates" 7000
+		fleet "Small Free Worlds" 800
+		fleet "Large Free Worlds" 1100
+		fleet "Navy Surveillance" 800
+	system Atria
+		fleet "Small Southern Merchants" 700
+		fleet "Large Southern Merchants" 2600
+		fleet "Small Southern Pirates" 5000
+		fleet "Large Southern Pirates" 8000
+		fleet "Small Free Worlds" 1000
+		fleet "Large Free Worlds" 2100
+	system Alniyat
+		fleet "Small Southern Merchants" 500
+		fleet "Large Southern Merchants" 600
+		fleet "Small Southern Pirates" 2000
+		fleet "Large Southern Pirates" 4000
+		fleet "Small Free Worlds" 1500
+		fleet "Large Free Worlds" 4000
+	system Han
+		fleet "Small Southern Merchants" 800
+		fleet "Large Southern Merchants" 4000
+		fleet "Small Southern Pirates" 2000
+		fleet "Large Southern Pirates" 9000
+		fleet "Small Free Worlds" 3000
+		fleet "Large Free Worlds" 8000
+	system Pherkad
+		fleet "Small Southern Merchants" 500
+		fleet "Large Southern Merchants" 700
+		fleet "Small Free Worlds" 900
+		fleet "Large Free Worlds" 1700
+		fleet "Small Southern Pirates" 1000
+		fleet "Large Southern Pirates" 1900
+	system "Beta Lupi"
+		fleet "Small Southern Merchants" 800
+		fleet "Small Southern Pirates" 1100
+		fleet "Large Southern Pirates" 1600
+		fleet "Small Free Worlds" 4000
+		fleet "Large Free Worlds" 8000
+	system "Yed Prior"
+		fleet "Small Northern Merchants" 800
+		fleet "Large Northern Merchants" 1100
+		fleet "Small Southern Pirates" 1000
+		fleet "Large Southern Pirates" 2000
+		fleet "Small Free Worlds" 5000
+		fleet "Large Free Worlds" 8000
+	system "Kappa Centauri"
+		fleet "Small Southern Merchants" 900
+		fleet "Large Southern Merchants" 2700
+		fleet "Small Southern Pirates" 1600
+		fleet "Large Southern Pirates" 2000
+		fleet "Small Free Worlds" 3000
+		fleet "Large Free Worlds" 5000
+	system Rastaban
+		fleet "Small Southern Merchants" 1000
+		fleet "Large Southern Merchants" 1900
+		fleet "Small Southern Pirates" 4000
+		fleet "Large Southern Pirates" 8000
+		fleet "Small Republic" 900
+		fleet "Large Republic" 700
+		fleet "Navy Surveillance" 1200
+	system Sabik
+		fleet "Small Southern Merchants" 600
+		fleet "Large Southern Merchants" 800
+		fleet "Small Free Worlds" 800
+		fleet "Large Free Worlds" 1200
+		fleet "Navy Surveillance" 800
+	system Aldhibain
+		fleet "Small Southern Merchants" 600
+		fleet "Large Southern Merchants" 800
+		fleet "Small Free Worlds" 600
+		fleet "Large Free Worlds" 600
+		fleet "Small Southern Pirates" 1400
+		fleet "Large Southern Pirates" 3000
+		fleet "Navy Surveillance" 800
+	system Kornephoros
+		fleet "Small Southern Merchants" 800
+		fleet "Large Southern Merchants" 1000
+		fleet "Small Southern Pirates" 5000
+		fleet "Small Free Worlds" 900
+		fleet "Large Free Worlds" 1700
+		fleet "Navy Surveillance" 800
+		fleet "Human Miners" 3000
+changes
+	galaxy "label hai"
+		sprite label/hai
+	system "Gamma Corvi"
+		government "Free Worlds"
+		fleet "Small Southern Merchants" 600
+		fleet "Large Southern Merchants" 1400
+		fleet "Small Free Worlds" 600
+		fleet "Large Free Worlds" 1300
+	system Spica
+		government "Free Worlds"
+	system Minkar
+		government "Free Worlds"
+	system Acrux
+		government "Free Worlds"
+	system Mimosa
+		government "Free Worlds"
+	system Kraz
+		government "Free Worlds"
+	system Izar
+		government "Free Worlds"
+	system "Zeta Centauri"
+		government "Free Worlds"
+	system Hadar
+		government "Free Worlds"
+	system Alkaid
+		government "Free Worlds"
+	system Zubeneschamali
+		government "Free Worlds"
+	system Kochab
+		government "Free Worlds"
+	system Ildaria
+		government "Free Worlds"
+	system Zubenelgenubi
+		government "Free Worlds"
+	system Sabik
+		government "Free Worlds"
+	system Unukalhai
+		government "Free Worlds"
+	system Kornephoros
+		government "Free Worlds"
+	system Sargas
+		government "Free Worlds"
+	system Lesath
+		government "Free Worlds"
+	system Aldhibain
+		government "Free Worlds"
+	system Dschubba
+		government "Free Worlds"
+	system Atria
+		government "Free Worlds"
+	system Alniyat
+		government "Free Worlds"
+	system Han
+		government "Free Worlds"
+	system Pherkad
+		government "Free Worlds"
+	system "Yed Prior"
+		government "Free Worlds"
+	system "Beta Lupi"
+		government "Free Worlds"
+	system "Kappa Centauri"
+		government "Free Worlds"
+	system Castor
+		fleet "Small Northern Merchants" 800
+		fleet "Large Northern Merchants" 1100
+		fleet "Small Republic" 800
+		fleet "Large Republic" 400
+	system Pollux
+		fleet "Small Northern Merchants" 700
+		fleet "Large Northern Merchants" 1100
+		fleet "Small Republic" 700
+		fleet "Large Republic" 900
+	system Vega
+		fleet "Small Northern Merchants" 1000
+		fleet "Large Northern Merchants" 4000
+		fleet "Small Republic" 900
+		fleet "Large Republic" 1000
+	system Denebola
+		fleet "Small Northern Merchants" 1000
+		fleet "Large Northern Merchants" 3000
+		fleet "Small Republic" 700
+		fleet "Large Republic" 900
+	system Merak
+		fleet "Small Northern Merchants" 1500
+		fleet "Large Northern Merchants" 4000
+		fleet "Small Republic" 1100
+		fleet "Large Republic" 1300
+	planet Geminus
+		description "Until recently, Geminus was home to the Republic Navy Yard, the largest shipyard in human space. Now, there is nothing left of the shipyard but a gaping crater in the ground, from the recent terrorist bombing."
+		spaceport "Fortunately, the spaceport and residential areas survived the bombing, which was focused only on the Navy yard and happened early in the morning, when very few people were at work."
+		spaceport "The Navy officers who are in charge here have no time for anyone who is not enlisted in the Navy and participating in the ongoing investigation."
+		shipyard clear
+		outfitter clear
+		"required reputation" 100
+	planet Martini
+		description "Martini is a world of exotic beaches and perfect weather. The Republic's central bank and the galactic stock exchange were previously headquartered here, before a terrorist attack destroyed them and a large portion of the capital city as well."
+		"required reputation" 100
+		security .9
+	planet Bourne
+		description "Bourne is a well-developed industrial world that was first settled four centuries ago. Its cities are home to some of the richest individuals in this section of the galaxy, but also home to tens of thousands of homeless people, and many others whose factory jobs are barely providing enough to make ends meet."
+		description "Bourne is also the seat of government for the newly formed Coalition of Free Worlds."
+economy
+	system Food Clothing Metal Plastic Equipment Medical Industrial Electronics "Heavy Metals" "Luxury Goods"
+	"1 Axis" -786 9580 3567 -2073 2504 6597 -1649 -15704 7481 7431
+	"10 Pole" 4233 7469 -1625 -5607 4641 7638 -697 5324 -5795 1565
+	"11 Autumn Above" 1814 -411 7439 -2746 -7127 5081 -1797 2612 -1564 12204
+	"11 Spring Below" 1895 -4208 -6392 -3197 -1149 8325 -3502 -13334 267 8753
+	"12 Autumn Above" -5971 16770 12271 -10396 5643 -2595 -10341 -4038 -8308 8725
+	"14 Pole" -11167 -569 11164 -8315 6428 -4250 -2281 -6149 311 -6768
+	"14 Summer Above" 351 -978 4633 -4615 2736 -7114 6145 -5923 -15769 -1146
+	"14 Winter Below" 953 825 -692 1876 10084 1188 -5527 761 6019 -9690
+	"16 Autumn Rising" 2095 16393 -4163 -15426 -1595 1768 -12035 -7393 -13123 6399
+	"3 Axis" -1655 6554 -871 -11830 2808 9854 -13749 -6468 14563 -3810
+	"3 Pole" 557 -6344 2465 -11204 6713 -3282 -173 -5300 -16645 8354
+	"3 Spring Rising" 2335 -813 -5884 -5759 -2513 4115 -218 -9829 2341 1153
+	"4 Axis" 7237 12391 -1448 -2136 1445 3294 -245 3012 -686 -228
+	"4 Spring Rising" 1641 -1426 -8991 -13636 3312 12914 1280 -13030 12873 1951
+	"4 Summer Rising" -1771 -1573 -950 -3825 4776 -1834 7905 -7195 -9462 5312
+	"4 Winter Rising" -1378 9001 -534 -10355 -6308 9385 -8914 -13153 3458 -4333
+	"5 Axis" -11005 1831 267 744 5040 -2293 -1593 2564 5306 2669
+	"5 Spring Below" 1277 -2728 -1969 3223 5896 4213 -980 -10338 3790 3210
+	"5 Summer Above" -3470 2103 -9065 -4102 -4258 -3148 -8454 -7758 -1198 -4518
+	"5 Winter Above" -4981 1068 1233 680 1940 2352 -5304 -3150 320 -326
+	"7 Autumn Rising" 284 4364 -5523 7761 -2423 4009 -116 9145 1247 6399
+	"8 Winter Below" -9725 -679 8144 1221 3972 2104 -11488 -6106 1180 -8864
+	"9 Spring Above" -267 4418 -526 -4030 -6182 795 -326 -4392 3406 7562
+	Ablodab -2153 -7303 -1920 3912 -6829 9570 -3622 6124 6205 -10485
+	Ablub 8754 -482 -1869 -579 4441 -5044 2393 -11946 -3956 -905
+	Acamar 2119 -3377 870 7936 -5687 -6885 -399 -8210 10716 8096
+	Achernar 12886 -3535 -3345 6486 1622 -2931 9967 2530 275 1348
+	Acrux -928 -11112 -8591 -774 -1413 4675 -6601 4468 17019 -1705
+	Adhara 8762 -8717 -374 -6141 2162 5368 -5742 -6604 909 6169
+	Aescolanus 1443 -2521 2734 -2427 -2703 -6176 1989 -3794 4972 264
+	"Al Dhanab" 13695 4416 2533 1250 3085 7928 -5320 -2832 -2137 -6424
+	Albaldah -1368 1250 2074 -3714 5860 4670 16817 -3253 -16148 -1384
+	Albireo -9475 2191 7419 2630 11105 -4141 9987 -169 -6490 -1797
+	Alcyone 15550 8678 -7831 -356 3537 1329 6531 10897 -18815 -8009
+	Aldebaran -290 197 -1518 -4550 -1957 -7493 1331 -10464 10158 -4572
+	Alderamin -569 -1774 7356 1309 1160 3067 -2039 5999 4806 -5803
+	Aldhibain 5167 -2436 -620 1292 -1219 4126 2782 -8822 -5437 8770
+	Algenib 2175 -5396 -3606 4777 -5162 3624 -8300 -7098 1947 -6130
+	Algieba 17844 -4545 -2526 -4272 -4683 133 4719 5530 1787 -383
+	Algol 1372 -1013 -402 -7169 -5116 -6865 -6747 -2854 -4289 651
+	Algorel 2303 -205 -4385 -3308 297 7265 5419 -5572 -6315 782
+	Alheka 3312 5520 -4910 3433 -3708 -4332 4564 -2827 682 3351
+	Alhena 896 -2716 5331 1824 3335 17436 -468 -2112 -9278 -155
+	Alioth -5445 -693 -8483 -6086 2707 -1234 3633 390 -3387 495
+	Alkaid 315 -6289 1499 1090 -3548 4490 1368 8684 533 -6682
+	Almaaz 13425 2359 -8082 441 4808 2083 -3983 -1806 7866 -290
+	Almach 4488 -2420 7155 -1190 2489 4531 1049 5785 -6187 -4655
+	Alnair 7805 -697 -8795 5177 446 71 1804 -2607 6647 -8803
+	Alnasl -2328 7380 -7741 2473 1945 -2348 1144 -2246 -7698 -2121
+	Alnilam 6954 7513 -356 2375 1984 4966 -5486 -561 -1768 1199
+	Alnitak 7280 -860 3153 5020 1185 7082 621 4813 7334 11956
+	Alniyat 2982 -2646 7400 -9888 1305 11863 -10964 -1184 -3518 -674
+	"Alpha Arae" -4613 870 -4349 -5902 -9862 -7847 7505 9852 -386 4420
+	"Alpha Centauri" 1437 -2674 -4486 2082 -2384 1956 5035 4872 -872 4402
+	"Alpha Hydri" -714 3080 3021 -2543 2723 3431 -3569 -1145 4162 -8485
+	Alphard 3977 6303 1569 2395 2560 1662 4688 5051 -292 -4593
+	Alphecca -8719 3602 8073 2736 7685 -17238 -4309 3196 -667 15340
+	Alpheratz 2705 -1466 5951 -595 317 -1061 -301 -4124 -1807 -6104
+	Altair 2427 -6420 6953 3178 -5052 -1290 8909 325 -3248 -1825
+	Aludra 1617 11033 566 12031 5715 -6050 -1437 11980 4393 3536
+	"Ancient Hope" -7878 -2710 2775 -4831 -3302 -11507 -10214 -6125 4317 -3541
+	Ankaa -2181 -1729 1263 -9097 -7612 -1730 4366 -383 2559 -109
+	Answer 598 -349 -3105 1857 -2000 966 3674 -2603 2568 10004
+	Antares 5034 -2185 -4472 -3060 -5801 7805 -3992 -4523 -3249 -7647
+	Antevorta -265 18335 12605 -22091 6978 19137 -3713 -3268 -21120 15387
+	Ap'arak 5367 1715 9978 11790 -7909 -1132 4004 -373 -5108 -1690
+	Arcturus 1792 1353 3882 -936 -2198 -8306 1561 -1825 -987 3933
+	Arculus 1124 -2165 -10715 5406 1196 2978 13423 7825 -5614 -3974
+	Arneb 4710 7211 1770 2672 -957 3209 -4381 6145 -5325 3886
+	Ascella -2664 -4669 2543 -11119 -2481 1086 18989 -4866 7926 5762
+	Asikafarnut 8074 21589 -27966 3457 12936 4440 -6689 25524 -8701 617
+	Aspidiske -3573 2922 2747 968 4322 16776 2285 7496 5883 -877
+	Atria 787 971 -2773 -3558 5368 -5046 -6381 3070 -2523 3368
+	Avior -1189 15324 -6023 2735 -2477 3874 1544 11290 10206 11170
+	Aya'k'k -4895 -4016 3348 -2027 3784 -6941 -3578 -9171 -1715 1054
+	Beginning 13154 -709 -19635 -7509 -883 -4492 -3838 -1815 8081 6976
+	Bellatrix 2499 -7680 4984 -1844 1805 -2248 7525 -5157 -4382 533
+	Belonging -7433 3359 -5732 -2257 -2548 -4430 -8507 -9379 1233 6373
+	Belug 573 2611 -1552 2416 3387 -4519 -3756 3886 -13847 -9456
+	Belugt -5988 -1170 -2779 -106 -1781 12841 -6095 5583 2080 1128
+	"Beta Lupi" 10142 8438 3938 -1376 7804 7848 -1152 2237 -6430 3324
+	Betelgeuse 11935 4228 -6126 4765 -8886 5538 9549 1552 6949 2726
+	Bloptab -1425 -1133 -4263 7613 372 -4707 -2889 1011 3018 -3011
+	Blubipad 10744 -4527 -7270 2857 8822 -611 -152 -5800 2702 -1136
+	Blugtad 41 -4601 -3968 8351 1512 1332 459 4634 4828 -9532
+	Boral -2034 1166 5926 738 8494 -11727 -811 741 -8530 12923
+	"Bore Fah" -10181 -6435 -2050 -2675 1939 -1666 6141 1212 -6224 -340
+	"Bote Asu" -11710 5293 -5445 -2197 966 -81 9155 -4146 -2586 -9036
+	"Bright Void" 625 2198 -18997 1925 -13183 -14477 158 3192 -7428 5954
+	"Broken Bowl" -615 144 -5627 -2212 -1092 -2242 -24 787 -6142 -5087
+	Caeculus 7450 -4340 -6775 -3310 -4075 661 17012 -4882 -6490 15726
+	Canopus 11664 4878 -10128 7066 5440 15358 117 -8837 387 -12565
+	Capella -1058 -693 504 -5198 -1274 -9071 -5099 -3020 3617 6531
+	Caph -6363 -3425 3359 -4067 -13415 2615 1040 -1744 8866 4620
+	Cardax -8184 -7464 1819 7474 -3257 -1480 -2816 -2346 -3952 -7097
+	Cardea 3812 14088 11456 -7183 5571 6475 -6204 -10523 -9812 5281
+	Castor 2555 -3266 1831 -1468 -136 2914 -3558 -304 -5292 74
+	Cebalrai 6196 2510 -1393 -5278 3396 -6090 13317 -7770 6564 5340
+	Celeborim 1179 11903 -2726 6571 5351 -466 -4548 8909 -6554 12226
+	Chikatip 1391 -6889 -6173 4579 2531 2065 -6151 1822 205 6419
+	Chimitarp 550 -5956 12686 -5183 -11811 1416 5787 5359 -6085 -3374
+	Chirr'ay'akai 11711 1409 2924 3566 892 3936 -226 -2776 -1468 2489
+	Chornifath 8737 -5264 4611 1852 -701 -364 -8736 -9292 1426 -7255
+	Chy'chra -354 -6712 7902 2845 -4402 1287 2822 353 3855 3354
+	Cinxia -7324 -15515 -146 2575 -1266 14967 11262 11073 -2372 -1847
+	Coluber -10453 -5089 -15101 1694 -10850 -22696 13373 8960 -6655 25914
+	Companion -8494 -8009 -1522 3302 -7901 -3336 -7215 -5483 3831 1984
+	Convector 8481 4249 1256 366 4476 5232 -493 3725 -3863 9433
+	"Cor Caroli" 9471 -10706 -5682 -2606 -3640 1361 9740 -5234 -6003 454
+	"Da Ent" -2739 2233 -4804 -5096 6003 9088 3889 -9278 -3134 -3193
+	"Da Lest" -3656 -2791 1183 -3578 -2344 -1672 -959 -12482 1033 3874
+	Dabih -6093 4215 -5189 -1457 -4573 7208 84 154 -7005 -3289
+	Danoa 4697 300 6906 -361 -3560 10673 -678 -2807 7309 -1847
+	"Dark Hills" 8030 3091 -13627 8161 3284 -19722 2353 887 3936 -3579
+	Debrugt 1215 8372 -7044 -1864 1719 14341 5138 7818 -10416 -4243
+	"Delta Capricorni" -2127 678 2390 3588 -4362 -1729 -3578 4064 53 -5591
+	"Delta Sagittarii" -6476 8047 -2575 -1442 -2693 -4679 -2139 2691 1850 4386
+	"Delta Velorum" -4162 -10838 741 -10255 6227 4084 9591 5344 1616 8957
+	Deneb 3918 2155 2607 7688 5498 -7886 -953 3710 -4265 -3640
+	Denebola -1191 -10378 806 -11959 -8050 -2428 1911 7619 -8573 8088
+	Diphda 3321 -3113 -4695 -298 -9359 469 -2574 -3408 8955 -242
+	Dokdobaru 23151 -5610 7606 -635 6129 4488 -18277 -6295 -5993 -9812
+	Dschubba -2122 -2176 2413 -11949 8135 1327 1656 -3353 -7322 8123
+	Dubhe 6338 -3642 -8583 1466 -1849 -1352 379 1143 6399 -2194
+	"Due Yoot" -937 8122 -10827 -6527 7820 4330 -6761 -10048 11065 -6186
+	Durax 9382 5188 -21 1067 4492 -6982 8112 4227 -9062 6334
+	Eber -3775 -7675 757 2069 -5401 -11739 4449 2786 -1178 -4645
+	Eblumab 7092 -3000 2913 3008 -5801 -3330 -258 -3416 -1671 4026
+	Edusa 5043 2253 -6774 4203 372 -2809 8162 4971 -4991 -3650
+	"Ehma Ti" -806 -3387 1112 -7956 13161 1270 5528 -19 -4715 5678
+	Ek'kek'ru 11554 -11850 1566 1982 -9422 -5832 -8864 1391 5098 3593
+	Ekuarik -3382 4907 -10349 3555 3972 7452 22 -1592 -8925 -18209
+	Elnath -11459 3996 -6120 -3950 -3149 -6168 -8759 -6247 -5999 -2357
+	Eltanin -3930 -95 741 1022 -2385 6446 2982 -504 -3009 4701
+	Eneremprukt -4231 -5868 1281 -5980 4554 8886 8869 13238 -10706 -11704
+	Enif -12577 -5318 -2072 -5747 -735 5575 -14281 2029 3575 783
+	"Epsilon Leonis" 12410 -5010 -177 -9654 -402 5662 -5480 1837 5601 3185
+	Es'sprak'ai 7027 -4201 4187 2597 -1504 6145 2328 6466 11297 -1204
+	Eshkoshtar -3967 4842 6502 1360 -3870 1181 -7830 2339 -280 3434
+	Eteron 3698 -6980 -3119 -4755 -803 524 4909 4865 1130 4024
+	"Fah Root" -10238 4118 875 9724 1567 12802 1707 -6832 1409 3187
+	"Fah Soom" -298 8818 -3557 -10139 -2570 9438 -9944 3333 8853 -11179
+	Fala -2785 -11358 2011 -3901 -6205 7224 12869 -4625 7215 4344
+	"Fallen Leaf" 2220 1977 -9619 -327 -2494 -8857 3854 -512 1404 2935
+	"Far Horizon" -7415 -2002 180 -4086 -11980 -17594 -18871 -4645 7126 -1553
+	Farbutero -120 -1521 -6153 2130 1695 -8913 3349 -783 -3781 -4919
+	Farinus -5297 -10752 2525 -3469 6894 12996 -2511 6672 4880 3702
+	Faronektu 6367 1941 3925 860 -1145 148 -6226 16852 -6426 -782
+	Fasitopfar -8817 3075 6510 -5886 -9466 -3543 6001 3113 -3030 3677
+	"Fell Omen" -569 -4784 -1017 628 3164 -21349 -3572 -5953 -956 6821
+	Feroteri -1387 450 -2262 424 -1540 -13825 -4800 5445 -6211 4683
+	Ferukistek -4022 -5291 -3267 2339 -49 7942 5711 8936 -1585 -15064
+	Fingol 173 -3610 -620 -6853 -5009 -7925 -1657 -617 1499 1197
+	Flugbu 418 3772 -1060 -6986 3879 2075 1964 8178 5415 -6412
+	Fomalhaut -7212 -4078 5056 7243 -1270 1427 5714 -2267 532 9283
+	Fornarep -2671 -1972 9098 -4886 -3542 1925 -873 -144 229 966
+	"Four Pillars" 569 2707 3179 1283 -8747 -1414 -10886 -12096 13403 -4546
+	Furmeliki 4800 -8290 2559 -7804 -1958 8818 -6630 4466 -596 7461
+	Gacrux 6749 -5317 -1055 -2589 -11543 -620 9738 -3526 8421 2082
+	"Gamma Cassiopeiae" 3325 -2529 5022 -2203 3079 -8741 -1606 2820 3614 -149
+	"Gamma Corvi" 2371 -6806 -11724 -2349 4507 -3554 -6258 -5896 6547 -8280
+	Gienah 14435 -6892 -4703 -4250 -2629 4744 -10954 -15786 560 -20038
+	Girtab -7827 369 -3130 -4898 -2189 1426 9613 -6544 -3080 913
+	Glubatub 10894 -4330 -6753 -7972 2353 2906 2226 1070 -3266 -10348
+	Gomeisa 8365 -2068 2041 -5012 -3795 6275 -9146 299 7014 5426
+	"Good Omen" 5136 -1441 -8748 -5495 -679 1135 -4403 746 6010 -7429
+	Gorvi 7018 2045 6544 7582 -1983 1661 -2131 1549 1427 4834
+	Graffias -349 3343 6976 103 -5072 4317 -3770 -1073 -10006 2938
+	Gupta -1622 -14086 -6375 -7515 195 5022 6511 16545 3633 -10655
+	Hadar -1543 -9941 -8193 -1062 2510 9806 -8123 9908 3604 -3036
+	Hamal 2282 2521 2512 1885 2473 -4299 -2447 968 3010 -734
+	Han 6396 1266 -7456 -277 6110 353 -4021 5665 2738 6696
+	Hassaleh 5044 8008 10025 -3968 -15909 3088 1954 -4073 7101 -1363
+	Hatysa 7453 7516 33 -2525 5142 6305 -10105 -3640 4285 6122
+	"Heia Due" 1316 10802 -6980 2525 3511 4695 -105 -808 -1437 3222
+	Hesselpost 10670 2782 957 4049 10078 -3635 -5737 -1474 1164 -3642
+	"Hevru Hai" -2582 3550 -8507 -8427 10051 2357 -1254 -2451 692 -6345
+	"Hi Yahr" 1967 -511 2858 -9772 2982 5383 8437 6978 3752 -1325
+	Hintar 2845 2131 -4850 -1213 2579 -4364 3422 -4506 -4534 929
+	Holeb -8358 -687 8397 -4208 9847 -6084 3244 2920 3557 6401
+	Homeward 5677 -2791 2079 8158 -3101 -4292 -3753 5757 -10600 -1249
+	Host -877 -7509 -2144 -1374 -2304 -1580 -5366 -5478 6961 -3345
+	Hunter -4590 4398 -2634 2905 -4918 -11620 -4633 3313 -2867 -1954
+	Ik'kara'ka -8134 4303 -287 2646 -2068 -3167 12231 -6445 2289 -4609
+	Ildaria -570 4646 3810 3694 448 6879 -1098 -2262 3361 -5582
+	"Imo Dep" 3002 8582 2653 -4924 3611 2256 3844 3608 -2209 3147
+	Insitor -383 5950 3933 728 2340 2710 -3521 239 -8196 7132
+	"Io Lowe" -3897 14486 -7586 -214 -578 3061 9175 -897 -2390 1610
+	"Io Mann" -3399 3472 -5583 2258 -4006 1132 -536 -301 5521 -11044
+	Ipsing -2365 -3352 1028 2897 4299 272 3859 -4901 -7163 5864
+	Iyech'yek 373 -8347 -894 2687 -3359 2567 -12035 6247 -9818 6750
+	Izar 2935 -3817 -6907 421 -2310 9462 -8800 4923 12549 3231
+	Ka'ch'chrai -996 -1781 547 6639 -14162 -2651 -3239 1741 3823 14759
+	Ka'pru -3918 4717 -1304 2175 8872 6939 7996 -5295 -2084 -1541
+	Kaliptari -1884 1215 -12459 2861 1528 6290 8163 -6747 3118 3852
+	"Kappa Centauri" -221 -263 -4127 1719 5141 1255 2023 2474 -3451 -260
+	Kashikt -7317 -4195 1552 -133 4899 6715 7036 -712 -2386 1934
+	Kasikfar 134 368 -8385 2820 -2061 -4544 -2616 -1479 -1347 1230
+	"Kaus Australis" -8234 1903 -3112 -2779 -1644 -3391 3045 -1893 -819 -10244
+	"Kaus Borealis" 5345 8413 3948 5858 6554 -2614 -11072 479 8593 -259
+	"Ki War Ek" -5006 5788 -3155 3624 4912 6754 -3394 4063 -1403 -9375
+	Kiro'ku -1425 9936 5977 1728 10706 8543 4849 1965 -14364 3109
+	Kiru'kichi -6015 -16105 -5777 3267 503 -427 -10969 10426 -5064 4092
+	Kochab 69 655 -1425 -669 2605 3675 -505 4787 5572 -13395
+	"Kor Ak'Mari" -964 5671 -6486 -5127 4481 -3323 1690 5432 2735 -299
+	"Kor En'lakfar" -8080 7116 -2244 12592 -8268 -3310 -692 14248 -1898 5293
+	"Kor Fel'tar" -4796 6322 -346 9973 -7478 3093 3288 7387 -1453 2849
+	"Kor Men" -6351 11411 -2620 3897 -4014 5440 -701 5304 -1313 -421
+	"Kor Nor'peli" 5431 3069 1322 -10541 -547 -5731 1459 -4359 1345 -431
+	"Kor Tar'bei" 1613 11040 -9362 -19988 -11917 -11159 6534 2017 6384 921
+	"Kor Zena'i" -4064 6271 6471 -15479 -4488 -2846 -1163 10309 3772 -1681
+	Kornephoros 1021 7161 -7659 -4967 2948 -2630 1699 1025 1952 5834
+	Korsmanath -725 -4783 547 -1894 -868 -3534 -5790 -3291 546 -2250
+	Kraz -1332 -12043 -5426 -6518 -2219 2792 -5042 7398 -2125 -12354
+	Kugel 430 -5826 1171 621 329 2740 3427 -2466 6487 5605
+	Kursa -1275 -4457 -4314 276 -1930 -741 -1277 -3543 -4654 -1154
+	"Last Word" 3729 -1976 -4807 9570 -2481 -18996 -1846 -2693 -3586 4452
+	Lesath -5235 15363 -3645 -12559 10342 1407 -1486 -5120 -6967 9935
+	Levana -5408 -9704 -5985 -515 -4922 -9516 4519 6570 -3515 4255
+	Limen 18631 -2798 -176 -8943 13820 -12918 2998 -15204 -11196 7016
+	Lolami -1037 6499 -4390 -2761 -4299 -921 1578 3849 -2945 -4009
+	"Lom Tahr" 1436 -1826 -11840 -7044 -1682 5327 220 -13756 6662 1135
+	"Lone Cloud" -763 -1785 140 4368 3457 -5428 -7442 -4534 12236 -44
+	Lucina -3712 -1652 -6774 -584 -6730 -19705 6363 -3917 -6096 21475
+	Lurata -7120 6564 2868 3978 1528 -493 9955 -7131 -5390 -5127
+	Makferuti -807 3378 -2824 5354 -4990 8153 1477 12713 -480 -3083
+	Markab -4176 1253 1563 -6538 -1526 2575 451 -1393 -2299 2588
+	Markeb 3106 5266 -4249 163 7845 569 -4014 2601 5576 4381
+	Matar 1959 -4518 -5572 -6300 -4567 -9973 804 -1027 11313 -6004
+	Mebla -10338 652 -7123 -4257 -1012 15753 -169 7867 93 -5146
+	Mebsuta 9389 -5103 -2782 1630 -3390 2754 -1839 -1411 -5659 1234
+	Meftarkata 5603 -2033 6642 -1023 6131 158 163 -2056 -8828 1189
+	"Mei Yohn" 327 4491 -1274 -2250 4441 4698 12026 -958 -3168 -5017
+	Mekislepti 1791 -3931 -2649 -2877 -6545 7868 2053 -3 -1982 -5745
+	Membulem -12694 -4553 -8810 20 -1119 2117 -631 11112 4702 -1561
+	Men -2936 1411 8060 2310 5330 1796 -2001 229 -1354 1937
+	Menkalinan -1842 -4392 -5630 -1908 -5742 10604 -374 2619 -7200 -4721
+	Menkar -1439 185 7996 4347 -314 1707 -2426 6490 -4944 4882
+	Menkent 991 -451 8334 -11323 5164 -7320 -7110 1747 9334 -891
+	Merak 4274 -9987 -3208 -6980 3744 -4854 17225 1111 663 -1156
+	Mesuket -2891 -943 1014 3528 2132 3432 8430 8776 -8146 -12133
+	Miaplacidus 5159 1546 9612 -251 1963 6935 11578 6009 -10046 827
+	Miblulub 10077 -4792 -6850 -5264 4681 -3078 -3551 -259 -3364 -7503
+	Mimosa -4000 -14889 -3071 -5759 -1527 9245 -619 1879 -6983 -4603
+	Minkar 2366 -19229 -11934 -5993 2287 2076 -2117 -1447 10595 -6049
+	Mintaka 4567 9527 1625 7132 5274 13126 2055 424 12458 4353
+	Mirach 18720 70 7636 763 5724 -10561 -4447 529 7331 -5637
+	Mirfak 1878 2186 5558 2073 -14414 2160 -4643 4888 -5210 -6493
+	Mirzam 14504 -3067 -1556 3192 -3911 4507 -237 -3997 -9216 -730
+	Mizar 8854 -6166 -1766 7145 5889 3505 7368 -7158 -5829 9239
+	Moktar 3025 3738 -861 7177 -3688 -1045 -3909 2465 -5364 1331
+	Mora 6770 -3830 4410 -4260 9262 -368 7782 187 -2775 936
+	Muhlifain -6245 4072 -8537 -2892 2000 -7340 6151 -7234 1976 6002
+	Muphrid -3968 -2010 -8389 -1238 4425 -6791 4485 4697 6517 3346
+	Naos 9313 21796 1888 7123 190 -1829 -13100 25334 11099 18646
+	Naper -919 -7791 -10043 -4118 -142 4438 7117 -11492 1717 344
+	Nenia -1456 9264 15751 -21202 -1532 2197 -425 -9514 -11838 4357
+	Nihal -5489 -966 5049 792 6328 -3734 -11469 -10633 1020 -2033
+	Nocte 9736 -9026 -4855 -6617 -7869 -2262 -2647 -6394 -3183 2087
+	Nunki -1884 -2023 942 906 -2817 1239 10195 -3864 -10401 -2204
+	Oblate 10955 878 -316 3113 -3512 -4916 -1063 4069 -5926 5035
+	Orbona 2408 -2160 -4897 -8293 9101 -3895 3369 -7437 -2396 1935
+	Orvala -3008 3814 152 -9332 -1275 2265 6180 -1420 -2987 -4003
+	Ossipago 4981 15439 2959 -14569 1434 7745 -1952 -9652 -7744 1011
+	"Over the Rainbow" 0 0 0 0 0 0 0 0 0 0
+	Pantica -8440 -11261 -613 4895 -380 8131 2170 689 13392 5394
+	Parca -5761 -5968 -1927 7402 -3568 -11285 15427 -882 -6362 26601
+	Peacock -6970 -3376 386 -7233 -7412 697 4054 3315 7577 2539
+	Pelubta -3362 -13159 -7515 44 -5142 11657 -4291 8027 5229 -7500
+	Peragenor -2970 -3842 -11473 -255 7101 -715 6251 -5114 -3470 3696
+	Peresedersi 7706 665 -13806 6414 3482 -5337 -1086 -2311 -4673 1923
+	Perfica 2016 -10654 2743 -2929 9093 5100 -1472 3975 6537 -801
+	Persian -2050 1593 -2943 -11569 -7210 -7384 -5144 -7231 6780 -10541
+	Persitar 1932 -681 3351 -9410 -3838 -2769 2188 1316 616 5166
+	Phact 10964 -2477 -5786 -4222 8099 501 3010 523 -5379 -2575
+	Phecda 10190 -627 2224 1074 6350 -262 3983 3154 1464 3598
+	Pherkad -80 -7393 -1228 3760 1651 -2304 3076 3367 -3316 -1887
+	Phurad 13803 3413 1901 1908 -324 8352 2578 -3365 -7903 -14280
+	Pik'ro'iyak 3588 -6302 6410 -2228 2267 -1129 7561 -11867 9591 20012
+	Plort 9196 1806 -3015 -1739 -3701 6434 557 -3580 3574 6030
+	Polaris -2221 1799 -8623 2222 1275 786 8052 -3233 564 6888
+	Pollux 1891 -2652 539 -3183 2937 3218 1583 -841 -3732 -5445
+	Porrima -147 -6014 1441 -2599 8533 -13934 4374 3194 3145 -3170
+	Prakacha'a -82 4059 5062 7352 -6484 -983 6188 -6756 5453 -4964
+	Procyon 3349 -3072 -6053 -1499 -2304 -2594 1698 -5726 1400 6638
+	"Pug Iyik" -1392 1811 7901 -9048 -984 6119 1379 3824 2944 7587
+	Quaru -3654 5973 -4529 5700 8700 543 -5800 7129 -11244 -6711
+	Rajak -2243 6742 2062 7045 -8186 7523 2154 -3454 10342 -2132
+	Rasalhague 6221 -2639 3428 3184 2037 6076 17623 964 611 4152
+	Rastaban 163 9407 -8894 -6647 -11126 -894 8975 -1800 -2321 2347
+	"Rati Cal" 3125 -1196 2904 -4493 1625 126 -1142 -663 8342 -2960
+	Regor -11806 1003 -2972 -2462 -6217 4506 9663 5839 12854 1044
+	Regulus 3846 -3658 4532 -7438 1100 178 4891 3283 5983 -2365
+	Remembrance 4602 -2972 -3210 1693 12312 -3279 5996 -456 -1849 3442
+	Rigel 6297 1424 -793 8131 -15442 184 2665 5332 -1786 11600
+	Ruchbah 1144 619 -6263 -9437 -7356 -9530 -6743 3398 15198 -10402
+	Rutilicus 1286 8637 431 -7614 7181 -9232 901 -39 -944 6484
+	Sabik -1211 10503 152 -6938 12817 117 2921 11925 -1028 7829
+	Sabriset -3526 -3613 -10382 -4674 -10734 -4448 1971 283 212 -5169
+	Sadalmelik -32 5708 -2181 -11601 2421 532 -8456 3386 2054 2661
+	Sadalsuud 1759 -3010 -11089 -4406 2076 2693 -4191 -3014 -3885 542
+	Sadr -6473 -8027 62 -47 9004 -3624 -4461 4433 -11415 -897
+	"Sagittarius A*" 0 0 0 0 0 0 0 0 0 0
+	Saiph 3719 1614 956 7950 2605 1132 -11070 2857 1545 10593
+	Salipastart -1798 -8808 16486 -14969 -3124 1102 4386 5280 -5122 -7170
+	Sargas -428 3938 -779 -2357 3882 2171 -681 4784 -2159 4301
+	Sarin 3001 -10733 -7206 -7411 1738 -122 1519 112 6977 -4412
+	Sayaiban -3306 -5363 -837 2209 3244 -3531 2301 10233 -252 -426
+	Scheat 5923 2272 -1501 3556 -1490 -3009 1834 7088 9743 -4975
+	Schedar 8803 -5270 8301 -1688 5410 5871 6831 10645 -8428 -8203
+	Segesta 3037 2164 -7437 -2252 5037 3874 17960 -6269 2172 -2155
+	Seginus -2487 14753 -6157 2104 4913 -10075 -9113 -1057 -5476 4607
+	Seketra -156 -4253 2318 -3214 -4971 1712 6607 -4034 -6684 13428
+	Sepetrosk 146 6385 9744 4427 -1362 -1169 2469 -4419 -7963 2606
+	Sepriaptu -4934 -5394 -11410 3238 -7894 5636 1737 2074 5714 1466
+	Sevrelect -8763 2785 9143 -9919 -281 4369 10832 -6036 -369 239
+	Shaula 2125 5586 -3647 -4110 6298 -1574 -4366 -3435 1265 7972
+	Sheratan 1808 3679 4271 -7896 -3441 -461 -2885 2833 1364 4031
+	Si'yak'ku -1755 -6794 285 -2657 -5273 -1837 645 6511 436 4798
+	Sich'ka'ara 5036 1610 9691 9161 -3826 555 2637 -984 -7861 4764
+	Silikatakfar -3878 6203 -11879 7888 7064 13560 289 19375 -6123 -11874
+	"Silver Bell" 1997 -56 -8926 -5438 -11755 -6337 -10290 1057 -1229 7865
+	"Silver String" 388 -5284 4966 -13398 -4362 -1234 -1772 -926 7263 28
+	Similisti 3249 -2717 10944 -1366 -12426 7226 -959 13548 -3626 -11177
+	Sirius 2839 -1901 -3400 -3738 -4742 4286 9919 3301 2186 7189
+	Skeruto -731 -3654 -1978 -5583 -10588 9542 12135 -7026 -1122 3600
+	Sko'karak -1297 574 396 4867 -7645 -4717 -5452 -2971 -2618 3074
+	Sobarati -2843 5750 -13395 -4342 4393 -7581 1601 -329 853 1391
+	Sol 6372 -17042 3932 -12037 -10288 358 586 15637 1225 12249
+	"Sol Arach" 14745 -6116 -13468 -5390 -2854 8507 -1307 6523 4152 14
+	"Sol Kimek" 296 -3476 2896 -4954 -8964 -1807 -4591 -7973 -1354 2790
+	"Sol Saryd" -5608 -4034 7242 2467 -3949 -1299 -23353 -20800 4156 4682
+	Solifar -4529 260 -6424 -4838 -951 9700 -3555 -4013 7322 1211
+	Sospi -969 -3952 515 -1446 3027 -5546 -10978 2895 138 -1852
+	Speloog -6268 5911 1470 4384 3150 1495 436 6316 567 -8240
+	Spica 5061 -18191 -8114 -8023 10066 4474 -1510 -9453 12435 -9331
+	"Steep Roof" -842 5163 -3220 1919 -7753 -3898 -4470 83 1471 4112
+	Stercutus 943 -10447 -26963 -9995 8413 -2197 30578 -9296 -9986 7186
+	Suhail -3448 1461 -2064 -903 -6210 457 7352 1614 14597 -5905
+	Sumar 3974 7580 11758 2772 -11243 -4165 5524 -3382 2574 -13676
+	Sumprast -3497 1075 8161 -4038 -1250 1757 12856 -888 -1659 4895
+	Tais 2431 2885 -2561 -11911 -5974 -4371 4444 2176 -387 -3229
+	Talita 4994 9443 5545 -2278 4616 8936 9455 -707 -4325 -4775
+	"Tania Australis" 6619 1344 6103 -8424 -5760 -5109 10095 6172 -1519 -62
+	Tarazed -16853 1645 -3906 894 1979 9618 -6386 -5632 -1594 3699
+	Tebuteb 10155 -586 258 -8037 9169 -6135 -767 1939 -7132 1131
+	Tejat 11194 -1909 6607 -5883 1568 2352 6600 3946 -5047 -3291
+	Terminus 5280 -6812 -4449 -11889 4299 -10425 -1561 -4866 -3626 -2029
+	"Terra Incognita" 0 0 0 0 0 0 0 0 0 0
+	Torbab -2340 3144 -5972 -882 -1278 10137 -5102 14744 -5106 1438
+	Tortor -4062 2144 1611 -5798 2051 2340 -2089 -4204 -2130 -156
+	Turais -1066 -13035 -4720 -1393 -2650 -7355 7651 -3904 4547 2989
+	"Ula Mon" -4804 4409 -12940 -7198 6630 -721 11632 -6852 4653 -3828
+	"Ultima Thule" -1498 -551 820 1067 1408 2352 -2201 -5459 862 2395
+	Umbral 1768 5837 5658 -3852 2161 11311 -3043 -2470 -1214 1742
+	Unagi 8709 1265 -7530 -6964 -1384 -2739 2200 1932 9419 5108
+	Unukalhai -4296 1324 -4544 -9317 2161 5690 -565 5951 1861 6851
+	"Uwa Fahn" -10310 -826 -4693 5252 1980 7612 7167 -2652 3650 -6439
+	Vega 2047 -5373 -783 -2129 -6430 -4433 -1842 10739 -4566 7841
+	Vindemiatrix 9210 -10314 -14441 -11416 529 -8544 238 -11072 1843 -2196
+	Volax -2486 -7196 6259 1053 2232 -202 -6979 -3983 -8747 -8552
+	"Wah Ki" -5109 -1294 1555 -9046 3149 2007 14059 5949 4424 3606
+	"Wah Oh" -4011 18782 -5556 -1827 -8246 4188 -9284 930 -2618 -2131
+	"Wah Yoot" 409 -8879 5514 -19108 16996 13201 14180 13293 -1886 -3814
+	Waypoint 2759 5565 1063 -4425 4355 11765 1272 -2806 -7433 4693
+	Wazn 8165 -7276 4805 -2662 5863 19200 -233 -7360 -4973 -8051
+	Wei -5606 15218 -3250 -7858 4984 -16487 -3153 5943 -7546 4637
+	Wezen 575 8024 632 2413 4656 -3530 -4902 8937 -402 -6980
+	"World's End" 0 0 0 0 0 0 0 0 0 0
+	"Ya Hai" 30 9558 -19449 -4982 7824 10045 10695 -8058 -2846 -13893
+	"Yed Prior" -2950 205 2616 3357 2485 1836 -2335 -5019 457 4765
+	Zaurak 4426 856 7813 1564 6137 1014 953 -2999 468 -2533
+	"Zeta Aquilae" -598 1714 -2663 2626 -129 -2149 12652 -4304 8137 -307
+	"Zeta Centauri" -3344 233 -9207 3049 902 1349 -6519 2711 5936 5635
+	Zosma 13898 2065 -3503 -1951 3340 829 -960 9456 9302 -1554
+	"Zuba Zub" -3239 6221 -6254 502 10565 -3224 3596 -3260 -319 6704
+	Zubenelgenubi 6677 522 -2170 -281 4790 6591 -1080 12963 -4920 6264
+	Zubeneschamali 5063 6189 3091 -6071 -4145 6990 -2261 801 -5081 4290
+
+# What you know:
+visited "Kaus Borealis"
+visited Cebalrai
+visited Castor
+visited Betelgeuse
+visited Vega
+visited Denebola
+visited Menkent
+visited Sol
+visited Pollux
+visited Rastaban
+visited Pherkad
+visited "Delta Capricorni"
+visited Rasalhague
+visited Alderamin
+visited Markab
+visited Alpheratz
+visited "Zeta Aquilae"
+visited Umbral
+visited Tarazed
+visited Gienah
+visited Alnair
+visited Mintaka
+visited "Gamma Corvi"
+visited Wei
+visited Hintar
+visited Ruchbah
+visited Ankaa
+visited Scheat
+visited Sheratan
+visited Ascella
+visited Achernar
+visited Altair
+visited Algenib
+visited Ildaria
+visited Miaplacidus
+visited Aspidiske
+visited Gomeisa
+visited Dabih
+visited Terminus
+visited Zubenelgenubi
+visited Kornephoros
+visited Rutilicus
+visited Kraz
+visited Sabik
+visited Men
+visited Antares
+visited Shaula
+visited Nunki
+visited "Yed Prior"
+visited "Beta Lupi"
+visited "Kappa Centauri"
+visited Alniyat
+visited Dschubba
+visited Han
+visited Atria
+visited "Delta Sagittarii"
+visited Albaldah
+visited Girtab
+visited Alphecca
+visited Seginus
+visited Alioth
+visited Sarin
+visited Graffias
+visited Orvala
+visited Kochab
+visited Acamar
+visited Diphda
+visited Aldebaran
+visited Elnath
+visited Kugel
+visited "Al Dhanab"
+visited Schedar
+visited Polaris
+visited Acrux
+visited Minkar
+visited "Zeta Centauri"
+visited Izar
+visited Adhara
+visited "Epsilon Leonis"
+visited Mirach
+visited Albireo
+visited Eltanin
+visited Sadr
+visited Lurata
+visited Alcyone
+visited Zaurak
+visited Oblate
+visited Durax
+visited Capella
+visited Kursa
+visited Aldhibain
+visited Algieba
+visited "Tania Australis"
+visited Alphard
+visited Zosma
+visited Algol
+visited Algorel
+visited "Cor Caroli"
+visited Turais
+visited Mizar
+visited Phecda
+visited Alheka
+visited Canopus
+visited Alhena
+visited Menkalinan
+visited Wazn
+visited Vindemiatrix
+visited Holeb
+visited Alkaid
+visited Hadar
+visited Almaaz
+visited Hatysa
+visited Unagi
+visited Almach
+visited Persian
+visited Alnasl
+visited Eber
+visited Alnilam
+visited Alnitak
+visited Rigel
+visited Saiph
+visited "Alpha Arae"
+visited "Alpha Centauri"
+visited "Alpha Hydri"
+visited Talita
+visited Boral
+visited Fomalhaut
+visited Aludra
+visited Naos
+visited Arcturus
+visited Arneb
+visited Peacock
+visited Tais
+visited Naper
+visited Avior
+visited Regor
+visited Lesath
+visited Markeb
+visited Bellatrix
+visited Menkar
+visited Mirfak
+visited Mirzam
+visited "Bore Fah"
+visited "Wah Ki"
+visited "Bote Asu"
+visited "Ula Mon"
+visited "Ya Hai"
+visited Phurad
+visited Phact
+visited Procyon
+visited Caph
+visited Eteron
+visited Cardax
+visited Moktar
+visited Volax
+visited Sumar
+visited Gacrux
+visited "Da Ent"
+visited "Da Lest"
+visited "Lom Tahr"
+visited "Kaus Australis"
+visited Danoa
+visited Hassaleh
+visited "Delta Velorum"
+visited Fala
+visited Mora
+visited Merak
+visited Fingol
+visited Dubhe
+visited "Due Yoot"
+visited "Wah Oh"
+visited "Io Mann"
+visited "Heia Due"
+visited "Rati Cal"
+visited "Ehma Ti"
+visited "Wah Yoot"
+visited Nihal
+visited Enif
+visited Sadalmelik
+visited Sadalsuud
+visited Sirius
+visited Muhlifain
+visited "Gamma Cassiopeiae"
+visited Spica
+visited Gorvi
+visited Tortor
+visited Zubeneschamali
+visited Hamal
+visited Rajak
+visited Waypoint
+visited "Io Lowe"
+visited "Hi Yahr"
+visited "Imo Dep"
+visited "Zuba Zub"
+visited "Mei Yohn"
+visited Ipsing
+visited "Kor Zena'i"
+visited Sargas
+visited Mimosa
+visited Limen
+visited Orbona
+visited Lolami
+visited Matar
+visited Mebsuta
+visited Muphrid
+visited Porrima
+visited Regulus
+visited Tejat
+visited Wezen
+visited Sospi
+visited Nocte
+visited "Ultima Thule"
+visited Suhail
+visited Unukalhai
+visited "Uwa Fahn"
+"visited planet" Solace
+"visited planet" Rand
+"visited planet" Shangri-La
+"visited planet" "New Boston"
+"visited planet" Wayfarer
+"visited planet" "New Tibet"
+"visited planet" Valhalla
+"visited planet" Dancer
+"visited planet" Farpoint
+"visited planet" Hope
+"visited planet" Prime
+"visited planet" Allhome
+"visited planet" Deep
+"visited planet" Harmony
+"visited planet" Trinket
+"visited planet" Albatross
+"visited planet" "New India"
+"visited planet" Glaze
+"visited planet" Haven
+"visited planet" Sundrinker
+"visited planet" Sunracer
+"visited planet" "Wormhole Alpha"
+"visited planet" Cloudfire
+"visited planet" Hai-home
+"visited planet" Mirrorlake
+"visited planet" Memory
+"visited planet" Giverstone
+harvested
+	Betelgeuse Lead
+	Durax Lead
+	Hatysa Copper
+logbook
+	16 11 3013
+		"Finally scraped together enough money for a down payment on a starship. The interest on the mortgage is exorbitant."
+	11 12 3013
+		`Dropped the famous band "There Might Be Riots" off on Wayfarer. They drew quite the crowd, and paid very well.`
+	11 12 3013
+		"Volunteered to help the Southern Mutual Defense Pact keep tabs on pirate activity in their region of space. Pirate attacks seem to be getting worse because the Navy doesn't bother to patrol down here anymore."
+	Factions Alphas
+		"The Alphas were designed hundreds of years ago as genetically engineered super-soldiers, with no compassion or empathy. They escaped from their masters, enslaved entire planets, and commanded massive fleets of ships. Eventually they were defeated, and were either killed or went into hiding. They can be recognized by their green, photosynthetic skin."
+		"Alphas can live for centuries, and it is likely that many of them have survived, hiding out on anarchist worlds or somewhere beyond human space. Fortunately, they reproduce much more slowly than ordinary humans do."
+	Factions "Free Worlds"
+		"The Free Worlds is a collection of local governments in the southern galactic arm who have declared independence from the Republic after Parliament refused to address issues they raised about trade tariffs, taxation, and representation. They may be linked to the recent terrorist attacks on the Navy Yard and the galactic stock exchange, although they deny responsibility."
+	Factions Hai
+		"The Hai are a species of giant, intelligent rodents, who live to the north of human space. They allow any humans who discover their territory to live alongside them, and to trade with them and purchase their technology."
+	Factions Pirates
+		"In poorer and more remote star systems, where the Navy seldom patrols, pirate attacks on merchant ships are frequent. Pirates are also known to attack large, unguarded convoys of freighters even in more populated areas. Most pirate fleets come from lawless worlds on the outskirts of human space."
+	Factions Republic
+		"Hundreds of years ago, the independent territories in different parts of human space agreed to join together into a single democratic government, with Earth as its capital. The rise of the Republic ushered in a long period of peace and prosperity in human history."
+		`Representation in the Republic Parliament is based on population. That means that some individual "Paradise Worlds" have more representatives than entire regions of space like the Dirt Belt that are more sparsely settled.`
+	Factions Syndicate
+		"The Syndicate is a megacorporation, the largest employer in human space. People who cannot find steady work elsewhere flock to the Syndicate factory worlds, where they are almost guaranteed to find a job. Although the Syndicate is technically part of the Republic, Syndicate worlds are governed directly by the corporation."
+		"The Syndicate is a central part of the Republic's economy, but they are also well known for selling shoddy products and for doing damage to the environment on the worlds they control. Their treatment of workers is questionable, and their opposition to organized labor is legendary. Some Syndicate factory towns have even been accused of human rights abuses."

@@ -1,0 +1,1925 @@
+pilot Fattie Hao
+date 2 2 3014
+system Aldhibain
+planet Glaze
+clearance
+"map coloring" -6
+"map zoom" 0
+"reputation with"
+	" Drak " -1000
+	" Kor Mereti " -1000
+	Alpha -1000
+	Author 1
+	"Bad Trip" -1000
+	Bounty -1000
+	"Bounty Hunter" -1000
+	Coalition 1
+	Deep -1000
+	"Deep Security" 1
+	Drak 1
+	"Free Worlds" 1
+	Hai 0
+	"Hai (Unfettered)" -1000
+	Heliarch 1
+	Independent 10
+	"Indigenous Lifeform" 1
+	"Kor Efret" 1
+	"Kor Mereti" -1000
+	"Kor Sestor" -1000
+	Korath -10
+	"Korath Nanobots" -1000
+	Merchant 10
+	Militia 0
+	"Navy (Oathkeeper)" 100
+	"Navy Intelligence" 0
+	Neutral 1
+	Parrot 1
+	Pirate -10
+	Pug 1
+	Quarg 1
+	Remnant 1
+	Republic 2
+	Syndicate 2
+	"Syndicate (Extremist)" -1000
+	"Team Blue" -1000
+	"Team Red" -1000
+	"Test Dummy" -1000
+	Uninhabited 0
+	Wanderer 1
+
+# What you own:
+ship Shuttle
+	name Cake
+	sprite ship/shuttle
+		"frame rate" 15
+		delay 14
+	attributes
+		category Transport
+		cost 180000
+		mass 70
+		bunks 6
+		"cargo space" 20
+		drag 1.7
+		"engine capacity" 60
+		"fuel capacity" 400
+		"gun ports" 1
+		"heat dissipation" 0.8
+		hull 600
+		"outfit space" 120
+		"required crew" 1
+		shields 500
+		"weapon capacity" 10
+	outfits
+		"Outfits Expansion"
+		"Bunk Room" 3
+		"Laser Rifle" 18
+		"X2700 Ion Thruster"
+		"Chipmunk Plasma Steering"
+		"nGVF-BB Fuel Cell"
+	crew 18
+	fuel 400
+	shields 500
+	hull 600
+	position 160.46501 419.73929
+	engine 6 30 1
+	engine -6 30 1
+	gun 0 -30
+	leak leak 60 50
+	explode "tiny explosion" 10
+	explode "small explosion" 5
+	system Aldhibain
+	planet Glaze
+account
+	credits 222300
+	score 478
+	history
+		-5594
+		-10153
+		-4679
+		-9178
+		-13645
+		-18080
+		-22486
+		11126
+		5780
+		474
+		9209
+		3981
+		-1208
+		-6358
+		-11468
+		12456
+		7420
+		2419
+		-2545
+		-7471
+		115137
+		110280
+		105461
+		100673
+		95922
+		91205
+		86522
+		81871
+		77254
+		72671
+		110619
+		106099
+		101612
+		197655
+		193231
+		188837
+		184472
+		180142
+		175836
+		170563
+		166320
+		162107
+		157921
+		191765
+		187638
+		183536
+		179465
+		175421
+		171403
+		259114
+		256350
+		253608
+		250893
+		248201
+		245533
+		242890
+		240271
+		237673
+		235098
+		319550
+		317020
+		314513
+		312027
+		309565
+		307122
+		348702
+		346303
+		405925
+		403569
+		401230
+		398914
+		396619
+		394343
+		463588
+		461351
+		459133
+		508935
+		506757
+	mortgage Mortgage
+		principal 141300
+		interest 0.004
+		term 287
+stock
+	Hyperdrive 1
+	"Bunk Room" -1
+	"Laser Rifle" -18
+	"Chipmunk Plasma Thruster" 1
+	"X2700 Ion Thruster" -1
+"fleet depreciation"
+	ship Shuttle
+		1100430 1
+	outfit "Outfits Expansion"
+		1100437 1
+	outfit "Bunk Room"
+		1100437 2
+		1100508 1
+	outfit "Laser Rifle"
+		1100508 18
+	outfit "X2700 Ion Thruster"
+		1100508 1
+	outfit "Chipmunk Plasma Steering"
+		1100437 1
+	outfit "nGVF-BB Fuel Cell"
+		1100430 1
+"stock depreciation"
+	outfit Hyperdrive
+		1100430 1
+	outfit "Chipmunk Plasma Thruster"
+		1100437 1
+
+# What you've done:
+mission "Drak guarding Void Sprites"
+	name "Drak guarding Void Sprites"
+	invisible
+	landing
+	destination "New Boston"
+	npc
+		succeed 128
+		government Drak
+		personality
+			confusion 10
+			heroic
+			staying
+			vindictive
+		ship Archon
+			name "Sleeping Dragon"
+			noun entity
+			sprite ship/archon
+				"frame rate" 0.86999997
+			"never disabled"
+			attributes
+				category "Heavy Warship"
+				cost 1000000000
+				mass 1000
+				bunks 1
+				cloak 0.04
+				drag 27
+				"energy capacity" 10000
+				"energy generation" 500
+				"engine capacity" 200
+				"fuel capacity" 800
+				"gun ports" 1
+				"heat dissipation" 40
+				"heat generation" 17
+				hull 1000000
+				"hull energy" 100
+				"hull repair rate" 100
+				"outfit space" 800
+				ramscoop 100
+				"required crew" 1
+				"shield energy" 100
+				"shield generation" 100
+				shields 4000000
+				"turret mounts" 8
+				"weapon capacity" 600
+			outfits
+				Hyperdrive
+				"Jump Drive"
+				"Medium Graviton Thruster"
+				"Medium Graviton Steering"
+				"Drak Draining Field"
+				"Drak Distancer" 2
+				"Drak Turret" 3
+				"Drak Antimatter Cannon"
+				"Drak Anti-Missile Field" 2
+			crew 1
+			fuel 800.53681
+			shields 4000000
+			hull 1000000
+			position 1570.9848 340.73197
+			engine -17 92 1
+			engine 17 92 1
+			gun 0 -74 "Drak Antimatter Cannon"
+			turret 0 -10 "Drak Anti-Missile Field"
+			turret 0 -10 "Drak Anti-Missile Field"
+			turret 0 -10 "Drak Draining Field"
+			turret -40 -13 "Drak Turret"
+			turret 40 -13 "Drak Turret"
+			turret 0 81 "Drak Turret"
+			turret -55 16 "Drak Distancer"
+			turret 55 16 "Drak Distancer"
+			explode "nuke explosion" 3
+			"final explode" "final explosion large" 1
+			system Nenia
+mission "Drak guarding Sayaiban"
+	name "Drak guarding Sayaiban"
+	invisible
+	landing
+	destination "New Boston"
+	npc
+		succeed 128
+		government Drak
+		personality
+			confusion 10
+			heroic
+			staying
+			vindictive
+		ship Archon
+			name "Watchful Gravetender"
+			noun entity
+			sprite ship/archon
+				"frame rate" 0.86999997
+			"never disabled"
+			attributes
+				category "Heavy Warship"
+				cost 1000000000
+				mass 1000
+				bunks 1
+				drag 27
+				"energy capacity" 10000
+				"energy generation" 500
+				"engine capacity" 200
+				"fuel capacity" 800
+				"gun ports" 1
+				"heat dissipation" 40
+				"heat generation" 17
+				hull 1000000
+				"hull energy" 100
+				"hull repair rate" 100
+				"outfit space" 800
+				ramscoop 100
+				"required crew" 1
+				"shield energy" 100
+				"shield generation" 100
+				shields 4000000
+				"turret mounts" 8
+				"weapon capacity" 600
+			outfits
+				Hyperdrive
+				"Jump Drive"
+				"Medium Graviton Thruster"
+				"Medium Graviton Steering"
+				"Drak Draining Field"
+				"Drak Distancer" 2
+				"Drak Turret" 3
+				"Drak Antimatter Cannon"
+				"Drak Anti-Missile Field" 2
+			crew 1
+			fuel 800.85367
+			shields 4000000
+			hull 1000000
+			position -180.89932 -258.55362
+			engine -17 92 1
+			engine 17 92 1
+			gun 0 -74 "Drak Antimatter Cannon"
+			turret 0 -10 "Drak Anti-Missile Field"
+			turret 0 -10 "Drak Anti-Missile Field"
+			turret 0 -10 "Drak Draining Field"
+			turret -40 -13 "Drak Turret"
+			turret 40 -13 "Drak Turret"
+			turret 0 81 "Drak Turret"
+			turret -55 16 "Drak Distancer"
+			turret 55 16 "Drak Distancer"
+			explode "nuke explosion" 3
+			"final explode" "final explosion large" 1
+			system Sayaiban
+	on enter Sayaiban
+		log Factions Archons
+			"Archons consider it to be their job to enforce peace and to prevent extinction. If they are unable to prevent a species from driving itself extinct, they will still try to preserve some of what that species created as a memorial to them."
+			"They are capable of communicating telepathically."
+		conversation
+			label 0
+			`A voice says, "This system is off limits. You should leave."`
+			"	After a second, you realize that the voice did not come from your communications equipment. In fact, now that you think about it, you're not sure if it was an audible voice, or just something in your head."
+				goto 1
+			label 1
+			choice
+				"	(Ignore it.)"
+					goto 2
+				`	"Why should I leave?"`
+					goto 4
+				`	"You can't tell me what to do."`
+					goto 4
+			label 2
+			`	"You should leave." The thought repeats itself, insistently. Either you're going crazy, or a creature is communicating with you telepathically.`
+				goto 3
+			label 3
+			choice
+				`	"Why should I leave?"`
+					goto 4
+				`	"You can't tell me what to do."`
+					goto 4
+			label 4
+			`	You feel as if a vast and patient creature has just heaved an immense sigh. "Human, you would do well not to ignore the warning of an Archon. I am here to warn off those who might be harmed by the swarm intelligence that infests this system. If you remain here long your ship will be digested by the swarm."`
+			`	You recall that "Archon" is what Drak ships are called.`
+				goto 5
+			label 5
+			choice
+				`	"What do you mean, 'digested'?"`
+					goto 6
+				`	"What is a 'swarm intelligence'?"`
+					goto 7
+			label 6
+			`	"I mean that your ship will be broken down into its component parts." You notice, as the voice says this, that your shields are registering small energy bursts, as if they are being struck by invisible weapons.`
+			`	"What is this swarm?" you ask.`
+				goto 7
+			label 7
+			`	"Self-replicating miniature robots," the voice replies. "A weapon created by the Korath, the last of their great abominations. If you wish to feed your ship to the swarm, I will not stop you, but they already possess enough raw material here without your assistance." The voice's tone, inasmuch as a disembodied imaginary voice can be said to have a tone, is sardonic.`
+				goto 8
+			label 8
+			choice
+				`	"Okay, okay, I'll get out of here."`
+					goto 12
+				`	"Wait, I have more questions."`
+					goto 9
+			label 9
+			`	"Yes?"`
+			`	You ask, "Why don't you just destroy the swarm, if it is so dangerous?"`
+			`	The voice says, "Because if the Korath manage to drive themselves extinct, this intelligence will be their last and greatest surviving creation, and we will preserve it as a living memorial to them. Please do not interfere here." When the voice speaks the phrase, "drive themselves extinct," the words are accompanied by an emotion that you cannot put a name to.`
+			"	Also, the empty space around your ship is beginning to light up with small sparks, like an angry swarm of fireflies."
+				goto 10
+			label 10
+			choice
+				`	"Well, it's an honor to meet you. I'll be leaving now."`
+					goto 12
+				`	"Why do you care if they go extinct?"`
+					goto 11
+			label 11
+			`	"Our directive is to enforce peace and prevent extinction," says the voice. As before, the words "prevent extinction" echo loud in your mind as if underlined by a nameless emotion. "Now, enough questions," says the voice.`
+				goto 12
+			label 12
+			"	The presence inside your head seems to fall away, and you are left talking to thin air."
+				decline
+mission "Drak guarding Korath space"
+	name "Drak guarding Korath space"
+	invisible
+	landing
+	destination "New Boston"
+	npc
+		succeed 128
+		government Drak
+		personality
+			confusion 10
+			heroic
+			staying
+			vindictive
+		ship Archon
+			name "Kasiliri's Folly"
+			noun entity
+			sprite ship/archon
+				"frame rate" 0.86999997
+			"never disabled"
+			attributes
+				category "Heavy Warship"
+				cost 1000000000
+				mass 1000
+				bunks 1
+				drag 27
+				"energy capacity" 10000
+				"energy generation" 500
+				"engine capacity" 200
+				"fuel capacity" 800
+				"gun ports" 1
+				"heat dissipation" 40
+				"heat generation" 17
+				hull 1000000
+				"hull energy" 100
+				"hull repair rate" 100
+				"outfit space" 800
+				ramscoop 100
+				"required crew" 1
+				"shield energy" 100
+				"shield generation" 100
+				shields 4000000
+				"turret mounts" 8
+				"weapon capacity" 600
+			outfits
+				Hyperdrive
+				"Jump Drive"
+				"Medium Graviton Thruster"
+				"Medium Graviton Steering"
+				"Drak Draining Field"
+				"Drak Distancer" 2
+				"Drak Turret" 3
+				"Drak Antimatter Cannon"
+				"Drak Anti-Missile Field" 2
+			crew 1
+			fuel 802.83939
+			shields 4000000
+			hull 1000000
+			position -840.19057 -62.165815
+			engine -17 92 1
+			engine 17 92 1
+			gun 0 -74 "Drak Antimatter Cannon"
+			turret 0 -10 "Drak Anti-Missile Field"
+			turret 0 -10 "Drak Anti-Missile Field"
+			turret 0 -10 "Drak Draining Field"
+			turret -40 -13 "Drak Turret"
+			turret 40 -13 "Drak Turret"
+			turret 0 81 "Drak Turret"
+			turret -55 16 "Drak Distancer"
+			turret 55 16 "Drak Distancer"
+			explode "nuke explosion" 3
+			"final explode" "final explosion large" 1
+			system Fasitopfar
+	npc
+		succeed 128
+		government Drak
+		personality
+			confusion 10
+			heroic
+			staying
+			vindictive
+		ship Archon
+			name "Sword of Eden"
+			noun entity
+			sprite ship/archon
+				"frame rate" 0.86999997
+			"never disabled"
+			attributes
+				category "Heavy Warship"
+				cost 1000000000
+				mass 1000
+				bunks 1
+				drag 27
+				"energy capacity" 10000
+				"energy generation" 500
+				"engine capacity" 200
+				"fuel capacity" 800
+				"gun ports" 1
+				"heat dissipation" 40
+				"heat generation" 17
+				hull 1000000
+				"hull energy" 100
+				"hull repair rate" 100
+				"outfit space" 800
+				ramscoop 100
+				"required crew" 1
+				"shield energy" 100
+				"shield generation" 100
+				shields 4000000
+				"turret mounts" 8
+				"weapon capacity" 600
+			outfits
+				Hyperdrive
+				"Jump Drive"
+				"Medium Graviton Thruster"
+				"Medium Graviton Steering"
+				"Drak Draining Field"
+				"Drak Distancer" 2
+				"Drak Turret" 3
+				"Drak Antimatter Cannon"
+				"Drak Anti-Missile Field" 2
+			crew 1
+			fuel 802.55748
+			shields 4000000
+			hull 1000000
+			position 720.31151 825.97643
+			engine -17 92 1
+			engine 17 92 1
+			gun 0 -74 "Drak Antimatter Cannon"
+			turret 0 -10 "Drak Anti-Missile Field"
+			turret 0 -10 "Drak Anti-Missile Field"
+			turret 0 -10 "Drak Draining Field"
+			turret -40 -13 "Drak Turret"
+			turret 40 -13 "Drak Turret"
+			turret 0 81 "Drak Turret"
+			turret -55 16 "Drak Distancer"
+			turret 55 16 "Drak Distancer"
+			explode "nuke explosion" 3
+			"final explode" "final explosion large" 1
+			system Kasikfar
+	npc
+		succeed 128
+		government Drak
+		personality
+			confusion 10
+			heroic
+			staying
+			vindictive
+		ship Archon
+			name "Snows of Far Door Nai"
+			noun entity
+			sprite ship/archon
+				"frame rate" 0.86999997
+			"never disabled"
+			attributes
+				category "Heavy Warship"
+				cost 1000000000
+				mass 1000
+				bunks 1
+				drag 27
+				"energy capacity" 10000
+				"energy generation" 500
+				"engine capacity" 200
+				"fuel capacity" 800
+				"gun ports" 1
+				"heat dissipation" 40
+				"heat generation" 17
+				hull 1000000
+				"hull energy" 100
+				"hull repair rate" 100
+				"outfit space" 800
+				ramscoop 100
+				"required crew" 1
+				"shield energy" 100
+				"shield generation" 100
+				shields 4000000
+				"turret mounts" 8
+				"weapon capacity" 600
+			outfits
+				Hyperdrive
+				"Jump Drive"
+				"Medium Graviton Thruster"
+				"Medium Graviton Steering"
+				"Drak Draining Field"
+				"Drak Distancer" 2
+				"Drak Turret" 3
+				"Drak Antimatter Cannon"
+				"Drak Anti-Missile Field" 2
+			crew 1
+			fuel 802.64178
+			shields 4000000
+			hull 1000000
+			position 989.56511 223.60094
+			engine -17 92 1
+			engine 17 92 1
+			gun 0 -74 "Drak Antimatter Cannon"
+			turret 0 -10 "Drak Anti-Missile Field"
+			turret 0 -10 "Drak Anti-Missile Field"
+			turret 0 -10 "Drak Draining Field"
+			turret -40 -13 "Drak Turret"
+			turret 40 -13 "Drak Turret"
+			turret 0 81 "Drak Turret"
+			turret -55 16 "Drak Distancer"
+			turret 55 16 "Drak Distancer"
+			explode "nuke explosion" 3
+			"final explode" "final explosion large" 1
+			system Peresedersi
+"available job" "Bulk Delivery [0]"
+	name "Bulk delivery to Wyvern Station"
+	description "Deliver 93 tons of pickling vats to Wyvern Station in the Izar system. Payment is 83,700 credits."
+	cargo "pickling vats" 93
+	job
+	repeat 0
+	to offer
+		random < 70
+	destination "Wyvern Station"
+	on complete
+		dialog
+			"You drop off your cargo of pickling vats and collect your payment of 83,700 credits."
+		payment 83700
+"available job" "Cargo [0]"
+	name "Delivery to Oasis"
+	description "Deliver 16 tons of jet fuel to Oasis in the Spica system. Payment is 21,600 credits."
+	cargo "jet fuel" 16
+	job
+	repeat 0
+	destination Oasis
+	on complete
+		dialog
+			"You drop off your cargo of jet fuel and collect your payment of 21,600 credits."
+		payment 21600
+"available job" "Cargo [1]"
+	name "Delivery to New Sahara"
+	description "Deliver 34 tons of potentiometers to New Sahara in the Phecda system. Payment is 40,800 credits."
+	cargo potentiometers 34
+	job
+	repeat 0
+	to offer
+		random < 90
+	destination "New Sahara"
+	on complete
+		dialog
+			"You drop off your cargo of potentiometers and collect your payment of 40,800 credits."
+		payment 40800
+"available job" "Family [0]"
+	name "Transport family to New India"
+	description "This family of 11 is relocating to New India in the Albaldah system. They will pay you 86,500 credits to take them there."
+	passengers 11
+	job
+	repeat 0
+	to offer
+		random < 60
+		"passenger space" > 10
+	destination "New India"
+	on complete
+		dialog
+			"The family you have been transporting departs your ship after paying you 86,500 credits."
+		payment 86500
+"available job" "Family [1]"
+	name "Transport family to Chiron"
+	description "This family of 6 is relocating to Chiron in the Alpha Centauri system. They will pay you 96,000 credits to take them there."
+	passengers 6
+	job
+	repeat 0
+	to offer
+		random < 50
+		"passenger space" > 10
+	destination Chiron
+	on complete
+		dialog
+			"The family you have been transporting departs your ship after paying you 96,000 credits."
+		payment 96000
+"available job" "Passengers [0]"
+	name "Passenger transport to Skymoot"
+	description "Bring 3 passengers to Skymoot in the Hadar system. Payment is 24,500 credits."
+	passengers 3
+	job
+	repeat 0
+	destination Skymoot
+	on complete
+		dialog
+			"You wish your passengers the best of luck on Skymoot, and collect your payment of 24,500 credits."
+		payment 24500
+"available job" "Passengers [1]"
+	name "Passenger transport to Lichen"
+	description "Bring 2 passengers to Lichen in the Atria system. Payment is 9,000 credits."
+	passengers 2
+	job
+	repeat 0
+	to offer
+		random < 75
+	destination Lichen
+	on complete
+		dialog
+			"You wish your passengers the best of luck on Lichen, and collect your payment of 9,000 credits."
+		payment 9000
+"available job" "Passengers [2]"
+	name "Passenger transport to Harmony"
+	description "Bring 2 passengers to Harmony in the Girtab system. Payment is 12,000 credits."
+	passengers 2
+	job
+	repeat 0
+	to offer
+		random < 50
+	destination Harmony
+	on complete
+		dialog
+			"You wish your passengers the best of luck on Harmony, and collect your payment of 12,000 credits."
+		payment 12000
+"available job" "Rush Delivery [0]"
+	name "Rush delivery to Bourne"
+	description "Deliver 22 tons of polishing machines to Bourne in the Gamma Corvi system by Sun, 20 Feb 3014. Payment is 49,000 credits."
+	deadline 20 2 3014
+	cargo "polishing machines" 22
+	job
+	repeat 0
+	to offer
+		random < 90
+	destination Bourne
+	on complete
+		dialog
+			"You drop off your cargo of polishing machines and collect your payment of 49,000 credits."
+		payment 49000
+"available job" "Rush Delivery [1]"
+	name "Rush delivery to Moonshake"
+	description "Deliver 30 tons of water tanks to Moonshake in the Alpheratz system by Sat, 26 Feb 3014. Payment is 76,500 credits."
+	deadline 26 2 3014
+	cargo "water tanks" 30
+	job
+	repeat 0
+	to offer
+		random < 80
+	destination Moonshake
+	on complete
+		dialog
+			"You drop off your cargo of water tanks and collect your payment of 76,500 credits."
+		payment 76500
+"available job" "Tourists back [1]"
+	name "Bring tourists home to Furnace"
+	description "These 3 tourists are headed home to Furnace in the Alderamin system. They are willing to pay you 53,500 credits."
+	passengers 3
+	job
+	repeat 0
+	to offer
+		random < 50
+	destination Furnace
+	on complete
+		dialog
+			"You wish your passengers the best of luck on Furnace, and collect your payment of 53,500 credits."
+		payment 53500
+"available job" "Tourists out [1]"
+	name "Bring tourists to Trinket"
+	description "These 3 tourists want to see Trinket in the Sargas system. They are willing to pay you 17,500 credits."
+	passengers 3
+	job
+	repeat 0
+	to offer
+		random < 50
+	destination Trinket
+	on complete
+		dialog
+			"You wish your passengers the best of luck on Trinket, and collect your payment of 17,500 credits."
+		payment 17500
+"available job" "Transport workers to <planet>"
+	name "Transport workers to Haze"
+	description "This family of 2 factory workers is hoping to find work on Haze in the Dubhe system, and they will pay you 38,000 credits to take them there."
+	passengers 2
+	job
+	repeat 0
+	to offer
+		random < 80
+	destination Haze
+	on complete
+		dialog
+			"You wish the workers the best of luck on Haze, and collect your payment of 38,000 credits."
+		payment 38000
+"available mission" "Courier 3"
+	name "Papers to Delve"
+	description "Deliver some legal papers to Delve in the Scheat system by Tue, 22 Feb 3014. Payment is 100,000 credits."
+	deadline 22 2 3014
+	cargo "legal papers" 1
+	minor
+	to offer
+		random < 5
+	destination Delve
+	on complete
+		dialog
+			"You drop off the legal papers and collect your payment of 100,000 credits."
+		payment 100000
+	on offer
+		dialog
+			`A woman in a suit walks up to you and says, "Pardon me, Captain. I represent a recently deceased client here on Glaze whose legal papers need to be delivered to his next of kin on Delve in the Scheat system. Would you be willing to do some courier work? The papers must be delivered by the 22nd of February."`
+conditions
+	"Drak guarding Korath space: active"
+	"Drak guarding Korath space: offered"
+	"Drak guarding Sayaiban: active"
+	"Drak guarding Sayaiban: offered"
+	"Drak guarding Void Sprites: active"
+	"Drak guarding Void Sprites: offered"
+	"Family [0]: done" 2
+	"Family [0]: offered" 2
+	"Family [1]: done" 3
+	"Family [1]: offered" 3
+	"Family [2]: done"
+	"Family [2]: offered"
+	"Intro [0]: done"
+	"Intro [0]: offered"
+	"Intro [1 Transport]: done"
+	"Intro [1 Transport]: offered"
+	"Intro [2 Transport]: done"
+	"Intro [2 Transport]: offered"
+	"Intro [3 Transport]: done"
+	"Intro [3 Transport]: offered"
+	"Passengers [0]: done"
+	"Passengers [0]: offered"
+	"Tourists back [2]: done"
+	"Tourists back [2]: offered"
+	"Tourists out [2]: done"
+	"Tourists out [2]: offered"
+	"Transport farmers to <planet>: done"
+	"Transport farmers to <planet>: offered"
+	"cargo attractiveness" -1
+	"credit score" 478
+	credits 393187
+	day 2
+	"license: Pilot's"
+	month 2
+	"net worth" 506757
+	"passenger space" 13
+	"pirate attraction" -1
+	"reputation:  Drak " -1000
+	"reputation:  Kor Mereti " -1000
+	"reputation: Alpha" -1000
+	"reputation: Author"
+	"reputation: Bad Trip" -1000
+	"reputation: Bounty" -1000
+	"reputation: Bounty Hunter" -1000
+	"reputation: Coalition"
+	"reputation: Deep" -1000
+	"reputation: Deep Security"
+	"reputation: Drak"
+	"reputation: Free Worlds"
+	"reputation: Hai (Unfettered)" -1000
+	"reputation: Heliarch"
+	"reputation: Independent" 10
+	"reputation: Indigenous Lifeform"
+	"reputation: Kor Efret"
+	"reputation: Kor Mereti" -1000
+	"reputation: Kor Sestor" -1000
+	"reputation: Korath" -10
+	"reputation: Korath Nanobots" -1000
+	"reputation: Merchant" 10
+	"reputation: Navy (Oathkeeper)" 100
+	"reputation: Neutral"
+	"reputation: Parrot"
+	"reputation: Pirate" -10
+	"reputation: Pug"
+	"reputation: Quarg"
+	"reputation: Remnant"
+	"reputation: Republic" 2
+	"reputation: Syndicate" 2
+	"reputation: Syndicate (Extremist)" -1000
+	"reputation: Team Blue" -1000
+	"reputation: Team Red" -1000
+	"reputation: Test Dummy" -1000
+	"reputation: Wanderer"
+	"ships: Transport"
+	"unpaid mortgages" 141300
+	year 3014
+event
+	date 24 7 3014
+	"event: initial deployment 1" = 1
+	system Spica
+		fleet "Small Southern Merchants" 1200
+		fleet "Large Southern Merchants" 1700
+		fleet "Small Free Worlds" 800
+		fleet "Large Free Worlds" 1500
+	system Minkar
+		fleet "Small Southern Merchants" 700
+		fleet "Large Southern Merchants" 1500
+		fleet "Small Free Worlds" 700
+		fleet "Large Free Worlds" 1200
+	system Mimosa
+		fleet "Small Southern Merchants" 1200
+		fleet "Large Southern Merchants" 2300
+		fleet "Small Free Worlds" 1200
+		fleet "Large Free Worlds" 1900
+	system Kraz
+		fleet "Small Southern Merchants" 900
+		fleet "Large Southern Merchants" 1600
+		fleet "Small Free Worlds" 700
+		fleet "Large Free Worlds" 900
+	system Acrux
+		fleet "Small Southern Merchants" 500
+		fleet "Large Southern Merchants" 800
+		fleet "Small Free Worlds" 700
+		fleet "Large Free Worlds" 1100
+		fleet "Human Miners" 5000
+	system "Tania Australis"
+		fleet "Small Northern Merchants" 1400
+		fleet "Large Northern Merchants" 2900
+		fleet "Small Republic" 600
+		fleet "Large Republic" 400
+		fleet "Navy Surveillance" 2000
+	planet Ingot
+		description "Ingot is a volcanic moon, totally unsuitable for life but rich in metal. The miners who work here must spend all their time inside pressurized buildings. Because Ingot has almost no atmosphere to slow them down, meteorites are a constant danger to the colonists. The shells of the buildings have multiple layers, designed to be self-sealing in any but the largest of impacts. Most of the mining is done remotely by robotic vehicles, but someone still needs to be present to control them and to make repairs when something goes wrong."
+		description "Ingot is also now home to a burgeoning Navy base, although since the planet is so unlivable most of the troops are just living in ships in orbit."
+	system Fala
+		fleet "Small Northern Merchants" 1900
+		fleet "Large Northern Merchants" 3500
+		fleet "Small Republic" 600
+		fleet "Large Republic" 400
+		fleet "Small Northern Pirates" 4000
+		fleet "Large Northern Pirates" 8000
+		fleet "Navy Surveillance" 2000
+	system Phecda
+		fleet "Small Northern Merchants" 900
+		fleet "Small Southern Merchants" 1100
+		fleet "Small Republic" 900
+		fleet "Large Republic" 1100
+		fleet "Navy Surveillance" 2000
+	system Algorel
+		fleet "Small Southern Merchants" 800
+		fleet "Large Southern Merchants" 1200
+		fleet "Small Republic" 700
+		fleet "Large Republic" 500
+		fleet "Small Southern Pirates" 2500
+		fleet "Large Southern Pirates" 8000
+		fleet "Navy Surveillance" 2000
+	planet "New Wales"
+		description "New Wales is home to a few mining outposts which extract and refine rare earth minerals and heavy metals. It is dangerous work: the mines are deep underground and prone to noxious gases and cave-ins, and the refineries work with molten radioactive materials and caustic chemicals. Due to the somewhat dim light of the star Algorel, and the cloudiness of the atmosphere, this is not a good world for farming, and the population remains quite small."
+		description "The Republic Navy has planted a base on New Wales: so far, just a densely packed cluster of prefabricated barracks and infirmary buildings on the outskirts of one of the mining colonies."
+	system Porrima
+		fleet "Small Southern Merchants" 1400
+		fleet "Large Southern Merchants" 4000
+		fleet "Small Republic" 1200
+		fleet "Large Republic" 1800
+		fleet "Small Southern Pirates" 9000
+		fleet "Navy Surveillance" 2000
+	system Ipsing
+		fleet "Small Southern Merchants" 2800
+		fleet "Large Southern Merchants" 7000
+		fleet "Small Republic" 2500
+		fleet "Large Republic" 4000
+		fleet "Small Southern Pirates" 5000
+		fleet "Navy Surveillance" 2000
+	system Mizar
+		fleet "Small Southern Merchants" 1400
+		fleet "Large Southern Merchants" 4500
+		fleet "Small Republic" 1000
+		fleet "Large Republic" 1400
+		fleet "Small Southern Pirates" 9000
+		fleet "Navy Surveillance" 2000
+	system Muphrid
+		fleet "Small Southern Merchants" 1200
+		fleet "Large Southern Merchants" 4800
+		fleet "Small Republic" 1100
+		fleet "Large Republic" 1900
+		fleet "Small Southern Pirates" 9000
+		fleet "Navy Surveillance" 2000
+	system Menkent
+		fleet "Small Southern Merchants" 700
+		fleet "Large Southern Merchants" 1900
+		fleet "Small Republic" 500
+		fleet "Large Republic" 600
+		fleet "Navy Surveillance" 2000
+		fleet "Human Miners" 2000
+	planet "New Austria"
+		description "New Austria is a rugged mountain world, full of snow-capped peaks and valleys so deep and so steep that they rarely see sunlight. The few settlements that have been built here were developed for mining sapphires and rubies; the sapphires found in New Austria range from blue to yellow to black to clear in color, and are used both for industrial abrasives and for jewelry."
+		description "The Navy has recently requisitioned one of the abandoned mining towns and begun refurbishing it for a secure military base, with the mining tunnels used as deep underground bunkers."
+event
+	date 14 8 3014
+	"event: initial deployment 2" = 1
+	planet Martini
+		"required reputation" 10
+	system Izar
+		fleet "Small Southern Merchants" 500
+		fleet "Large Southern Merchants" 1500
+		fleet "Small Free Worlds" 700
+		fleet "Large Free Worlds" 1000
+	system "Zeta Centauri"
+		fleet "Small Southern Merchants" 700
+		fleet "Large Southern Merchants" 1700
+		fleet "Small Free Worlds" 1200
+		fleet "Large Free Worlds" 2000
+		fleet "Small Southern Pirates" 6000
+		fleet "Large Southern Pirates" 9000
+	system Hadar
+		fleet "Small Southern Merchants" 400
+		fleet "Large Southern Merchants" 600
+		fleet "Small Free Worlds" 600
+		fleet "Large Free Worlds" 1100
+	system Alkaid
+		fleet "Small Southern Merchants" 1200
+		fleet "Large Southern Merchants" 4000
+		fleet "Small Free Worlds" 6000
+		fleet "Large Free Worlds" 10000
+		fleet "Small Southern Pirates" 4000
+		fleet "Large Southern Pirates" 8000
+	system Zubeneschamali
+		fleet "Small Southern Merchants" 500
+		fleet "Large Southern Merchants" 1000
+		fleet "Small Free Worlds" 1400
+		fleet "Large Free Worlds" 2400
+		fleet "Small Southern Pirates" 4000
+		fleet "Large Southern Pirates" 5000
+	system Kochab
+		fleet "Small Southern Merchants" 1800
+		fleet "Large Southern Merchants" 5000
+		fleet "Small Southern Pirates" 6000
+		fleet "Small Free Worlds" 5000
+	system Ildaria
+		fleet "Small Southern Merchants" 900
+		fleet "Large Southern Merchants" 1800
+		fleet "Small Free Worlds" 2200
+		fleet "Large Free Worlds" 3600
+		fleet "Small Southern Pirates" 4000
+		fleet "Large Southern Pirates" 7000
+	system Mora
+		fleet "Small Southern Merchants" 2800
+		fleet "Large Southern Merchants" 5000
+		fleet "Small Southern Pirates" 3000
+		fleet "Large Southern Pirates" 4000
+		fleet "Small Republic" 1000
+		fleet "Large Republic" 2000
+		fleet "Navy Surveillance" 1600
+	system "Delta Velorum"
+		fleet "Small Southern Merchants" 1000
+		fleet "Large Southern Merchants" 3000
+		fleet "Small Southern Pirates" 2000
+		fleet "Large Southern Pirates" 5000
+		fleet "Small Republic" 1600
+		fleet "Large Republic" 2400
+		fleet "Navy Surveillance" 1600
+	system Turais
+		fleet "Small Southern Merchants" 2000
+		fleet "Large Southern Merchants" 6000
+		fleet "Small Southern Pirates" 3000
+		fleet "Large Southern Pirates" 7000
+		fleet "Small Republic" 1000
+		fleet "Large Republic" 1800
+		fleet "Navy Surveillance" 1600
+	system Gacrux
+		fleet "Small Southern Merchants" 2000
+		fleet "Large Southern Merchants" 5000
+		fleet "Small Southern Pirates" 2000
+		fleet "Large Southern Pirates" 4000
+		fleet "Small Republic" 2000
+		fleet "Large Republic" 3000
+		fleet "Navy Surveillance" 1600
+	system "Cor Caroli"
+		fleet "Small Southern Merchants" 700
+		fleet "Large Southern Merchants" 1300
+		fleet "Small Southern Pirates" 2000
+		fleet "Small Republic" 1200
+		fleet "Large Republic" 1800
+		fleet "Navy Surveillance" 1600
+	system Muhlifain
+		fleet "Small Southern Merchants" 1000
+		fleet "Large Southern Merchants" 3500
+		fleet "Small Southern Pirates" 6000
+		fleet "Small Republic" 3000
+		fleet "Large Republic" 4000
+		fleet "Navy Surveillance" 1600
+	system Vindemiatrix
+		fleet "Small Southern Merchants" 600
+		fleet "Large Southern Merchants" 3000
+		fleet "Small Southern Pirates" 2000
+		fleet "Large Southern Pirates" 4000
+		fleet "Small Republic" 2000
+		fleet "Large Republic" 3000
+		fleet "Navy Surveillance" 1600
+	system Sarin
+		fleet "Small Southern Merchants" 1000
+		fleet "Large Southern Merchants" 3000
+		fleet "Small Southern Pirates" 2000
+		fleet "Large Southern Pirates" 6000
+		fleet "Small Republic" 8000
+		fleet "Large Republic" 15000
+		fleet "Navy Surveillance" 1600
+	system Alioth
+		fleet "Small Southern Merchants" 400
+		fleet "Large Northern Merchants" 600
+		fleet "Small Southern Pirates" 1200
+		fleet "Large Southern Pirates" 2400
+		fleet "Small Republic" 3000
+		fleet "Large Republic" 4000
+		fleet "Navy Surveillance" 1600
+	system Holeb
+		fleet "Small Southern Merchants" 1000
+		fleet "Large Southern Merchants" 3000
+		fleet "Small Southern Pirates" 5000
+		fleet "Small Republic" 2000
+		fleet "Large Republic" 3000
+		fleet "Navy Surveillance" 1600
+	system Arcturus
+		fleet "Small Southern Merchants" 700
+		fleet "Large Southern Merchants" 3000
+		fleet "Small Southern Pirates" 4000
+		fleet "Small Republic" 2000
+		fleet "Large Republic" 3000
+		fleet "Navy Surveillance" 1600
+	system Rutilicus
+		fleet "Small Southern Merchants" 600
+		fleet "Large Southern Merchants" 2000
+		fleet "Small Southern Pirates" 8000
+		fleet "Small Republic" 1000
+		fleet "Large Republic" 2000
+		fleet "Navy Surveillance" 1600
+	system Alphecca
+		fleet "Small Southern Merchants" 2000
+		fleet "Large Northern Merchants" 3500
+		fleet "Small Southern Pirates" 3000
+		fleet "Small Republic" 3000
+		fleet "Large Republic" 4000
+		fleet "Navy Surveillance" 1600
+	system Boral
+		fleet "Small Southern Merchants" 3000
+		fleet "Large Northern Merchants" 8000
+		fleet "Small Southern Pirates" 1500
+		fleet "Small Republic" 7000
+		fleet "Large Republic" 12000
+		fleet "Navy Surveillance" 1600
+	system Cebalrai
+		fleet "Small Southern Merchants" 600
+		fleet "Large Southern Merchants" 2000
+		fleet "Small Southern Pirates" 4000
+		fleet "Small Republic" 1000
+		fleet "Large Republic" 2000
+		fleet "Navy Surveillance" 1600
+	system Rasalhague
+		fleet "Small Southern Merchants" 1500
+		fleet "Large Southern Merchants" 2000
+		fleet "Small Southern Pirates" 4000
+		fleet "Large Southern Pirates" 8000
+		fleet "Small Republic" 3000
+		fleet "Large Republic" 4000
+		fleet "Navy Surveillance" 1600
+event
+	date 29 8 3014
+	"event: initial deployment 3" = 1
+	system Zubenelgenubi
+		fleet "Small Southern Merchants" 500
+		fleet "Large Southern Merchants" 900
+		fleet "Small Free Worlds" 800
+		fleet "Large Free Worlds" 1000
+		fleet "Small Southern Pirates" 5000
+		fleet "Large Southern Pirates" 8000
+	system Unukalhai
+		fleet "Small Southern Merchants" 900
+		fleet "Large Southern Merchants" 3000
+		fleet "Small Southern Pirates" 3000
+		fleet "Small Free Worlds" 3000
+		fleet "Large Free Worlds" 6000
+	system Sabik
+		fleet "Small Southern Merchants" 400
+		fleet "Large Southern Merchants" 600
+		fleet "Small Free Worlds" 1000
+		fleet "Large Free Worlds" 1600
+	system Aldhibain
+		fleet "Small Southern Merchants" 400
+		fleet "Large Southern Merchants" 500
+		fleet "Small Free Worlds" 600
+		fleet "Large Free Worlds" 700
+		fleet "Small Southern Pirates" 1400
+		fleet "Large Southern Pirates" 3000
+	system Kornephoros
+		fleet "Small Southern Merchants" 600
+		fleet "Large Southern Merchants" 700
+		fleet "Small Southern Pirates" 5000
+		fleet "Small Free Worlds" 1000
+		fleet "Large Free Worlds" 2000
+		fleet "Human Miners" 3000
+	system Wei
+		fleet "Small Southern Merchants" 800
+		fleet "Large Southern Merchants" 2500
+		fleet "Small Southern Pirates" 6000
+		fleet "Small Republic" 800
+		fleet "Large Republic" 700
+		fleet "Navy Surveillance" 1200
+	system Seginus
+		fleet "Small Southern Merchants" 1200
+		fleet "Large Southern Merchants" 2700
+		fleet "Small Southern Pirates" 8000
+		fleet "Small Republic" 1200
+		fleet "Large Republic" 1400
+		fleet "Navy Surveillance" 1200
+	system Alnasl
+		fleet "Small Southern Merchants" 1300
+		fleet "Large Southern Merchants" 2500
+		fleet "Small Southern Pirates" 6000
+		fleet "Small Republic" 900
+		fleet "Large Republic" 1100
+		fleet "Navy Surveillance" 1200
+	system Eber
+		fleet "Small Southern Merchants" 1900
+		fleet "Large Southern Merchants" 2900
+		fleet "Small Southern Pirates" 3000
+		fleet "Small Republic" 1000
+		fleet "Large Republic" 1500
+		fleet "Navy Surveillance" 1200
+	system "Alpha Arae"
+		fleet "Small Southern Merchants" 2100
+		fleet "Large Southern Merchants" 8000
+		fleet "Small Southern Pirates" 6000
+		fleet "Large Southern Pirates" 13000
+		fleet "Small Republic" 900
+		fleet "Large Republic" 800
+		fleet "Navy Surveillance" 1200
+	system "Kaus Borealis"
+		fleet "Small Southern Merchants" 900
+		fleet "Large Southern Merchants" 4000
+		fleet "Small Southern Pirates" 8000
+		fleet "Small Republic" 1100
+		fleet "Large Republic" 800
+		fleet "Navy Surveillance" 1200
+event
+	date 17 9 3014
+	"event: initial deployment 4" = 1
+	planet Geminus
+		"required reputation" 10
+	system Sargas
+		fleet "Small Southern Merchants" 600
+		fleet "Large Southern Merchants" 2500
+		fleet "Small Southern Pirates" 3000
+		fleet "Large Southern Pirates" 5000
+		fleet "Small Free Worlds" 1000
+		fleet "Large Free Worlds" 1500
+		fleet "Navy Surveillance" 800
+	system Dschubba
+		fleet "Small Southern Merchants" 800
+		fleet "Large Southern Merchants" 2600
+		fleet "Small Southern Pirates" 3000
+		fleet "Large Southern Pirates" 6000
+		fleet "Small Free Worlds" 2000
+		fleet "Large Free Worlds" 3000
+		fleet "Navy Surveillance" 800
+	system Lesath
+		fleet "Small Southern Merchants" 800
+		fleet "Large Southern Merchants" 1600
+		fleet "Small Southern Pirates" 3000
+		fleet "Large Southern Pirates" 7000
+		fleet "Small Free Worlds" 800
+		fleet "Large Free Worlds" 1100
+		fleet "Navy Surveillance" 800
+	system Atria
+		fleet "Small Southern Merchants" 700
+		fleet "Large Southern Merchants" 2600
+		fleet "Small Southern Pirates" 5000
+		fleet "Large Southern Pirates" 8000
+		fleet "Small Free Worlds" 1000
+		fleet "Large Free Worlds" 2100
+	system Alniyat
+		fleet "Small Southern Merchants" 500
+		fleet "Large Southern Merchants" 600
+		fleet "Small Southern Pirates" 2000
+		fleet "Large Southern Pirates" 4000
+		fleet "Small Free Worlds" 1500
+		fleet "Large Free Worlds" 4000
+	system Han
+		fleet "Small Southern Merchants" 800
+		fleet "Large Southern Merchants" 4000
+		fleet "Small Southern Pirates" 2000
+		fleet "Large Southern Pirates" 9000
+		fleet "Small Free Worlds" 3000
+		fleet "Large Free Worlds" 8000
+	system Pherkad
+		fleet "Small Southern Merchants" 500
+		fleet "Large Southern Merchants" 700
+		fleet "Small Free Worlds" 900
+		fleet "Large Free Worlds" 1700
+		fleet "Small Southern Pirates" 1000
+		fleet "Large Southern Pirates" 1900
+	system "Beta Lupi"
+		fleet "Small Southern Merchants" 800
+		fleet "Small Southern Pirates" 1100
+		fleet "Large Southern Pirates" 1600
+		fleet "Small Free Worlds" 4000
+		fleet "Large Free Worlds" 8000
+	system "Yed Prior"
+		fleet "Small Northern Merchants" 800
+		fleet "Large Northern Merchants" 1100
+		fleet "Small Southern Pirates" 1000
+		fleet "Large Southern Pirates" 2000
+		fleet "Small Free Worlds" 5000
+		fleet "Large Free Worlds" 8000
+	system "Kappa Centauri"
+		fleet "Small Southern Merchants" 900
+		fleet "Large Southern Merchants" 2700
+		fleet "Small Southern Pirates" 1600
+		fleet "Large Southern Pirates" 2000
+		fleet "Small Free Worlds" 3000
+		fleet "Large Free Worlds" 5000
+	system Rastaban
+		fleet "Small Southern Merchants" 1000
+		fleet "Large Southern Merchants" 1900
+		fleet "Small Southern Pirates" 4000
+		fleet "Large Southern Pirates" 8000
+		fleet "Small Republic" 900
+		fleet "Large Republic" 700
+		fleet "Navy Surveillance" 1200
+	system Sabik
+		fleet "Small Southern Merchants" 600
+		fleet "Large Southern Merchants" 800
+		fleet "Small Free Worlds" 800
+		fleet "Large Free Worlds" 1200
+		fleet "Navy Surveillance" 800
+	system Aldhibain
+		fleet "Small Southern Merchants" 600
+		fleet "Large Southern Merchants" 800
+		fleet "Small Free Worlds" 600
+		fleet "Large Free Worlds" 600
+		fleet "Small Southern Pirates" 1400
+		fleet "Large Southern Pirates" 3000
+		fleet "Navy Surveillance" 800
+	system Kornephoros
+		fleet "Small Southern Merchants" 800
+		fleet "Large Southern Merchants" 1000
+		fleet "Small Southern Pirates" 5000
+		fleet "Small Free Worlds" 900
+		fleet "Large Free Worlds" 1700
+		fleet "Navy Surveillance" 800
+		fleet "Human Miners" 3000
+event
+	date 19 2 3014
+	"event: remembrance day" = 1
+event
+	date 4 7 3014
+	"event: war begins" = 1
+	system "Gamma Corvi"
+		government "Free Worlds"
+		fleet "Small Southern Merchants" 600
+		fleet "Large Southern Merchants" 1400
+		fleet "Small Free Worlds" 600
+		fleet "Large Free Worlds" 1300
+	system Spica
+		government "Free Worlds"
+	system Minkar
+		government "Free Worlds"
+	system Acrux
+		government "Free Worlds"
+	system Mimosa
+		government "Free Worlds"
+	system Kraz
+		government "Free Worlds"
+	system Izar
+		government "Free Worlds"
+	system "Zeta Centauri"
+		government "Free Worlds"
+	system Hadar
+		government "Free Worlds"
+	system Alkaid
+		government "Free Worlds"
+	system Zubeneschamali
+		government "Free Worlds"
+	system Kochab
+		government "Free Worlds"
+	system Ildaria
+		government "Free Worlds"
+	system Zubenelgenubi
+		government "Free Worlds"
+	system Sabik
+		government "Free Worlds"
+	system Unukalhai
+		government "Free Worlds"
+	system Kornephoros
+		government "Free Worlds"
+	system Sargas
+		government "Free Worlds"
+	system Lesath
+		government "Free Worlds"
+	system Aldhibain
+		government "Free Worlds"
+	system Dschubba
+		government "Free Worlds"
+	system Atria
+		government "Free Worlds"
+	system Alniyat
+		government "Free Worlds"
+	system Han
+		government "Free Worlds"
+	system Pherkad
+		government "Free Worlds"
+	system "Yed Prior"
+		government "Free Worlds"
+	system "Beta Lupi"
+		government "Free Worlds"
+	system "Kappa Centauri"
+		government "Free Worlds"
+	system Castor
+		fleet "Small Northern Merchants" 800
+		fleet "Large Northern Merchants" 1100
+		fleet "Small Republic" 800
+		fleet "Large Republic" 400
+	system Pollux
+		fleet "Small Northern Merchants" 700
+		fleet "Large Northern Merchants" 1100
+		fleet "Small Republic" 700
+		fleet "Large Republic" 900
+	system Vega
+		fleet "Small Northern Merchants" 1000
+		fleet "Large Northern Merchants" 4000
+		fleet "Small Republic" 900
+		fleet "Large Republic" 1000
+	system Denebola
+		fleet "Small Northern Merchants" 1000
+		fleet "Large Northern Merchants" 3000
+		fleet "Small Republic" 700
+		fleet "Large Republic" 900
+	system Merak
+		fleet "Small Northern Merchants" 1500
+		fleet "Large Northern Merchants" 4000
+		fleet "Small Republic" 1100
+		fleet "Large Republic" 1300
+	planet Geminus
+		description "Until recently, Geminus was home to the Republic Navy Yard, the largest shipyard in human space. Now, there is nothing left of the shipyard but a gaping crater in the ground, from the recent terrorist bombing."
+		spaceport "Fortunately, the spaceport and residential areas survived the bombing, which was focused only on the Navy yard and happened early in the morning, when very few people were at work."
+		spaceport "The Navy officers who are in charge here have no time for anyone who is not enlisted in the Navy and participating in the ongoing investigation."
+		shipyard clear
+		outfitter clear
+		"required reputation" 100
+	planet Martini
+		description "Martini is a world of exotic beaches and perfect weather. The Republic's central bank and the galactic stock exchange were previously headquartered here, before a terrorist attack destroyed them and a large portion of the capital city as well."
+		"required reputation" 100
+		security .9
+	planet Bourne
+		description "Bourne is a well-developed industrial world that was first settled four centuries ago. Its cities are home to some of the richest individuals in this section of the galaxy, but also home to tens of thousands of homeless people, and many others whose factory jobs are barely providing enough to make ends meet."
+		description "Bourne is also the seat of government for the newly formed Coalition of Free Worlds."
+economy
+	system Food Clothing Metal Plastic Equipment Medical Industrial Electronics "Heavy Metals" "Luxury Goods"
+	"1 Axis" -5920 -5573 -2414 3390 3089 -4591 -3310 -11582 -46 -1575
+	"10 Pole" -1633 1639 -235 6038 2372 1938 -7411 -8025 7356 847
+	"11 Autumn Above" 4464 -4504 2949 10642 7208 -4396 9806 3251 -8659 899
+	"11 Spring Below" -352 7722 334 -2517 -1741 -11398 3930 -12573 -3074 966
+	"12 Autumn Above" -2881 10678 6710 3889 1488 6974 -4183 -3338 -5167 17307
+	"14 Pole" -696 6596 2286 2465 -1674 8444 3727 -2467 -1857 10691
+	"14 Summer Above" -5202 777 -6433 1929 1253 4824 -129 -14173 -4549 3144
+	"14 Winter Below" 3212 2069 -12288 -1377 4434 -5393 -3856 -3255 -6727 -2190
+	"16 Autumn Rising" 2223 19126 4757 10161 -897 10399 -5866 -14943 -9012 20339
+	"3 Axis" -10445 2624 -4400 5186 8573 -8705 1547 633 -8632 -10290
+	"3 Pole" -3286 1959 1472 5151 5950 6987 9521 -21577 -5835 4683
+	"3 Spring Rising" 1358 12417 2569 -7247 2630 -315 -8861 2494 -96 665
+	"4 Axis" -17274 -2050 -2813 425 8372 1288 6586 -5377 -3961 -1829
+	"4 Spring Rising" -1471 6780 -2795 -7373 -2363 -7960 -3267 -7889 -5354 2903
+	"4 Summer Rising" -12667 1646 -5727 -1683 5534 594 -4526 -9949 -2908 6254
+	"4 Winter Rising" 1801 -5640 54 -694 8810 -1177 9388 2909 -109 4836
+	"5 Axis" -4551 7996 -1010 -1812 4983 780 -3863 -2437 -6439 -1704
+	"5 Spring Below" -3586 -556 1816 3956 -1819 -10289 1470 -12516 -6326 -1542
+	"5 Summer Above" -4453 9014 3032 -522 -540 6369 -1326 -12348 -10604 5767
+	"5 Winter Above" 2412 -11387 1800 -2830 8308 7186 3210 -2982 8208 -4806
+	"7 Autumn Rising" 2911 -4457 1613 1042 -4228 -3347 7090 -1798 -7001 -2600
+	"8 Winter Below" -5441 7284 5669 227 -7039 -5630 6302 3045 -8763 -7215
+	"9 Spring Above" 3815 2165 -5250 -3119 2985 -6546 4721 3846 1937 -4248
+	Ablodab 3598 -2776 -10206 -1402 4180 10290 -5637 549 -3672 -694
+	Ablub 697 274 5259 -6218 -4271 3186 -7524 -7720 10376 -5030
+	Acamar -825 -6181 6487 -1344 5961 9326 -3374 -5145 2203 7768
+	Achernar -648 602 1019 -5095 2822 1755 -11561 11340 7637 1738
+	Acrux -16073 -3917 11574 1273 -67 -1863 -1867 -13623 7424 4474
+	Adhara 749 -3703 631 -2951 2795 6245 -2283 -1436 -3112 350
+	Aescolanus -926 -3803 -1367 -3904 5038 563 1804 -2488 -3210 6934
+	"Al Dhanab" -4174 -8001 -509 -6442 2016 -2232 -5208 3434 -6185 7048
+	Albaldah 5856 3285 9016 -721 -6496 4373 -2107 -4621 9675 -10724
+	Albireo 3465 -5462 -555 -8213 2742 -2674 8189 -6234 -62 -815
+	Alcyone -2504 11130 -7621 4534 2806 -5900 -3971 -24334 2030 -2255
+	Aldebaran 13458 1506 4233 183 1499 2930 -3496 1126 5284 4726
+	Alderamin 2794 -1416 14163 -7986 3742 1877 -3486 -545 -3652 -4406
+	Aldhibain -3556 2170 -983 -311 -6024 -3278 8130 -978 11497 3094
+	Algenib 3580 4551 7853 -5480 -2750 1973 -126 101 -1205 6045
+	Algieba -302 -2089 1188 15541 1107 -6913 1494 7250 3512 2651
+	Algol -450 4662 -3524 -5377 -1276 -3964 -1534 3363 5110 3236
+	Algorel -3852 1279 -3128 4094 5629 -2657 4639 4926 6859 -2291
+	Alheka -1374 -5755 -2890 -9400 -3953 -3237 -5926 -2625 -1648 -944
+	Alhena 704 -117 -1769 2514 -9002 -10423 -10532 2914 7942 -271
+	Alioth 4121 2979 -2522 -971 15478 1605 6797 2763 1670 -4205
+	Alkaid -6016 -5751 7518 6286 4258 3664 2517 895 4579 7541
+	Almaaz -676 -776 -6965 13353 5970 675 11334 -5370 882 5856
+	Almach 4948 3096 9567 6480 955 1776 5689 1164 -287 280
+	Alnair 12288 1858 12830 -897 -1106 4251 -5130 5692 281 -2233
+	Alnasl 5409 4208 -342 3150 2822 -9738 -4480 -16686 -2077 -22678
+	Alnilam 3742 4256 2680 -770 6290 -6999 -3474 2412 646 -1298
+	Alnitak 12532 -5542 -6753 334 -3114 12215 2680 14003 9566 563
+	Alniyat 97 7465 -6266 3225 3814 -781 12943 2721 6560 7052
+	"Alpha Arae" 2053 -7521 5452 3117 -8175 2264 1982 -9778 -1850 -15196
+	"Alpha Centauri" 11088 -1019 3849 252 10152 -120 1771 188 1925 815
+	"Alpha Hydri" -7069 10274 -237 -4017 -7416 -1180 -9824 -2996 2133 -2707
+	Alphard -10056 -6080 208 6633 -3927 364 5771 2166 13293 -1348
+	Alphecca -3923 501 3122 -14979 4737 5612 7665 10931 4164 -9206
+	Alpheratz 4466 -4282 68 -1186 7225 -3098 -7257 8080 -582 4644
+	Altair -6056 -7567 4846 -664 1847 -1618 -1073 7819 3784 -3785
+	Aludra 4203 3010 992 10252 11341 -8098 125 -4433 761 1367
+	"Ancient Hope" -4555 -1927 1625 -11695 5981 -3121 6856 -11151 -3112 -1506
+	Ankaa -9228 -639 4111 -2421 4072 -3554 -5831 -2368 1324 -443
+	Answer -511 -1992 2092 2922 1306 -3961 -114 -773 531 1569
+	Antares -4946 -1211 1318 6518 -3126 4681 5904 479 -5142 1545
+	Antevorta -4712 11882 5278 -7183 -2831 -3177 -3217 7757 -13624 -10271
+	Ap'arak -1201 -2998 -1057 -117 486 -1127 -646 4239 -6823 -8176
+	Arcturus 8868 -700 1088 -4952 3496 -5480 -7935 7947 -3265 -4347
+	Arculus 2526 582 8947 -16039 -5550 2463 -15009 11996 10318 6369
+	Arneb -3494 -3071 -1144 62 654 -3466 9263 -736 -11404 -7744
+	Ascella -2334 7890 8420 -6846 3071 -560 15504 -4447 -8317 3602
+	Asikafarnut -12312 -3366 6239 -9164 -3681 -8063 1297 983 3861 -15294
+	Aspidiske -3791 5309 2292 -9717 12219 -11491 11502 6102 6185 7075
+	Atria 14699 7048 6663 -1301 -3720 -455 7831 -4927 16580 -5706
+	Avior 4697 9124 1392 -6056 5655 -12361 10810 -8776 1249 6383
+	Aya'k'k 302 -7213 -8400 7279 9039 1551 1640 -1963 -10335 -4895
+	Beginning -5727 -85 7669 6860 -6614 -1984 -7704 12501 -5189 14934
+	Bellatrix 825 -11926 -6702 -2854 -1198 -4211 6037 -105 10606 4998
+	Belonging -6069 2107 2743 5785 -9230 -5645 3774 2841 -226 7034
+	Belug -2243 -752 -6244 -4513 -1454 -3019 3388 4184 -9308 -6760
+	Belugt 6219 1313 829 -1052 3031 -7487 8784 -5935 2712 2031
+	"Beta Lupi" -4276 -2193 -11161 -16482 -6956 -12552 -9038 6071 8921 3096
+	Betelgeuse 6901 -8934 -6083 -1031 1915 -2039 2386 -1533 548 1098
+	Bloptab 5442 5758 3162 22 206 -6364 -820 6625 1274 7295
+	Blubipad 3818 553 519 832 -8462 -497 -6361 -12209 12382 -1093
+	Blugtad 10757 14430 3542 13208 8599 -8624 -2124 616 -10679 -5203
+	Boral 8422 2242 -2577 -3275 -1823 -607 5492 5902 -2639 -4644
+	"Bore Fah" 5282 322 7289 -4565 -12517 3777 -2472 -677 -1132 -2096
+	"Bote Asu" -1612 -700 3158 2113 -3745 -3900 -287 -599 -8321 -7292
+	"Bright Void" -6735 -3727 -7682 -4873 3408 -5114 5057 -7625 -3024 2284
+	"Broken Bowl" 4676 725 2343 6981 939 -9571 -8587 -668 -6527 4030
+	Caeculus -2796 -5302 9300 894 -4822 -2193 -621 -8525 9585 1928
+	Canopus -4359 -1680 -6749 4612 -823 2712 -13527 -10083 -3181 -5527
+	Capella 3102 4919 -4908 8957 -19 -7548 14350 -4129 8786 -6078
+	Caph 12200 7504 1212 6680 -1799 850 8548 3697 -1965 1458
+	Cardax 386 1176 5169 4812 -5035 -6449 -2220 -3018 -2524 -5268
+	Cardea -368 10410 -3741 -13274 1448 6045 309 5542 -16007 -10349
+	Castor -7055 -6269 -5299 7374 -3015 -4856 1387 2635 1463 5790
+	Cebalrai 5245 -12384 -2329 -9619 5382 1455 6151 -6847 8564 -9297
+	Celeborim -695 3621 4753 -869 2515 2776 1298 -1609 596 -8475
+	Chikatip 29 1069 9393 7189 3099 -8060 5005 9808 -6508 3775
+	Chimitarp 431 8507 -552 -11732 2490 2336 -5925 -9736 -1167 3977
+	Chirr'ay'akai 5927 -4046 5136 2423 3894 7024 -5432 4222 -4976 -7689
+	Chornifath 4567 -9291 345 10700 1750 -1260 231 -461 -2373 618
+	Chy'chra 579 -6410 7528 -3683 13468 -2013 -2487 -9412 -10109 4683
+	Cinxia 9765 -11376 10469 -11374 -5033 -7891 -26522 9353 -5331 -499
+	Coluber 8599 -1048 -2929 1778 20613 -5573 -4632 5145 -5051 212
+	Companion -7416 -3275 2084 -6912 -1006 -75 86 879 -5268 7663
+	Convector -6218 5249 1628 4297 -7705 -367 -4428 3977 -3171 -1031
+	"Cor Caroli" -70 3836 -862 4229 1318 -3472 -184 3374 3380 3441
+	"Da Ent" -8258 5760 -2896 652 831 -637 -2110 -736 -3218 -494
+	"Da Lest" -1265 -1321 -3918 -2350 -1036 2790 -4204 -8185 -385 -430
+	Dabih -478 7824 4132 -7979 -3312 10116 2275 -1815 1616 -3713
+	Danoa 7161 -2681 -2667 6206 5309 -3831 -5637 6151 11413 5350
+	"Dark Hills" -10068 2275 9026 11690 5548 -1737 -464 5357 -5410 11774
+	Debrugt 7822 2157 9762 -12738 1792 11087 2832 3037 -3819 -845
+	"Delta Capricorni" 2588 -3305 8121 -7826 3581 2079 -3956 7410 1560 2898
+	"Delta Sagittarii" 4797 -1519 -493 1415 -3421 7575 5081 -3748 -8021 -18711
+	"Delta Velorum" -11164 -8079 -2625 1906 3308 3337 -883 -4005 -852 1740
+	Deneb -860 4475 -1815 -5 -6064 -1042 924 -1650 820 -4016
+	Denebola 4537 2743 2200 8206 10811 -3176 -10172 3609 5963 -9177
+	Diphda -3580 1175 -2550 6631 -4616 -2338 3687 -4907 -3443 3661
+	Dokdobaru 179 -6917 9670 -4966 -904 7278 3025 3011 -1978 14522
+	Dschubba 7737 12596 3833 -3808 1733 2040 7558 -806 9962 -4862
+	Dubhe -8042 925 5633 1146 1380 2194 -4389 6881 1609 4729
+	"Due Yoot" -4422 -10026 -5682 4608 -13234 -3382 519 2089 10300 -5512
+	Durax 90 7185 1699 3617 2478 -5695 3574 -14797 568 -2803
+	Eber 4682 -255 -5402 2680 -1482 1668 -4772 -5012 -241 -12067
+	Eblumab 7976 2680 -3647 6542 -1782 -6386 5808 1568 839 479
+	Edusa 6245 1253 5428 -10175 -5033 -4925 -8596 7924 4653 8759
+	"Ehma Ti" -5963 -6783 7807 859 10025 -6055 -4649 5596 1731 1281
+	Ek'kek'ru -10853 1535 3291 -3478 -1738 251 4552 5688 -9537 -15584
+	Ekuarik 1709 9359 -12428 -2025 -3950 -598 -2361 17495 -37 -4102
+	Elnath -2093 -3596 5966 4558 12266 13604 -10870 -6420 2880 10800
+	Eltanin 6885 1614 1817 -5721 2828 1872 2702 -5018 9311 -9429
+	Eneremprukt 264 382 -5518 977 -2382 -10777 1812 -4298 654 -4127
+	Enif 16339 1060 -2621 -8693 -4525 14040 -3835 8078 8233 2778
+	"Epsilon Leonis" -1270 1877 674 -6237 4007 1359 13928 3905 2560 8313
+	Es'sprak'ai -6905 7013 643 -349 5345 7234 2556 -3758 -3858 -6148
+	Eshkoshtar 1424 -584 -895 2544 1846 -596 -2969 -11432 -736 -2679
+	Eteron 4331 -2204 -6465 507 -3631 -1963 9540 7360 11734 -1000
+	"Fah Root" 636 -641 -2986 -2566 -9105 -4404 148 -7171 9458 -1886
+	"Fah Soom" -1049 2041 8446 7970 3527 -8019 -13866 -8329 -352 -16309
+	Fala -5004 -183 2783 -1339 4642 1257 -4049 -3559 -899 5396
+	"Fallen Leaf" 171 -4232 2570 545 -580 -188 -3367 2526 -7323 8355
+	"Far Horizon" -13985 -2456 2157 -8390 13568 -6761 6832 -1140 1817 12406
+	Farbutero -1609 -1969 -6725 -12967 -9995 -5240 2161 -16836 -2829 -567
+	Farinus -3616 3040 12198 -5614 -2117 -8566 -9502 619 328 1513
+	Faronektu -1431 1573 -2750 -1715 5998 -4766 -440 3648 -5142 -7134
+	Fasitopfar 3499 -8823 2567 5704 2160 811 -433 -6315 170 1255
+	"Fell Omen" 4001 -7632 -12114 -6172 -32 7028 -1709 2648 -1756 -4204
+	Feroteri -3324 -677 -3405 2402 -447 5457 -3951 -12616 1865 -1440
+	Ferukistek -5495 -2875 -8619 -398 -1493 -10683 -1731 -10104 3096 607
+	Fingol 3582 3840 2501 5631 10940 1946 -9433 2451 -2956 -6018
+	Flugbu -3068 -797 3323 -425 5510 1743 -3912 2002 -8511 -3624
+	Fomalhaut 1210 -6865 9347 2237 446 4313 -2225 7493 -2885 -535
+	Fornarep -6858 9436 1769 3984 858 -7307 -771 -2872 -6427 1358
+	"Four Pillars" -13681 -2816 14235 -13959 7806 5761 -11800 2090 -3930 5738
+	Furmeliki -1349 -4863 3361 7766 -5604 1354 -4564 11632 -12226 4725
+	Gacrux 4657 -1419 -2825 3347 2667 -8254 -240 5592 3288 8676
+	"Gamma Cassiopeiae" -2423 5471 1324 -9507 -676 -1182 -1802 -1258 8875 4304
+	"Gamma Corvi" 1190 2753 1434 -4494 5983 -9806 -6002 -5167 8961 3203
+	Gienah 9379 7298 3656 -1394 263 -2774 -13205 -903 3616 7188
+	Girtab 2579 -3632 7186 4480 -804 -1428 8165 -4303 2974 -12590
+	Glubatub 3417 4167 -11518 -11642 -9064 4435 -1633 -10844 1234 -1895
+	Gomeisa 880 5407 4671 5400 8311 12953 3611 2542 -2106 -10725
+	"Good Omen" -7737 228 3097 5375 -2034 -3048 -4574 3636 5300 3191
+	Gorvi 10281 -9383 -7797 1838 4930 7014 -3854 -6916 5419 3709
+	Graffias 7086 -365 -4370 4877 1388 2075 4197 920 2172 910
+	Gupta 5578 4477 -8923 6218 -3192 -12220 3909 -923 -3963 2785
+	Hadar -20315 -7812 11345 13362 3970 -93 1166 -11249 2041 6114
+	Hamal -7989 2718 -630 -1145 -7689 -3665 1920 1819 1854 6287
+	Han 3277 5545 3278 6976 4419 2421 1557 -900 8130 2630
+	Hassaleh 2448 281 3970 5676 3390 6793 -11840 -2209 2824 9521
+	Hatysa -33 5002 -6842 11280 593 -4768 9927 3404 -13290 -5846
+	"Heia Due" -5546 -8781 -13285 -5404 -10601 3952 -9161 9874 4339 10252
+	Hesselpost -2689 -3547 2639 -278 -3619 7775 -4879 3934 -4811 5909
+	"Hevru Hai" 508 7751 6993 12549 4352 -7637 -13608 -7955 -938 -7844
+	"Hi Yahr" -7592 -11577 -6665 -6709 -1443 7227 -195 -1499 8879 -5600
+	Hintar 6585 -12303 -191 -1959 2102 43 2677 -2138 11022 -292
+	Holeb 2969 2253 7018 779 6441 -6865 -443 6854 2695 -1392
+	Homeward 2757 8782 -5244 -2441 -4814 -8530 -2319 5006 5742 852
+	Host -4328 -7557 -135 -5863 -1972 -3728 5674 -4870 7240 -1341
+	Hunter -6493 -2487 8591 5274 1023 -1466 927 -2415 -7082 5283
+	Ik'kara'ka -6118 -7173 -4359 -4956 9584 6590 -3155 -8827 -8017 -7627
+	Ildaria -9611 4066 -289 16173 -5201 480 6343 -10858 1671 -497
+	"Imo Dep" 3868 2145 -5660 -3960 -1030 -1558 -270 8644 1442 5203
+	Insitor -5402 -7873 1417 -6330 108 4105 2100 4414 -6352 447
+	"Io Lowe" -5882 -503 1870 -3164 -7766 -4688 -871 12860 6928 -7724
+	"Io Mann" -8670 -9968 -3382 -3947 -8204 -2939 1342 -5016 1069 -125
+	Ipsing 1170 1541 -5245 2778 2607 928 -6146 -5958 -4398 2711
+	Iyech'yek -8310 -3313 -7944 -2344 -13406 -6919 -1721 6791 627 2437
+	Izar -10381 -3830 6514 4724 1035 531 4483 -12703 -2348 4132
+	Ka'ch'chrai -7001 2122 2821 -13455 7473 539 2646 2356 -15569 -10560
+	Ka'pru -2335 -8370 831 3680 2367 -3845 -5425 -732 882 -3067
+	Kaliptari -9832 5069 5097 -5555 1406 -10248 -6813 -1304 -2120 -6554
+	"Kappa Centauri" -4314 6849 -8994 -9061 -1219 -5213 -13290 5738 4558 -718
+	Kashikt -1168 -2549 12553 -3970 -7373 -11428 5934 -200 -6675 1934
+	Kasikfar 3161 -3284 92 11281 3363 -3898 -3339 3854 11332 -3537
+	"Kaus Australis" 825 4535 -727 -1904 203 1068 -5665 -2235 -9484 -2424
+	"Kaus Borealis" 1532 -6233 3016 -1250 -1118 -4561 2609 -3030 -5209 -10895
+	"Ki War Ek" -4756 7239 -9229 -5073 3602 -4262 -5813 -1239 -11323 -718
+	Kiro'ku -6218 -6533 -1347 3355 5976 1667 -4055 -1163 391 -3884
+	Kiru'kichi -5317 -1686 -9594 -9604 -9322 -7041 -1977 -3881 10966 14319
+	Kochab -1527 -1644 -1391 4101 -9273 359 11380 -7196 3517 2818
+	"Kor Ak'Mari" 5955 -5072 -1448 -498 7012 -1269 6221 3157 -2027 1522
+	"Kor En'lakfar" -77 -15352 5358 9184 -12273 1499 -480 -8443 -5748 3513
+	"Kor Fel'tar" -7256 -12335 -571 12756 -14371 -7061 -5182 -4389 -3718 11171
+	"Kor Men" -1606 -10044 -3211 7242 -7583 -3313 -2053 -8417 -2849 2545
+	"Kor Nor'peli" 2464 2674 2729 1895 -155 -8069 3112 -4097 1215 1525
+	"Kor Tar'bei" 8180 10911 2541 5830 -7371 -10349 5479 -7902 5277 9522
+	"Kor Zena'i" 4818 -3785 1784 9385 -12444 -4732 -2345 -6187 -2531 4310
+	Kornephoros -4107 5918 3214 -1931 -13262 4310 9158 -7928 6228 -2608
+	Korsmanath -4135 -7263 -11384 -2484 -5185 4906 -557 -8928 4825 181
+	Kraz -5506 -2598 -5252 -1650 -4151 -4640 -444 -12198 -4573 16889
+	Kugel 1138 -3666 4774 2723 4915 3032 -633 -1557 2721 7253
+	Kursa -840 -9481 -7397 729 434 -4995 -8142 188 -4171 4885
+	"Last Word" -4439 -5178 -10451 -286 -8898 12264 -4919 -1862 -860 -11180
+	Lesath 7568 7421 2074 4057 -3291 -1403 18702 -8165 2316 -14499
+	Levana 4405 -4272 804 6896 9994 -3325 967 -1259 -2506 -4068
+	Limen -16258 -14261 -17488 -3277 -4430 2758 -1938 -338 7951 135
+	Lolami 3212 1925 7895 -1506 -681 371 -9859 1640 3017 -440
+	"Lom Tahr" 579 -2385 -8591 11997 -15288 939 7269 2687 562 -6630
+	"Lone Cloud" -15297 7210 1592 -10247 231 6380 -2280 2247 -363 1874
+	Lucina 3892 2992 1590 380 6883 -3597 -14016 5368 -1297 -699
+	Lurata 2748 4005 5051 -1797 -2097 138 1881 5178 5051 2947
+	Makferuti -9622 5211 239 962 -88 -8636 3217 1508 -2495 -5175
+	Markab -4330 -9272 607 -3400 843 69 -5955 3049 903 7454
+	Markeb -681 -955 -4400 -184 -681 -6486 3089 -2100 6334 -2368
+	Matar 949 4271 -5181 3044 4631 3002 -4630 1252 -8418 1421
+	Mebla 5689 7543 5922 -6292 -4031 3262 -6052 -1599 -6921 -476
+	Mebsuta -116 3232 2644 -7195 -1753 -2628 -1135 -266 5077 1339
+	Meftarkata 6039 4199 2060 719 -1491 -9235 -5770 -4937 -8723 -614
+	"Mei Yohn" 185 1576 -737 -2206 -7235 -4232 -5400 -3206 221 357
+	Mekislepti 5229 11731 -2116 -7728 4722 3483 -3973 -5934 -4292 -5265
+	Membulem 6457 -164 -5289 -2121 542 -12870 1473 -7592 -1298 -2806
+	Men -153 -3334 -8503 -10907 -6716 -1901 -1190 -8257 -1313 4057
+	Menkalinan 5760 2313 -7020 11607 -233 -4754 10204 4213 5894 3790
+	Menkar -680 -6402 -12998 3221 -4719 -13716 13367 -2171 10955 1470
+	Menkent -3046 -2503 4997 -7877 4645 -3157 6650 4280 2807 -6366
+	Merak 11230 1285 -4798 -9556 3581 -4637 -1783 -6159 -422 -1495
+	Mesuket -3545 334 -8933 -4247 2049 -17563 1043 -8868 -2398 2362
+	Miaplacidus -3261 -7619 -2235 2028 -1202 7394 6122 -2798 10902 3998
+	Miblulub -5885 -1305 -718 -9307 -9522 -7455 -7108 -17222 6324 -5990
+	Mimosa -7308 5069 6285 -6547 646 -7410 -4309 -15121 -6883 16364
+	Minkar -11834 5496 -2645 -1808 -4359 -7681 9628 -18141 -6930 7404
+	Mintaka 11091 -7687 -7078 3377 30 8247 3005 -4340 16377 3913
+	Mirach -2437 5659 1097 -4527 4316 5919 -977 -361 6651 13798
+	Mirfak 3597 -16042 -11669 -1141 6334 -9543 2808 -696 13683 5175
+	Mirzam -2679 -3209 2302 -11684 -9635 -8094 -6532 9333 -7019 357
+	Mizar 329 -919 -9324 -357 -3132 -8332 -7725 -361 -8527 7160
+	Moktar 424 -1604 -4346 -8122 254 -7826 -14117 -3799 4793 2840
+	Mora -7305 -11060 -5551 -1833 -80 2230 -7516 3558 1478 -55
+	Muhlifain 575 1921 1804 -2278 -234 -4273 2433 5682 -666 -1176
+	Muphrid 7963 233 1556 -155 5183 -523 92 -6273 -4923 -12965
+	Naos 8519 3265 -1217 9816 29596 -11405 10357 -6227 14902 6612
+	Naper 4762 3151 -615 -1417 -3892 598 5777 -2084 762 -1439
+	Nenia 1664 3560 2878 -8454 -3056 1533 5387 -4396 -3762 -9352
+	Nihal 2514 1760 4091 -6904 3565 2360 -2908 75 7543 2606
+	Nocte -1119 6463 -1684 -5254 864 2478 1216 344 2839 11055
+	Nunki 950 6618 3970 551 8868 3155 -5280 -2252 -1247 -2328
+	Oblate -487 -39 463 1906 2904 -2676 -6731 -12420 3891 8455
+	Orbona -5593 -4555 -16018 -2897 -1233 -865 -3858 3504 -475 4033
+	Orvala -5045 -6143 -4297 -67 2758 2810 -4030 3456 -3950 10070
+	Ossipago 3293 11952 5 -521 61 -1886 -737 -5364 -14507 815
+	"Over the Rainbow" 0 0 0 0 0 0 0 0 0 0
+	Pantica 1723 -8432 4234 -7627 2507 -795 -12408 6917 -262 3885
+	Parca -1489 -1838 -1199 -3982 5312 -2061 -6695 3751 1369 -1876
+	Peacock 329 7124 7091 -8073 2187 6652 -2090 2577 -5915 -2589
+	Pelubta 5275 -2323 -3489 -977 1476 518 -8410 -4936 -791 1608
+	Peragenor -9877 288 14181 -1179 -8126 2426 1511 -6333 7380 -269
+	Peresedersi 1733 -1462 -6757 -4600 210 -6331 1592 1340 -2000 -7347
+	Perfica -1619 -551 5962 3221 3347 -14080 -7301 -206 -2415 -652
+	Persian 6041 217 2201 1043 -995 876 -15367 4737 -6884 5645
+	Persitar 937 5364 1990 -3258 -1725 7926 -1490 1737 56 2094
+	Phact 6558 -3903 2907 5723 1639 3376 -10492 -9508 -1223 4784
+	Phecda 2676 2542 -7549 -5294 -10057 60 3624 -6238 172 248
+	Pherkad 11808 11981 -19223 -16177 -4648 -17842 -17795 12514 14139 1858
+	Phurad 4926 -5662 -2045 6031 11677 8735 1833 -2050 10704 2074
+	Pik'ro'iyak -22333 -6582 -8979 -790 9781 8157 6524 2530 -29259 -11158
+	Plort 313 -2454 219 -2146 2431 -3387 -2945 -3738 3918 -8170
+	Polaris -1598 -7104 9062 -5316 1735 -1559 -5965 5512 3435 -3034
+	Pollux 7452 840 -4663 11257 -10058 -7409 7144 -4488 13238 -3267
+	Porrima 663 -6682 1717 -6357 -1676 -2318 3362 -816 466 -14380
+	Prakacha'a -3462 -10593 1847 -2084 15294 7080 -12673 -5489 -9339 -6558
+	Procyon 10241 1028 -6078 9575 -2606 -10385 6943 -649 9468 849
+	"Pug Iyik" 2080 1147 -886 -1876 -2570 -6045 2404 4110 -4124 3494
+	Quaru 6181 2612 -18259 -7147 -4889 5126 1637 2121 346 1622
+	Rajak 6754 -4774 -6734 5546 888 -2397 -8877 4080 8163 -1032
+	Rasalhague 3807 -5491 -2277 -3379 2045 1828 11544 1737 446 -2448
+	Rastaban 1017 -4179 2695 4000 -3059 4201 4596 -10503 -1808 -13448
+	"Rati Cal" -449 -9876 -2507 4153 -6385 -3139 4832 -1163 3813 -11166
+	Regor -2432 120 4458 5556 12851 -14554 16370 409 14890 1966
+	Regulus -1583 -433 6065 -8316 5072 3896 5595 1806 -4027 3395
+	Remembrance -3782 -5255 4868 7547 -7874 2160 5238 -6585 2496 9324
+	Rigel 5650 7315 -17144 1516 -5486 2932 907 10693 1192 -1348
+	Ruchbah -8207 8060 -9621 -12469 -9219 885 -12048 11473 -3947 4089
+	Rutilicus 4900 -5169 8070 -8042 8162 -5423 1020 1630 -571 2990
+	Sabik -1833 6106 6978 1855 524 336 11088 -10502 8320 3460
+	Sabriset -7828 -1025 -1807 -7051 195 -13127 3476 -433 1487 -5830
+	Sadalmelik 10919 2930 6325 -7611 -7730 12819 -1246 1434 14287 531
+	Sadalsuud 13900 2205 1021 -6875 -10670 12006 4415 -2545 3900 -2225
+	Sadr 554 -9407 -5888 -9740 1705 894 -1803 -4451 -1369 2427
+	"Sagittarius A*" 0 0 0 0 0 0 0 0 0 0
+	Saiph 14169 -136 -6437 4150 4806 9177 -3617 4448 9639 -1753
+	Salipastart 2537 -3331 -3549 -3058 8028 -1012 -8775 1725 -5215 -7013
+	Sargas 2299 -3224 3203 3139 -7153 -368 7767 -1025 -7702 -2183
+	Sarin -464 2027 3383 3974 2396 -3010 -847 7356 4496 -7017
+	Sayaiban 767 621 1369 6462 1514 3555 767 -2069 -10008 1139
+	Scheat -8357 3821 -6308 -4224 5954 -8535 -8823 800 -3435 10494
+	Schedar -1886 -662 9405 5903 577 -2727 -4603 1567 -6950 3081
+	Segesta 2644 -5221 8528 -4627 -9949 -7404 2079 -6041 6797 -7167
+	Seginus -8152 11197 2417 -2735 -154 -7720 7913 -8437 4484 -5478
+	Seketra -2060 -602 7910 4599 -2359 -711 5030 9668 -6875 -2857
+	Sepetrosk 10887 69 8607 -2270 2040 -655 183 -2020 -2069 121
+	Sepriaptu -10267 -3281 7927 -3302 -3675 -8370 -1589 -355 6588 -3828
+	Sevrelect -1273 -3874 2647 -5580 -10716 -5184 -3948 710 6474 2366
+	Shaula -101 978 -3925 -2889 -4426 -1507 9120 5794 1284 -288
+	Sheratan -1459 4644 -2376 1093 -4338 -2830 -12726 4566 -5160 772
+	Si'yak'ku -10362 3779 5389 3157 -6194 8277 440 4916 -11837 -6519
+	Sich'ka'ara -2730 -11551 -11 -5076 8827 2015 -5697 3404 -1028 -6990
+	Silikatakfar -6706 -8822 -11472 -1116 -3821 -10505 -2516 -7024 6376 -4877
+	"Silver Bell" 3213 -11246 -701 -3349 -11398 155 1030 -2170 4405 -1629
+	"Silver String" -12035 -1911 715 2147 -3862 -188 6050 -3230 2037 -384
+	Similisti -4407 -5506 -4739 -10979 1724 -5844 -4322 -5135 886 -4593
+	Sirius 13281 2398 -3426 5234 1461 -9641 5318 343 7292 4554
+	Skeruto 1443 4151 2153 14217 5014 -5166 -1291 7750 -4058 -334
+	Sko'karak -8360 4645 4712 -10000 11019 7947 1836 -2329 -8583 -3580
+	Sobarati -6001 -2377 288 5285 -21 -6543 235 3091 -3994 1843
+	Sol 19157 5890 -5286 6378 15131 -5522 6899 3848 14969 -7740
+	"Sol Arach" -3555 562 -14337 -6874 -1425 -2805 -6533 -13570 7084 -11172
+	"Sol Kimek" -424 -2160 -131 1851 -459 -11969 8588 -10635 -5219 3031
+	"Sol Saryd" -611 4663 -1227 -4536 2199 -2376 7646 -8386 128 1575
+	Solifar -3683 4855 4128 4577 5396 6517 -5450 -2054 4474 1503
+	Sospi 3493 -2071 -2734 -3264 -2948 -2437 -4460 7486 11629 -3476
+	Speloog -2384 -1229 -4578 -1532 -2948 5060 -1530 5813 6287 -14022
+	Spica -4247 -4204 -4744 1210 -5804 -6005 -1446 -12668 1419 8088
+	"Steep Roof" 4947 9449 -6459 528 1296 -610 -4355 -5431 -2141 -2156
+	Stercutus -5787 -7183 35882 -5998 -19285 -15213 5787 -16915 22144 -1508
+	Suhail -4876 -5640 7868 -2151 9911 -3938 3425 -1407 7170 10911
+	Sumar -6200 -8084 -1885 7077 7682 1855 -5950 2375 -2379 11218
+	Sumprast -1043 -2592 8787 -10783 -3964 -337 5158 1628 -4433 -5053
+	Tais -10650 889 -890 -5566 -3610 -7813 279 531 -10784 -6942
+	Talita -3216 2485 -1861 7059 945 3781 6777 -4652 9483 7057
+	"Tania Australis" 436 -10442 7433 730 -9081 2026 -10707 -633 -5317 2932
+	Tarazed 15170 1452 5163 -1906 2679 159 10254 -3640 9117 -3306
+	Tebuteb 702 -4948 -3748 -4187 -5581 -1279 -6427 -14291 4999 -2290
+	Tejat 2623 -7061 291 6095 -2893 7758 1772 -87 -644 -7705
+	Terminus -4178 -5403 -12334 -4823 8909 -3400 -75 -1359 2632 -3049
+	"Terra Incognita" 0 0 0 0 0 0 0 0 0 0
+	Torbab -1641 3755 874 -1515 -403 1899 -11937 15267 4236 -7676
+	Tortor 2367 -1288 2443 3027 1959 3532 3589 93 7860 -967
+	Turais 976 2085 1029 14411 5156 -5665 827 9008 3044 -1837
+	"Ula Mon" -2622 2566 -4386 1323 -10499 -6827 8576 3082 -1686 -3672
+	"Ultima Thule" 1097 -1786 -8955 -3183 5307 -7879 -6701 1031 677 -8628
+	Umbral 5789 -106 8503 -2147 254 -1370 4683 -732 4670 3248
+	Unagi 3578 -361 -3239 -497 3564 -5155 333 -595 1507 5074
+	Unukalhai -634 10118 -43 1158 -5166 -925 4272 -7432 11953 -2293
+	"Uwa Fahn" 5774 5004 -3870 -1401 -2532 -7710 5366 -5794 -4613 -3849
+	Vega 2595 583 -2552 -4116 6416 -3651 -4071 3254 7816 -1758
+	Vindemiatrix 1484 -1372 3583 2244 -890 -15364 -2088 10001 2355 3478
+	Volax 5765 -4030 1731 6116 -11942 2494 -4523 2368 3647 -2848
+	"Wah Ki" 968 -8801 2323 2906 -8134 -3051 -1275 4169 1630 -6962
+	"Wah Oh" -7540 -3737 10001 60 -11165 -4159 -11599 -17592 7773 2066
+	"Wah Yoot" -4628 -18157 474 -2680 8666 -4126 -5511 8138 3741 -4359
+	Waypoint -3353 860 -3029 1243 -6037 5162 -9401 336 4930 3281
+	Wazn 7375 -7360 -10020 7219 2630 -5105 -9125 -4928 7406 3781
+	Wei -6342 3451 4451 999 5414 -869 6431 -9338 -1406 -7408
+	Wezen 3818 -5262 9700 8505 5568 -809 5657 2486 6687 2275
+	"World's End" 0 0 0 0 0 0 0 0 0 0
+	"Ya Hai" -3266 5327 -13316 -3392 -7523 -9182 12257 4377 -4719 -10195
+	"Yed Prior" 6116 5517 -8280 2933 10431 -11973 -4779 -2975 11755 9160
+	Zaurak 989 11684 -8138 130 -4919 -7052 6487 -2807 -11899 -2979
+	"Zeta Aquilae" -484 -4329 1230 -4803 425 -335 440 -5209 -8169 9171
+	"Zeta Centauri" -15703 4291 7094 3878 -335 -6789 -989 -6588 2500 2194
+	Zosma -6414 822 1069 13375 2280 1601 -4149 5629 16877 11773
+	"Zuba Zub" 9805 -1575 -10896 11050 -4266 -2737 -8446 8275 1159 -3838
+	Zubenelgenubi -1140 1734 -2845 -53 -3647 -1776 4907 -9437 4445 -2498
+	Zubeneschamali -16191 5722 -6533 5574 -10148 -6595 1291 -19869 468 2632
+
+# What you know:
+visited "Kaus Borealis"
+visited Cebalrai
+visited Castor
+visited Betelgeuse
+visited Vega
+visited Denebola
+visited Menkent
+visited Sol
+visited Pollux
+visited Pherkad
+visited "Delta Capricorni"
+visited Rasalhague
+visited Wei
+visited Hintar
+visited Altair
+visited Miaplacidus
+visited Gomeisa
+visited Kornephoros
+visited Rutilicus
+visited Sabik
+visited Antares
+visited Alniyat
+visited Dschubba
+visited Han
+visited Atria
+visited Alioth
+visited Graffias
+visited Aldebaran
+visited Elnath
+visited Capella
+visited Kursa
+visited Aldhibain
+visited Algieba
+visited "Tania Australis"
+visited Alphard
+visited Zosma
+visited Algorel
+visited Mizar
+visited Phecda
+visited Alheka
+visited Canopus
+visited Alhena
+visited Menkalinan
+visited Wazn
+visited Holeb
+visited "Alpha Centauri"
+visited Talita
+visited Fomalhaut
+visited Arcturus
+visited Lesath
+visited Mirzam
+visited Phurad
+visited Phact
+visited Procyon
+visited Caph
+visited Eteron
+visited Merak
+visited Fingol
+visited Sirius
+visited Sargas
+visited Muphrid
+visited Porrima
+visited Regulus
+visited Tejat
+visited Nocte
+"visited planet" Earth
+"visited planet" Mars
+"visited planet" "New Boston"
+"visited planet" "New Greenland"
+"visited planet" "New China"
+"visited planet" Hestia
+"visited planet" "New Tibet"
+"visited planet" Prime
+"visited planet" Glory
+"visited planet" Deep
+"visited planet" Glaze
+"visited planet" Mainsail
+"visited planet" Splashdown
+"visited planet" Nifel
+"visited planet" Farseer
+"visited planet" "New Switzerland"
+"visited planet" Luna
+"visited planet" Calda
+logbook
+	16 11 3013
+		"Finally scraped together enough money for a down payment on a starship. The interest on the mortgage is exorbitant."
+	16 11 3013
+		"Getting some basic instructions on making a living as a merchant from an old captain named James."
+	1 12 3013
+		"Dropped James off on Hestia after running a few missions with him. Met a few spoiled tourists and got to visit Earth along the way."
+	Factions Pirates
+		"In poorer and more remote star systems, where the Navy seldom patrols, pirate attacks on merchant ships are frequent. Pirates are also known to attack large, unguarded convoys of freighters even in more populated areas. Most pirate fleets come from lawless worlds on the outskirts of human space."
+	Factions Republic
+		"Hundreds of years ago, the independent territories in different parts of human space agreed to join together into a single democratic government, with Earth as its capital. The rise of the Republic ushered in a long period of peace and prosperity in human history."
+		`Representation in the Republic Parliament is based on population. That means that some individual "Paradise Worlds" have more representatives than entire regions of space like the Dirt Belt that are more sparsely settled.`
+	Factions Syndicate
+		"The Syndicate is a megacorporation, the largest employer in human space. People who cannot find steady work elsewhere flock to the Syndicate factory worlds, where they are almost guaranteed to find a job. Although the Syndicate is technically part of the Republic, Syndicate worlds are governed directly by the corporation."
+		"The Syndicate is a central part of the Republic's economy, but they are also well known for selling shoddy products and for doing damage to the environment on the worlds they control. Their treatment of workers is questionable, and their opposition to organized labor is legendary. Some Syndicate factory towns have even been accused of human rights abuses."
