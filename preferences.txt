@@ -1,6 +1,6 @@
 volume 0.24
-"window size" 1440 950
-zoom 130
+"window size" 1818 1092
+zoom 100
 "scroll speed" 60
 "view zoom" 0
 "Automatic aiming" 1
@@ -13,8 +13,9 @@ zoom 130
 "Hide unexplored map regions" 1
 "Highlight player's flagship" 1
 "Main zoom factor" 0
+"Reduce large graphics" 1
 "Rehire extra crew when lost" 1
-"Render motion blur" 1
+"Render motion blur" 0
 "Rotate flagship in HUD" 1
 "Show CPU / GPU load" 1
 "Show escort systems on map" 1
@@ -23,9 +24,9 @@ zoom 130
 "Show planet labels" 1
 "Show status overlays" 1
 "Turrets focus fire" 1
-"View zoom factor" 0
+"View zoom factor" 1
 "Warning siren" 1
-fullscreen 1
+fullscreen 0
 "help: bank" 1
 "help: dead" 1
 "help: disabled" 1
@@ -38,4 +39,4 @@ fullscreen 1
 "help: outfitter" 1
 "help: stranded" 1
 "help: trading" 1
-maximized 0
+maximized 1

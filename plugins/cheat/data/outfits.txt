@@ -1,10 +1,10 @@
 outfit “Capper”
 	category "Turrets"
-	cost 98000
+	cost 980000
 	thumbnail "outfit/disruptor"
-	"mass" 15
-	"outfit space" -15
-	"weapon capacity" -15
+	"mass" 65
+	"outfit space" -65
+	"weapon capacity" -65
 	"turret mounts" -1
 	"required crew" 1
 	weapon
@@ -30,10 +30,9 @@ outfit “Capper”
 		“piercing” .9
 	description “One stop shop for disabling your foes.  Get these if you are a total dick.”
 
-
 outfit "Dimensional Heat Sink"
 	category "Systems"
-	cost 60000
+	cost 6000000
 	thumbnail "outfit/liquid nitrogen"
 	"mass" 5
 	"outfit space" -5
@@ -42,7 +41,7 @@ outfit "Dimensional Heat Sink"
 
 outfit "Dimensional Shield Regenerator"
 	category "Systems"
-	cost 220000
+	cost 22000000
 	thumbnail "outfit/small regenerator"
 	"mass" 10
 	"outfit space" -10
@@ -53,7 +52,7 @@ outfit "Dimensional Shield Regenerator"
 
 outfit "Dimensional Ramscoop"
 	category "Systems"
-	cost 320000
+	cost 3200000
 	thumbnail "outfit/catalytic ramscoop"
 	"mass" 5
 	"outfit space" -5
@@ -62,7 +61,7 @@ outfit "Dimensional Ramscoop"
 
 outfit "Dimensional Scram Drive"
 	category "Systems"
-	cost 90000
+	cost 90000000
 	thumbnail "outfit/scram drive"
 	"mass" 3
 	"outfit space" -3
@@ -75,22 +74,22 @@ outfit "Dimensional Scram Drive"
 
 outfit "Surveillance Pod"
 	category "Systems"
-	cost 122500
+	cost 1225000
 	thumbnail "outfit/surveillance pod"
 	"mass" 5
 	"outfit space" -5
-	"outfit scan power" 16
-	"outfit scan speed" 2
-	"cargo scan power" 4
-	"cargo scan speed" 2
+	"outfit scan power" 160
+	"outfit scan speed" 20
+	"cargo scan power" 40
+	"cargo scan speed" 20
 	"atmosphere scan" 100
-	"tactical scan power" 9
+	"tactical scan power" 90
 	description "This is Navy technology, a collection of scanners designed to fit perfectly inside one of their surveillance drones. Since the outputs are fairly standard, you could connect it to your own ship's systems if you want. Installing more than one increases the scan range and speed."
 
 
 outfit "OP Cloaking Device"
 	category "Systems"
-	cost 1200000
+	cost 12000000
 	"mass" 10
 	"outfit space" -10
 	"cloak" .01
@@ -112,15 +111,12 @@ outfit "Outfits Expansion"
 	"mass" 5
 	"outfit space" 15
 	"cargo space" -20
-#	"cooling inefficiency" 1
-#	"heat dissipation" -.01
 	unplunderable 1
 	description "This expansion allows you to sacrifice some cargo space in order to make room for more outfits, in situations where you need just a bit more space to install a particular system. It does not increase your weapon or engine space."
-	description "	Unfortunately, rearranging the interior of your ship in such a fundamental way tends to interfere with its cooling systems."
 
 outfit "Pocket Dimension"
 	category "Systems"
-	cost 300000
+	cost 30000000
 	thumbnail "outfit/red screwdriver"
 	"mass" 5
 	"cargo space" 1500
@@ -140,7 +136,7 @@ outfit "Engine Expansion"
 
 outfit "Capsule Bunk Room"
 	category "Systems"
-	cost 40000
+	cost 4000000
 	thumbnail "outfit/bunk room"
 	"mass" 10
 	"bunks" 40
@@ -152,10 +148,10 @@ outfit "Capsule Bunk Room"
 
 outfit "Dimensional Slicer"
 	category "Hand to Hand"
-	cost 8000
+	cost 80000
 	thumbnail "outfit/laser rifle"
-	"capture attack" 100
-	"capture defense" 80
+	"capture attack" 5
+	"capture defense" 5
 	"unplunderable" 1
 	description "A dimensional slicer sends sections of a target to another dimension.  This tends to have unfortunate effects on the item or entity donating the material."
 

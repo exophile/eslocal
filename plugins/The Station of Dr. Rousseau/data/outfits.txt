@@ -78,7 +78,7 @@ outfit "Medium Engine Frame"
 	"mass" 30
 	"outfit space" -30
 	"engine capacity" -30
-	"thrust" 0	
+	"thrust" 0
 	"flare sprite" "effect/mbracket"
 		"frame rate" 4
 		"rewind"
@@ -119,11 +119,7 @@ outfit "Ace Rimmer"
 	cooling 17.25
 	thrust 14.3
 	turning 555.88
-	energy generation 19.2
+	"energy generation" 19.2
 	"capture attack" 10
 	"capture defense" 20
 	description "Smoke me a kipper; I'll be back before breakfast."
-
-	
-
-
